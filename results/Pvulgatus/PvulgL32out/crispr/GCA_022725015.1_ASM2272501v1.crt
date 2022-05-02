@@ -1,0 +1,32 @@
+SEQ: JAIJDA010000026.1 length 32109
+Bases: 32109
+
+
+CRISPR 0  Range: 31945 - 32108
+POSITION        REPEAT                          SPACER
+--------------------------------------------------------------
+31945		GTTTCAATCCACACACCCACGCAGGGTGTGAC	CTTTTTGTACATTTGCAATGTGTTCAGAATAT	[ 32, 32 ]
+32009		GTTTCAATCCACACACCCACGCAGGGTGTGAC	CCAAAATGCCGAACATTCATGAAACCTATTATAAA	[ 32, 35 ]
+32076		GTTTCAATCCACACACCCACGCAGGGTGTGAC
+--------------------------------------------------------------
+Repeat-con	GTTTCAATCCACACACCCACGCAGGGTGTGAC
+Repeats: 3	Average Length: 32	Average Length: 33
+==JAIJDA010000026.1 instance 1 con GTTTCAATCCACACACCCACGCAGGGTGTGAC mismatch 0 (ref: PvulgL32 revcomp)
+
+
+SEQ: JAIJDA010000056.1 length 22972
+Bases: 22972
+
+
+CRISPR 0  Range: -12 - 153
+POSITION        REPEAT                          SPACER
+--------------------------------------------------------------
+-12		-------------CACCCACGCAGGGTGTGAC	TGTTTAGTCATGTTGGTACGTTGGATCAGTGTAAG	[ 32, 35 ]
+55		GTTTCAATCCACACACCCACGCAGGGTGTGAC	GCAAGCCGTTGACAAAACGGATTATCCCACTTCT	[ 32, 34 ]
+121		GTTTCAATCCACACACCCACGCAGGGTGTGAC
+--------------------------------------------------------------
+Repeat-con	GTTTCAATCCACACACCCACGCAGGGTGTGAC
+Repeats: 3	Average Length: 32	Average Length: 34
+==JAIJDA010000056.1 instance 1 con GTTTCAATCCACACACCCACGCAGGGTGTGAC mismatch 0 (ref: PvulgL32 revcomp)
+
+

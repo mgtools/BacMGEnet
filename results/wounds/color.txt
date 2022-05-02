@@ -1,0 +1,6 @@
+red S01
+palegreen S02
+yellow S03
+plum S06
+powderblue S08
+pink S09

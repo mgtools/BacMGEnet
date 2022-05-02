@@ -1,0 +1,15 @@
+SEQ: QSDJ01000007.1 length 117383
+Bases: 117383
+
+
+CRISPR 0  Range: 117252 - 117351
+POSITION        REPEAT                          SPACER
+--------------------------------------------------------------
+117252		GTCACACCCTGCGTGGGTGTGTGGATTGAAAC	TTCAATACATTCGTATTCTTAGAATCCCAAAGAGAA	[ 32, 36 ]
+117320		GTCACACCCTGCGTGGGTGTGTGGATTGAAAC
+--------------------------------------------------------------
+Repeat-con	GTCACACCCTGCGTGGGTGTGTGGATTGAAAC
+Repeats: 2	Average Length: 32	Average Length: 36
+==QSDJ01000007.1 instance 1 con GTCACACCCTGCGTGGGTGTGTGGATTGAAAC mismatch 0 (ref: PvulgL32)
+
+

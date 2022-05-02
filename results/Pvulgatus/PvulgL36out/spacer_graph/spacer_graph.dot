@@ -1,0 +1,13 @@
+digraph SpacerGraph {
+rankdir="LR";
+node [fontsize = 40];
+"1"[style=filled, fillcolor=skyblue]
+"2"
+"3"
+"4"
+"5"[style=filled, fillcolor=yellow]
+"1" -> "2" [color=red, penwidth=1]
+"2" -> "3" [color=red, penwidth=1]
+"3" -> "4" [color=red, penwidth=1]
+"4" -> "5" [color=red, penwidth=1]
+}

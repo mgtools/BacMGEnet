@@ -1,0 +1,171 @@
+##gff-version 3
+#!processor CRISPRone
+NODE_4770_length_1000_cov_70.631746	Genbank	region	1	1000	.	+	.	ID=NODE_4770_length_1000_cov_70.631746;array=1;gene=0;type=NA
+NODE_4770_length_1000_cov_70.631746	metaCRT	direct_repeat	227	966	.	.	.	what=CRISPR;des=repeat:CTTTAAGAGATACTATTAATTTCTACTATTGTAGAT;note=copy:12
+NODE_1_length_311098_cov_552.839852	Genbank	region	1	311098	.	+	.	ID=NODE_1_length_311098_cov_552.839852;array=0;gene=3;type=(type I)
+NODE_1_length_311098_cov_552.839852	FGS-hmm	CDS	139080	141185	.	+	.	what=cas;des=pfam13280:WYL;note=other
+NODE_1_length_311098_cov_552.839852	FGS-hmm	CDS	141182	141595	.	+	.	what=cas;des=unk;note=unknown
+NODE_1_length_311098_cov_552.839852	FGS-hmm	CDS	141725	141997	.	+	.	what=cas;des=cd09653:csa5gr11;note=Subtype-I-A
+NODE_1_length_311098_cov_552.839852	FGS-hmm	CDS	142043	142828	.	+	.	what=cas;des=unk;note=unknown
+NODE_1_length_311098_cov_552.839852	FGS-hmm	CDS	142955	145978	.	+	.	what=cas;des=cd09639:cas3;note=Type-I
+NODE_8795_length_480_cov_10.303529	Genbank	region	1	480	.	+	.	ID=NODE_8795_length_480_cov_10.303529;array=1;gene=0;type=NA
+NODE_8795_length_480_cov_10.303529	metaCRT	direct_repeat	16	409	.	.	.	what=CRISPR;des=repeat:GTGCTCCCCGCGTGAGCGGGGATGAGCC;note=copy:7
+NODE_2560_length_1837_cov_128.301347	Genbank	region	1	1837	.	+	.	ID=NODE_2560_length_1837_cov_128.301347;array=1;gene=0;type=NA
+NODE_2560_length_1837_cov_128.301347	metaCRT	direct_repeat	884	1513	.	.	.	what=CRISPR;des=repeat:GTTTAATACCTATATGAAATTACATCATTCTCAAAC;note=copy:10
+NODE_16071_length_263_cov_2.764423	Genbank	region	1	263	.	+	.	ID=NODE_16071_length_263_cov_2.764423;array=0;gene=1;type=NA
+NODE_16071_length_263_cov_2.764423	FGS-hmm	CDS	2	262	.	-	.	what=cas;des=pfam09704:cas5;note=Type-I
+NODE_37_length_65497_cov_349.831668	Genbank	region	1	65497	.	+	.	ID=NODE_37_length_65497_cov_349.831668;array=1;gene=4;type=(type II)
+NODE_37_length_65497_cov_349.831668	metaCRT	direct_repeat	30397	30961	.	.	.	what=CRISPR;des=repeat:GTTTTGGGACCATTCAAAACAACATAGCTCTAAAAC;note=copy:9
+NODE_37_length_65497_cov_349.831668	FGS-hmm	CDS	31064	31726	.	-	.	what=cas;des=cd09758:csn2;note=Subtype-II-A
+NODE_37_length_65497_cov_349.831668	FGS-hmm	CDS	31716	32042	.	-	.	what=cas;des=cd09638:cas2;note=Subtype-II-A
+NODE_37_length_65497_cov_349.831668	FGS-hmm	CDS	32054	32923	.	-	.	what=cas;des=cd09720:cas1;note=Subtype-II-A
+NODE_37_length_65497_cov_349.831668	FGS-hmm	CDS	32923	37038	.	-	.	what=cas;des=COG3513:cas9;note=Subtype-II-A
+NODE_37_length_65497_cov_349.831668	CRISPRone	partial_repeat	37323	37358	.	-	.	what=antiCRISPR;des=antiRepeat:eat;note=25-11
+NODE_506_length_9362_cov_312.474589	Genbank	region	1	9362	.	+	.	ID=NODE_506_length_9362_cov_312.474589;array=0;gene=2;type=(type I, V)
+NODE_506_length_9362_cov_312.474589	FGS-hmm	CDS	8300	8650	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+NODE_506_length_9362_cov_312.474589	FGS-hmm	CDS	8777	9010	.	+	.	what=cas;des=cas14b:cas14b;note=Subtype-V-compact
+NODE_25_length_80304_cov_385.710663	Genbank	region	1	80304	.	+	.	ID=NODE_25_length_80304_cov_385.710663;array=1;gene=7;type=(type I)
+NODE_25_length_80304_cov_385.710663	metaCRT	direct_repeat	16912	17415	.	.	.	what=CRISPR;des=repeat:ATTTCAATCCACTCACCCGCGAAGGGTGAGAC;note=copy:8
+NODE_25_length_80304_cov_385.710663	FGS-hmm	CDS	17564	17857	.	-	.	what=cas;des=COG1343:cas2;note=universal
+NODE_25_length_80304_cov_385.710663	FGS-hmm	CDS	17868	18893	.	-	.	what=cas;des=cd09721:cas1;note=universal
+NODE_25_length_80304_cov_385.710663	FGS-hmm	CDS	18890	19564	.	-	.	what=cas;des=COG1468:cas4;note=other
+NODE_25_length_80304_cov_385.710663	FGS-hmm	CDS	19566	20414	.	-	.	what=cas;des=COG3649:cas7;note=Subtype-I-C
+NODE_25_length_80304_cov_385.710663	FGS-hmm	CDS	20419	22314	.	-	.	what=cas;des=cd09642:cas8c;note=Subtype-I-C
+NODE_25_length_80304_cov_385.710663	FGS-hmm	CDS	22314	23042	.	-	.	what=cas;des=cd09752:cas5;note=Subtype-I-C
+NODE_25_length_80304_cov_385.710663	FGS-hmm	CDS	23305	25731	.	-	.	what=cas;des=COG1203:cas3;note=Type-I
+NODE_1434_length_3222_cov_11.739185	Genbank	region	1	3222	.	+	.	ID=NODE_1434_length_3222_cov_11.739185;array=1;gene=3;type=(type I)
+NODE_1434_length_3222_cov_11.739185	metaCRT	direct_repeat	0	451	.	.	.	what=CRISPR;des=repeat:GGCTCATCCCCGCTCACGCGGGGAGCAC;note=copy:8
+NODE_1434_length_3222_cov_11.739185	FGS-hmm	CDS	896	1834	.	-	.	what=cas;des=cd09719:cas1;note=universal
+NODE_1434_length_3222_cov_11.739185	FGS-hmm	CDS	1834	2526	.	-	.	what=cas;des=pfam08798:cas6e;note=other
+NODE_1434_length_3222_cov_11.739185	FGS-hmm	CDS	2523	3221	.	-	.	what=cas;des=cd09645:cas5;note=Subtype-I-E
+NODE_16538_length_259_cov_1.245098	Genbank	region	1	259	.	+	.	ID=NODE_16538_length_259_cov_1.245098;array=1;gene=0;type=NA
+NODE_16538_length_259_cov_1.245098	metaCRT	direct_repeat	0	247	.	.	.	what=CRISPR;des=repeat:CTCGCAGAGCATCTTCCATTAGAACAAGGATTAAGAC;note=copy:4
+NODE_7_length_142847_cov_609.145750	Genbank	region	1	142847	.	+	.	ID=NODE_7_length_142847_cov_609.145750;array=1;gene=0;type=NA
+NODE_7_length_142847_cov_609.145750	metaCRT	direct_repeat	24	2190	.	.	.	what=CRISPR;des=repeat:GAGTTCCCCGCGCCTGCGGGGATGATCCG;note=copy:36
+NODE_22594_length_221_cov_1.060241	Genbank	region	1	221	.	+	.	ID=NODE_22594_length_221_cov_1.060241;array=1;gene=0;type=NA
+NODE_22594_length_221_cov_1.060241	metaCRT	direct_repeat	40	189	.	.	.	what=CRISPR;des=repeat:GGATCACCCCCGCGTGTGCGGGGAATAC;note=copy:3
+NODE_1381_length_3330_cov_124.145344	Genbank	region	1	3330	.	+	.	ID=NODE_1381_length_3330_cov_124.145344;array=1;gene=2;type=(type II)
+NODE_1381_length_3330_cov_124.145344	FGS-hmm	CDS	110	937	.	+	.	what=cas;des=cd09720:cas1;note=universal
+NODE_1381_length_3330_cov_124.145344	FGS-hmm	CDS	1244	1912	.	+	.	what=cas;des=cd09644:csn2;note=Subtype-II-A
+NODE_1381_length_3330_cov_124.145344	metaCRT	direct_repeat	1952	3239	.	.	.	what=CRISPR;des=repeat:GTTTGAGAGTTATGTAATTTAAGTAGTAAGTAAAAC;note=copy:20
+NODE_3923_length_1226_cov_9.879590	Genbank	region	1	1226	.	+	.	ID=NODE_3923_length_1226_cov_9.879590;array=0;gene=2;type=(type I)
+NODE_3923_length_1226_cov_9.879590	FGS-hmm	CDS	3	479	.	-	.	what=cas;des=pfam09344:cas7;note=Subtype-I-E
+NODE_3923_length_1226_cov_9.879590	FGS-hmm	CDS	512	1225	.	-	.	what=cas;des=cd09731:cse2gr11;note=Subtype-I-E
+NODE_2028_length_2290_cov_308.000447	Genbank	region	1	2290	.	+	.	ID=NODE_2028_length_2290_cov_308.000447;array=1;gene=0;type=NA
+NODE_2028_length_2290_cov_308.000447	metaCRT	direct_repeat	91	1865	.	.	.	what=CRISPR;des=repeat:GTCGCACCCCTCGCGGGTGCGTGGATTGAAAT;note=copy:27
+NODE_183_length_22517_cov_402.013311	Genbank	region	1	22517	.	+	.	ID=NODE_183_length_22517_cov_402.013311;array=1;gene=3;type=(type II)
+NODE_183_length_22517_cov_402.013311	metaCRT	direct_repeat	20	631	.	.	.	what=CRISPR;des=repeat:GTTGGGATACCTGTTCTTCTCTCCCAACTAGACTTG;note=copy:10
+NODE_183_length_22517_cov_402.013311	FGS-hmm	CDS	683	1006	.	-	.	what=cas;des=pfam09827:cas2;note=Subtype-II-C
+NODE_183_length_22517_cov_402.013311	FGS-hmm	CDS	999	1892	.	-	.	what=cas;des=COG1518:cas1;note=Subtype-II-C
+NODE_183_length_22517_cov_402.013311	FGS-hmm	CDS	1896	5195	.	-	.	what=cas;des=cd09643:cas9;note=Subtype-II-C
+NODE_183_length_22517_cov_402.013311	CRISPRone	partial_repeat	5304	5339	.	-	.	what=antiCRISPR;des=antiRepeat:eat;note=19-17
+NODE_3966_length_1211_cov_65.204152	Genbank	region	1	1211	.	+	.	ID=NODE_3966_length_1211_cov_65.204152;array=1;gene=0;type=NA
+NODE_3966_length_1211_cov_65.204152	metaCRT	direct_repeat	24	194	.	.	.	what=CRISPR;des=repeat:ATTTCCTGATTAAATCACAAAAC;note=copy:4
+NODE_2661_length_1766_cov_7.745178	Genbank	region	1	1766	.	+	.	ID=NODE_2661_length_1766_cov_7.745178;array=0;gene=1;type=(type I)
+NODE_2661_length_1766_cov_7.745178	FGS-hmm	CDS	1	1701	.	-	.	what=cas;des=cd09729:cas8e;note=Subtype-I-E
+NODE_611_length_7667_cov_159.607987	Genbank	region	1	7667	.	+	.	ID=NODE_611_length_7667_cov_159.607987;array=1;gene=0;type=NA
+NODE_611_length_7667_cov_159.607987	metaCRT	direct_repeat	972	1270	.	.	.	what=CRISPR;des=repeat:CGAGGATTTTTTCTTTTTTTGCATTTATCATCGT;note=copy:6
+NODE_5272_length_897_cov_28.355107	Genbank	region	1	897	.	+	.	ID=NODE_5272_length_897_cov_28.355107;array=0;gene=2;type=(type I)
+NODE_5272_length_897_cov_28.355107	FGS-hmm	CDS	3	410	.	-	.	what=cas;des=pfam09484:cas8b1;note=Subtype-I-B
+NODE_5272_length_897_cov_28.355107	FGS-hmm	CDS	484	774	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+NODE_14842_length_276_cov_0.868778	Genbank	region	1	276	.	+	.	ID=NODE_14842_length_276_cov_0.868778;array=0;gene=1;type=NA
+NODE_14842_length_276_cov_0.868778	FGS-hmm	CDS	3	275	.	-	.	what=cas;des=cd09634:cas1;note=universal
+NODE_888_length_5131_cov_354.684003	Genbank	region	1	5131	.	+	.	ID=NODE_888_length_5131_cov_354.684003;array=1;gene=5;type=(type I)
+NODE_888_length_5131_cov_354.684003	FGS-hmm	CDS	1	1512	.	+	.	what=cas;des=cd09642:cas8c;note=Subtype-I-C
+NODE_888_length_5131_cov_354.684003	FGS-hmm	CDS	1505	2356	.	+	.	what=cas;des=pfam05107:cas7b;note=Type-I
+NODE_888_length_5131_cov_354.684003	FGS-hmm	CDS	2358	3011	.	+	.	what=cas;des=pfam01930:cas4;note=Type-I
+NODE_888_length_5131_cov_354.684003	FGS-hmm	CDS	3008	4039	.	+	.	what=cas;des=cd09634:cas1;note=universal
+NODE_888_length_5131_cov_354.684003	FGS-hmm	CDS	4041	4334	.	+	.	what=cas;des=cd09725:cas2;note=universal
+NODE_888_length_5131_cov_354.684003	metaCRT	direct_repeat	4466	5108	.	.	.	what=CRISPR;des=repeat:GTCGCACCCCTCGCGGGTGCGTGGATTGAAAT;note=copy:10
+NODE_287_length_16187_cov_297.327486	Genbank	region	1	16187	.	+	.	ID=NODE_287_length_16187_cov_297.327486;array=0;gene=3;type=(type I)
+NODE_287_length_16187_cov_297.327486	FGS-hmm	CDS	5676	6035	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+NODE_287_length_16187_cov_297.327486	FGS-hmm	CDS	14922	15269	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+NODE_287_length_16187_cov_297.327486	FGS-hmm	CDS	15403	15774	.	-	.	what=cas;des=unk;note=unknown
+NODE_287_length_16187_cov_297.327486	FGS-hmm	CDS	15776	16069	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+NODE_8673_length_488_cov_13.646651	Genbank	region	1	488	.	+	.	ID=NODE_8673_length_488_cov_13.646651;array=0;gene=1;type=NA
+NODE_8673_length_488_cov_13.646651	FGS-hmm	CDS	2	487	.	-	.	what=cas;des=COG1518:cas1;note=universal
+NODE_10866_length_370_cov_4.933333	Genbank	region	1	370	.	+	.	ID=NODE_10866_length_370_cov_4.933333;array=1;gene=0;type=NA
+NODE_10866_length_370_cov_4.933333	metaCRT	direct_repeat	0	351	.	.	.	what=CRISPR;des=repeat:ATCTACAATAGTAGAAATTAATAGTATCTCTTAAAG;note=copy:6
+NODE_14562_length_278_cov_13.089686	Genbank	region	1	278	.	+	.	ID=NODE_14562_length_278_cov_13.089686;array=1;gene=0;type=NA
+NODE_14562_length_278_cov_13.089686	metaCRT	direct_repeat	49	242	.	.	.	what=CRISPR;des=repeat:AAAAAATTTACTTGGTTATTTTTAAAT;note=copy:4
+NODE_25170_length_208_cov_5.601307	Genbank	region	1	208	.	+	.	ID=NODE_25170_length_208_cov_5.601307;array=1;gene=0;type=NA
+NODE_25170_length_208_cov_5.601307	metaCRT	direct_repeat	28	175	.	.	.	what=CRISPR;des=repeat:GTTCACTGCCGCATAGGCAGCTCAGAAA;note=copy:3
+NODE_971_length_4673_cov_270.716327	Genbank	region	1	4673	.	+	.	ID=NODE_971_length_4673_cov_270.716327;array=0;gene=3;type=(type I)
+NODE_971_length_4673_cov_270.716327	FGS-hmm	CDS	716	3295	.	+	.	what=cas;des=cd09641:cas3HD;note=Type-I
+NODE_971_length_4673_cov_270.716327	FGS-hmm	CDS	3411	4202	.	+	.	what=cas;des=pfam09704:cas5;note=Type-I
+NODE_971_length_4673_cov_270.716327	FGS-hmm	CDS	4216	4671	.	+	.	what=cas;des=cd09757:cas8c;note=Subtype-I-C
+NODE_5200_length_913_cov_9.444056	Genbank	region	1	913	.	+	.	ID=NODE_5200_length_913_cov_9.444056;array=1;gene=0;type=NA
+NODE_5200_length_913_cov_9.444056	metaCRT	direct_repeat	587	886	.	.	.	what=CRISPR;des=repeat:GTTTTAGTACTCTGTAATTTTAGGTATAACTGTTACA;note=copy:5
+NODE_30_length_72097_cov_562.262055	Genbank	region	1	72097	.	+	.	ID=NODE_30_length_72097_cov_562.262055;array=0;gene=3;type=NA
+NODE_30_length_72097_cov_562.262055	FGS-hmm	CDS	39271	39993	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+NODE_30_length_72097_cov_562.262055	FGS-hmm	CDS	40146	40613	.	+	.	what=cas;des=unk;note=unknown
+NODE_30_length_72097_cov_562.262055	FGS-hmm	CDS	40607	43870	.	+	.	what=cas;des=cd09639:cas3;note=Type-I
+NODE_30_length_72097_cov_562.262055	FGS-hmm	CDS	43867	47451	.	+	.	what=cas;des=cd09637:cas4;note=other
+NODE_4321_length_1113_cov_10.234405	Genbank	region	1	1113	.	+	.	ID=NODE_4321_length_1113_cov_10.234405;array=1;gene=0;type=NA
+NODE_4321_length_1113_cov_10.234405	metaCRT	direct_repeat	40	1104	.	.	.	what=CRISPR;des=repeat:GGCTCATCCCCGCTCACGCGGGGAGCAC;note=copy:18
+NODE_823_length_5573_cov_178.850308	Genbank	region	1	5573	.	+	.	ID=NODE_823_length_5573_cov_178.850308;array=1;gene=0;type=NA
+NODE_823_length_5573_cov_178.850308	metaCRT	direct_repeat	53	242	.	.	.	what=CRISPR;des=repeat:AAATTTACTTGGTTATTTTAAAAT;note=copy:4
+NODE_26_length_79506_cov_573.578256	Genbank	region	1	79506	.	+	.	ID=NODE_26_length_79506_cov_573.578256;array=0;gene=3;type=(type I)
+NODE_26_length_79506_cov_573.578256	FGS-hmm	CDS	38646	41060	.	-	.	what=cas;des=mkCas0139:cas3;note=Type-I
+NODE_26_length_79506_cov_573.578256	FGS-hmm	CDS	41237	41935	.	-	.	what=cas;des=unk;note=unknown
+NODE_26_length_79506_cov_573.578256	FGS-hmm	CDS	42034	43680	.	+	.	what=cas;des=unk;note=unknown
+NODE_26_length_79506_cov_573.578256	FGS-hmm	CDS	43797	44561	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+NODE_26_length_79506_cov_573.578256	FGS-hmm	CDS	53768	54220	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+NODE_344_length_14012_cov_203.138712	Genbank	region	1	14012	.	+	.	ID=NODE_344_length_14012_cov_203.138712;array=0;gene=2;type=(type I)
+NODE_344_length_14012_cov_203.138712	FGS-hmm	CDS	5089	6618	.	+	.	what=cas;des=mkCas0128:cas2;note=universal
+NODE_344_length_14012_cov_203.138712	FGS-hmm	CDS	6687	7955	.	+	.	what=cas;des=unk;note=unknown
+NODE_344_length_14012_cov_203.138712	FGS-hmm	CDS	7939	11721	.	+	.	what=cas;des=unk;note=unknown
+NODE_344_length_14012_cov_203.138712	FGS-hmm	CDS	11978	12262	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+NODE_2406_length_1948_cov_9.273640	Genbank	region	1	1948	.	+	.	ID=NODE_2406_length_1948_cov_9.273640;array=1;gene=0;type=NA
+NODE_2406_length_1948_cov_9.273640	metaCRT	direct_repeat	1309	1802	.	.	.	what=CRISPR;des=repeat:GTTTTAGTACTCTGTAATTTTAGGTATGACTGTAAC;note=copy:8
+NODE_1631_length_2833_cov_79.620950	Genbank	region	1	2833	.	+	.	ID=NODE_1631_length_2833_cov_79.620950;array=0;gene=4;type=(type II)
+NODE_1631_length_2833_cov_79.620950	FGS-hmm	CDS	3	185	.	-	.	what=cas;des=cd09644:csn2;note=Subtype-II-A
+NODE_1631_length_2833_cov_79.620950	FGS-hmm	CDS	182	502	.	-	.	what=cas;des=pfam09827:cas2;note=Subtype-II-A
+NODE_1631_length_2833_cov_79.620950	FGS-hmm	CDS	492	1364	.	-	.	what=cas;des=cd09720:cas1;note=Subtype-II-A
+NODE_1631_length_2833_cov_79.620950	FGS-hmm	CDS	1364	2830	.	-	.	what=cas;des=mkCas0193:cas9;note=Subtype-II-A
+NODE_24806_length_210_cov_2.374194	Genbank	region	1	210	.	+	.	ID=NODE_24806_length_210_cov_2.374194;array=1;gene=0;type=NA
+NODE_24806_length_210_cov_2.374194	metaCRT	direct_repeat	14	179	.	.	.	what=CRISPR;des=repeat:GTCGCGGCCCGCACGGCCGCGCGGATCGAAAC;note=copy:3
+NODE_363_length_13326_cov_151.055761	Genbank	region	1	13326	.	+	.	ID=NODE_363_length_13326_cov_151.055761;array=1;gene=0;type=NA
+NODE_363_length_13326_cov_151.055761	metaCRT	direct_repeat	5199	5377	.	.	.	what=CRISPR;des=repeat:TTTGCGATTTAATCAGGAAA;note=copy:4
+NODE_632_length_7433_cov_160.225535	Genbank	region	1	7433	.	+	.	ID=NODE_632_length_7433_cov_160.225535;array=1;gene=0;type=NA
+NODE_632_length_7433_cov_160.225535	metaCRT	direct_repeat	3516	3867	.	.	.	what=CRISPR;des=repeat:TTCCTGATTAAATGGCAAATCTTAAAATAATCAG;note=copy:7
+NODE_4373_length_1099_cov_12.252874	Genbank	region	1	1099	.	+	.	ID=NODE_4373_length_1099_cov_12.252874;array=1;gene=0;type=NA
+NODE_4373_length_1099_cov_12.252874	metaCRT	direct_repeat	0	1047	.	.	.	what=CRISPR;des=repeat:GTGCTCCCCGCGTGAGCGGGGATGAGCC;note=copy:18
+NODE_17845_length_249_cov_0.963918	Genbank	region	1	249	.	+	.	ID=NODE_17845_length_249_cov_0.963918;array=1;gene=0;type=NA
+NODE_17845_length_249_cov_0.963918	metaCRT	direct_repeat	29	245	.	.	.	what=CRISPR;des=repeat:GTCCGCCCCGCGTAAGCGGGGATGAGCCCTCTC;note=copy:4
+NODE_130_length_28684_cov_592.139509	Genbank	region	1	28684	.	+	.	ID=NODE_130_length_28684_cov_592.139509;array=1;gene=8;type=(type I)
+NODE_130_length_28684_cov_592.139509	FGS-hmm	CDS	18523	21348	.	+	.	what=cas;des=cd09641:cas3HD;note=Type-I
+NODE_130_length_28684_cov_592.139509	FGS-hmm	CDS	21341	22990	.	+	.	what=cas;des=pfam09481:cas8e;note=Subtype-I-E
+NODE_130_length_28684_cov_592.139509	FGS-hmm	CDS	22993	23610	.	+	.	what=cas;des=cd09731:cse2gr11;note=Subtype-I-E
+NODE_130_length_28684_cov_592.139509	FGS-hmm	CDS	23633	24784	.	+	.	what=cas;des=pfam09344:cas7;note=Subtype-I-E
+NODE_130_length_28684_cov_592.139509	FGS-hmm	CDS	24788	25555	.	+	.	what=cas;des=pfam09704:cas5;note=Type-I
+NODE_130_length_28684_cov_592.139509	FGS-hmm	CDS	25633	26223	.	+	.	what=cas;des=pfam08798:cas6e;note=other
+NODE_130_length_28684_cov_592.139509	FGS-hmm	CDS	26216	27166	.	+	.	what=cas;des=cd09719:cas1;note=universal
+NODE_130_length_28684_cov_592.139509	FGS-hmm	CDS	27278	27517	.	+	.	what=cas;des=cd09755:cas2;note=universal
+NODE_130_length_28684_cov_592.139509	metaCRT	direct_repeat	27590	28658	.	.	.	what=CRISPR;des=repeat:GAGTTCCCCGCGCCTGCGGGGATGATCCG;note=copy:18
+NODE_17382_length_252_cov_2.852792	Genbank	region	1	252	.	+	.	ID=NODE_17382_length_252_cov_2.852792;array=0;gene=1;type=NA
+NODE_17382_length_252_cov_2.852792	FGS-hmm	CDS	95	250	.	+	.	what=cas;des=pfam09704:cas5;note=Type-I
+NODE_3604_length_1335_cov_8.368750	Genbank	region	1	1335	.	+	.	ID=NODE_3604_length_1335_cov_8.368750;array=1;gene=0;type=NA
+NODE_3604_length_1335_cov_8.368750	metaCRT	direct_repeat	20	1329	.	.	.	what=CRISPR;des=repeat:GTGCTCCCCGCGTGAGCGGGGATGAGCC;note=copy:22
+NODE_543_length_8742_cov_136.788419	Genbank	region	1	8742	.	+	.	ID=NODE_543_length_8742_cov_136.788419;array=1;gene=0;type=NA
+NODE_543_length_8742_cov_136.788419	metaCRT	direct_repeat	6525	6921	.	.	.	what=CRISPR;des=repeat:TTTCCTGATTAAATCGAAAAT;note=copy:8
+NODE_17018_length_255_cov_1.405000	Genbank	region	1	255	.	+	.	ID=NODE_17018_length_255_cov_1.405000;array=1;gene=0;type=NA
+NODE_17018_length_255_cov_1.405000	metaCRT	direct_repeat	0	207	.	.	.	what=CRISPR;des=repeat:GTTGTGGATTGATTACTTTAGGGAACGAGATACAAC;note=copy:4
+NODE_23115_length_218_cov_2.503067	Genbank	region	1	218	.	+	.	ID=NODE_23115_length_218_cov_2.503067;array=1;gene=0;type=NA
+NODE_23115_length_218_cov_2.503067	metaCRT	direct_repeat	0	216	.	.	.	what=CRISPR;des=repeat:GTTTTAGAATTGTGATCTTTTAGAATGAAGTAAAAC;note=copy:4
+NODE_12443_length_320_cov_1.267925	Genbank	region	1	320	.	+	.	ID=NODE_12443_length_320_cov_1.267925;array=1;gene=0;type=NA
+NODE_12443_length_320_cov_1.267925	metaCRT	direct_repeat	19	275	.	.	.	what=CRISPR;des=repeat:TCTCGCAGAGCATCTTCCATTAGAACAAGGATTAAGAC;note=copy:4
+NODE_33_length_66827_cov_452.463038	Genbank	region	1	66827	.	+	.	ID=NODE_33_length_66827_cov_452.463038;array=1;gene=0;type=NA
+NODE_33_length_66827_cov_452.463038	metaCRT	direct_repeat	66583	66813	.	.	.	what=CRISPR;des=repeat:CGTTGGGATACCTGTTCTTCTCTCCCAACTAGACTTGGC;note=copy:4
+NODE_129_length_28772_cov_151.192499	Genbank	region	1	28772	.	+	.	ID=NODE_129_length_28772_cov_151.192499;array=1;gene=6;type=(type I)
+NODE_129_length_28772_cov_151.192499	metaCRT	direct_repeat	21198	22568	.	.	.	what=CRISPR;des=repeat:GGAACATCCCCGCTCACGCGGGGAAAAT;note=copy:23
+NODE_129_length_28772_cov_151.192499	FGS-hmm	CDS	22972	23931	.	-	.	what=cas;des=cd09719:cas1;note=universal
+NODE_129_length_28772_cov_151.192499	FGS-hmm	CDS	23934	24635	.	-	.	what=cas;des=pfam08798:cas6e;note=other
+NODE_129_length_28772_cov_151.192499	FGS-hmm	CDS	24639	25340	.	-	.	what=cas;des=cd09756:cas5;note=Subtype-I-E
+NODE_129_length_28772_cov_151.192499	FGS-hmm	CDS	25340	26461	.	-	.	what=cas;des=pfam09344:cas7;note=Subtype-I-E
+NODE_129_length_28772_cov_151.192499	FGS-hmm	CDS	26482	27105	.	-	.	what=cas;des=cd09731:cse2gr11;note=Subtype-I-E
+NODE_129_length_28772_cov_151.192499	FGS-hmm	CDS	27108	28769	.	-	.	what=cas;des=cd09729:cas8e;note=Subtype-I-E
+NODE_20865_length_230_cov_1.457143	Genbank	region	1	230	.	+	.	ID=NODE_20865_length_230_cov_1.457143;array=1;gene=0;type=NA
+NODE_20865_length_230_cov_1.457143	metaCRT	direct_repeat	9	243	.	.	.	what=CRISPR;des=repeat:AGTTGTGGATTGATTACTTTAGGGAACGAGATACAAC;note=copy:4
+NODE_6157_length_746_cov_150.709117	Genbank	region	1	746	.	+	.	ID=NODE_6157_length_746_cov_150.709117;array=1;gene=0;type=NA
+NODE_6157_length_746_cov_150.709117	metaCRT	direct_repeat	24	723	.	.	.	what=CRISPR;des=repeat:ATTTCAATCCACGCACCCGCGAGGGGTGCGAC;note=copy:11

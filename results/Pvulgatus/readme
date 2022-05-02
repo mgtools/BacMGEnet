@@ -1,0 +1,5 @@
+the outputs for P vulgatus 
+
+1. Total genomee analyzed: 403; see the list of genomes in meta.txt
+2. CRISPR annotations in these genomes; see outputs under PvulgL32out/, PvulgL36out/, PvulgL47out/
+3. bacteria-phage networks; see mgenet_combined/ 

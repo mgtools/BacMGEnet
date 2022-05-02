@@ -1,0 +1,31 @@
+SEQ: QRNW01000211.1 length 869
+Bases: 869
+
+
+CRISPR 0  Range: 755 - 853
+POSITION        REPEAT                          SPACER
+--------------------------------------------------------------
+755		GTTTCAATCCACACACCCACGCAGGGTGTGAC	CTTGTGATGAGCAAGGATCGCTACGCTATTTCGA	[ 32, 34 ]
+821		GTCTCAATCCACACACCCACGCAGGGTGTGAC
+--------------------------------------------------------------
+Repeat-con	GTCTCAATCCACACACCCACGCAGGGTGTGAC
+Repeats: 2	Average Length: 32	Average Length: 34
+==QRNW01000211.1 instance 1 con GTCTCAATCCACACACCCACGCAGGGTGTGAC mismatch 1 (ref: PvulgL32 revcomp)
+
+
+SEQ: QRNW01000090.1 length 17391
+Bases: 17391
+
+
+CRISPR 0  Range: 17235 - 17398
+POSITION        REPEAT                          SPACER
+--------------------------------------------------------------
+17235		GTCACACCCTGCGTGGGTGTGTGGATTGAAAC	CTTTTCCATACCCCCATTCATCTCCATCTAATAA	[ 32, 34 ]
+17301		GTCACACCCTGCGTGGGTGTGTGGATTGAAAC	GAAGCGTTCTGTGGGCGAACAACTGGTTATCCCC	[ 32, 34 ]
+17367		GTCACACCCTGCGTGGGTGTGTGGA-------
+--------------------------------------------------------------
+Repeat-con	GTCACACCCTGCGTGGGTGTGTGGATTGAAAC
+Repeats: 3	Average Length: 32	Average Length: 34
+==QRNW01000090.1 instance 1 con GTCACACCCTGCGTGGGTGTGTGGATTGAAAC mismatch 0 (ref: PvulgL32)
+
+

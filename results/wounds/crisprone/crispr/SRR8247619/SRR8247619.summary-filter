@@ -1,0 +1,851 @@
+#/u/yye/CRISPRpk/pipelines/../CRISPRone/call-script/hmmscan2cas.py -collection unk -hmmscan crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout -gff crisprone/crispr/SRR8247619/SRR8247619.gff -isolate -outfile crisprone/crispr/SRR8247619/SRR8247619.summary -outfiltered crisprone/crispr/SRR8247619/SRR8247619.summary-filter -gafile /u/yye/CRISPRpk/pipelines/../CRISPRone/local/cas-db/cas-CRISPR.GA
+##NODE_40503_length_422_cov_38.438692 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_40503_length_422_cov_38.438692_1_420_- SRR8247619 NODE_40503_length_422_cov_38.438692 1 420 - cd09693:cas5 2
+##NODE_51340_length_321_cov_20.319549 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_51340_length_321_cov_20.319549_1_318_+ SRR8247619 NODE_51340_length_321_cov_20.319549 1 318 + cd09634:cas1 2
+##NODE_61_length_30863_cov_1152.495034 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_61_length_30863_cov_1152.495034_30383_30709_- SRR8247619 NODE_61_length_30863_cov_1152.495034 30383 30709 - COG0640:csa3 2
+##NODE_224_length_12435_cov_132.595638 8 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_224_length_12435_cov_132.595638_831_1703_- SRR8247619 NODE_224_length_12435_cov_132.595638 831 1703 - cd06127:DEDDh 2
+NODE_224_length_12435_cov_132.595638_1706_2704_- SRR8247619 NODE_224_length_12435_cov_132.595638 1706 2704 - cd09719:cas1 2
+NODE_224_length_12435_cov_132.595638_2708_3466_- SRR8247619 NODE_224_length_12435_cov_132.595638 2708 3466 - pfam08798:cas6e 2
+NODE_224_length_12435_cov_132.595638_3471_4223_- SRR8247619 NODE_224_length_12435_cov_132.595638 3471 4223 - cd09756:cas5 2
+NODE_224_length_12435_cov_132.595638_4226_5362_- SRR8247619 NODE_224_length_12435_cov_132.595638 4226 5362 - pfam09344:cas7 2
+NODE_224_length_12435_cov_132.595638_5409_6032_- SRR8247619 NODE_224_length_12435_cov_132.595638 5409 6032 - cd09731:cse2gr11 2
+NODE_224_length_12435_cov_132.595638_6022_7704_- SRR8247619 NODE_224_length_12435_cov_132.595638 6022 7704 - pfam09481:cas8e 2
+NODE_224_length_12435_cov_132.595638_7709_10765_- SRR8247619 NODE_224_length_12435_cov_132.595638 7709 10765 - cd09641:cas3HD 2
+##NODE_77_length_27155_cov_667.205166 3 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_77_length_27155_cov_667.205166_2917_3267_- SRR8247619 NODE_77_length_27155_cov_667.205166 2917 3267 - pfam09827:cas2 2
+NODE_77_length_27155_cov_667.205166_3285_4172_- SRR8247619 NODE_77_length_27155_cov_667.205166 3285 4172 - cd09634:cas1 2
+NODE_77_length_27155_cov_667.205166_4165_8694_- SRR8247619 NODE_77_length_27155_cov_667.205166 4165 8694 - cd09643:cas9 1
+##NODE_61769_length_267_cov_5.570755 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_61769_length_267_cov_5.570755_6_263_+ SRR8247619 NODE_61769_length_267_cov_5.570755 6 263 + COG0640:csa3 2
+##NODE_34743_length_505_cov_21.000000 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_34743_length_505_cov_21.000000_145_504_- SRR8247619 NODE_34743_length_505_cov_21.000000 145 504 - cd06127:DEDDh 2
+##NODE_29141_length_615_cov_8.975000 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_29141_length_615_cov_8.975000_1_612_+ SRR8247619 NODE_29141_length_615_cov_8.975000 1 612 + pfam13280:WYL 2
+##NODE_8809_length_1707_cov_29.248184 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_8809_length_1707_cov_29.248184_25_1527_+ SRR8247619 NODE_8809_length_1707_cov_29.248184 25 1527 + pfam00078:RT 2
+##NODE_19834_length_906_cov_38.807286 2 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_19834_length_906_cov_38.807286_3_509_+ SRR8247619 NODE_19834_length_906_cov_38.807286 3 509 + COG3513:cas9 1
+NODE_19834_length_906_cov_38.807286_509_904_+ SRR8247619 NODE_19834_length_906_cov_38.807286 509 904 + COG1518:cas1 2
+##NODE_45620_length_368_cov_34.418530 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_45620_length_368_cov_34.418530_2_367_- SRR8247619 NODE_45620_length_368_cov_34.418530 2 367 - pfam00078:RT 2
+##NODE_40825_length_419_cov_3.524725 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_40825_length_419_cov_3.524725_100_414_+ SRR8247619 NODE_40825_length_419_cov_3.524725 100 414 + COG0640:csa3 2
+##NODE_22251_length_813_cov_21.101583 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_22251_length_813_cov_21.101583_2_598_+ SRR8247619 NODE_22251_length_813_cov_21.101583 2 598 + COG4804:PD-DExK 2
+##NODE_17421_length_1019_cov_17.048755 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_17421_length_1019_cov_17.048755_198_632_+ SRR8247619 NODE_17421_length_1019_cov_17.048755 198 632 + COG0640:csa3 2
+##NODE_139_length_17120_cov_260.592968 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_139_length_17120_cov_260.592968_9371_13777_+ SRR8247619 NODE_139_length_17120_cov_260.592968 9371 13777 + cd06127:DEDDh 2
+##NODE_26970_length_667_cov_15.464052 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_26970_length_667_cov_15.464052_95_664_+ SRR8247619 NODE_26970_length_667_cov_15.464052 95 664 + COG0640:csa3 2
+##NODE_10362_length_1521_cov_102.077080 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_10362_length_1521_cov_102.077080_1_1107_+ SRR8247619 NODE_10362_length_1521_cov_102.077080 1 1107 + pfam00078:RT 2
+##NODE_54200_length_302_cov_7.506073 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_54200_length_302_cov_7.506073_1_300_- SRR8247619 NODE_54200_length_302_cov_7.506073 1 300 - cd06127:DEDDh 2
+##NODE_15833_length_1103_cov_11.122137 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_15833_length_1103_cov_11.122137_94_486_+ SRR8247619 NODE_15833_length_1103_cov_11.122137 94 486 + COG0640:csa3 2
+##NODE_10175_length_1544_cov_10.615178 2 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_10175_length_1544_cov_10.615178_265_1155_+ SRR8247619 NODE_10175_length_1544_cov_10.615178 265 1155 + pfam13280:WYL 2
+NODE_10175_length_1544_cov_10.615178_1182_1541_+ SRR8247619 NODE_10175_length_1544_cov_10.615178 1182 1541 + cls001593:casR 1
+##NODE_25607_length_703_cov_28.845679 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_25607_length_703_cov_28.845679_3_701_- SRR8247619 NODE_25607_length_703_cov_28.845679 3 701 - cd06127:DEDDh 2
+##NODE_12588_length_1318_cov_8.046714 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_12588_length_1318_cov_8.046714_3_1271_+ SRR8247619 NODE_12588_length_1318_cov_8.046714 3 1271 + COG1199:DinG 2
+##NODE_39542_length_435_cov_2.234211 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_39542_length_435_cov_2.234211_1_243_- SRR8247619 NODE_39542_length_435_cov_2.234211 1 243 - pfam09707:cas2 2
+##NODE_63770_length_261_cov_0.932039 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_63770_length_261_cov_0.932039_3_209_- SRR8247619 NODE_63770_length_261_cov_0.932039 3 209 - COG0640:csa3 2
+##NODE_9884_length_1576_cov_27.992110 2 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_9884_length_1576_cov_27.992110_1_402_+ SRR8247619 NODE_9884_length_1576_cov_27.992110 1 402 + pfam13280:WYL 2
+NODE_9884_length_1576_cov_27.992110_404_955_+ SRR8247619 NODE_9884_length_1576_cov_27.992110 404 955 + cd06127:DEDDh 2
+##NODE_33125_length_534_cov_33.977035 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_33125_length_534_cov_33.977035_3_161_+ SRR8247619 NODE_33125_length_534_cov_33.977035 3 161 + COG0640:csa3 2
+##NODE_3561_length_2920_cov_33.247120 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_3561_length_2920_cov_33.247120_837_2639_+ SRR8247619 NODE_3561_length_2920_cov_33.247120 837 2639 + pfam00078:RT 2
+##NODE_60883_length_270_cov_46.390698 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_60883_length_270_cov_46.390698_137_268_- SRR8247619 NODE_60883_length_270_cov_46.390698 137 268 - COG0640:csa3 2
+##NODE_4499_length_2562_cov_70.474671 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_4499_length_2562_cov_70.474671_1_2478_+ SRR8247619 NODE_4499_length_2562_cov_70.474671 1 2478 + cd06127:DEDDh 2
+##NODE_178_length_14505_cov_59.428651 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_178_length_14505_cov_59.428651_10432_10830_- SRR8247619 NODE_178_length_14505_cov_59.428651 10432 10830 - COG0640:csa3 2
+##NODE_53825_length_305_cov_1.944000 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_53825_length_305_cov_1.944000_3_302_+ SRR8247619 NODE_53825_length_305_cov_1.944000 3 302 + cd09693:cas5 2
+##NODE_32557_length_546_cov_4.425662 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_32557_length_546_cov_4.425662_1_438_+ SRR8247619 NODE_32557_length_546_cov_4.425662 1 438 + pfam13280:WYL 2
+##NODE_13318_length_1263_cov_27.001656 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_13318_length_1263_cov_27.001656_180_1262_- SRR8247619 NODE_13318_length_1263_cov_27.001656 180 1262 - COG1199:DinG 2
+##NODE_48664_length_342_cov_7.871080 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_48664_length_342_cov_7.871080_45_341_- SRR8247619 NODE_48664_length_342_cov_7.871080 45 341 - COG0640:csa3 2
+##NODE_6528_length_2069_cov_10.578947 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_6528_length_2069_cov_10.578947_871_1509_+ SRR8247619 NODE_6528_length_2069_cov_10.578947 871 1509 + cd06127:DEDDh 2
+##NODE_24486_length_737_cov_18.771261 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_24486_length_737_cov_18.771261_1_252_+ SRR8247619 NODE_24486_length_737_cov_18.771261 1 252 + COG0640:csa3 2
+##NODE_79144_length_218_cov_7.987730 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_79144_length_218_cov_7.987730_1_216_- SRR8247619 NODE_79144_length_218_cov_7.987730 1 216 - COG0640:csa3 2
+##NODE_4135_length_2682_cov_28.789494 3 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_4135_length_2682_cov_28.789494_43_696_+ SRR8247619 NODE_4135_length_2682_cov_28.789494 43 696 + pfam01930:cas4 2
+NODE_4135_length_2682_cov_28.789494_693_1724_+ SRR8247619 NODE_4135_length_2682_cov_28.789494 693 1724 + cd09634:cas1 2
+NODE_4135_length_2682_cov_28.789494_1725_2018_+ SRR8247619 NODE_4135_length_2682_cov_28.789494 1725 2018 + cd09725:cas2 2
+##NODE_6914_length_1993_cov_12.540248 3 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_6914_length_1993_cov_12.540248_3_284_+ SRR8247619 NODE_6914_length_1993_cov_12.540248 3 284 + COG1468:cas4 1
+NODE_6914_length_1993_cov_12.540248_281_1309_+ SRR8247619 NODE_6914_length_1993_cov_12.540248 281 1309 + cd09634:cas1 2
+NODE_6914_length_1993_cov_12.540248_1310_1603_+ SRR8247619 NODE_6914_length_1993_cov_12.540248 1310 1603 + cd09725:cas2 2
+##NODE_4223_length_2656_cov_8.529412 2 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_4223_length_2656_cov_8.529412_567_1271_+ SRR8247619 NODE_4223_length_2656_cov_8.529412 567 1271 + pfam09704:cas5 2
+NODE_4223_length_2656_cov_8.529412_1284_2654_+ SRR8247619 NODE_4223_length_2656_cov_8.529412 1284 2654 + cd09757:cas8c 1
+##NODE_4962_length_2424_cov_22.082735 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_4962_length_2424_cov_22.082735_3_392_+ SRR8247619 NODE_4962_length_2424_cov_22.082735 3 392 + COG0640:csa3 2
+##NODE_56502_length_289_cov_4.970085 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_56502_length_289_cov_4.970085_3_287_- SRR8247619 NODE_56502_length_289_cov_4.970085 3 287 - cd06127:DEDDh 2
+##NODE_17457_length_1017_cov_8.720374 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_17457_length_1017_cov_8.720374_386_1015_+ SRR8247619 NODE_17457_length_1017_cov_8.720374 386 1015 + COG1199:DinG 2
+##NODE_48732_length_342_cov_2.250871 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_48732_length_342_cov_2.250871_3_341_- SRR8247619 NODE_48732_length_342_cov_2.250871 3 341 - pfam01867:cas1 2
+##NODE_65_length_30384_cov_110.725049 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_65_length_30384_cov_110.725049_20523_21431_- SRR8247619 NODE_65_length_30384_cov_110.725049 20523 21431 - pfam13280:WYL 2
+##NODE_40484_length_423_cov_3.290761 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_40484_length_423_cov_3.290761_110_421_+ SRR8247619 NODE_40484_length_423_cov_3.290761 110 421 + COG0640:csa3 2
+##NODE_9728_length_1592_cov_67.294730 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_9728_length_1592_cov_67.294730_3_1589_+ SRR8247619 NODE_9728_length_1592_cov_67.294730 3 1589 + cd06127:DEDDh 2
+##NODE_12911_length_1293_cov_6.106624 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_12911_length_1293_cov_6.106624_77_1288_+ SRR8247619 NODE_12911_length_1293_cov_6.106624 77 1288 + COG0640:csa3 2
+##NODE_74454_length_230_cov_1.097143 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_74454_length_230_cov_1.097143_3_227_+ SRR8247619 NODE_74454_length_230_cov_1.097143 3 227 + COG0640:csa3 2
+##NODE_53756_length_305_cov_6.036000 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_53756_length_305_cov_6.036000_3_302_- SRR8247619 NODE_53756_length_305_cov_6.036000 3 302 - pfam13280:WYL 2
+##NODE_35781_length_488_cov_7.981524 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_35781_length_488_cov_7.981524_2_487_+ SRR8247619 NODE_35781_length_488_cov_7.981524 2 487 + cd06127:DEDDh 2
+##NODE_23196_length_779_cov_8.425414 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_23196_length_779_cov_8.425414_131_778_+ SRR8247619 NODE_23196_length_779_cov_8.425414 131 778 + cd06127:DEDDh 2
+##NODE_9265_length_1647_cov_21.945980 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_9265_length_1647_cov_21.945980_2_1117_- SRR8247619 NODE_9265_length_1647_cov_21.945980 2 1117 - pfam00078:RT 2
+##NODE_48488_length_344_cov_3.166090 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_48488_length_344_cov_3.166090_124_342_+ SRR8247619 NODE_48488_length_344_cov_3.166090 124 342 + pfam09704:cas5 2
+##NODE_55883_length_292_cov_4.143460 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_55883_length_292_cov_4.143460_3_290_+ SRR8247619 NODE_55883_length_292_cov_4.143460 3 290 + pfam13280:WYL 2
+##NODE_15072_length_1147_cov_17.880037 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_15072_length_1147_cov_17.880037_765_1145_- SRR8247619 NODE_15072_length_1147_cov_17.880037 765 1145 - pfam10040:cas6 2
+##NODE_5805_length_2215_cov_17.998148 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_5805_length_2215_cov_17.998148_1023_1778_- SRR8247619 NODE_5805_length_2215_cov_17.998148 1023 1778 - COG0640:csa3 2
+##NODE_82495_length_211_cov_2.185897 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_82495_length_211_cov_2.185897_38_208_+ SRR8247619 NODE_82495_length_211_cov_2.185897 38 208 + COG0640:csa3 2
+##NODE_52612_length_313_cov_1.856589 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_52612_length_313_cov_1.856589_2_310_+ SRR8247619 NODE_52612_length_313_cov_1.856589 2 310 + COG0640:csa3 2
+##NODE_3617_length_2894_cov_47.669954 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_3617_length_2894_cov_47.669954_1835_2560_- SRR8247619 NODE_3617_length_2894_cov_47.669954 1835 2560 - COG0640:csa3 2
+##NODE_157_length_15886_cov_1323.106626 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_157_length_15886_cov_1323.106626_9328_10095_+ SRR8247619 NODE_157_length_15886_cov_1323.106626 9328 10095 + cd06127:DEDDh 2
+##NODE_7361_length_1913_cov_12.679763 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_7361_length_1913_cov_12.679763_2_1912_+ SRR8247619 NODE_7361_length_1913_cov_12.679763 2 1912 + cd06127:DEDDh 2
+##NODE_7376_length_1910_cov_11.651752 3 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_7376_length_1910_cov_11.651752_2_721_- SRR8247619 NODE_7376_length_1910_cov_11.651752 2 721 - cd06127:DEDDh 2
+NODE_7376_length_1910_cov_11.651752_722_1660_- SRR8247619 NODE_7376_length_1910_cov_11.651752 722 1660 - cd09719:cas1 2
+NODE_7376_length_1910_cov_11.651752_1657_1908_- SRR8247619 NODE_7376_length_1910_cov_11.651752 1657 1908 - cd09727:cas6e 1
+##NODE_1664_length_4198_cov_19.813662 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_1664_length_4198_cov_19.813662_1475_2743_- SRR8247619 NODE_1664_length_4198_cov_19.813662 1475 2743 - pfam00078:RT 2
+##NODE_22384_length_808_cov_20.087649 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_22384_length_808_cov_20.087649_1_807_+ SRR8247619 NODE_22384_length_808_cov_20.087649 1 807 + pfam00078:RT 2
+##NODE_4037_length_2711_cov_45.018449 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_4037_length_2711_cov_45.018449_1360_2112_+ SRR8247619 NODE_4037_length_2711_cov_45.018449 1360 2112 + cd06127:DEDDh 2
+##NODE_9470_length_1624_cov_66.591460 2 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_9470_length_1624_cov_66.591460_112_1110_+ SRR8247619 NODE_9470_length_1624_cov_66.591460 112 1110 + COG1567:csm4gr5 1
+NODE_9470_length_1624_cov_66.591460_1103_1621_+ SRR8247619 NODE_9470_length_1624_cov_66.591460 1103 1621 + pfam03787:csm3gr7 2
+##NODE_2621_length_3395_cov_49.348802 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_2621_length_3395_cov_49.348802_211_510_- SRR8247619 NODE_2621_length_3395_cov_49.348802 211 510 - COG0640:csa3 2
+##NODE_6639_length_2048_cov_18.171601 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_6639_length_2048_cov_18.171601_297_617_- SRR8247619 NODE_6639_length_2048_cov_18.171601 297 617 - COG0640:csa3 2
+##NODE_56208_length_291_cov_1.152542 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_56208_length_291_cov_1.152542_2_289_- SRR8247619 NODE_56208_length_291_cov_1.152542 2 289 - COG0640:csa3 2
+##NODE_38569_length_447_cov_6.500000 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_38569_length_447_cov_6.500000_1_306_- SRR8247619 NODE_38569_length_447_cov_6.500000 1 306 - cd09693:cas5 2
+##NODE_35468_length_493_cov_2.942922 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_35468_length_493_cov_2.942922_3_404_- SRR8247619 NODE_35468_length_493_cov_2.942922 3 404 - COG1518:cas1 2
+##NODE_43789_length_386_cov_8.114804 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_43789_length_386_cov_8.114804_2_385_- SRR8247619 NODE_43789_length_386_cov_8.114804 2 385 - COG0640:csa3 2
+##NODE_41399_length_412_cov_10.943978 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_41399_length_412_cov_10.943978_3_353_- SRR8247619 NODE_41399_length_412_cov_10.943978 3 353 - COG0640:csa3 2
+##NODE_7_length_74628_cov_105.112802 3 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_7_length_74628_cov_105.112802_59821_60477_+ SRR8247619 NODE_7_length_74628_cov_105.112802 59821 60477 + COG0640:csa3 2
+NODE_7_length_74628_cov_105.112802_61259_62548_- SRR8247619 NODE_7_length_74628_cov_105.112802 61259 62548 - unk 1
+NODE_7_length_74628_cov_105.112802_62535_63479_- SRR8247619 NODE_7_length_74628_cov_105.112802 62535 63479 - mkCas0115:csx3 1
+##NODE_68825_length_245_cov_2.873684 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_68825_length_245_cov_2.873684_1_243_- SRR8247619 NODE_68825_length_245_cov_2.873684 1 243 - COG0640:csa3 2
+##NODE_25357_length_711_cov_4.221037 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_25357_length_711_cov_4.221037_147_710_+ SRR8247619 NODE_25357_length_711_cov_4.221037 147 710 + COG2378:WYL 2
+##NODE_3605_length_2900_cov_47.753603 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_3605_length_2900_cov_47.753603_1763_2311_+ SRR8247619 NODE_3605_length_2900_cov_47.753603 1763 2311 + COG0640:csa3 2
+##NODE_13918_length_1224_cov_14.671514 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_13918_length_1224_cov_14.671514_3_470_- SRR8247619 NODE_13918_length_1224_cov_14.671514 3 470 - COG0640:csa3 2
+##NODE_21896_length_826_cov_57.361868 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_21896_length_826_cov_57.361868_341_802_+ SRR8247619 NODE_21896_length_826_cov_57.361868 341 802 + COG0640:csa3 2
+##NODE_44630_length_378_cov_2.882353 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_44630_length_378_cov_2.882353_3_377_+ SRR8247619 NODE_44630_length_378_cov_2.882353 3 377 + COG4804:PD-DExK 2
+##NODE_16844_length_1046_cov_50.051463 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_16844_length_1046_cov_50.051463_301_1044_+ SRR8247619 NODE_16844_length_1046_cov_50.051463 301 1044 + COG4804:PD-DExK 2
+##NODE_32588_length_545_cov_11.497959 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_32588_length_545_cov_11.497959_1_234_- SRR8247619 NODE_32588_length_545_cov_11.497959 1 234 - COG0640:csa3 2
+##NODE_3661_length_2867_cov_75.346728 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_3661_length_2867_cov_75.346728_1812_2684_+ SRR8247619 NODE_3661_length_2867_cov_75.346728 1812 2684 + COG0640:csa3 2
+##NODE_40812_length_419_cov_4.700549 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_40812_length_419_cov_4.700549_2_418_- SRR8247619 NODE_40812_length_419_cov_4.700549 2 418 - COG0640:csa3 2
+##NODE_30628_length_584_cov_15.489603 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_30628_length_584_cov_15.489603_2_583_- SRR8247619 NODE_30628_length_584_cov_15.489603 2 583 - pfam05107:cas7b 2
+##NODE_22226_length_814_cov_18.425560 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_22226_length_814_cov_18.425560_438_812_+ SRR8247619 NODE_22226_length_814_cov_18.425560 438 812 + pfam13280:WYL 2
+##NODE_30966_length_577_cov_11.082375 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_30966_length_577_cov_11.082375_2_574_+ SRR8247619 NODE_30966_length_577_cov_11.082375 2 574 + COG0640:csa3 2
+##NODE_28541_length_629_cov_8.709059 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_28541_length_629_cov_8.709059_2_535_+ SRR8247619 NODE_28541_length_629_cov_8.709059 2 535 + pfam09704:cas5 2
+##NODE_24511_length_736_cov_37.086637 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_24511_length_736_cov_37.086637_507_734_- SRR8247619 NODE_24511_length_736_cov_37.086637 507 734 - pfam13280:WYL 2
+##NODE_11914_length_1372_cov_14.957479 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_11914_length_1372_cov_14.957479_930_1271_+ SRR8247619 NODE_11914_length_1372_cov_14.957479 930 1271 + COG0640:csa3 2
+##NODE_17347_length_1022_cov_24.490176 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_17347_length_1022_cov_24.490176_248_1021_- SRR8247619 NODE_17347_length_1022_cov_24.490176 248 1021 - pfam13280:WYL 2
+##NODE_27553_length_652_cov_27.236181 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_27553_length_652_cov_27.236181_3_650_+ SRR8247619 NODE_27553_length_652_cov_27.236181 3 650 + cd09634:cas1 2
+##NODE_60622_length_271_cov_34.916667 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_60622_length_271_cov_34.916667_1_270_- SRR8247619 NODE_60622_length_271_cov_34.916667 1 270 - cd09726:csm3gr7 2
+##NODE_3442_length_2966_cov_22.864995 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_3442_length_2966_cov_22.864995_2422_2964_+ SRR8247619 NODE_3442_length_2966_cov_22.864995 2422 2964 + COG0640:csa3 2
+##NODE_4276_length_2638_cov_37.770035 3 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_4276_length_2638_cov_37.770035_556_1650_+ SRR8247619 NODE_4276_length_2638_cov_37.770035 556 1650 + pfam09344:cas7 2
+NODE_4276_length_2638_cov_37.770035_1653_2339_+ SRR8247619 NODE_4276_length_2638_cov_37.770035 1653 2339 + pfam09704:cas5 2
+NODE_4276_length_2638_cov_37.770035_2340_2636_+ SRR8247619 NODE_4276_length_2638_cov_37.770035 2340 2636 + pfam08798:cas6e 1
+##NODE_1720_length_4117_cov_16.175037 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_1720_length_4117_cov_16.175037_1942_3669_+ SRR8247619 NODE_1720_length_4117_cov_16.175037 1942 3669 + pfam00078:RT 2
+##NODE_5278_length_2340_cov_39.415755 2 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_5278_length_2340_cov_39.415755_1052_1468_+ SRR8247619 NODE_5278_length_2340_cov_39.415755 1052 1468 + COG0640:csa3 2
+NODE_5278_length_2340_cov_39.415755_1486_2109_+ SRR8247619 NODE_5278_length_2340_cov_39.415755 1486 2109 + xls002255:csx20 1
+##NODE_24626_length_733_cov_22.914454 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_24626_length_733_cov_22.914454_3_644_- SRR8247619 NODE_24626_length_733_cov_22.914454 3 644 - cd06127:DEDDh 2
+##NODE_44088_length_383_cov_6.564024 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_44088_length_383_cov_6.564024_1_381_- SRR8247619 NODE_44088_length_383_cov_6.564024 1 381 - COG4804:PD-DExK 2
+##NODE_30677_length_583_cov_9.331439 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_30677_length_583_cov_9.331439_2_580_- SRR8247619 NODE_30677_length_583_cov_9.331439 2 580 - COG1199:DinG 2
+##NODE_1360_length_4630_cov_20.082842 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_1360_length_4630_cov_20.082842_2686_3981_- SRR8247619 NODE_1360_length_4630_cov_20.082842 2686 3981 - COG4804:PD-DExK 2
+##NODE_29944_length_598_cov_6.604052 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_29944_length_598_cov_6.604052_2_595_- SRR8247619 NODE_29944_length_598_cov_6.604052 2 595 - COG4804:PD-DExK 2
+##NODE_35580_length_491_cov_7.399083 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_35580_length_491_cov_7.399083_1_489_- SRR8247619 NODE_35580_length_491_cov_7.399083 1 489 - pfam13280:WYL 2
+##NODE_55530_length_294_cov_2.581590 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_55530_length_294_cov_2.581590_20_292_- SRR8247619 NODE_55530_length_294_cov_2.581590 20 292 - COG0640:csa3 2
+##NODE_9817_length_1584_cov_22.574886 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_9817_length_1584_cov_22.574886_281_1327_+ SRR8247619 NODE_9817_length_1584_cov_22.574886 281 1327 + COG4804:PD-DExK 2
+##NODE_49643_length_335_cov_1.342857 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_49643_length_335_cov_1.342857_2_334_- SRR8247619 NODE_49643_length_335_cov_1.342857 2 334 - cd06127:DEDDh 2
+##NODE_11750_length_1387_cov_4.352102 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_11750_length_1387_cov_4.352102_3_1385_+ SRR8247619 NODE_11750_length_1387_cov_4.352102 3 1385 + cd06127:DEDDh 2
+##NODE_9274_length_1646_cov_50.409177 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_9274_length_1646_cov_50.409177_1_945_- SRR8247619 NODE_9274_length_1646_cov_50.409177 1 945 - cd06127:DEDDh 2
+##NODE_11674_length_1393_cov_50.390882 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_11674_length_1393_cov_50.390882_3_134_+ SRR8247619 NODE_11674_length_1393_cov_50.390882 3 134 + COG0640:csa3 2
+##NODE_1548_length_4367_cov_62.343924 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_1548_length_4367_cov_62.343924_2087_3070_+ SRR8247619 NODE_1548_length_4367_cov_62.343924 2087 3070 + cd06127:DEDDh 2
+##NODE_1625_length_4252_cov_198.906362 2 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_1625_length_4252_cov_198.906362_2783_3319_+ SRR8247619 NODE_1625_length_4252_cov_198.906362 2783 3319 + mkCas0144:csx19 1
+NODE_1625_length_4252_cov_198.906362_3363_3950_+ SRR8247619 NODE_1625_length_4252_cov_198.906362 3363 3950 + cd06127:DEDDh 2
+##NODE_6536_length_2067_cov_15.200795 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_6536_length_2067_cov_15.200795_1325_1594_- SRR8247619 NODE_6536_length_2067_cov_15.200795 1325 1594 - COG0640:csa3 2
+##NODE_49439_length_336_cov_4.590747 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_49439_length_336_cov_4.590747_1_333_- SRR8247619 NODE_49439_length_336_cov_4.590747 1 333 - COG4804:PD-DExK 2
+##NODE_11231_length_1435_cov_11.350000 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_11231_length_1435_cov_11.350000_2_313_- SRR8247619 NODE_11231_length_1435_cov_11.350000 2 313 - COG0640:csa3 2
+##NODE_36510_length_476_cov_26.714964 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_36510_length_476_cov_26.714964_1_180_+ SRR8247619 NODE_36510_length_476_cov_26.714964 1 180 + COG0640:csa3 2
+##NODE_5004_length_2411_cov_47.977080 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_5004_length_2411_cov_47.977080_1505_2410_- SRR8247619 NODE_5004_length_2411_cov_47.977080 1505 2410 - COG1199:DinG 2
+##NODE_26991_length_667_cov_5.066993 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_26991_length_667_cov_5.066993_3_488_- SRR8247619 NODE_26991_length_667_cov_5.066993 3 488 - COG0640:csa3 2
+##NODE_12387_length_1334_cov_19.487881 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_12387_length_1334_cov_19.487881_945_1331_- SRR8247619 NODE_12387_length_1334_cov_19.487881 945 1331 - COG4804:PD-DExK 2
+##NODE_4540_length_2548_cov_62.819896 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_4540_length_2548_cov_62.819896_52_729_+ SRR8247619 NODE_4540_length_2548_cov_62.819896 52 729 + COG0640:csa3 2
+##NODE_5981_length_2175_cov_5.332075 3 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_5981_length_2175_cov_5.332075_3_614_+ SRR8247619 NODE_5981_length_2175_cov_5.332075 3 614 + pfam05107:cas7b 2
+NODE_5981_length_2175_cov_5.332075_617_1279_+ SRR8247619 NODE_5981_length_2175_cov_5.332075 617 1279 + pfam01930:cas4 2
+NODE_5981_length_2175_cov_5.332075_1276_2172_+ SRR8247619 NODE_5981_length_2175_cov_5.332075 1276 2172 + cd09634:cas1 2
+##NODE_29150_length_615_cov_6.348214 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_29150_length_615_cov_6.348214_1_555_- SRR8247619 NODE_29150_length_615_cov_6.348214 1 555 - COG0640:csa3 2
+##NODE_5122_length_2377_cov_49.905685 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_5122_length_2377_cov_49.905685_249_1274_+ SRR8247619 NODE_5122_length_2377_cov_49.905685 249 1274 + COG0640:csa3 2
+##NODE_38760_length_445_cov_2.476923 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_38760_length_445_cov_2.476923_1_444_- SRR8247619 NODE_38760_length_445_cov_2.476923 1 444 - cd06127:DEDDh 2
+##NODE_2309_length_3608_cov_15.168871 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_2309_length_3608_cov_15.168871_13_774_- SRR8247619 NODE_2309_length_3608_cov_15.168871 13 774 - cd06127:DEDDh 2
+##NODE_284_length_10487_cov_591.412768 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_284_length_10487_cov_591.412768_4809_5960_+ SRR8247619 NODE_284_length_10487_cov_591.412768 4809 5960 + COG4804:PD-DExK 2
+##NODE_3651_length_2871_cov_35.019176 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_3651_length_2871_cov_35.019176_1418_2344_+ SRR8247619 NODE_3651_length_2871_cov_35.019176 1418 2344 + COG2378:WYL 2
+##NODE_8223_length_1784_cov_8.157316 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_8223_length_1784_cov_8.157316_861_1187_+ SRR8247619 NODE_8223_length_1784_cov_8.157316 861 1187 + COG0640:csa3 2
+##NODE_14168_length_1205_cov_45.015652 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_14168_length_1205_cov_45.015652_571_1203_+ SRR8247619 NODE_14168_length_1205_cov_45.015652 571 1203 + COG0640:csa3 2
+##NODE_40779_length_419_cov_11.401099 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_40779_length_419_cov_11.401099_74_397_- SRR8247619 NODE_40779_length_419_cov_11.401099 74 397 - COG0640:csa3 2
+##NODE_2202_length_3691_cov_21.720297 3 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_2202_length_3691_cov_21.720297_380_2071_+ SRR8247619 NODE_2202_length_3691_cov_21.720297 380 2071 + cd09729:cas8e 2
+NODE_2202_length_3691_cov_21.720297_2082_2726_+ SRR8247619 NODE_2202_length_3691_cov_21.720297 2082 2726 + mkCas0194:cse2gr11 2
+NODE_2202_length_3691_cov_21.720297_2719_3690_+ SRR8247619 NODE_2202_length_3691_cov_21.720297 2719 3690 + pfam09344:cas7 2
+##NODE_63638_length_261_cov_3.422330 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_63638_length_261_cov_3.422330_2_259_+ SRR8247619 NODE_63638_length_261_cov_3.422330 2 259 + cd09641:cas3HD 2
+##NODE_22419_length_807_cov_8.393617 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_22419_length_807_cov_8.393617_3_806_+ SRR8247619 NODE_22419_length_807_cov_8.393617 3 806 + COG0640:csa3 2
+##NODE_31868_length_559_cov_9.406746 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_31868_length_559_cov_9.406746_293_556_- SRR8247619 NODE_31868_length_559_cov_9.406746 293 556 - COG0640:csa3 2
+##NODE_43793_length_386_cov_7.344411 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_43793_length_386_cov_7.344411_3_383_- SRR8247619 NODE_43793_length_386_cov_7.344411 3 383 - cd06127:DEDDh 2
+##NODE_18154_length_980_cov_11.605405 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_18154_length_980_cov_11.605405_2_916_- SRR8247619 NODE_18154_length_980_cov_11.605405 2 916 - cd09641:cas3HD 2
+##NODE_4152_length_2677_cov_24.539664 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_4152_length_2677_cov_24.539664_1822_2235_- SRR8247619 NODE_4152_length_2677_cov_24.539664 1822 2235 - COG0640:csa3 2
+##NODE_48916_length_340_cov_6.382456 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_48916_length_340_cov_6.382456_3_260_- SRR8247619 NODE_48916_length_340_cov_6.382456 3 260 - COG0640:csa3 2
+##NODE_326_length_9658_cov_89.971988 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_326_length_9658_cov_89.971988_3_200_+ SRR8247619 NODE_326_length_9658_cov_89.971988 3 200 + COG0640:csa3 2
+##NODE_46397_length_361_cov_10.202614 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_46397_length_361_cov_10.202614_83_358_- SRR8247619 NODE_46397_length_361_cov_10.202614 83 358 - COG0640:csa3 2
+##NODE_57_length_32421_cov_600.340388 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_57_length_32421_cov_600.340388_13968_14711_- SRR8247619 NODE_57_length_32421_cov_600.340388 13968 14711 - cd06127:DEDDh 2
+##NODE_73747_length_232_cov_1.067797 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_73747_length_232_cov_1.067797_3_230_+ SRR8247619 NODE_73747_length_232_cov_1.067797 3 230 + pfam13280:WYL 2
+##NODE_10269_length_1531_cov_10.063686 2 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_10269_length_1531_cov_10.063686_875_1069_- SRR8247619 NODE_10269_length_1531_cov_10.063686 875 1069 - cls001593:casR 1
+NODE_10269_length_1531_cov_10.063686_1108_1530_- SRR8247619 NODE_10269_length_1531_cov_10.063686 1108 1530 - pfam13280:WYL 2
+##NODE_1109_length_5064_cov_32.452785 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_1109_length_5064_cov_32.452785_4085_4558_+ SRR8247619 NODE_1109_length_5064_cov_32.452785 4085 4558 + COG0640:csa3 2
+##NODE_4481_length_2568_cov_5.773577 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_4481_length_2568_cov_5.773577_2113_2565_- SRR8247619 NODE_4481_length_2568_cov_5.773577 2113 2565 - COG0640:csa3 2
+##NODE_9973_length_1567_cov_20.190476 2 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_9973_length_1567_cov_20.190476_3_632_+ SRR8247619 NODE_9973_length_1567_cov_20.190476 3 632 + pfam13280:WYL 2
+NODE_9973_length_1567_cov_20.190476_676_1416_+ SRR8247619 NODE_9973_length_1567_cov_20.190476 676 1416 + pfam13280:WYL 1
+##NODE_15740_length_1108_cov_5.750237 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_15740_length_1108_cov_5.750237_2_1105_- SRR8247619 NODE_15740_length_1108_cov_5.750237 2 1105 - pfam00078:RT 2
+##NODE_16710_length_1053_cov_7.622244 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_16710_length_1053_cov_7.622244_3_797_- SRR8247619 NODE_16710_length_1053_cov_7.622244 3 797 - cd09641:cas3HD 2
+##NODE_28598_length_628_cov_4.825480 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_28598_length_628_cov_4.825480_416_625_- SRR8247619 NODE_28598_length_628_cov_4.825480 416 625 - COG0640:csa3 2
+##NODE_7062_length_1964_cov_88.942902 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_7062_length_1964_cov_88.942902_38_406_+ SRR8247619 NODE_7062_length_1964_cov_88.942902 38 406 + COG0640:csa3 2
+##NODE_48389_length_345_cov_1.389655 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_48389_length_345_cov_1.389655_162_344_- SRR8247619 NODE_48389_length_345_cov_1.389655 162 344 - pfam13280:WYL 2
+##NODE_275_length_10662_cov_67.376827 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_275_length_10662_cov_67.376827_5700_6044_+ SRR8247619 NODE_275_length_10662_cov_67.376827 5700 6044 + COG0640:csa3 2
+##NODE_6859_length_2002_cov_30.080123 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_6859_length_2002_cov_30.080123_297_1517_- SRR8247619 NODE_6859_length_2002_cov_30.080123 297 1517 - pfam13280:WYL 2
+##NODE_13002_length_1286_cov_41.572705 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_13002_length_1286_cov_41.572705_816_1106_- SRR8247619 NODE_13002_length_1286_cov_41.572705 816 1106 - COG0640:csa3 2
+##NODE_2791_length_3296_cov_40.438753 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_2791_length_3296_cov_40.438753_170_2038_+ SRR8247619 NODE_2791_length_3296_cov_40.438753 170 2038 + pfam00078:RT 2
+##NODE_29881_length_599_cov_5.204044 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_29881_length_599_cov_5.204044_2_598_+ SRR8247619 NODE_29881_length_599_cov_5.204044 2 598 + COG4804:PD-DExK 2
+##NODE_5684_length_2238_cov_30.288136 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_5684_length_2238_cov_30.288136_489_950_+ SRR8247619 NODE_5684_length_2238_cov_30.288136 489 950 + COG4804:PD-DExK 2
+##NODE_67260_length_250_cov_1.476923 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_67260_length_250_cov_1.476923_3_209_- SRR8247619 NODE_67260_length_250_cov_1.476923 3 209 - COG0640:csa3 2
+##NODE_15804_length_1104_cov_20.417541 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_15804_length_1104_cov_20.417541_2_1102_- SRR8247619 NODE_15804_length_1104_cov_20.417541 2 1102 - COG4804:PD-DExK 2
+##NODE_236_length_11872_cov_330.325802 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_236_length_11872_cov_330.325802_9352_11859_- SRR8247619 NODE_236_length_11872_cov_330.325802 9352 11859 - COG1199:DinG 2
+##NODE_10879_length_1467_cov_44.844901 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_10879_length_1467_cov_44.844901_310_1464_+ SRR8247619 NODE_10879_length_1467_cov_44.844901 310 1464 + COG1199:DinG 2
+##NODE_30668_length_583_cov_16.585227 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_30668_length_583_cov_16.585227_1_240_- SRR8247619 NODE_30668_length_583_cov_16.585227 1 240 - COG0640:csa3 2
+##NODE_64769_length_257_cov_5.029703 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_64769_length_257_cov_5.029703_5_256_- SRR8247619 NODE_64769_length_257_cov_5.029703 5 256 - cd09725:cas2 2
+##NODE_1309_length_4730_cov_245.139465 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_1309_length_4730_cov_245.139465_1122_1565_+ SRR8247619 NODE_1309_length_4730_cov_245.139465 1122 1565 + COG0640:csa3 2
+##NODE_70589_length_240_cov_3.091892 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_70589_length_240_cov_3.091892_38_238_- SRR8247619 NODE_70589_length_240_cov_3.091892 38 238 - COG0640:csa3 2
+##NODE_3059_length_3151_cov_56.178941 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_3059_length_3151_cov_56.178941_1688_3148_- SRR8247619 NODE_3059_length_3151_cov_56.178941 1688 3148 - COG1199:DinG 2
+##NODE_5143_length_2372_cov_15.287009 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_5143_length_2372_cov_15.287009_3_1544_- SRR8247619 NODE_5143_length_2372_cov_15.287009 3 1544 - cd06127:DEDDh 2
+##NODE_663_length_6442_cov_15.294035 3 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_663_length_6442_cov_15.294035_1303_4632_+ SRR8247619 NODE_663_length_6442_cov_15.294035 1303 4632 + cd09643:cas9 1
+NODE_663_length_6442_cov_15.294035_4625_5536_+ SRR8247619 NODE_663_length_6442_cov_15.294035 4625 5536 + pfam01867:cas1 2
+NODE_663_length_6442_cov_15.294035_5541_5846_+ SRR8247619 NODE_663_length_6442_cov_15.294035 5541 5846 + pfam09827:cas2 2
+##NODE_1694_length_4165_cov_63.876886 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_1694_length_4165_cov_63.876886_198_560_+ SRR8247619 NODE_1694_length_4165_cov_63.876886 198 560 + COG0640:csa3 2
+##NODE_309_length_9916_cov_43.841801 4 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_309_length_9916_cov_43.841801_2_817_- SRR8247619 NODE_309_length_9916_cov_43.841801 2 817 - pfam05107:cas7b 2
+NODE_309_length_9916_cov_43.841801_810_2714_- SRR8247619 NODE_309_length_9916_cov_43.841801 810 2714 - cd09757:cas8c 1
+NODE_309_length_9916_cov_43.841801_2727_3455_- SRR8247619 NODE_309_length_9916_cov_43.841801 2727 3455 - pfam09704:cas5 2
+NODE_309_length_9916_cov_43.841801_3588_6131_- SRR8247619 NODE_309_length_9916_cov_43.841801 3588 6131 - cd09641:cas3HD 2
+##NODE_2527_length_3456_cov_31.763011 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_2527_length_3456_cov_31.763011_3125_3454_- SRR8247619 NODE_2527_length_3456_cov_31.763011 3125 3454 - COG0640:csa3 2
+##NODE_2933_length_3222_cov_58.544680 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_2933_length_3222_cov_58.544680_2221_3048_- SRR8247619 NODE_2933_length_3222_cov_58.544680 2221 3048 - COG0640:csa3 2
+##NODE_34_length_42037_cov_573.236554 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_34_length_42037_cov_573.236554_40558_41787_- SRR8247619 NODE_34_length_42037_cov_573.236554 40558 41787 - COG0640:csa3 2
+##NODE_33320_length_531_cov_8.445378 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_33320_length_531_cov_8.445378_66_530_- SRR8247619 NODE_33320_length_531_cov_8.445378 66 530 - COG4804:PD-DExK 2
+##NODE_54599_length_300_cov_1.820408 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_54599_length_300_cov_1.820408_76_297_+ SRR8247619 NODE_54599_length_300_cov_1.820408 76 297 + COG0640:csa3 2
+##NODE_2378_length_3556_cov_64.424165 3 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_2378_length_3556_cov_64.424165_205_2760_+ SRR8247619 NODE_2378_length_3556_cov_64.424165 205 2760 + cd09680:cas10 2
+NODE_2378_length_3556_cov_64.424165_2771_3283_+ SRR8247619 NODE_2378_length_3556_cov_64.424165 2771 3283 + cd09647:csm2gr11 1
+NODE_2378_length_3556_cov_64.424165_3296_3553_+ SRR8247619 NODE_2378_length_3556_cov_64.424165 3296 3553 + cd09726:csm3gr7 2
+##NODE_1050_length_5210_cov_20.646751 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_1050_length_5210_cov_20.646751_3534_5207_+ SRR8247619 NODE_1050_length_5210_cov_20.646751 3534 5207 + pfam08800:PrimPol 2
+##NODE_12743_length_1305_cov_22.484000 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_12743_length_1305_cov_22.484000_485_1174_- SRR8247619 NODE_12743_length_1305_cov_22.484000 485 1174 - COG0640:csa3 2
+##NODE_29713_length_602_cov_37.895795 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_29713_length_602_cov_37.895795_173_478_- SRR8247619 NODE_29713_length_602_cov_37.895795 173 478 - pfam09827:cas2 2
+##NODE_74023_length_231_cov_1.823864 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_74023_length_231_cov_1.823864_3_230_+ SRR8247619 NODE_74023_length_231_cov_1.823864 3 230 + COG0640:csa3 2
+##NODE_4976_length_2418_cov_28.414727 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_4976_length_2418_cov_28.414727_2_943_- SRR8247619 NODE_4976_length_2418_cov_28.414727 2 943 - pfam00078:RT 2
+##NODE_28208_length_637_cov_9.814433 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_28208_length_637_cov_9.814433_3_635_- SRR8247619 NODE_28208_length_637_cov_9.814433 3 635 - COG1199:DinG 2
+##NODE_18018_length_988_cov_7.235798 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_18018_length_988_cov_7.235798_3_932_- SRR8247619 NODE_18018_length_988_cov_7.235798 3 932 - COG0640:csa3 2
+##NODE_10669_length_1489_cov_39.396095 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_10669_length_1489_cov_39.396095_1093_1488_- SRR8247619 NODE_10669_length_1489_cov_39.396095 1093 1488 - COG0640:csa3 2
+##NODE_11159_length_1441_cov_10.032468 3 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_11159_length_1441_cov_10.032468_517_735_+ SRR8247619 NODE_11159_length_1441_cov_10.032468 517 735 + COG0640:csa3 2
+NODE_11159_length_1441_cov_10.032468_732_1016_+ SRR8247619 NODE_11159_length_1441_cov_10.032468 732 1016 + cd09655:casR 1
+NODE_11159_length_1441_cov_10.032468_1013_1438_+ SRR8247619 NODE_11159_length_1441_cov_10.032468 1013 1438 + COG0640:csa3 1
+##NODE_30403_length_589_cov_14.500000 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_30403_length_589_cov_14.500000_3_587_+ SRR8247619 NODE_30403_length_589_cov_14.500000 3 587 + cd06127:DEDDh 2
+##NODE_649_length_6529_cov_71.789157 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_649_length_6529_cov_71.789157_2190_2630_+ SRR8247619 NODE_649_length_6529_cov_71.789157 2190 2630 + COG0640:csa3 2
+##NODE_65163_length_256_cov_2.800995 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_65163_length_256_cov_2.800995_2_253_+ SRR8247619 NODE_65163_length_256_cov_2.800995 2 253 + pfam00078:RT 2
+##NODE_22_length_50597_cov_110.192948 8 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_22_length_50597_cov_110.192948_26110_26868_+ SRR8247619 NODE_22_length_50597_cov_110.192948 26110 26868 + pfam10040:cas6 2
+NODE_22_length_50597_cov_110.192948_26912_29194_+ SRR8247619 NODE_22_length_50597_cov_110.192948 26912 29194 + cd09680:cas10 2
+NODE_22_length_50597_cov_110.192948_29197_29613_+ SRR8247619 NODE_22_length_50597_cov_110.192948 29197 29613 + cd09647:csm2gr11 1
+NODE_22_length_50597_cov_110.192948_29616_30269_+ SRR8247619 NODE_22_length_50597_cov_110.192948 29616 30269 + COG1337:csm3gr7 2
+NODE_22_length_50597_cov_110.192948_30274_31191_+ SRR8247619 NODE_22_length_50597_cov_110.192948 30274 31191 + cd09663:csm4gr5 1
+NODE_22_length_50597_cov_110.192948_31197_32633_+ SRR8247619 NODE_22_length_50597_cov_110.192948 31197 32633 + pfam03787:csm3gr7 2
+NODE_22_length_50597_cov_110.192948_32635_33918_+ SRR8247619 NODE_22_length_50597_cov_110.192948 32635 33918 + pfam09659:csm6 1
+NODE_22_length_50597_cov_110.192948_33939_34961_+ SRR8247619 NODE_22_length_50597_cov_110.192948 33939 34961 + cd09634:cas1 2
+##NODE_4329_length_2614_cov_44.312231 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_4329_length_2614_cov_44.312231_3_1280_- SRR8247619 NODE_4329_length_2614_cov_44.312231 3 1280 - cd06127:DEDDh 2
+##NODE_1356_length_4632_cov_801.360061 3 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_1356_length_4632_cov_801.360061_2103_2582_- SRR8247619 NODE_1356_length_4632_cov_801.360061 2103 2582 - pfam09827:cas2 2
+NODE_1356_length_4632_cov_801.360061_2599_3606_- SRR8247619 NODE_1356_length_4632_cov_801.360061 2599 3606 - pfam08800:PrimPol 1
+NODE_1356_length_4632_cov_801.360061_3609_4631_- SRR8247619 NODE_1356_length_4632_cov_801.360061 3609 4631 - pfam01867:cas1 2
+##NODE_47922_length_348_cov_11.866894 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_47922_length_348_cov_11.866894_1_345_+ SRR8247619 NODE_47922_length_348_cov_11.866894 1 345 + pfam00078:RT 2
+##NODE_5824_length_2211_cov_64.551020 3 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_5824_length_2211_cov_64.551020_2_475_+ SRR8247619 NODE_5824_length_2211_cov_64.551020 2 475 + COG1518:cas1 2
+NODE_5824_length_2211_cov_64.551020_487_816_+ SRR8247619 NODE_5824_length_2211_cov_64.551020 487 816 + cd09638:cas2 2
+NODE_5824_length_2211_cov_64.551020_806_1468_+ SRR8247619 NODE_5824_length_2211_cov_64.551020 806 1468 + cd09758:csn2 2
+##NODE_15246_length_1138_cov_6.672207 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_15246_length_1138_cov_6.672207_103_471_- SRR8247619 NODE_15246_length_1138_cov_6.672207 103 471 - COG0640:csa3 2
+##NODE_554_length_7125_cov_62.869873 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_554_length_7125_cov_62.869873_6327_6956_- SRR8247619 NODE_554_length_7125_cov_62.869873 6327 6956 - cd06127:DEDDh 2
+##NODE_55649_length_293_cov_5.037815 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_55649_length_293_cov_5.037815_1_291_- SRR8247619 NODE_55649_length_293_cov_5.037815 1 291 - COG0640:csa3 2
+##NODE_72399_length_235_cov_3.194444 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_72399_length_235_cov_3.194444_2_232_- SRR8247619 NODE_72399_length_235_cov_3.194444 2 232 - cd06127:DEDDh 2
+##NODE_44140_length_383_cov_1.588415 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_44140_length_383_cov_1.588415_2_382_- SRR8247619 NODE_44140_length_383_cov_1.588415 2 382 - pfam09704:cas5 2
+##NODE_55_length_32992_cov_256.361205 2 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_55_length_32992_cov_256.361205_9223_11334_+ SRR8247619 NODE_55_length_32992_cov_256.361205 9223 11334 + COG1203:cas3 2
+NODE_55_length_32992_cov_256.361205_11544_12194_+ SRR8247619 NODE_55_length_32992_cov_256.361205 11544 12194 + pfam09704:cas5 2
+##NODE_21235_length_850_cov_6.411321 2 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_21235_length_850_cov_6.411321_2_670_+ SRR8247619 NODE_21235_length_850_cov_6.411321 2 670 + cd09634:cas1 2
+NODE_21235_length_850_cov_6.411321_675_848_+ SRR8247619 NODE_21235_length_850_cov_6.411321 675 848 + pfam09827:cas2 2
+##NODE_19533_length_920_cov_11.824277 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_19533_length_920_cov_11.824277_1_918_- SRR8247619 NODE_19533_length_920_cov_11.824277 1 918 - pfam08800:PrimPol 2
+##NODE_79927_length_217_cov_1.086420 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_79927_length_217_cov_1.086420_1_216_- SRR8247619 NODE_79927_length_217_cov_1.086420 1 216 - COG0640:csa3 2
+##NODE_984_length_5368_cov_48.861284 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_984_length_5368_cov_48.861284_139_1437_+ SRR8247619 NODE_984_length_5368_cov_48.861284 139 1437 + COG4804:PD-DExK 2
+##NODE_2027_length_3828_cov_17.586006 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_2027_length_3828_cov_17.586006_2980_3825_+ SRR8247619 NODE_2027_length_3828_cov_17.586006 2980 3825 + cd06127:DEDDh 2
+##NODE_24707_length_730_cov_39.448889 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_24707_length_730_cov_39.448889_325_729_- SRR8247619 NODE_24707_length_730_cov_39.448889 325 729 - cd06127:DEDDh 2
+##NODE_54982_length_297_cov_7.756198 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_54982_length_297_cov_7.756198_1_294_- SRR8247619 NODE_54982_length_297_cov_7.756198 1 294 - pfam00078:RT 2
+##NODE_4729_length_2494_cov_747.352194 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_4729_length_2494_cov_747.352194_15_1826_- SRR8247619 NODE_4729_length_2494_cov_747.352194 15 1826 - pfam00078:RT 2
+##NODE_3483_length_2949_cov_38.374223 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_3483_length_2949_cov_38.374223_2066_2854_- SRR8247619 NODE_3483_length_2949_cov_38.374223 2066 2854 - COG0640:csa3 2
+##NODE_15795_length_1104_cov_220.722593 2 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_15795_length_1104_cov_220.722593_3_686_- SRR8247619 NODE_15795_length_1104_cov_220.722593 3 686 - pfam05107:cas7b 2
+NODE_15795_length_1104_cov_220.722593_698_1102_- SRR8247619 NODE_15795_length_1104_cov_220.722593 698 1102 - pfam09709:cas8c 1
+##NODE_56999_length_287_cov_2.129310 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_56999_length_287_cov_2.129310_3_284_- SRR8247619 NODE_56999_length_287_cov_2.129310 3 284 - pfam13280:WYL 2
+##NODE_18700_length_955_cov_15.078889 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_18700_length_955_cov_15.078889_1_954_- SRR8247619 NODE_18700_length_955_cov_15.078889 1 954 - cd06127:DEDDh 2
+##NODE_71086_length_239_cov_1.266304 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_71086_length_239_cov_1.266304_1_237_+ SRR8247619 NODE_71086_length_239_cov_1.266304 1 237 + COG0640:csa3 2
+##NODE_13446_length_1255_cov_13.087500 2 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_13446_length_1255_cov_13.087500_112_849_+ SRR8247619 NODE_13446_length_1255_cov_13.087500 112 849 + cd09693:cas5 2
+NODE_13446_length_1255_cov_13.087500_977_1252_+ SRR8247619 NODE_13446_length_1255_cov_13.087500 977 1252 + cd09641:cas3HD 1
+##NODE_30054_length_596_cov_3.290203 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_30054_length_596_cov_3.290203_309_593_+ SRR8247619 NODE_30054_length_596_cov_3.290203 309 593 + COG0640:csa3 2
+##NODE_30503_length_587_cov_7.821429 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_30503_length_587_cov_7.821429_93_548_+ SRR8247619 NODE_30503_length_587_cov_7.821429 93 548 + COG0640:csa3 2
+##NODE_17601_length_1010_cov_5.001047 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_17601_length_1010_cov_5.001047_3_365_+ SRR8247619 NODE_17601_length_1010_cov_5.001047 3 365 + COG0640:csa3 2
+##NODE_37888_length_456_cov_56.536160 2 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_37888_length_456_cov_56.536160_1_300_+ SRR8247619 NODE_37888_length_456_cov_56.536160 1 300 + pfam09827:cas2 2
+NODE_37888_length_456_cov_56.536160_297_455_+ SRR8247619 NODE_37888_length_456_cov_56.536160 297 455 + cd09644:csn2 1
+##NODE_38383_length_450_cov_4.802532 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_38383_length_450_cov_4.802532_3_449_- SRR8247619 NODE_38383_length_450_cov_4.802532 3 449 - COG0640:csa3 2
+##NODE_6737_length_2029_cov_41.868794 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_6737_length_2029_cov_41.868794_3_821_- SRR8247619 NODE_6737_length_2029_cov_41.868794 3 821 - pfam00078:RT 2
+##NODE_1185_length_4953_cov_123.464067 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_1185_length_4953_cov_123.464067_1284_4952_- SRR8247619 NODE_1185_length_4953_cov_123.464067 1284 4952 - cd06127:DEDDh 2
+##NODE_6357_length_2101_cov_40.517107 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_6357_length_2101_cov_40.517107_659_997_+ SRR8247619 NODE_6357_length_2101_cov_40.517107 659 997 + COG0640:csa3 2
+##NODE_11667_length_1394_cov_12.287528 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_11667_length_1394_cov_12.287528_559_1221_+ SRR8247619 NODE_11667_length_1394_cov_12.287528 559 1221 + COG1337:csm3gr7 2
+##NODE_44986_length_374_cov_6.131661 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_44986_length_374_cov_6.131661_2_373_+ SRR8247619 NODE_44986_length_374_cov_6.131661 2 373 + COG0640:csa3 2
+##NODE_19683_length_913_cov_33.080420 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_19683_length_913_cov_33.080420_198_578_+ SRR8247619 NODE_19683_length_913_cov_33.080420 198 578 + COG0640:csa3 2
+##NODE_7723_length_1856_cov_67.622432 2 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_7723_length_1856_cov_67.622432_512_1282_+ SRR8247619 NODE_7723_length_1856_cov_67.622432 512 1282 + pfam10040:cas6 2
+NODE_7723_length_1856_cov_67.622432_1279_1854_+ SRR8247619 NODE_7723_length_1856_cov_67.622432 1279 1854 + cd09746:csm6 1
+##NODE_24961_length_723_cov_18.224551 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_24961_length_723_cov_18.224551_57_683_+ SRR8247619 NODE_24961_length_723_cov_18.224551 57 683 + pfam08800:PrimPol 2
+##NODE_71168_length_239_cov_0.934783 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_71168_length_239_cov_0.934783_3_233_+ SRR8247619 NODE_71168_length_239_cov_0.934783 3 233 + cd09725:cas2 2
+##NODE_64078_length_259_cov_26.735294 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_64078_length_259_cov_26.735294_2_256_+ SRR8247619 NODE_64078_length_259_cov_26.735294 2 256 + cd09726:csm3gr7 2
+##NODE_19611_length_917_cov_10.703016 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_19611_length_917_cov_10.703016_104_406_+ SRR8247619 NODE_19611_length_917_cov_10.703016 104 406 + COG0640:csa3 2
+##NODE_14696_length_1171_cov_9.000896 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_14696_length_1171_cov_9.000896_324_650_- SRR8247619 NODE_14696_length_1171_cov_9.000896 324 650 - COG0640:csa3 2
+##NODE_18370_length_970_cov_4.954098 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_18370_length_970_cov_4.954098_3_968_+ SRR8247619 NODE_18370_length_970_cov_4.954098 3 968 + COG1199:DinG 2
+##NODE_30838_length_580_cov_6.074286 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_30838_length_580_cov_6.074286_137_577_- SRR8247619 NODE_30838_length_580_cov_6.074286 137 577 - COG0640:csa3 2
+##NODE_24054_length_750_cov_17.149640 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_24054_length_750_cov_17.149640_1_747_- SRR8247619 NODE_24054_length_750_cov_17.149640 1 747 - cd06127:DEDDh 2
+##NODE_53753_length_305_cov_6.272000 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_53753_length_305_cov_6.272000_1_303_- SRR8247619 NODE_53753_length_305_cov_6.272000 1 303 - COG4804:PD-DExK 2
+##NODE_14654_length_1174_cov_10.332440 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_14654_length_1174_cov_10.332440_2_1171_- SRR8247619 NODE_14654_length_1174_cov_10.332440 2 1171 - cd06127:DEDDh 2
+##NODE_6255_length_2121_cov_47.563408 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_6255_length_2121_cov_47.563408_1548_1958_+ SRR8247619 NODE_6255_length_2121_cov_47.563408 1548 1958 + COG0640:csa3 2
+##NODE_41292_length_414_cov_1.718663 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_41292_length_414_cov_1.718663_1_306_+ SRR8247619 NODE_41292_length_414_cov_1.718663 1 306 + COG0640:csa3 2
+##NODE_11714_length_1390_cov_44.389513 2 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_11714_length_1390_cov_44.389513_2_499_+ SRR8247619 NODE_11714_length_1390_cov_44.389513 2 499 + cash11:cash11 1
+NODE_11714_length_1390_cov_44.389513_499_1371_+ SRR8247619 NODE_11714_length_1390_cov_44.389513 499 1371 + cd09720:cas1 2
+##NODE_4612_length_2530_cov_13.740606 3 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_4612_length_2530_cov_13.740606_50_673_+ SRR8247619 NODE_4612_length_2530_cov_13.740606 50 673 + COG0640:csa3 2
+NODE_4612_length_2530_cov_13.740606_663_1496_+ SRR8247619 NODE_4612_length_2530_cov_13.740606 663 1496 + unk 1
+NODE_4612_length_2530_cov_13.740606_1505_2530_+ SRR8247619 NODE_4612_length_2530_cov_13.740606 1505 2530 + cd09641:cas3HD 1
+##NODE_877_length_5713_cov_22.851714 4 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_877_length_5713_cov_22.851714_1_1863_+ SRR8247619 NODE_877_length_5713_cov_22.851714 1 1863 + mkCas0193:cas9 1
+NODE_877_length_5713_cov_22.851714_1860_2744_+ SRR8247619 NODE_877_length_5713_cov_22.851714 1860 2744 + cd09720:cas1 2
+NODE_877_length_5713_cov_22.851714_2701_3054_+ SRR8247619 NODE_877_length_5713_cov_22.851714 2701 3054 + pfam09827:cas2 2
+NODE_877_length_5713_cov_22.851714_3051_3716_+ SRR8247619 NODE_877_length_5713_cov_22.851714 3051 3716 + cd09644:csn2 1
+##NODE_42489_length_400_cov_2.069565 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_42489_length_400_cov_2.069565_3_398_+ SRR8247619 NODE_42489_length_400_cov_2.069565 3 398 + cd09634:cas1 2
+##NODE_26237_length_685_cov_13.763492 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_26237_length_685_cov_13.763492_169_684_- SRR8247619 NODE_26237_length_685_cov_13.763492 169 684 - cd06127:DEDDh 2
+##NODE_11545_length_1406_cov_1278.590674 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_11545_length_1406_cov_1278.590674_92_1372_+ SRR8247619 NODE_11545_length_1406_cov_1278.590674 92 1372 + pfam00078:RT 2
+##NODE_5991_length_2173_cov_31.777620 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_5991_length_2173_cov_31.777620_2_1084_- SRR8247619 NODE_5991_length_2173_cov_31.777620 2 1084 - COG4804:PD-DExK 2
+##NODE_13611_length_1243_cov_166.144781 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_13611_length_1243_cov_166.144781_984_1241_+ SRR8247619 NODE_13611_length_1243_cov_166.144781 984 1241 + COG0640:csa3 2
+##NODE_21403_length_844_cov_9.499366 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_21403_length_844_cov_9.499366_2_841_+ SRR8247619 NODE_21403_length_844_cov_9.499366 2 841 + COG1199:DinG 2
+##NODE_35038_length_500_cov_8.244944 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_35038_length_500_cov_8.244944_3_497_- SRR8247619 NODE_35038_length_500_cov_8.244944 3 497 - cd06127:DEDDh 2
+##NODE_29_length_46137_cov_232.877631 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_29_length_46137_cov_232.877631_33329_34123_+ SRR8247619 NODE_29_length_46137_cov_232.877631 33329 34123 + COG0640:csa3 2
+##NODE_29667_length_604_cov_2.386157 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_29667_length_604_cov_2.386157_24_413_+ SRR8247619 NODE_29667_length_604_cov_2.386157 24 413 + COG0640:csa3 2
+##NODE_35504_length_492_cov_8.883295 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_35504_length_492_cov_8.883295_248_490_+ SRR8247619 NODE_35504_length_492_cov_8.883295 248 490 + COG0640:csa3 2
+##NODE_10246_length_1534_cov_16.232590 2 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_10246_length_1534_cov_16.232590_3_482_- SRR8247619 NODE_10246_length_1534_cov_16.232590 3 482 - cd09641:cas3HD 2
+NODE_10246_length_1534_cov_16.232590_489_1532_- SRR8247619 NODE_10246_length_1534_cov_16.232590 489 1532 - cd09693:cas5 2
+##NODE_4621_length_2525_cov_38.900810 2 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_4621_length_2525_cov_38.900810_696_1748_+ SRR8247619 NODE_4621_length_2525_cov_38.900810 696 1748 + pfam00078:RT 2
+NODE_4621_length_2525_cov_38.900810_1783_2349_+ SRR8247619 NODE_4621_length_2525_cov_38.900810 1783 2349 + cd09643:cas9 1
+##NODE_279_length_10576_cov_393.497481 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_279_length_10576_cov_393.497481_10297_10575_+ SRR8247619 NODE_279_length_10576_cov_393.497481 10297 10575 + cd09641:cas3HD 2
+##NODE_968_length_5404_cov_46.481959 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_968_length_5404_cov_46.481959_3437_3871_- SRR8247619 NODE_968_length_5404_cov_46.481959 3437 3871 - COG0640:csa3 2
+##NODE_49743_length_334_cov_2.064516 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_49743_length_334_cov_2.064516_2_331_+ SRR8247619 NODE_49743_length_334_cov_2.064516 2 331 + COG4804:PD-DExK 2
+##NODE_4328_length_2615_cov_51.174609 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_4328_length_2615_cov_51.174609_1414_2472_+ SRR8247619 NODE_4328_length_2615_cov_51.174609 1414 2472 + cd06127:DEDDh 2
+##NODE_2427_length_3521_cov_27.456145 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_2427_length_3521_cov_27.456145_313_873_+ SRR8247619 NODE_2427_length_3521_cov_27.456145 313 873 + COG0640:csa3 2
+##NODE_1707_length_4140_cov_22.623011 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_1707_length_4140_cov_22.623011_2601_3545_- SRR8247619 NODE_1707_length_4140_cov_22.623011 2601 3545 - pfam13280:WYL 2
+##NODE_24037_length_751_cov_4.900862 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_24037_length_751_cov_4.900862_3_749_- SRR8247619 NODE_24037_length_751_cov_4.900862 3 749 - cd06127:DEDDh 2
+##NODE_22170_length_816_cov_21.684625 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_22170_length_816_cov_21.684625_1_765_- SRR8247619 NODE_22170_length_816_cov_21.684625 1 765 - cd09720:cas1 2
+##NODE_148_length_16381_cov_1199.289538 4 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_148_length_16381_cov_1199.289538_2566_3531_+ SRR8247619 NODE_148_length_16381_cov_1199.289538 2566 3531 + pfam13280:WYL 2
+NODE_148_length_16381_cov_1199.289538_3531_4052_+ SRR8247619 NODE_148_length_16381_cov_1199.289538 3531 4052 + cd06127:DEDDh 2
+NODE_148_length_16381_cov_1199.289538_10904_11869_+ SRR8247619 NODE_148_length_16381_cov_1199.289538 10904 11869 + pfam13280:WYL 2
+NODE_148_length_16381_cov_1199.289538_11869_12390_+ SRR8247619 NODE_148_length_16381_cov_1199.289538 11869 12390 + cd06127:DEDDh 2
+##NODE_30152_length_594_cov_5.257885 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_30152_length_594_cov_5.257885_1_591_+ SRR8247619 NODE_30152_length_594_cov_5.257885 1 591 + COG1199:DinG 2
+##NODE_35809_length_488_cov_2.720554 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_35809_length_488_cov_2.720554_70_486_+ SRR8247619 NODE_35809_length_488_cov_2.720554 70 486 + COG0640:csa3 2
+##NODE_13246_length_1269_cov_9.163921 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_13246_length_1269_cov_9.163921_642_1268_+ SRR8247619 NODE_13246_length_1269_cov_9.163921 642 1268 + COG4804:PD-DExK 2
+##NODE_32073_length_555_cov_10.110000 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_32073_length_555_cov_10.110000_2_553_+ SRR8247619 NODE_32073_length_555_cov_10.110000 2 553 + pfam13280:WYL 2
+##NODE_2083_length_3784_cov_21.927058 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_2083_length_3784_cov_21.927058_2299_2646_+ SRR8247619 NODE_2083_length_3784_cov_21.927058 2299 2646 + COG0640:csa3 2
+##NODE_44613_length_378_cov_4.510836 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_44613_length_378_cov_4.510836_1_375_+ SRR8247619 NODE_44613_length_378_cov_4.510836 1 375 + cd06127:DEDDh 2
+##NODE_45344_length_371_cov_4.291139 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_45344_length_371_cov_4.291139_15_329_- SRR8247619 NODE_45344_length_371_cov_4.291139 15 329 - COG0640:csa3 2
+##NODE_10277_length_1530_cov_13.756610 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_10277_length_1530_cov_13.756610_1026_1382_- SRR8247619 NODE_10277_length_1530_cov_13.756610 1026 1382 - pfam13280:WYL 2
+##NODE_58077_length_282_cov_2.017621 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_58077_length_282_cov_2.017621_2_280_+ SRR8247619 NODE_58077_length_282_cov_2.017621 2 280 + COG0640:csa3 2
+##NODE_422_length_8173_cov_42.940256 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_422_length_8173_cov_42.940256_6717_7994_+ SRR8247619 NODE_422_length_8173_cov_42.940256 6717 7994 + COG0640:csa3 2
+##NODE_13999_length_1218_cov_21.628547 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_13999_length_1218_cov_21.628547_16_1110_- SRR8247619 NODE_13999_length_1218_cov_21.628547 16 1110 - COG4804:PD-DExK 2
+##NODE_7479_length_1892_cov_8.416440 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_7479_length_1892_cov_8.416440_296_793_+ SRR8247619 NODE_7479_length_1892_cov_8.416440 296 793 + cd06127:DEDDh 2
+##NODE_10564_length_1499_cov_10.735457 2 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_10564_length_1499_cov_10.735457_119_1006_+ SRR8247619 NODE_10564_length_1499_cov_10.735457 119 1006 + cd09720:cas1 2
+NODE_10564_length_1499_cov_10.735457_1051_1341_+ SRR8247619 NODE_10564_length_1499_cov_10.735457 1051 1341 + pfam09827:cas2 2
+##NODE_76002_length_226_cov_1.122807 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_76002_length_226_cov_1.122807_2_190_- SRR8247619 NODE_76002_length_226_cov_1.122807 2 190 - COG0640:csa3 2
+##NODE_63043_length_263_cov_3.677885 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_63043_length_263_cov_3.677885_2_262_- SRR8247619 NODE_63043_length_263_cov_3.677885 2 262 - COG0640:csa3 2
+##NODE_39010_length_441_cov_15.670984 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_39010_length_441_cov_15.670984_1_375_+ SRR8247619 NODE_39010_length_441_cov_15.670984 1 375 + pfam13280:WYL 2
+##NODE_27909_length_644_cov_5.251273 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_27909_length_644_cov_5.251273_2_472_+ SRR8247619 NODE_27909_length_644_cov_5.251273 2 472 + COG0640:csa3 2
+##NODE_11551_length_1406_cov_15.206514 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_11551_length_1406_cov_15.206514_3_1244_- SRR8247619 NODE_11551_length_1406_cov_15.206514 3 1244 - pfam13280:WYL 2
+##NODE_8477_length_1749_cov_8.914404 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_8477_length_1749_cov_8.914404_520_1209_- SRR8247619 NODE_8477_length_1749_cov_8.914404 520 1209 - cd06127:DEDDh 2
+##NODE_19574_length_919_cov_6.103009 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_19574_length_919_cov_6.103009_76_666_- SRR8247619 NODE_19574_length_919_cov_6.103009 76 666 - cd06127:DEDDh 2
+##NODE_10891_length_1466_cov_16.025514 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_10891_length_1466_cov_16.025514_696_1463_- SRR8247619 NODE_10891_length_1466_cov_16.025514 696 1463 - pfam13280:WYL 2
+##NODE_10090_length_1554_cov_10.775183 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_10090_length_1554_cov_10.775183_539_1228_- SRR8247619 NODE_10090_length_1554_cov_10.775183 539 1228 - cd06127:DEDDh 2
+##NODE_3444_length_2965_cov_18.508591 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_3444_length_2965_cov_18.508591_522_1415_- SRR8247619 NODE_3444_length_2965_cov_18.508591 522 1415 - pfam13280:WYL 2
+##NODE_24024_length_751_cov_17.244253 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_24024_length_751_cov_17.244253_1_750_- SRR8247619 NODE_24024_length_751_cov_17.244253 1 750 - pfam00078:RT 2
+##NODE_37974_length_455_cov_17.602500 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_37974_length_455_cov_17.602500_1_453_+ SRR8247619 NODE_37974_length_455_cov_17.602500 1 453 + cd09634:cas1 2
+##NODE_688_length_6352_cov_48.230268 3 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_688_length_6352_cov_48.230268_2_1252_- SRR8247619 NODE_688_length_6352_cov_48.230268 2 1252 - cd09639:cas3 1
+NODE_688_length_6352_cov_48.230268_1249_2187_- SRR8247619 NODE_688_length_6352_cov_48.230268 1249 2187 - pfam13280:WYL 2
+NODE_688_length_6352_cov_48.230268_2180_3112_- SRR8247619 NODE_688_length_6352_cov_48.230268 2180 3112 - pfam13280:WYL 2
+##NODE_1013_length_5300_cov_36.098761 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_1013_length_5300_cov_36.098761_1341_3647_- SRR8247619 NODE_1013_length_5300_cov_36.098761 1341 3647 - COG1199:DinG 2
+##NODE_12446_length_1330_cov_9.295686 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_12446_length_1330_cov_9.295686_96_371_+ SRR8247619 NODE_12446_length_1330_cov_9.295686 96 371 + COG0640:csa3 2
+##NODE_24388_length_740_cov_13.167883 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_24388_length_740_cov_13.167883_1_738_- SRR8247619 NODE_24388_length_740_cov_13.167883 1 738 - cd06127:DEDDh 2
+##NODE_79589_length_217_cov_7.672840 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_79589_length_217_cov_7.672840_3_194_+ SRR8247619 NODE_79589_length_217_cov_7.672840 3 194 + COG0640:csa3 2
+##NODE_3327_length_3018_cov_10.356058 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_3327_length_3018_cov_10.356058_1883_2404_- SRR8247619 NODE_3327_length_3018_cov_10.356058 1883 2404 - COG0640:csa3 2
+##NODE_3850_length_2785_cov_55.658608 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_3850_length_2785_cov_55.658608_1843_2388_+ SRR8247619 NODE_3850_length_2785_cov_55.658608 1843 2388 + COG0640:csa3 2
+##NODE_8359_length_1765_cov_12.011696 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_8359_length_1765_cov_12.011696_3_215_- SRR8247619 NODE_8359_length_1765_cov_12.011696 3 215 - COG0640:csa3 2
+##NODE_2498_length_3474_cov_45.984206 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_2498_length_3474_cov_45.984206_733_2400_+ SRR8247619 NODE_2498_length_3474_cov_45.984206 733 2400 + pfam00078:RT 2
+##NODE_4382_length_2599_cov_27.757469 4 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_4382_length_2599_cov_27.757469_125_829_+ SRR8247619 NODE_4382_length_2599_cov_27.757469 125 829 + cd09693:cas5 2
+NODE_4382_length_2599_cov_27.757469_831_1466_+ SRR8247619 NODE_4382_length_2599_cov_27.757469 831 1466 + pfam08798:cas6e 2
+NODE_4382_length_2599_cov_27.757469_1471_2424_+ SRR8247619 NODE_4382_length_2599_cov_27.757469 1471 2424 + cd09719:cas1 2
+NODE_4382_length_2599_cov_27.757469_2426_2596_+ SRR8247619 NODE_4382_length_2599_cov_27.757469 2426 2596 + pfam09707:cas2 1
+##NODE_229_length_12244_cov_166.771597 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_229_length_12244_cov_166.771597_69_383_+ SRR8247619 NODE_229_length_12244_cov_166.771597 69 383 + COG0640:csa3 2
+##NODE_934_length_5509_cov_33.775211 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_934_length_5509_cov_33.775211_2644_5508_- SRR8247619 NODE_934_length_5509_cov_33.775211 2644 5508 - cd06127:DEDDh 2
+##NODE_2691_length_3353_cov_13.719224 2 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_2691_length_3353_cov_13.719224_1965_2525_+ SRR8247619 NODE_2691_length_3353_cov_13.719224 1965 2525 + pfam13280:WYL 2
+NODE_2691_length_3353_cov_13.719224_2556_2876_+ SRR8247619 NODE_2691_length_3353_cov_13.719224 2556 2876 + pfam13280:WYL 2
+##NODE_15052_length_1148_cov_13.292772 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_15052_length_1148_cov_13.292772_402_1004_+ SRR8247619 NODE_15052_length_1148_cov_13.292772 402 1004 + cd06127:DEDDh 2
+##NODE_27560_length_652_cov_20.753769 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_27560_length_652_cov_20.753769_3_650_+ SRR8247619 NODE_27560_length_652_cov_20.753769 3 650 + cd09634:cas1 2
+##NODE_6156_length_2139_cov_39.316699 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_6156_length_2139_cov_39.316699_148_2136_+ SRR8247619 NODE_6156_length_2139_cov_39.316699 148 2136 + pfam08800:PrimPol 2
+##NODE_10440_length_1513_cov_8.437586 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_10440_length_1513_cov_8.437586_223_915_- SRR8247619 NODE_10440_length_1513_cov_8.437586 223 915 - COG0640:csa3 2
+##NODE_6966_length_1984_cov_27.293416 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_6966_length_1984_cov_27.293416_584_874_+ SRR8247619 NODE_6966_length_1984_cov_27.293416 584 874 + COG0640:csa3 2
+##NODE_2305_length_3610_cov_13.250352 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_2305_length_3610_cov_13.250352_74_367_+ SRR8247619 NODE_2305_length_3610_cov_13.250352 74 367 + COG0640:csa3 2
+##NODE_10426_length_1514_cov_22.165182 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_10426_length_1514_cov_22.165182_150_1511_- SRR8247619 NODE_10426_length_1514_cov_22.165182 150 1511 - pfam00078:RT 2
+##NODE_2730_length_3328_cov_33.247479 2 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_2730_length_3328_cov_33.247479_1539_2033_+ SRR8247619 NODE_2730_length_3328_cov_33.247479 1539 2033 + COG0640:csa3 1
+NODE_2730_length_3328_cov_33.247479_2115_2708_+ SRR8247619 NODE_2730_length_3328_cov_33.247479 2115 2708 + cd06127:DEDDh 2
+##NODE_7267_length_1930_cov_20.768533 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_7267_length_1930_cov_20.768533_96_638_+ SRR8247619 NODE_7267_length_1930_cov_20.768533 96 638 + cd06127:DEDDh 2
+##NODE_227_length_12280_cov_113.196237 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_227_length_12280_cov_113.196237_8087_8533_+ SRR8247619 NODE_227_length_12280_cov_113.196237 8087 8533 + COG0640:csa3 2
+##NODE_5597_length_2258_cov_50.185656 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_5597_length_2258_cov_50.185656_1_642_+ SRR8247619 NODE_5597_length_2258_cov_50.185656 1 642 + pfam13280:WYL 2
+##NODE_48159_length_346_cov_12.670103 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_48159_length_346_cov_12.670103_1_345_- SRR8247619 NODE_48159_length_346_cov_12.670103 1 345 - cd06127:DEDDh 2
+##NODE_4312_length_2623_cov_14.443536 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_4312_length_2623_cov_14.443536_55_1158_- SRR8247619 NODE_4312_length_2623_cov_14.443536 55 1158 - COG4804:PD-DExK 2
+##NODE_4850_length_2461_cov_27.799667 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_4850_length_2461_cov_27.799667_800_1480_+ SRR8247619 NODE_4850_length_2461_cov_27.799667 800 1480 + COG0640:csa3 2
+##NODE_43580_length_388_cov_11.822823 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_43580_length_388_cov_11.822823_56_385_+ SRR8247619 NODE_43580_length_388_cov_11.822823 56 385 + cd06127:DEDDh 2
+##NODE_13585_length_1245_cov_30.010924 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_13585_length_1245_cov_30.010924_781_1149_+ SRR8247619 NODE_13585_length_1245_cov_30.010924 781 1149 + COG0640:csa3 2
+##NODE_8_length_74274_cov_617.160997 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_8_length_74274_cov_617.160997_2952_3464_+ SRR8247619 NODE_8_length_74274_cov_617.160997 2952 3464 + cd06127:DEDDh 2
+##NODE_24838_length_727_cov_7.745536 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_24838_length_727_cov_7.745536_2_487_+ SRR8247619 NODE_24838_length_727_cov_7.745536 2 487 + COG1199:DinG 2
+##NODE_4131_length_2683_cov_189.824581 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_4131_length_2683_cov_189.824581_1341_1775_- SRR8247619 NODE_4131_length_2683_cov_189.824581 1341 1775 - COG0640:csa3 2
+##NODE_12904_length_1293_cov_16.567044 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_12904_length_1293_cov_16.567044_2_1186_- SRR8247619 NODE_12904_length_1293_cov_16.567044 2 1186 - cd09641:cas3HD 2
+##NODE_29222_length_613_cov_15.652330 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_29222_length_613_cov_15.652330_200_529_- SRR8247619 NODE_29222_length_613_cov_15.652330 200 529 - COG0640:csa3 2
+##NODE_26_length_48082_cov_641.906428 2 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_26_length_48082_cov_641.906428_46520_46978_- SRR8247619 NODE_26_length_48082_cov_641.906428 46520 46978 - pfam13280:WYL 2
+NODE_26_length_48082_cov_641.906428_46979_47524_- SRR8247619 NODE_26_length_48082_cov_641.906428 46979 47524 - pfam13280:WYL 2
+##NODE_26795_length_671_cov_39.586039 2 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_26795_length_671_cov_39.586039_1_264_+ SRR8247619 NODE_26795_length_671_cov_39.586039 1 264 + cd09720:cas1 1
+NODE_26795_length_671_cov_39.586039_266_586_+ SRR8247619 NODE_26795_length_671_cov_39.586039 266 586 + pfam09827:cas2 2
+##NODE_3453_length_2962_cov_29.640523 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_3453_length_2962_cov_29.640523_2789_2959_+ SRR8247619 NODE_3453_length_2962_cov_29.640523 2789 2959 + COG0640:csa3 2
+##NODE_15085_length_1146_cov_27.780018 2 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_15085_length_1146_cov_27.780018_6_302_+ SRR8247619 NODE_15085_length_1146_cov_27.780018 6 302 + COG1518:cas1 2
+NODE_15085_length_1146_cov_27.780018_296_580_+ SRR8247619 NODE_15085_length_1146_cov_27.780018 296 580 + cd09725:cas2 2
+##NODE_6208_length_2129_cov_82.837512 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_6208_length_2129_cov_82.837512_537_1088_+ SRR8247619 NODE_6208_length_2129_cov_82.837512 537 1088 + COG4804:PD-DExK 2
+##NODE_36147_length_483_cov_1.137850 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_36147_length_483_cov_1.137850_2_241_+ SRR8247619 NODE_36147_length_483_cov_1.137850 2 241 + COG0640:csa3 2
+##NODE_70829_length_239_cov_8.983696 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_70829_length_239_cov_8.983696_1_237_- SRR8247619 NODE_70829_length_239_cov_8.983696 1 237 - cd09755:cas2 2
+##NODE_16457_length_1066_cov_16.969337 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_16457_length_1066_cov_16.969337_3_893_+ SRR8247619 NODE_16457_length_1066_cov_16.969337 3 893 + pfam00078:RT 2
+##NODE_60851_length_271_cov_1.074074 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_60851_length_271_cov_1.074074_1_219_- SRR8247619 NODE_60851_length_271_cov_1.074074 1 219 - COG0640:csa3 2
+##NODE_18063_length_985_cov_39.082796 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_18063_length_985_cov_39.082796_2_982_- SRR8247619 NODE_18063_length_985_cov_39.082796 2 982 - cd06127:DEDDh 2
+##NODE_8749_length_1714_cov_10.574442 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_8749_length_1714_cov_10.574442_1345_1713_+ SRR8247619 NODE_8749_length_1714_cov_10.574442 1345 1713 + cd06127:DEDDh 2
+##NODE_49673_length_334_cov_7.921147 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_49673_length_334_cov_7.921147_1_333_- SRR8247619 NODE_49673_length_334_cov_7.921147 1 333 - COG4804:PD-DExK 2
+##NODE_22355_length_809_cov_21.175066 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_22355_length_809_cov_21.175066_3_806_- SRR8247619 NODE_22355_length_809_cov_21.175066 3 806 - pfam08800:PrimPol 2
+##NODE_14586_length_1178_cov_25.823687 2 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_14586_length_1178_cov_25.823687_250_549_+ SRR8247619 NODE_14586_length_1178_cov_25.823687 250 549 + COG0640:csa3 2
+NODE_14586_length_1178_cov_25.823687_569_967_+ SRR8247619 NODE_14586_length_1178_cov_25.823687 569 967 + pfam01881:cas6 1
+##NODE_21964_length_824_cov_5.544863 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_21964_length_824_cov_5.544863_277_642_- SRR8247619 NODE_21964_length_824_cov_5.544863 277 642 - COG0640:csa3 2
+##NODE_3435_length_2970_cov_27.876844 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_3435_length_2970_cov_27.876844_1_537_- SRR8247619 NODE_3435_length_2970_cov_27.876844 1 537 - pfam13280:WYL 2
+##NODE_23629_length_764_cov_19.811001 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_23629_length_764_cov_19.811001_1_762_- SRR8247619 NODE_23629_length_764_cov_19.811001 1 762 - pfam08800:PrimPol 2
+##NODE_4122_length_2686_cov_16.478905 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_4122_length_2686_cov_16.478905_46_348_- SRR8247619 NODE_4122_length_2686_cov_16.478905 46 348 - COG0640:csa3 2
+##NODE_40227_length_426_cov_5.059299 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_40227_length_426_cov_5.059299_74_424_- SRR8247619 NODE_40227_length_426_cov_5.059299 74 424 - COG4804:PD-DExK 2
+##NODE_620_length_6648_cov_200.787654 4 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_620_length_6648_cov_200.787654_551_1216_- SRR8247619 NODE_620_length_6648_cov_200.787654 551 1216 - cd09758:csn2 2
+NODE_620_length_6648_cov_200.787654_1203_1529_- SRR8247619 NODE_620_length_6648_cov_200.787654 1203 1529 - cd09638:cas2 2
+NODE_620_length_6648_cov_200.787654_1541_2410_- SRR8247619 NODE_620_length_6648_cov_200.787654 1541 2410 - cd09720:cas1 2
+NODE_620_length_6648_cov_200.787654_2412_6545_- SRR8247619 NODE_620_length_6648_cov_200.787654 2412 6545 - cd09643:cas9 2
+##NODE_12209_length_1347_cov_125.199690 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_12209_length_1347_cov_125.199690_1002_1346_- SRR8247619 NODE_12209_length_1347_cov_125.199690 1002 1346 - COG0640:csa3 2
+##NODE_171_length_15061_cov_68.596228 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_171_length_15061_cov_68.596228_12307_12768_- SRR8247619 NODE_171_length_15061_cov_68.596228 12307 12768 - COG0640:csa3 2
+##NODE_166_length_15475_cov_984.988521 9 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_166_length_15475_cov_984.988521_2658_3326_+ SRR8247619 NODE_166_length_15475_cov_984.988521 2658 3326 + cls000004:cas6 1
+NODE_166_length_15475_cov_984.988521_3342_4841_+ SRR8247619 NODE_166_length_15475_cov_984.988521 3342 4841 + mkCas0133:cas10 2
+NODE_166_length_15475_cov_984.988521_4853_5395_+ SRR8247619 NODE_166_length_15475_cov_984.988521 4853 5395 + pfam03787:csm3gr7 2
+NODE_166_length_15475_cov_984.988521_5398_6867_+ SRR8247619 NODE_166_length_15475_cov_984.988521 5398 6867 + cd09726:csm3gr7 2
+NODE_166_length_15475_cov_984.988521_6887_8287_+ SRR8247619 NODE_166_length_15475_cov_984.988521 6887 8287 + pfam03787:csm3gr7 2
+NODE_166_length_15475_cov_984.988521_8284_8685_+ SRR8247619 NODE_166_length_15475_cov_984.988521 8284 8685 + mkCas0144:csx19 2
+NODE_166_length_15475_cov_984.988521_8692_11043_+ SRR8247619 NODE_166_length_15475_cov_984.988521 8692 11043 + pfam03787:csm3gr7 2
+NODE_166_length_15475_cov_984.988521_11046_12041_+ SRR8247619 NODE_166_length_15475_cov_984.988521 11046 12041 + pfam09002:csx1 1
+NODE_166_length_15475_cov_984.988521_12047_13759_+ SRR8247619 NODE_166_length_15475_cov_984.988521 12047 13759 + cd09732:csx1 2
+##NODE_325_length_9676_cov_1027.042719 4 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_325_length_9676_cov_1027.042719_3037_3900_- SRR8247619 NODE_325_length_9676_cov_1027.042719 3037 3900 - cd09689:cas7 2
+NODE_325_length_9676_cov_1027.042719_3912_5759_- SRR8247619 NODE_325_length_9676_cov_1027.042719 3912 5759 - cd09757:cas8c 2
+NODE_325_length_9676_cov_1027.042719_5756_6472_- SRR8247619 NODE_325_length_9676_cov_1027.042719 5756 6472 - cd09752:cas5 2
+NODE_325_length_9676_cov_1027.042719_6477_8795_- SRR8247619 NODE_325_length_9676_cov_1027.042719 6477 8795 - cd09641:cas3HD 2
+##NODE_43685_length_387_cov_7.027108 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_43685_length_387_cov_7.027108_33_386_- SRR8247619 NODE_43685_length_387_cov_7.027108 33 386 - pfam13280:WYL 2
+##NODE_22836_length_791_cov_191.429348 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_22836_length_791_cov_191.429348_29_316_- SRR8247619 NODE_22836_length_791_cov_191.429348 29 316 - COG0640:csa3 2
+##NODE_28_length_47081_cov_120.625781 4 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_28_length_47081_cov_120.625781_27140_30235_+ SRR8247619 NODE_28_length_47081_cov_120.625781 27140 30235 + COG1199:DinG 2
+NODE_28_length_47081_cov_120.625781_30262_30621_+ SRR8247619 NODE_28_length_47081_cov_120.625781 30262 30621 + unk 1
+NODE_28_length_47081_cov_120.625781_30727_30888_+ SRR8247619 NODE_28_length_47081_cov_120.625781 30727 30888 + unk 1
+NODE_28_length_47081_cov_120.625781_31226_32218_- SRR8247619 NODE_28_length_47081_cov_120.625781 31226 32218 - pfam13280:WYL 2
+##NODE_3056_length_3152_cov_7.037778 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_3056_length_3152_cov_7.037778_855_1538_- SRR8247619 NODE_3056_length_3152_cov_7.037778 855 1538 - COG0640:csa3 2
+##NODE_2410_length_3528_cov_27.623956 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_2410_length_3528_cov_27.623956_283_735_+ SRR8247619 NODE_2410_length_3528_cov_27.623956 283 735 + COG0640:csa3 2
+##NODE_4063_length_2702_cov_7.958821 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_4063_length_2702_cov_7.958821_199_2481_+ SRR8247619 NODE_4063_length_2702_cov_7.958821 199 2481 + COG1199:DinG 2
+##NODE_4836_length_2465_cov_45.829876 3 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_4836_length_2465_cov_45.829876_3_743_+ SRR8247619 NODE_4836_length_2465_cov_45.829876 3 743 + cd09746:csm6 1
+NODE_4836_length_2465_cov_45.829876_841_1836_+ SRR8247619 NODE_4836_length_2465_cov_45.829876 841 1836 + cd09634:cas1 2
+NODE_4836_length_2465_cov_45.829876_1838_2113_+ SRR8247619 NODE_4836_length_2465_cov_45.829876 1838 2113 + cd09725:cas2 2
+##NODE_2512_length_3466_cov_12.712987 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_2512_length_3466_cov_12.712987_734_1330_+ SRR8247619 NODE_2512_length_3466_cov_12.712987 734 1330 + COG0640:csa3 2
+##NODE_62380_length_265_cov_6.980952 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_62380_length_265_cov_6.980952_1_264_- SRR8247619 NODE_62380_length_265_cov_6.980952 1 264 - pfam09704:cas5 2
+##NODE_1645_length_4229_cov_37.729516 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_1645_length_4229_cov_37.729516_2554_3456_+ SRR8247619 NODE_1645_length_4229_cov_37.729516 2554 3456 + COG2378:WYL 2
+##NODE_22777_length_794_cov_5.396482 2 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_22777_length_794_cov_5.396482_3_365_+ SRR8247619 NODE_22777_length_794_cov_5.396482 3 365 + cd09720:cas1 1
+NODE_22777_length_794_cov_5.396482_378_698_+ SRR8247619 NODE_22777_length_794_cov_5.396482 378 698 + pfam09827:cas2 2
+##NODE_4711_length_2498_cov_227.265657 4 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_4711_length_2498_cov_227.265657_232_522_- SRR8247619 NODE_4711_length_2498_cov_227.265657 232 522 - cd09725:cas2 2
+NODE_4711_length_2498_cov_227.265657_522_1553_- SRR8247619 NODE_4711_length_2498_cov_227.265657 522 1553 - cd09721:cas1 2
+NODE_4711_length_2498_cov_227.265657_1550_2227_- SRR8247619 NODE_4711_length_2498_cov_227.265657 1550 2227 - pfam01930:cas4 1
+NODE_4711_length_2498_cov_227.265657_2306_2497_- SRR8247619 NODE_4711_length_2498_cov_227.265657 2306 2497 - cd09689:cas7 1
+##NODE_4945_length_2428_cov_11.806995 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_4945_length_2428_cov_11.806995_859_1764_+ SRR8247619 NODE_4945_length_2428_cov_11.806995 859 1764 + COG0640:csa3 2
+##NODE_20915_length_862_cov_12.741016 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_20915_length_862_cov_12.741016_519_860_+ SRR8247619 NODE_20915_length_862_cov_12.741016 519 860 + COG0640:csa3 2
+##NODE_6549_length_2064_cov_26.406172 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_6549_length_2064_cov_26.406172_3_755_+ SRR8247619 NODE_6549_length_2064_cov_26.406172 3 755 + COG0640:csa3 2
+##NODE_8032_length_1813_cov_51.578498 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_8032_length_1813_cov_51.578498_507_1811_- SRR8247619 NODE_8032_length_1813_cov_51.578498 507 1811 - COG1199:DinG 2
+##NODE_7154_length_1950_cov_7.931398 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_7154_length_1950_cov_7.931398_179_766_+ SRR8247619 NODE_7154_length_1950_cov_7.931398 179 766 + cd06127:DEDDh 2
+##NODE_5_length_76472_cov_585.314734 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_5_length_76472_cov_585.314734_60868_61638_- SRR8247619 NODE_5_length_76472_cov_585.314734 60868 61638 - cd06127:DEDDh 2
+##NODE_4588_length_2537_cov_12.274376 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_4588_length_2537_cov_12.274376_181_678_- SRR8247619 NODE_4588_length_2537_cov_12.274376 181 678 - COG0640:csa3 2
+##NODE_21900_length_826_cov_26.738003 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_21900_length_826_cov_26.738003_1_555_- SRR8247619 NODE_21900_length_826_cov_26.738003 1 555 - cd09726:csm3gr7 2
+##NODE_1845_length_4009_cov_17.859130 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_1845_length_4009_cov_17.859130_2449_2745_+ SRR8247619 NODE_1845_length_4009_cov_17.859130 2449 2745 + COG0640:csa3 2
+##NODE_28933_length_620_cov_1.607080 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_28933_length_620_cov_1.607080_1_618_+ SRR8247619 NODE_28933_length_620_cov_1.607080 1 618 + pfam00078:RT 2
+##NODE_7959_length_1821_cov_20.703284 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_7959_length_1821_cov_20.703284_168_1442_+ SRR8247619 NODE_7959_length_1821_cov_20.703284 168 1442 + COG4804:PD-DExK 2
+##NODE_74765_length_229_cov_2.080460 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_74765_length_229_cov_2.080460_3_227_- SRR8247619 NODE_74765_length_229_cov_2.080460 3 227 - COG0640:csa3 2
+##NODE_3858_length_2782_cov_10.890722 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_3858_length_2782_cov_10.890722_2_2779_+ SRR8247619 NODE_3858_length_2782_cov_10.890722 2 2779 + cd06127:DEDDh 2
+##NODE_16313_length_1075_cov_26.337255 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_16313_length_1075_cov_26.337255_170_658_+ SRR8247619 NODE_16313_length_1075_cov_26.337255 170 658 + cd06127:DEDDh 2
+##NODE_498_length_7571_cov_33.641032 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_498_length_7571_cov_33.641032_5476_6606_+ SRR8247619 NODE_498_length_7571_cov_33.641032 5476 6606 + COG4804:PD-DExK 2
+##NODE_5324_length_2329_cov_29.593228 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_5324_length_2329_cov_29.593228_121_2211_- SRR8247619 NODE_5324_length_2329_cov_29.593228 121 2211 - pfam08800:PrimPol 2
+##NODE_1175_length_4971_cov_80.442840 1 derived-fm crisprone/crispr/SRR8247619/SRR8247619-vs-cas.domtblout
+NODE_1175_length_4971_cov_80.442840_1_1368_+ SRR8247619 NODE_1175_length_4971_cov_80.442840 1 1368 + COG0640:csa3 2

@@ -1,0 +1,15 @@
+SEQ: QRWE01000131.1 length 569
+Bases: 569
+
+
+CRISPR 0  Range: 472 - 570
+POSITION        REPEAT                          SPACER
+--------------------------------------------------------------
+472		GTTTCAATCCACACACCCACGCAAGGTGTGAC	CTTGTGATGAGCAAGGATCGCTACGCTATTTCGA	[ 32, 34 ]
+538		GTCTCAATCCACACACCCACGCAGGGTGTGAC
+--------------------------------------------------------------
+Repeat-con	GTCTCAATCCACACACCCACGCAAGGTGTGAC
+Repeats: 2	Average Length: 32	Average Length: 34
+==QRWE01000131.1 instance 1 con GTCTCAATCCACACACCCACGCAAGGTGTGAC mismatch 2 (ref: PvulgL32 revcomp)
+
+

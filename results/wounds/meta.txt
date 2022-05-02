@@ -1,0 +1,5 @@
+SRR8247654	wound1	assembly/SRR8247654-assembly.fna
+SRR8247673	wound2	assembly/SRR8247673-assembly.fna
+SRR8247619	wound3	assembly/SRR8247619-assembly.fna
+SRR8247751	wound4	assembly/SRR8247751-assembly.fna
+SRR8247633	wound5	assembly/SRR8247633-assembly.fna

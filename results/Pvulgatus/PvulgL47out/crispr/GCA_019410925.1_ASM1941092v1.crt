@@ -1,0 +1,15 @@
+SEQ: DXRR01000124.1 length 10179
+Bases: 10179
+
+
+CRISPR 0  Range: 10056 - 10180
+POSITION        REPEAT                          SPACER
+--------------------------------------------------------------
+10056		GTTATGATTTGCTTTCAAATTAGTATCTTTGAACCATTGGAAACAAC	CCTTGTAACTCGGAAGTGAATAAGCAGCTT	[ 47, 30 ]
+10133		GTTGTGATTTGCTTTCAAATTAGTATCTTTGAACCATTGGAAACAAC
+--------------------------------------------------------------
+Repeat-con	GTTATGATTTGCTTTCAAATTAGTATCTTTGAACCATTGGAAACAAC
+Repeats: 2	Average Length: 47	Average Length: 30
+==DXRR01000124.1 instance 1 con GTTATGATTTGCTTTCAAATTAGTATCTTTGAACCATTGGAAACAAC mismatch 1 (ref: PvulgL47 revcomp)
+
+
