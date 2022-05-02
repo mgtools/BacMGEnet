@@ -1,0 +1,150 @@
+csf1  subtype-aferr	 TIGR03114 
+csf2  subtype-aferr	 TIGR03115 
+csf3  subtype-aferr	 TIGR03116 
+csf4  subtype-aferr	 TIGR03117
+apern subtype-I-A
+aferr subtype-aferr
+cas5a  subtype-I-A	 TIGR01874 
+csa5  subtype-I-A	 TIGR01878
+csa5  subtype-I-A PF09702.5
+AF1879  subtype-I-A	 TIGR01896 
+csa1  subtype-I-A	 TIGR01896
+HTH     subtype-I-A	TIGR01884
+cas8a2 subtype-I-A	TIGR01914
+csa4   subtype-I-A	TIGR01914
+csa4   subtype-I-A	PF09703.5
+csa2   subtype-I-A	TIGR02583
+csx9   subtype-I-A	TIGR02671
+csx9   subtype-I-A  PF09658.5
+csaX subtype-I-A	TIGR03876
+cmx1 subtype-I-A
+csx8 type-I-U	 TIGR02670
+csx8 type-I-U   PF09657.5
+tneap subtype-I-B
+hmari subtype-I-B
+cas8b subtype-I-B       TIGR02591
+csh1 subtype-I-B	TIGR02591
+csh2 subtype-I-B        TIGR02590
+Cas5h subtype-I-B TIGR02592
+cas5t subtype-I-B TIGR01895
+cst2_DevR subtype-I-B TIGR02585
+cst1 subtype-I-B	TIGR01908
+CXXC_CXXC subtype-I-B	TIGR01908
+CXXC_CXXC subtype-I-B   PF09706.5
+tm1802 subtype-I-B
+dpsys  subtype-Dpsyc
+cas3_GSU0051  subtype-Dpsyc/I-C-variant TIGR02621
+GSU0054	      subtype-Dpsyc/I-C-variant TIGR02165 
+GSU0054       subtype-Dpsyc/I-C-variant PF09609.5
+csb2	      subtype-Dpsyc/I-C-variant TIGR02165
+GSU0053     subtype-Dpsyc/I-C-variant TIGR02570
+GSU0053     subtype-Dpsyc/I-C-variant PF09617.5
+csb1     subtype-Dpsyc/I-C-variant TIGR02570
+GSU0052     subtype-Dpsyc/I-C-variant	TIGR04106
+csb3     subtype-Dpsyc/I-C-variant       TIGR04106
+csx17 subtype-Dpsyc/I-C-variant	     TIGR04113
+dvulg subtype-I-C
+csd1 subtype-I-C TIGR01863
+csd1 subtype-I-C PF09709.5
+Cas5d	subtype-I-C	TIGR01876
+Csd2	subtype-I-C TIGR02589 
+ecoli subtype-I-E
+CT1978   subtype-I-E    TIGR01873
+Cas2CT1978 subtype-I-E PF09707.5
+casD_Cas5e subtype-I-E TIGR01868
+casD	   subtype-I-E TIGR01868
+casC	   subtype-I-E TIGR01869
+casE	   subtype-I-E TIGR01907
+casA	   subtype-I-E TIGR02547
+casB	   subtype-I-E TIGR02548	
+casC_Cse4 subtype-I-E TIGR01869
+casE_Cse3 subtype-I-E TIGR01907
+cse1 subtype-I-E TIGR02547
+cse1 subtype-I-E PF09481.5
+cse2 subtype-I-E TIGR02548
+cse2 subtype-I-E PF09485.5 
+ypest subtype-I-F
+cas3_yersinia subtype-I-F TIGR02562
+cas6f subtype-I-F
+csy4 subtype-I-F	TIGR02563
+csy4 subtype-I-F PF09618.5
+csy1 subtype-I-F TIGR02564
+csy1 subtype-I-F PF09611.5
+csy2 subtype-I-F TIGR02565
+csy2 subtype-I-F PF09614.5
+csy3 subtype-I-F TIGR02566
+csy3 subtype-I-F PF09615.5
+mtube subtype-III-A
+ape2256 subtype-III-A	PF09651.5
+ape2256 subtype-III-A  TIGR02619
+csm2 subtype-III-A TIGR01870
+csm1 subtype-III-A TIGR02578
+csm3 subtype-III-A  TIGR02582 
+csm4 subtype-III-A TIGR01903 
+csm5 subtype-III-A TIGR01899
+csm6 subtype-III-A TIGR02672
+csm6 subtype-III-A PF09659.5
+csx13_N subtype-Myxan TIGR03485
+csx13_C subtype-Myxan TIGR03486
+devS	subtype-Myxan TIGR02586
+myxan subtype-Myxan
+nmeni type-II
+csn1 type-II TIGR01865
+csn2 subtype-II-A TIGR01866
+csn2 subtype-II-A PF09711.5
+csx12 subtype-II-B TIGR03031
+csp1 subtype-Pging TIGR03489
+csp2 subtype-Pging TIGR03487
+Cpf1 subtype-PreFran TIGR04330
+prefran subtype-PreFran
+pging	subtype-Pging
+polymerase subtype-III-B
+cmr1 subtype-III-B   TIGR01894
+Cmr2 subtype-III-B TIGR02577	
+cmr3 subtype-III-B TIGR01888
+cmr3 subtype-III-B PF09700.5
+cmr4 subtype-III-B TIGR02580
+cmr5 subtype-III-B TIGR01881
+cmr5 subtype-III-B PF09701.5
+cmr6 subtype-III-B TIGR01898
+csx14 subtype-I-U
+csx10 subtype-I-U
+csx16 subtype-III-U
+vva1548 subtype-III-U	PF09652.5
+vva1548 subtype-III-U  TIGR02620
+csx3 subtype-III-U TIGR02579
+csx3 subtype-III-U PF09620.5
+csx1 subtype-III-U
+csa3 subtype-III-U
+csx2 subtype-III-U
+dxthg subtype-III-U TIGR02549
+dxthg subtype-III-U PF09455.5
+ne0113 subtype-III-U TIGR02584
+ne0113 subtype-III-U	PF09623.5
+TIGR02710 subtype-III-U TIGR02710
+cash1	  putative
+cash10	  putative	
+cash11	  putative	
+cash12	  putative
+cash13	  putative
+cash14	  putative
+cash15	  putative
+cash16	  putative
+cash17	  putative
+cash18	  putative
+cash19	  putative
+cash2	  putative
+cash20	  putative
+cash21	  putative
+cash3	  putative
+cash4	  putative
+cash5	  putative
+cash6	  putative
+cash7	  putative
+cash8	  putative
+cash9	  putative
+cmr7	  putative
+cmr8	  putative
+cmr9	  putative
+cash10	  putative
+ 

@@ -1,0 +1,22 @@
+=head2 Fri Jun 13 09:31:32 2014: C<Module> L<Parallel::ForkManager|Parallel::ForkManager>
+
+=over 4
+
+=item *
+
+C<installed into: /home/quzhang/public_html/CRISPR/bin/perl-lib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.7.5>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+

@@ -1,0 +1,62 @@
+#!/usr/bin/env python3
+
+import sys
+import re
+if len(sys.argv) < 4:
+    sys.exit(sys.argv[0] + " old-crt-file gff-file new-crt-file")
+oldcrtfile, gfffile, newcrtfile = sys.argv[1:4]
+crisprseq, crisprbeg, crisprend = [], [], []
+seqlist = []
+seqcrispr = [] 
+inf = open(gfffile, "r")
+for aline in inf:
+    if "direct_repeat" in aline:
+        subs = aline.strip().split()
+        crisprseq.append(subs[0])
+        crisprbeg.append(subs[3])
+        crisprend.append(subs[4])
+        if subs[0] not in seqlist:
+            seqlist.append(subs[0])
+            seqcrispr.append(1)
+        else:
+            seqcrispr[seqlist.index(subs[0])] += 1
+inf.close()
+
+inf = open(oldcrtfile, "r")
+out = open(newcrtfile, "w")
+sidx = -1
+valid = False
+for aline in inf:
+    m1 = re.match("^SEQ: (\S+)", aline)
+    m2 = re.match("CRISPR (\d+)\s+Range: (\d+) - (\d+)", aline)
+    if m1:
+        currseq = m1.groups()[0]
+        print(f"currseq found {currseq}")
+        if currseq in seqlist:
+            sidx = seqlist.index(currseq)
+            out.write(aline)
+            valid = True
+        else:
+            sidx = -1
+            valid = False
+    elif m2:
+        print(f"range found {m2.groups()[1]} {m2.groups()[2]}")
+        thisbeg, thisend = m2.groups()[1], m2.groups()[2]
+        posmatch = False
+        for cidx in range(len(crisprseq)):
+            if (crisprseq[cidx] == currseq) and (thisbeg == crisprbeg[cidx]) and (thisend == crisprend[cidx]):
+                posmatch = True
+                break
+        if (sidx != -1) and posmatch:
+            print(f"range matched {m2.groups()[1]} {m2.groups()[2]}")
+            valid = True
+            out.write(aline)
+        else:
+            valid = False
+    elif valid:
+        if "Total CRISPR:" in aline:
+            out.write("Total CRISPR: " + str(seqcrispr[sidx]) + "\n")
+        else:
+            out.write(aline)
+inf.close()
+out.close()

@@ -1,0 +1,156 @@
+#hmm-acc GA-dom des
+TIGR00287	71.70	cas1: CRISPR-associated endonuclease Cas1
+TIGR00372	65.00	cas4: CRISPR-associated protein Cas4
+TIGR01573	24.50	cas2: CRISPR-associated endoribonuclease Cas2
+TIGR01587	102.45	cas3_core: CRISPR-associated helicase Cas3
+TIGR01595	125.80	cas_CT1132: CRISPR-associated protein, CT1132 family
+TIGR01596	43.45	cas3_HD: CRISPR-associated endonuclease Cas3-HD
+TIGR01863	218.65	cas_Csd1: CRISPR-associated protein Cas8c/Csd1, subtype I-C/DVULG
+TIGR01865	149.00	cas_Csn1: CRISPR-associated protein Cas9/Csn1, subtype II/NMEMI
+TIGR01866	35.00	cas_Csn2: CRISPR type II-A/NMEMI-associated protein Csn2
+TIGR01868	68.95	casD_Cas5e: CRISPR-associated protein Cas5/CasD, subtype I-E/ECOLI
+TIGR01869	178.05	casC_Cse4: CRISPR-associated protein Cas7/Cse4/CasC, subtype I-E/ECOLI
+TIGR01870	30.60	cas_TM1810_Csm2: CRISPR type III-A/MTUBE-associated protein Csm2
+TIGR01873	33.15	cas_CT1978: CRISPR-associated endoribonuclease Cas2, subtype I-E/ECOLI
+TIGR01874	23.05	cas_cas5a: CRISPR-associated protein Cas5, subtype I-A/APERN
+TIGR01875	67.30	cas_MJ0381: CRISPR-associated autoregulator DevR family
+TIGR01876	85.00	cas_Cas5d: CRISPR-associated protein Cas5, subtype I-C/DVULG
+TIGR01877	58.65	cas_cas6: CRISPR-associated endoribonuclease Cas6
+TIGR01878	53.35	cas_Csa5: CRISPR type I-A/APERN-associated protein Csa5
+TIGR01881	27.90	cas_Cmr5: CRISPR type III-B/RAMP module-associated protein Cmr5
+TIGR01884	60.20	cas_HTH: CRISPR locus-related DNA-binding protein
+TIGR01888	100.40	cas_cmr3: CRISPR type III-B/RAMP module-associated protein Cmr3
+TIGR01894	28.65	cas_TM1795_cmr1: CRISPR type III-B/RAMP module RAMP protein Cmr1
+TIGR01895	96.70	cas_Cas5t: CRISPR-associated protein Cas5, subtype I-B/TNEAP
+TIGR01896	103.35	cas_AF1879: CRISPR-associated protein Cas4/Csa1, subtype I-A/APERN
+TIGR01897	110.00	cas_MJ1666: CRISPR-associated protein, MJ1666 family
+TIGR01898	51.10	cas_TM1791_cmr6: CRISPR type III-B/RAMP module RAMP protein Cmr6
+TIGR01899	38.30	cas_TM1807_csm5: CRISPR type III-A/MTUBE-associated RAMP protein Csm5
+TIGR01903	85.50	cas_TM1808_csm4: CRISPR type III-A/MTUBE-associated RAMP protein Csm4
+TIGR01907	45.20	casE_Cse3: CRISPR-associated protein Cas6/Cse3/CasE, subtype I-E/ECOLI
+TIGR01908	19.40	cas_CXXC_CXXC: CRISPR-associated protein Cas8a1/Cst1, subtype I-B/TNEAP
+TIGR01914	232.50	cas_Csa4: CRISPR-associated protein Cas8a2/Csa4, subtype I-A/APERN
+TIGR02165	45.00	cas_GSU0054: CRISPR-associated protein GSU0054/csb2, Dpsyc system
+TIGR02221	76.25	cas_TM1812: CRISPR-associated protein, TM1812 family
+TIGR02547	70.05	casA_cse1: CRISPR type I-E/ECOLI-associated protein CasA/Cse1
+TIGR02548	42.55	casB_cse2: CRISPR type I-E/ECOLI-associated protein CasB/Cse2
+TIGR02549	15.10	CRISPR_DxTHG: CRISPR-associated DxTHG motif protein
+TIGR02556	156.95	cas_TM1802: CRISPR-associated protein, TM1802 family
+TIGR02562	565.95	cas3_yersinia: CRISPR-associated helicase Cas3, subtype I-F/YPEST
+TIGR02563	36.25	cas_Csy4: CRISPR-associated protein Cas6/Csy4, subtype I-F/YPEST
+TIGR02564	169.40	cas_Csy1: CRISPR type I-F/YPEST-associated protein Csy1
+TIGR02565	154.10	cas_Csy2: CRISPR type I-F/YPEST-associated protein Csy2
+TIGR02566	157.55	cas_Csy3: CRISPR type I-F/YPEST-associated protein Csy3
+TIGR02570	38.00	cas_GSU0053: CRISPR-associated protein GSU0053/csb1, Dpsyc system
+TIGR02577	79.40	cas_TM1794_Cmr2: CRISPR-associated protein Cas10/Cmr2, subtype III-B
+TIGR02578	171.65	cas_TM1811_Csm1: CRISPR-associated protein Cas10/Csm1, subtype III-A/MTUBE
+TIGR02579	55.40	cas_csx3: CRISPR-associated protein, Csx3 family
+TIGR02580	87.00	cas_RAMP_Cmr4: CRISPR type III-B/RAMP module RAMP protein Cmr4
+TIGR02581	108.05	cas_cyan_RAMP: CRISPR-associated RAMP protein, SSO1426 family
+TIGR02582	80.00	cas_TM1809: CRISPR type III-A/MTUBE-associated RAMP protein Csm3
+TIGR02583	212.60	DevR_archaea: CRISPR-associated protein Cas7/Csa2, subtype I-A/APERN
+TIGR02584	80.65	cas_NE0113: CRISPR-associated protein, NE0113 family
+TIGR02585	72.75	cas_Cst2_DevR: CRISPR-associated protein Cas7/Cst2/DevR, subtype I-B/TNEAP
+TIGR02586	111.50	cas_devS: CRISPR-associated protein Cas5/DevS, subtype MYXAN
+TIGR02589	182.25	cas_Csd2: CRISPR-associated protein Cas7/Csd2, subtype I-C/DVULG
+TIGR02590	171.55	cas_Csh2: CRISPR-associated protein Cas7/Csh2, subtype I-B/HMARI
+TIGR02591	104.05	cas_Csh1: CRISPR-associated protein Cas8b/Csh1, subtype I-B/HMARI
+TIGR02592	97.00	cas_Cas5h: CRISPR-associated protein Cas5, subtype I-B/HMARI
+TIGR02593	15.00	CRISPR_cas5: CRISPR-associated protein Cas5
+TIGR02619	37.45	TIGR02619: putative CRISPR-associated protein, APE2256 family
+TIGR02620	46.35	cas_VVA1548: putative CRISPR-associated protein, VVA1548 family
+TIGR02621	218.25	cas3_GSU0051: CRISPR-associated helicase Cas3, subtype Dpsyc
+TIGR02670	201.75	cas_csx8: CRISPR-associated protein Cas8a1/Csx8, subtype I
+TIGR02671	156.65	cas_csx9: CRISPR-associated protein Cas8a2/Csx9, subtype I-A/APERN
+TIGR02672	248.60	cas_csm6: CRISPR type III-A/MTUBE-associated protein Csm6
+TIGR02674	177.30	cas_cyan_RAMP_2: CRISPR-associated RAMP protein, Csx10 family
+TIGR02682	248.95	cas_csx11: CRISPR-associated protein, Csx11 family
+TIGR02710	83.90	TIGR02710: CRISPR-associated protein, TIGR02710 family
+TIGR02807	98.85	cas6_var: CRISPR-associated protein Cas6, subtype MYXAN
+TIGR03031	399.40	cas_csx12: CRISPR-associated protein Cas9/Csx12, subtype II-B/NMENI
+TIGR03114	197.55	cas_csf1: CRISPR type AFERR-associated protein Csf1
+TIGR03115	102.85	cas_csf2: CRISPR type AFERR-associated protein Csf2
+TIGR03116	210.15	cas_csf3: CRISPR type AFERR-associated protein Csf3
+TIGR03117	592.45	cas_csf4: CRISPR type AFERR-associated DEAD/DEAH-box helicase Csf4
+TIGR03157	38.00	cas_Csc2: CRISPR type I-D/CYANO-associated protein Csc2
+TIGR03158	69.10	cas3_cyano: CRISPR-associated helicase Cas3, subtype CYANO
+TIGR03159	41.40	cas_Csc1: CRISPR type I-D/CYANO-associated protein Csc1
+TIGR03174	40.00	cas_Csc3: CRISPR type I-D/CYANO-associated protein Csc3/Cas10d
+TIGR03485	80.85	cas_csx13_N: CRISPR-associated protein Cas8a1/Csx13, MYXAN subtype
+TIGR03486	47.40	cas_csx13_C: CRISPR-associated protein Cas8a1/Csx13, MYXAN subtype, C-terminal region
+TIGR03487	461.75	cas_csp2: CRISPR-associated protein Cas8c/Csp2, subtype PGING
+TIGR03488	100.00	cas_Cas5p: CRISPR-associated protein Cas5, subtype PGING
+TIGR03489	340.65	cas_csp1: CRISPR-associated protein Cas7/Csp1, subtype PGING
+TIGR03637	150.00	cas1_YPEST: CRISPR-associated endonuclease Cas1, subtype I-F/YPEST
+TIGR03638	215.60	cas1_ECOLI: CRISPR-associated endonuclease Cas1, subtype I-E/ECOLI
+TIGR03639	120.00	cas1_NMENI: CRISPR-associated endonuclease Cas1, subtype II/NMENI
+TIGR03640	385.00	cas1_DVULG: CRISPR-associated endonuclease Cas1, subtype I-C/DVULG
+TIGR03641	304.10	cas1_HMARI: CRISPR-associated endonuclease Cas1, subtype I-B/HMARI/TNEAP
+TIGR03642	90.35	cas_csx14: CRISPR-associated protein, Csx14 family
+TIGR03876	222.50	cas_csaX: CRISPR type I-A/APERN-associated protein CsaX
+TIGR03983	358.05	cas1_MYXAN: CRISPR-associated endonuclease Cas1, subtype MYXAN
+TIGR03984	81.25	TIGR03984: CRISPR-associated protein, TIGR03984 family
+TIGR03985	60.00	TIGR03985: CRISPR-associated protein, TIGR03985 family
+TIGR03986	161.35	TIGR03986: CRISPR-associated protein
+TIGR04093	385.00	cas1_CYANO: CRISPR-associated endonuclease Cas1, subtype CYANO
+TIGR04106	125.00	cas_GSU0052: CRISPR-associated protein GSU0052/csb3, Dpsyc system
+TIGR04113	150.00	cas_csx17: CRISPR-associated protein Csx17, subtype Dpsyc
+TIGR04328	70.00	cas4_PREFRAN: CRISPR-associated protein Cas4, subtype PREFRAN
+TIGR04329	300.00	cas1_PREFRAN: CRISPR-associated endonuclease Cas1, subtype PREFRAN
+TIGR04330	300.00	cas_Cpf1: CRISPR-associated protein Cpf1, subtype PREFRAN
+PF01867.11	20.20	Cas_Cas1: CRISPR associated protein Cas1
+PF03787.10	20.70	RAMPs: RAMP superfamily
+PF08798.6	25.00	CRISPR_assoc: CRISPR associated protein
+PF09455.5	22.30	Cas_DxTHG: CRISPR-associated (Cas) DxTHG family
+PF09481.5	21.90	CRISPR_Cse1: CRISPR-associated protein Cse1 (CRISPR_cse1)
+PF09484.5	22.50	Cas_TM1802: CRISPR-associated protein TM1802 (cas_TM1802)
+PF09485.5	22.10	CRISPR_Cse2: CRISPR-associated protein Cse2 (CRISPR_cse2)
+PF09559.5	22.80	Cas6: Cas6 Crispr
+PF09609.5	20.80	Cas_GSU0054: CRISPR-associated protein, GSU0054 family (Cas_GSU0054)
+PF09611.5	20.20	Cas_Csy1: CRISPR-associated protein (Cas_Csy1)
+PF09614.5	25.00	Cas_Csy2: CRISPR-associated protein (Cas_Csy2)
+PF09615.5	25.00	Cas_Csy3: CRISPR-associated protein (Cas_Csy3)
+PF09617.5	25.00	Cas_GSU0053: CRISPR-associated protein GSU0053 (Cas_GSU0053)
+PF09618.5	25.00	Cas_Csy4: CRISPR-associated protein (Cas_Csy4)
+PF09620.5	20.90	Cas_csx3: CRISPR-associated protein (Cas_csx3)
+PF09623.5	21.20	Cas_NE0113: CRISPR-associated protein NE0113 (Cas_NE0113)
+PF09651.5	24.80	Cas_APE2256: CRISPR-associated protein (Cas_APE2256)
+PF09652.5	25.00	Cas_VVA1548: Putative CRISPR-associated protein (Cas_VVA1548)
+PF09657.5	25.00	Cas_Csx8: CRISPR-associated protein Csx8 (Cas_Csx8)
+PF09658.5	25.00	Cas_Csx9: CRISPR-associated protein (Cas_Csx9)
+PF09659.5	21.40	Cas_Csm6: CRISPR-associated protein (Cas_Csm6)
+PF09670.5	22.40	Cas_Cas02710: CRISPR-associated protein (Cas_Cas02710)
+PF09700.5	19.90	Cas_Cmr3: CRISPR-associated protein (Cas_Cmr3)
+PF09701.5	20.40	Cas_Cmr5: CRISPR-associated protein (Cas_Cmr5)
+PF09702.5	21.70	Cas_Csa5: CRISPR-associated protein (Cas_Csa5)
+PF09703.5	25.00	Cas_Csa4: CRISPR-associated protein (Cas_Csa4)
+PF09704.5	20.90	Cas_Cas5d: CRISPR-associated protein (Cas_Cas5)
+PF09706.5	21.00	Cas_CXXC_CXXC: CRISPR-associated protein (Cas_CXXC_CXXC)
+PF09707.5	21.80	Cas_Cas2CT1978: CRISPR-associated protein (Cas_Cas2CT1978)
+PF09709.5	21.20	Cas_Csd1: CRISPR-associated protein (Cas_Csd1)
+PF09711.5	20.90	Cas_Csn2: CRISPR-associated protein (Cas_Csn2)
+cash1	200.90	cash1: novel cas
+cash10	199.60	cash10: novel cas
+cash11	309.00	cash11: novel cas
+cash12	248.60	cash12: novel cas
+cash13	115.40	cash13: novel cas
+cash14	590.60	cash14: novel cas
+cash15	700.50	cash15: novel cas
+cash16	171.40	cash16: novel cas
+cash17	405.30	cash17: novel cas
+cash18	281.20	cash18: novel cas
+cash19	195.60	cash19: novel cas
+cash2	328.70	cash2: novel cas
+cash20	138.00	cash20: novel cas
+cash21	726.40	cash21: novel cas
+cash3	157.60	cash3: novel cas
+cash4	109.50	cash4: novel cas
+cash5	157.40	cash5: novel cas
+cash6	374.10	cash6: novel cas
+cash7	186.70	cash7: novel cas
+cash8	635.20	cash8: novel cas
+cash9	403.90	cash9: novel cas
+cmr7	145.20	cmr7: novel cas
+cmr8	106.30	cmr8: novel cas
+cmr9	136.40	cmr9: novel cas
+cash10	199.60	cash10: novel cas

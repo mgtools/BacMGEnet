@@ -1,0 +1,10 @@
+ 1079  cat cas-CRISPR2015.hmm /u/yye/ImportFam/Cas12Cas13/cas13.hmm > cas-CRISPR2018.hmm
+ 1080  rm cas-CRISPR2018.LIB*
+ 1081  vi cas-CRISPR2018.hmm 
+ 1082  perl add-acc2hmm.pl cas-CRISPR2018.hmm > cas-CRISPR2018.LIB
+ 1083  /u/yye/bin/hmmer-3.0/src/hmmpress cas-CRISPR2018.LIB
+ 1084  ls -ltrh
+ 1085  history
+ 1086  vi cas-CRISPR2018.GA 
+
+  ../../bin/hmmer-3.1b1/bin/hmmpress cas-CRISPR.LIB
