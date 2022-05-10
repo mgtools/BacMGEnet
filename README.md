@@ -23,7 +23,7 @@ wget https://omics.informatics.indiana.edu/mg/packages/mgedb.tar.gz
 
 tar zxvf mgedb.tar.gz
 
-## Sample usage: 
+## Sample usage using a toy example
 Please go to examples/ to see how it works using a toy example, and what the pipelines output. 
 
 
