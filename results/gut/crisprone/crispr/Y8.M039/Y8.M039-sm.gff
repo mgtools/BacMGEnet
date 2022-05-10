@@ -1,0 +1,22 @@
+##gff-version 3
+#!processor CRISPRone
+Y8.M039_14	Genbank	region	1	91484	.	+	.	ID=Y8.M039_14;array=1;gene=4;type=(type II)
+Y8.M039_14	metaCRT	direct_repeat	75976	77068	.	.	.	what=CRISPR;des=repeat:GCTTGAGTACCATACATTTTTACATCATTCTCAAAC;note=copy:17
+Y8.M039_14	FGS-hmm	CDS	77130	77801	.	-	.	what=cas;des=cd09644:csn2;note=Subtype-II-A
+Y8.M039_14	FGS-hmm	CDS	77798	78103	.	-	.	what=cas;des=cd09638:cas2;note=Subtype-II-A
+Y8.M039_14	FGS-hmm	CDS	78108	78980	.	-	.	what=cas;des=cd09720:cas1;note=Subtype-II-A
+Y8.M039_14	FGS-hmm	CDS	78977	82993	.	-	.	what=cas;des=mkCas0193:cas9;note=Subtype-II-A
+Y8.M039_43	Genbank	region	1	101523	.	+	.	ID=Y8.M039_43;array=1;gene=10;type=(type III)
+Y8.M039_43	FGS-hmm	CDS	82580	83122	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+Y8.M039_43	FGS-hmm	CDS	83124	84599	.	-	.	what=cas;des=cash17:cash17;note=Type-
+Y8.M039_43	FGS-hmm	CDS	84607	85488	.	-	.	what=cas;des=cd09726:csm3gr7;note=Subtype-III-D
+Y8.M039_43	FGS-hmm	CDS	85503	85874	.	-	.	what=cas;des=mkCas0098:cmr5gr11;note=Subtype-III-B
+Y8.M039_43	FGS-hmm	CDS	85879	86598	.	-	.	what=cas;des=pfam03787:csm3gr7;note=Type-III
+Y8.M039_43	FGS-hmm	CDS	86600	87646	.	-	.	what=cas;des=pfam09700:cmr3gr5;note=Subtype-III-B
+Y8.M039_43	FGS-hmm	CDS	87646	89172	.	-	.	what=cas;des=cd09679:cas10;note=Type-III
+Y8.M039_43	FGS-hmm	CDS	89177	90463	.	-	.	what=cas;des=mkCas0086:cmr1gr7;note=Subtype-III-B
+Y8.M039_43	FGS-hmm	CDS	90486	91235	.	-	.	what=cas;des=pfam01881:cas6;note=other
+Y8.M039_43	FGS-hmm	CDS	91293	92564	.	-	.	what=cas;des=pfam09002:csx1;note=Type-III
+Y8.M039_43	metaCRT	direct_repeat	100854	101295	.	.	.	what=CRISPR;des=repeat:GTTTCAATCTCTCATAGGTACGGTTCAAC;note=copy:7
+Y8.M039_22	Genbank	region	1	9342	.	+	.	ID=Y8.M039_22;array=1;gene=0;type=NA
+Y8.M039_22	metaCRT	direct_repeat	8064	8335	.	.	.	what=CRISPR;des=repeat:GGGCCAACTATAGGTGACACAGTA;note=copy:5

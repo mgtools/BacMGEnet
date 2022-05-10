@@ -1,0 +1,32 @@
+##gff-version 3
+#!processor CRISPRone
+YA4_6460	Genbank	region	1	208021	.	+	.	ID=YA4_6460;array=0;gene=3;type=NA
+YA4_6460	FGS-hmm	CDS	1421	2725	.	-	.	what=cas;des=pfam00078:RT;note=other
+YA4_6460	FGS-hmm	CDS	2972	3220	.	+	.	what=cas;des=unk;note=unknown
+YA4_6460	FGS-hmm	CDS	3361	4089	.	-	.	what=cas;des=cd09655:casR;note=Type-I
+YA4_6460	FGS-hmm	CDS	4137	4856	.	-	.	what=cas;des=unk;note=unknown
+YA4_6460	FGS-hmm	CDS	4859	6007	.	-	.	what=cas;des=cd09718:cas1;note=universal
+YA4_16810	Genbank	region	1	317582	.	+	.	ID=YA4_16810;array=1;gene=7;type=(type I)
+YA4_16810	metaCRT	direct_repeat	196452	197876	.	.	.	what=CRISPR;des=repeat:ATTTCAATCCACGCTCCCACGAGAGGAGCGAC;note=copy:22
+YA4_16810	FGS-hmm	CDS	198054	198344	.	-	.	what=cas;des=cd09725:cas2;note=universal
+YA4_16810	FGS-hmm	CDS	198354	199385	.	-	.	what=cas;des=cd09721:cas1;note=universal
+YA4_16810	FGS-hmm	CDS	199382	200044	.	-	.	what=cas;des=pfam01930:cas4;note=Type-I
+YA4_16810	FGS-hmm	CDS	200044	200955	.	-	.	what=cas;des=cd09689:cas7;note=Subtype-I-C
+YA4_16810	FGS-hmm	CDS	200956	202692	.	-	.	what=cas;des=cd09757:cas8c;note=Subtype-I-C
+YA4_16810	FGS-hmm	CDS	202689	203357	.	-	.	what=cas;des=cd09752:cas5;note=Subtype-I-C
+YA4_16810	FGS-hmm	CDS	203358	203798	.	-	.	what=cas;des=unk;note=unknown
+YA4_16810	FGS-hmm	CDS	203788	204249	.	-	.	what=cas;des=unk;note=unknown
+YA4_16810	FGS-hmm	CDS	204483	206597	.	-	.	what=cas;des=cd09641:cas3HD;note=Type-I
+YA4_16196	Genbank	region	1	13560	.	+	.	ID=YA4_16196;array=0;gene=2;type=(type I)
+YA4_16196	FGS-hmm	CDS	9081	9503	.	+	.	what=cas;des=cls000100:cas8b2;note=Subtype-I-B
+YA4_16196	FGS-hmm	CDS	9888	10076	.	+	.	what=cas;des=unk;note=unknown
+YA4_16196	FGS-hmm	CDS	10107	11603	.	-	.	what=cas;des=unk;note=unknown
+YA4_16196	FGS-hmm	CDS	11596	12726	.	-	.	what=cas;des=COG4804:PD-DExK;note=other
+YA4_3500	Genbank	region	1	221228	.	+	.	ID=YA4_3500;array=1;gene=3;type=(type V)
+YA4_3500	FGS-hmm	CDS	137684	141475	.	+	.	what=cas;des=mkCas0192:cas12a;note=Subtype-V-A
+YA4_3500	FGS-hmm	CDS	141475	141912	.	+	.	what=cas;des=pfam09827:cas2;note=universal
+YA4_3500	metaCRT	direct_repeat	142038	142327	.	.	.	what=CRISPR;des=repeat:GTTAAGTAATATAGAATAATTTCTACTGTTGTAGATTT;note=copy:5
+YA4_3500	FGS-hmm	CDS	142653	142859	.	+	.	what=cas;des=unk;note=unknown
+YA4_3500	FGS-hmm	CDS	143119	143637	.	+	.	what=cas;des=unk;note=unknown
+YA4_3500	FGS-hmm	CDS	143650	144015	.	+	.	what=cas;des=unk;note=unknown
+YA4_3500	FGS-hmm	CDS	144093	145142	.	+	.	what=cas;des=pfam13280:WYL;note=other

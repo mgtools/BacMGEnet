@@ -1,0 +1,26 @@
+#/u/yye/CRISPRpk/pipelines/../CRISPRone/call-script/hmmscan2cas.py -collection unk -hmmscan crisprone/crispr/Y8.M009/Y8.M009-vs-cas.domtblout -gff crisprone/crispr/Y8.M009/Y8.M009.gff -isolate -outfile crisprone/crispr/Y8.M009/Y8.M009.summary -outfiltered crisprone/crispr/Y8.M009/Y8.M009.summary-filter -gafile /u/yye/CRISPRpk/pipelines/../CRISPRone/local/cas-db/cas-CRISPR.GA
+##Y8.M009_5 1 derived-fm crisprone/crispr/Y8.M009/Y8.M009-vs-cas.domtblout
+Y8.M009_5_112009_112383_+ Y8.M009 Y8.M009_5 112009 112383 + COG0640:csa3 2
+##Y8.M009_4 1 derived-fm crisprone/crispr/Y8.M009/Y8.M009-vs-cas.domtblout
+Y8.M009_4_70511_70990_+ Y8.M009 Y8.M009_4 70511 70990 + COG0640:csa3 2
+##Y8.M009_15 1 derived-fm crisprone/crispr/Y8.M009/Y8.M009-vs-cas.domtblout
+Y8.M009_15_129431_130021_- Y8.M009 Y8.M009_15 129431 130021 - COG0640:csa3 2
+##Y8.M009_8 1 derived-fm crisprone/crispr/Y8.M009/Y8.M009-vs-cas.domtblout
+Y8.M009_8_17188_17649_- Y8.M009 Y8.M009_8 17188 17649 - COG0640:csa3 2
+##Y8.M009_12 1 derived-fm crisprone/crispr/Y8.M009/Y8.M009-vs-cas.domtblout
+Y8.M009_12_43969_45786_+ Y8.M009 Y8.M009_12 43969 45786 + pfam00078:RT 2
+##Y8.M009_13 3 derived-fm crisprone/crispr/Y8.M009/Y8.M009-vs-cas.domtblout
+Y8.M009_13_13761_14312_+ Y8.M009 Y8.M009_13 13761 14312 + COG0640:csa3 2
+Y8.M009_13_59310_59564_- Y8.M009 Y8.M009_13 59310 59564 - COG0640:csa3 2
+Y8.M009_13_102825_103118_+ Y8.M009 Y8.M009_13 102825 103118 + COG0640:csa3 2
+##Y8.M009_1 8 derived-fm crisprone/crispr/Y8.M009/Y8.M009-vs-cas.domtblout
+Y8.M009_1_111551_111907_+ Y8.M009 Y8.M009_1 111551 111907 + COG0640:csa3 2
+Y8.M009_1_126788_127507_+ Y8.M009 Y8.M009_1 126788 127507 + cash17:cash17 1
+Y8.M009_1_127664_127813_+ Y8.M009 Y8.M009_1 127664 127813 + unk 1
+Y8.M009_1_127819_128607_- Y8.M009 Y8.M009_1 127819 128607 - COG0640:csa3 2
+Y8.M009_1_145282_146052_+ Y8.M009 Y8.M009_1 145282 146052 + COG0640:csa3 2
+Y8.M009_1_202577_206932_+ Y8.M009 Y8.M009_1 202577 206932 + cd06127:DEDDh 2
+Y8.M009_1_321330_322337_- Y8.M009 Y8.M009_1 321330 322337 - COG4804:PD-DExK 2
+Y8.M009_1_337150_339159_+ Y8.M009 Y8.M009_1 337150 339159 + COG1199:DinG 2
+##Y8.M009_9 1 derived-fm crisprone/crispr/Y8.M009/Y8.M009-vs-cas.domtblout
+Y8.M009_9_154625_155539_- Y8.M009 Y8.M009_9 154625 155539 - COG2378:WYL 2

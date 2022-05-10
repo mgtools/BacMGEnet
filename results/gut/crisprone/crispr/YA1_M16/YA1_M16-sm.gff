@@ -1,0 +1,14 @@
+##gff-version 3
+#!processor CRISPRone
+YA1_2666	Genbank	region	1	75058	.	+	.	ID=YA1_2666;array=0;gene=2;type=(type I)
+YA1_2666	FGS-hmm	CDS	71730	72092	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA1_2666	FGS-hmm	CDS	72302	72742	.	+	.	what=cas;des=unk;note=unknown
+YA1_2666	FGS-hmm	CDS	72752	74077	.	+	.	what=cas;des=cas14:cas14;note=Type-V
+YA1_4330	Genbank	region	1	47690	.	+	.	ID=YA1_4330;array=1;gene=5;type=(type II)
+YA1_4330	CRISPRone	partial_repeat	2314	2349	.	-	.	what=antiCRISPR;des=antiRepeat:eat;note=21-15
+YA1_4330	metaCRT	direct_repeat	2430	2991	.	.	.	what=CRISPR;des=repeat:GTTTGAGTACCATACGTTTTTACATCATTCTCAAAC;note=copy:9
+YA1_4330	FGS-hmm	CDS	3052	3726	.	-	.	what=cas;des=cd09644:csn2;note=Subtype-II-A
+YA1_4330	FGS-hmm	CDS	3723	4028	.	-	.	what=cas;des=pfam09827:cas2;note=Subtype-II-A
+YA1_4330	FGS-hmm	CDS	4033	4635	.	-	.	what=cas;des=cd09634:cas1;note=Subtype-II-A
+YA1_4330	FGS-hmm	CDS	4638	4904	.	-	.	what=cas;des=cd09720:cas1;note=Subtype-II-A
+YA1_4330	FGS-hmm	CDS	4901	8944	.	-	.	what=cas;des=mkCas0193:cas9;note=Subtype-II-A

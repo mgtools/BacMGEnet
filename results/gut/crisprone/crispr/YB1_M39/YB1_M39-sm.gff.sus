@@ -1,0 +1,32 @@
+##gff-version 3
+#!processor CRISPRone
+YB1_13617	Genbank	region	1	45921	.	+	.	ID=YB1_13617
+YB1_13617	FGS-hmm	CDS	41465	43969	.	-	.	what=cas;des=COG1199:DinG;note=Subtype-IV-A
+YB1_5974	Genbank	region	1	155822	.	+	.	ID=YB1_5974
+YB1_5974	FGS-hmm	CDS	141027	141713	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YB1_11377	Genbank	region	1	60850	.	+	.	ID=YB1_11377
+YB1_11377	FGS-hmm	CDS	1315	2394	.	-	.	what=cas;des=pfam13280:WYL;note=other
+YB1_5071	Genbank	region	1	209098	.	+	.	ID=YB1_5071
+YB1_5071	FGS-hmm	CDS	201000	202079	.	+	.	what=cas;des=COG4804:PD-DExK;note=other
+YB1_5071	FGS-hmm	CDS	202114	202773	.	+	.	what=cas;des=unk;note=unknown
+YB1_5071	FGS-hmm	CDS	202778	202966	.	+	.	what=cas;des=unk;note=unknown
+YB1_5071	FGS-hmm	CDS	203297	204421	.	-	.	what=cas;des=cd09641:cas3HD;note=Type-I
+YB1_13606	Genbank	region	1	45930	.	+	.	ID=YB1_13606
+YB1_13606	FGS-hmm	CDS	1671	2744	.	+	.	what=cas;des=COG4804:PD-DExK;note=other
+YB1_13606	FGS-hmm	CDS	2789	3061	.	+	.	what=cas;des=unk;note=unknown
+YB1_13606	FGS-hmm	CDS	3030	3266	.	+	.	what=cas;des=unk;note=unknown
+YB1_13606	FGS-hmm	CDS	3997	4191	.	+	.	what=cas;des=unk;note=unknown
+YB1_13606	FGS-hmm	CDS	4283	5572	.	+	.	what=cas;des=pfam00078:RT;note=other
+YB1_4365	Genbank	region	1	667037	.	+	.	ID=YB1_4365
+YB1_4365	FGS-hmm	CDS	45031	45501	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YB1_4365	FGS-hmm	CDS	235865	240403	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YB1_4365	FGS-hmm	CDS	537361	537720	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YB1_6906	Genbank	region	1	127778	.	+	.	ID=YB1_6906
+YB1_6906	FGS-hmm	CDS	89570	90037	.	-	.	what=cas;des=COG4804:PD-DExK;note=other
+YB1_6906	FGS-hmm	CDS	90076	90615	.	-	.	what=cas;des=COG4804:PD-DExK;note=other
+YB1_6906	FGS-hmm	CDS	118298	119581	.	+	.	what=cas;des=pfam00078:RT;note=other
+YB1_7508	Genbank	region	1	113248	.	+	.	ID=YB1_7508
+YB1_7508	FGS-hmm	CDS	19878	21092	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YB1_5779	Genbank	region	1	164878	.	+	.	ID=YB1_5779
+YB1_5779	FGS-hmm	CDS	44486	45769	.	+	.	what=cas;des=pfam00078:RT;note=other
+YB1_5779	FGS-hmm	CDS	119366	119692	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A

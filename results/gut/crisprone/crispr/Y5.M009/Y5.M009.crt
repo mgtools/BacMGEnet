@@ -1,0 +1,14 @@
+SEQ: Y5.M009_28 length 117823
+Bases: 117823
+
+CRISPR 1 Range: 16141 - 16350
+POSITION	REPEAT				SPACER
+--------	---------------------------------	-------------------------------------------------------
+16141		AACCGCCAGGGAGGACGTTTTGGCCAGGGAAGA	AACCAGGGCGAAGGAAACCGTCAGGGAAGACCTCAGGGCGAGGGAAGATCCCAGGGAGAT	[ 33, 60 ]
+16234		AACCGCCAGGGAGGACGTTTCGGCCAGGGAAGA	TCCCAGGGCGATGGTCAGGGCCGTCCGGGCGGAAGATTCCAGGGCGATGGA	[ 33, 51 ]
+16318		AATCGTCAGGGAGGACGTTTCGGACAGGGAAGA
+--------	---------------------------------	-------------------------------------------------------
+Repeat-con	AACCGCCAGGGAGGACGTTTCGGCCAGGGAAGA
+Repeats: 3	Average Length: 33		Average Length: 55
+Time used: 489 ms
+

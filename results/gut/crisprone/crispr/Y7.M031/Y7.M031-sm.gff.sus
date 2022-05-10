@@ -1,0 +1,35 @@
+##gff-version 3
+#!processor CRISPRone
+Y7.M031_11	Genbank	region	1	100794	.	+	.	ID=Y7.M031_11
+Y7.M031_11	FGS-hmm	CDS	66314	67237	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y7.M031_11	FGS-hmm	CDS	67405	68364	.	+	.	what=cas;des=unk;note=unknown
+Y7.M031_11	FGS-hmm	CDS	68557	69489	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y7.M031_13	Genbank	region	1	124297	.	+	.	ID=Y7.M031_13
+Y7.M031_13	FGS-hmm	CDS	41683	42576	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I
+Y7.M031_1	Genbank	region	1	149213	.	+	.	ID=Y7.M031_1
+Y7.M031_1	FGS-hmm	CDS	39261	39788	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y7.M031_1	metaCRT	direct_repeat	102384	102664	.	.	.	what=CRISPR;des=repeat:GAGACGGAAACTGAGCAGGAGAC;note=copy:6
+Y7.M031_7	Genbank	region	1	217952	.	+	.	ID=Y7.M031_7
+Y7.M031_7	FGS-hmm	CDS	23201	23854	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y7.M031_7	FGS-hmm	CDS	107398	110136	.	-	.	what=cas;des=COG1199:DinG;note=Subtype-IV-A
+Y7.M031_36	Genbank	region	1	141525	.	+	.	ID=Y7.M031_36
+Y7.M031_36	FGS-hmm	CDS	48274	49413	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y7.M031_8	Genbank	region	1	153726	.	+	.	ID=Y7.M031_8
+Y7.M031_8	FGS-hmm	CDS	96879	97592	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I
+Y7.M031_8	FGS-hmm	CDS	97765	99336	.	+	.	what=cas;des=unk;note=unknown
+Y7.M031_8	FGS-hmm	CDS	99503	100534	.	+	.	what=cas;des=unk;note=unknown
+Y7.M031_8	FGS-hmm	CDS	100536	101018	.	+	.	what=cas;des=cls001593:casR;note=Type-I
+Y7.M031_29	Genbank	region	1	28351	.	+	.	ID=Y7.M031_29
+Y7.M031_29	FGS-hmm	CDS	20601	20999	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y7.M031_20	Genbank	region	1	37366	.	+	.	ID=Y7.M031_20
+Y7.M031_20	FGS-hmm	CDS	32639	33667	.	+	.	what=cas;des=pfam13280:WYL;note=other
+Y7.M031_12	Genbank	region	1	70898	.	+	.	ID=Y7.M031_12
+Y7.M031_12	FGS-hmm	CDS	64557	65516	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y7.M031_4	Genbank	region	1	279991	.	+	.	ID=Y7.M031_4
+Y7.M031_4	FGS-hmm	CDS	68588	73075	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I
+Y7.M031_3	Genbank	region	1	345696	.	+	.	ID=Y7.M031_3
+Y7.M031_3	metaCRT	direct_repeat	193008	193198	.	.	.	what=CRISPR;des=repeat:CCGCTCTCCAGTGTCTCTGCTCC;note=copy:5
+Y7.M031_3	FGS-hmm	CDS	269386	270465	.	-	.	what=cas;des=mkCas0150:cas11b;note=Subtype-I-B
+Y7.M031_3	FGS-hmm	CDS	270546	270989	.	-	.	what=cas;des=unk;note=unknown
+Y7.M031_3	FGS-hmm	CDS	271170	272351	.	-	.	what=cas;des=unk;note=unknown
+Y7.M031_3	FGS-hmm	CDS	272381	272851	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A

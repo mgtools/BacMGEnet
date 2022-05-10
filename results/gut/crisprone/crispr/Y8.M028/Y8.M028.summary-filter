@@ -1,0 +1,25 @@
+#/u/yye/CRISPRpk/pipelines/../CRISPRone/call-script/hmmscan2cas.py -collection unk -hmmscan crisprone/crispr/Y8.M028/Y8.M028-vs-cas.domtblout -gff crisprone/crispr/Y8.M028/Y8.M028.gff -isolate -outfile crisprone/crispr/Y8.M028/Y8.M028.summary -outfiltered crisprone/crispr/Y8.M028/Y8.M028.summary-filter -gafile /u/yye/CRISPRpk/pipelines/../CRISPRone/local/cas-db/cas-CRISPR.GA
+##Y8.M028_10 7 derived-fm crisprone/crispr/Y8.M028/Y8.M028-vs-cas.domtblout
+Y8.M028_10_37171_37536_- Y8.M028 Y8.M028_10 37171 37536 - COG0640:csa3 1
+Y8.M028_10_37609_41202_- Y8.M028 Y8.M028_10 37609 41202 - cd09637:cas4 1
+Y8.M028_10_41205_44537_- Y8.M028 Y8.M028_10 41205 44537 - unk 1
+Y8.M028_10_44548_45108_- Y8.M028 Y8.M028_10 44548 45108 - unk 1
+Y8.M028_10_45168_46415_- Y8.M028 Y8.M028_10 45168 46415 - mkCas0115:csx3 1
+Y8.M028_10_46420_46947_- Y8.M028 Y8.M028_10 46420 46947 - unk 1
+Y8.M028_10_46959_47318_- Y8.M028 Y8.M028_10 46959 47318 - COG0640:csa3 2
+##Y8.M028_38 1 derived-fm crisprone/crispr/Y8.M028/Y8.M028-vs-cas.domtblout
+Y8.M028_38_10795_11280_+ Y8.M028 Y8.M028_38 10795 11280 + cd09641:cas3HD 2
+##Y8.M028_13 1 derived-fm crisprone/crispr/Y8.M028/Y8.M028-vs-cas.domtblout
+Y8.M028_13_393_1202_+ Y8.M028 Y8.M028_13 393 1202 + cd06127:DEDDh 2
+##Y8.M028_16 1 derived-fm crisprone/crispr/Y8.M028/Y8.M028-vs-cas.domtblout
+Y8.M028_16_14679_17015_+ Y8.M028 Y8.M028_16 14679 17015 + COG1199:DinG 2
+##Y8.M028_2 1 derived-fm crisprone/crispr/Y8.M028/Y8.M028-vs-cas.domtblout
+Y8.M028_2_24437_28900_- Y8.M028 Y8.M028_2 24437 28900 - cd06127:DEDDh 2
+##Y8.M028_42 1 derived-fm crisprone/crispr/Y8.M028/Y8.M028-vs-cas.domtblout
+Y8.M028_42_31865_32662_+ Y8.M028 Y8.M028_42 31865 32662 + COG0640:csa3 2
+##Y8.M028_1 1 derived-fm crisprone/crispr/Y8.M028/Y8.M028-vs-cas.domtblout
+Y8.M028_1_174613_175323_+ Y8.M028 Y8.M028_1 174613 175323 + cd06127:DEDDh 2
+##Y8.M028_32 1 derived-fm crisprone/crispr/Y8.M028/Y8.M028-vs-cas.domtblout
+Y8.M028_32_2127_2432_+ Y8.M028 Y8.M028_32 2127 2432 + COG0640:csa3 2
+##Y8.M028_23 1 derived-fm crisprone/crispr/Y8.M028/Y8.M028-vs-cas.domtblout
+Y8.M028_23_21033_21569_- Y8.M028 Y8.M028_23 21033 21569 - COG4804:PD-DExK 2

@@ -1,0 +1,7 @@
+##gff-version 3
+#!processor CRISPRone
+Y8.M063_11	Genbank	region	1	112126	.	+	.	ID=Y8.M063_11;array=0;gene=3;type=(type I)
+Y8.M063_11	FGS-hmm	CDS	1850	3100	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y8.M063_11	FGS-hmm	CDS	3258	4229	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y8.M063_11	FGS-hmm	CDS	4293	5882	.	-	.	what=cas;des=unk;note=unknown
+Y8.M063_11	FGS-hmm	CDS	6107	7138	.	-	.	what=cas;des=COG2378:WYL;note=other

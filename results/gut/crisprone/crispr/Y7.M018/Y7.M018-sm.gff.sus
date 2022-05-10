@@ -1,0 +1,16 @@
+##gff-version 3
+#!processor CRISPRone
+Y7.M018_6	Genbank	region	1	155117	.	+	.	ID=Y7.M018_6
+Y7.M018_6	FGS-hmm	CDS	11302	11940	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+Y7.M018_3	Genbank	region	1	322321	.	+	.	ID=Y7.M018_3
+Y7.M018_3	FGS-hmm	CDS	302319	303296	.	+	.	what=cas;des=pfam13280:WYL;note=other
+Y7.M018_16	Genbank	region	1	171877	.	+	.	ID=Y7.M018_16
+Y7.M018_16	FGS-hmm	CDS	95120	99460	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I
+Y7.M018_19	Genbank	region	1	101150	.	+	.	ID=Y7.M018_19
+Y7.M018_19	FGS-hmm	CDS	55249	56262	.	+	.	what=cas;des=pfam13280:WYL;note=other
+Y7.M018_5	Genbank	region	1	170598	.	+	.	ID=Y7.M018_5
+Y7.M018_5	FGS-hmm	CDS	111176	111505	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y7.M018_5	FGS-hmm	CDS	111661	113247	.	-	.	what=cas;des=cd09641:cas3HD;note=Type-I
+Y7.M018_2	Genbank	region	1	432905	.	+	.	ID=Y7.M018_2
+Y7.M018_2	FGS-hmm	CDS	42691	43215	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y7.M018_2	metaCRT	direct_repeat	211497	211738	.	.	.	what=CRISPR;des=repeat:GCACCAACAGCACCGTCAGCGCCGGT;note=copy:5

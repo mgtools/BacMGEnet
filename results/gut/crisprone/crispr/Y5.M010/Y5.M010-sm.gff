@@ -1,0 +1,7 @@
+##gff-version 3
+#!processor CRISPRone
+Y5.M010_12	Genbank	region	1	59605	.	+	.	ID=Y5.M010_12;array=0;gene=3;type=(type I)
+Y5.M010_12	FGS-hmm	CDS	12320	12934	.	+	.	what=cas;des=cls000809:cas8a5;note=Subtype-I-A
+Y5.M010_12	FGS-hmm	CDS	12939	13703	.	+	.	what=cas;des=unk;note=unknown
+Y5.M010_12	FGS-hmm	CDS	13718	14407	.	+	.	what=cas;des=COG1518:cas1;note=universal
+Y5.M010_12	FGS-hmm	CDS	14411	14782	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A

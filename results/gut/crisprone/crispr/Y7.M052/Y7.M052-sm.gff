@@ -1,0 +1,9 @@
+##gff-version 3
+#!processor CRISPRone
+Y7.M052_87	Genbank	region	1	8381	.	+	.	ID=Y7.M052_87;array=0;gene=3;type=(type I)
+Y7.M052_87	FGS-hmm	CDS	1734	2189	.	-	.	what=cas;des=cls001593:casR;note=Type-I
+Y7.M052_87	FGS-hmm	CDS	2473	3552	.	-	.	what=cas;des=unk;note=unknown
+Y7.M052_87	FGS-hmm	CDS	4049	4318	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y7.M052_87	FGS-hmm	CDS	4338	4922	.	-	.	what=cas;des=unk;note=unknown
+Y7.M052_87	FGS-hmm	CDS	4953	5948	.	-	.	what=cas;des=unk;note=unknown
+Y7.M052_87	FGS-hmm	CDS	5945	8380	.	-	.	what=cas;des=cd09639:cas3;note=Type-I

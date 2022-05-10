@@ -1,0 +1,10 @@
+##gff-version 3
+#!processor CRISPRone
+YA2_5026	Genbank	region	1	13525	.	+	.	ID=YA2_5026;array=0;gene=4;type=(type I, III)
+YA2_5026	FGS-hmm	CDS	7000	7383	.	+	.	what=cas;des=mkCas0122:csx19;note=Subtype-III-D
+YA2_5026	FGS-hmm	CDS	7400	7837	.	+	.	what=cas;des=unk;note=unknown
+YA2_5026	FGS-hmm	CDS	7851	8201	.	+	.	what=cas;des=cls001593:casR;note=Type-I
+YA2_5026	FGS-hmm	CDS	8252	9622	.	+	.	what=cas;des=unk;note=unknown
+YA2_5026	FGS-hmm	CDS	9789	10202	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA2_5026	FGS-hmm	CDS	10283	12193	.	+	.	what=cas;des=unk;note=unknown
+YA2_5026	FGS-hmm	CDS	12295	13524	.	+	.	what=cas;des=mkCas0115:csx3;note=other

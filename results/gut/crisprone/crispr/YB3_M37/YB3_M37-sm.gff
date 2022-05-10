@@ -1,0 +1,11 @@
+##gff-version 3
+#!processor CRISPRone
+YB3_15767	Genbank	region	1	154659	.	+	.	ID=YB3_15767;array=1;gene=7;type=(type I)
+YB3_15767	FGS-hmm	CDS	90521	92698	.	+	.	what=cas;des=cd09641:cas3HD;note=Type-I
+YB3_15767	FGS-hmm	CDS	93059	93721	.	+	.	what=cas;des=cd09752:cas5;note=Subtype-I-C
+YB3_15767	FGS-hmm	CDS	93718	95448	.	+	.	what=cas;des=cd09757:cas8c;note=Subtype-I-C
+YB3_15767	FGS-hmm	CDS	95449	96336	.	+	.	what=cas;des=cd09689:cas7;note=Subtype-I-C
+YB3_15767	FGS-hmm	CDS	96372	96986	.	+	.	what=cas;des=pfam01930:cas4;note=Type-I
+YB3_15767	FGS-hmm	CDS	96983	98014	.	+	.	what=cas;des=cd09721:cas1;note=universal
+YB3_15767	FGS-hmm	CDS	98025	98315	.	+	.	what=cas;des=cd09725:cas2;note=universal
+YB3_15767	metaCRT	direct_repeat	98502	100719	.	.	.	what=CRISPR;des=repeat:GTCGCTCCCTTCACGGGAGCGTGGATTGAAAT;note=copy:34

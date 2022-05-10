@@ -1,0 +1,37 @@
+SEQ: YA4_14220
+Bases: 26887
+Total CRISPR: 1
+
+
+CRISPR 1   Range: 44 - 215
+POSITION	REPEAT				SPACER
+--------	----------------------------------	-----------------------------------
+44		GTCGCCCTCCACCCGGAGGGCGTGGATAGAAATT	ATAAAAAACAGATTTAAAACATAAAAATATTTTT	[ 34, 34 ]
+112		GTCGCCCTCCACCCGGAGGGCGTGGATAGAAATT	ATACTGTGGTGTACGGTTGGAACGCGGACGTTTACG	[ 34, 36 ]
+182		GTCGCCCTCCACCCGGAGGGCGTGGATAGAAATT	
+--------	----------------------------------	-----------------------------------
+Repeat-con	GTCGCCCTCCACCCGGAGGGCGTGGATAGAAATT
+Repeats: 3	Average Length: 34		Average Length: 35
+
+
+SEQ: YA4_17507
+Bases: 9800
+Total CRISPR: 1
+
+
+CRISPR 1   Range: 7 - 171
+POSITION	REPEAT				SPACER
+--------	---------------------------------	---------------------------------
+7		ATTTCTCTCCCCGCCCGCCGGGTGGAAGGCGAC	GGCATCCTCTCGCAGGGCTCGGCGATCGTCGGC	[ 33, 33 ]
+73		ATTTCTATCCACGCCCTCCGGGTGGAAGGCGAC	AAGCCGGGACGCTGGTCATCTACAACACGGTAA	[ 33, 33 ]
+139		ATTTCTATCCACGCCCTCCGGGTGGAAGGCGAC	
+--------	---------------------------------	---------------------------------
+Repeat-con	ATTTCTATCCACGCCCTCCGGGTGGAAGGCGAC
+Repeats: 3	Average Length: 33		Average Length: 33
+
+
+Total sequences checked: 162
+Total bases checked: 2033701
+Total sequences with predicted CRISPR: 2
+Time used: 288 ms
+

@@ -1,0 +1,31 @@
+##gff-version 3
+#!processor CRISPRone
+Y5.M016_9	Genbank	region	1	143951	.	+	.	ID=Y5.M016_9;array=1;gene=0;type=NA
+Y5.M016_9	metaCRT	direct_repeat	74853	77787	.	.	.	what=CRISPR;des=repeat:ATTTCAATCCACACAGCCCTCGCAGGCTGTGAC;note=copy:44
+Y5.M016_58	Genbank	region	1	72332	.	+	.	ID=Y5.M016_58;array=2;gene=19;type=(type I, III)
+Y5.M016_58	FGS-hmm	CDS	35478	36140	.	+	.	what=cas;des=pfam09704:cas5;note=Type-I
+Y5.M016_58	FGS-hmm	CDS	36144	38285	.	+	.	what=cas;des=mkCas0173:cas8c;note=Subtype-I-C
+Y5.M016_58	FGS-hmm	CDS	38295	39200	.	+	.	what=cas;des=pfam05107:cas7b;note=Type-I
+Y5.M016_58	FGS-hmm	CDS	39200	41401	.	+	.	what=cas;des=cd09641:cas3HD;note=Type-I
+Y5.M016_58	FGS-hmm	CDS	41546	42991	.	+	.	what=cas;des=cls001593:casR;note=Type-I
+Y5.M016_58	FGS-hmm	CDS	43650	44564	.	+	.	what=cas;des=mkCas0091:cas6;note=other
+Y5.M016_58	FGS-hmm	CDS	44568	45497	.	+	.	what=cas;des=mkCas0090:PD-DExK;note=other
+Y5.M016_58	FGS-hmm	CDS	45518	47071	.	+	.	what=cas;des=mkCas0133:cas10;note=Type-III
+Y5.M016_58	FGS-hmm	CDS	47068	49185	.	+	.	what=cas;des=pfam03787:csm3gr7;note=Type-III
+Y5.M016_58	FGS-hmm	CDS	49189	50625	.	+	.	what=cas;des=pfam03787:csm3gr7;note=Type-III
+Y5.M016_58	FGS-hmm	CDS	50622	51188	.	+	.	what=cas;des=cls001376:csx19;note=Subtype-III-D
+Y5.M016_58	FGS-hmm	CDS	51208	53238	.	+	.	what=cas;des=pfam03787:csm3gr7;note=Type-III
+Y5.M016_58	metaCRT	direct_repeat	53703	54072	.	.	.	what=CRISPR;des=repeat:GTCAGCCTCTGCGATGGGGCTGTGGATTGAAAT;note=copy:6
+Y5.M016_58	FGS-hmm	CDS	53729	53866	.	+	.	what=cas;des=unk;note=unknown
+Y5.M016_58	FGS-hmm	CDS	54227	56395	.	+	.	what=cas;des=cd09641:cas3HD;note=Type-I
+Y5.M016_58	FGS-hmm	CDS	56438	57097	.	+	.	what=cas;des=cd09752:cas5;note=Subtype-I-C
+Y5.M016_58	FGS-hmm	CDS	57094	58872	.	+	.	what=cas;des=cd09757:cas8c;note=Subtype-I-C
+Y5.M016_58	FGS-hmm	CDS	58874	59764	.	+	.	what=cas;des=pfam05107:cas7b;note=Type-I
+Y5.M016_58	FGS-hmm	CDS	59764	60429	.	+	.	what=cas;des=pfam01930:cas4;note=Type-I
+Y5.M016_58	FGS-hmm	CDS	60426	61457	.	+	.	what=cas;des=cd09721:cas1;note=universal
+Y5.M016_58	FGS-hmm	CDS	61466	61756	.	+	.	what=cas;des=cd09725:cas2;note=universal
+Y5.M016_58	metaCRT	direct_repeat	62439	62932	.	.	.	what=CRISPR;des=repeat:GTCACCACCTGCGTGGTGGTGTGGATTGAAAT;note=copy:8
+Y5.M016_23	Genbank	region	1	36232	.	+	.	ID=Y5.M016_23;array=0;gene=3;type=(type I)
+Y5.M016_23	FGS-hmm	CDS	15029	15685	.	+	.	what=cas;des=pfam09704:cas5;note=Type-I
+Y5.M016_23	FGS-hmm	CDS	15689	17569	.	+	.	what=cas;des=cd09757:cas8c;note=Subtype-I-C
+Y5.M016_23	FGS-hmm	CDS	17574	18404	.	+	.	what=cas;des=pfam05107:cas7b;note=Type-I

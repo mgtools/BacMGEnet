@@ -1,0 +1,24 @@
+##gff-version 3
+#!processor CRISPRone
+JADMQI010000019.1	Genbank	region	1	96155	.	+	.	ID=JADMQI010000019.1;array=1;gene=9;type=(type I)
+JADMQI010000019.1	FGS-hmm	CDS	73583	74338	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+JADMQI010000019.1	FGS-hmm	CDS	83244	85469	.	+	.	what=cas;des=cd09641:cas3HD;note=Type-I
+JADMQI010000019.1	FGS-hmm	CDS	85480	86010	.	+	.	what=cas;des=unk;note=unknown
+JADMQI010000019.1	FGS-hmm	CDS	86074	88209	.	+	.	what=cas;des=cd09641:cas3HD;note=Type-I
+JADMQI010000019.1	FGS-hmm	CDS	88206	88967	.	+	.	what=cas;des=cd09752:cas5;note=Subtype-I-C
+JADMQI010000019.1	FGS-hmm	CDS	88970	90673	.	+	.	what=cas;des=pfam09709:cas8c;note=Subtype-I-C
+JADMQI010000019.1	FGS-hmm	CDS	90694	91626	.	+	.	what=cas;des=pfam05107:cas7b;note=Type-I
+JADMQI010000019.1	FGS-hmm	CDS	91637	92305	.	+	.	what=cas;des=pfam01930:cas4;note=Type-I
+JADMQI010000019.1	FGS-hmm	CDS	92302	93324	.	+	.	what=cas;des=cd09721:cas1;note=universal
+JADMQI010000019.1	FGS-hmm	CDS	93334	93624	.	+	.	what=cas;des=cd09725:cas2;note=universal
+JADMQI010000019.1	metaCRT	direct_repeat	93790	95657	.	.	.	what=CRISPR;des=repeat:GTCACACCCTGCGTGGGTGTGTGGATTGAAAC;note=copy:29
+JADMQI010000020.1	Genbank	region	1	86150	.	+	.	ID=JADMQI010000020.1;array=1;gene=0;type=NA
+JADMQI010000020.1	metaCRT	direct_repeat	77864	78057	.	.	.	what=CRISPR;des=repeat:GATTTAGTTGTGTAGAAGCGTCC;note=copy:4
+JADMQI010000023.1	Genbank	region	1	80118	.	+	.	ID=JADMQI010000023.1;array=1;gene=4;type=(type I, II)
+JADMQI010000023.1	metaCRT	direct_repeat	10079	11431	.	.	.	what=CRISPR;des=repeat:GTTGTGATTTGCTTTCAAATTAGTATCTTTGAACCATTGGAAACAAC;note=copy:18
+JADMQI010000023.1	FGS-hmm	CDS	11540	11845	.	-	.	what=cas;des=pfam09827:cas2;note=Subtype-II-C
+JADMQI010000023.1	FGS-hmm	CDS	11872	12804	.	-	.	what=cas;des=cd09720:cas1;note=Subtype-II-C
+JADMQI010000023.1	FGS-hmm	CDS	12831	13829	.	-	.	what=cas;des=unk;note=unknown
+JADMQI010000023.1	FGS-hmm	CDS	13844	18358	.	-	.	what=cas;des=cd09643:cas9;note=Subtype-II-C
+JADMQI010000023.1	FGS-hmm	CDS	18543	20141	.	-	.	what=cas;des=unk;note=unknown
+JADMQI010000023.1	FGS-hmm	CDS	20174	20530	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A

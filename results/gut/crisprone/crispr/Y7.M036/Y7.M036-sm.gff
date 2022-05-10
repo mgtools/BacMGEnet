@@ -1,0 +1,8 @@
+##gff-version 3
+#!processor CRISPRone
+Y7.M036_12	Genbank	region	1	82947	.	+	.	ID=Y7.M036_12;array=1;gene=3;type=(type II)
+Y7.M036_12	metaCRT	direct_repeat	21522	21678	.	.	.	what=CRISPR;des=repeat:CTAATAGCTCTTGGTATGGTATAAT;note=copy:3
+Y7.M036_12	FGS-hmm	CDS	21727	22035	.	-	.	what=cas;des=cd09638:cas2;note=Subtype-II-C
+Y7.M036_12	FGS-hmm	CDS	22040	22921	.	-	.	what=cas;des=cd09720:cas1;note=Subtype-II-C
+Y7.M036_12	FGS-hmm	CDS	22925	26149	.	-	.	what=cas;des=COG3513:cas9;note=Subtype-II-C
+Y7.M036_12	CRISPRone	partial_repeat	26304	26328	.	-	.	what=antiCRISPR;des=antiRepeat:eat;note=24-1

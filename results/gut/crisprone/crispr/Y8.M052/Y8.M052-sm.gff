@@ -1,0 +1,25 @@
+##gff-version 3
+#!processor CRISPRone
+Y8.M052_16	Genbank	region	1	54505	.	+	.	ID=Y8.M052_16;array=0;gene=5;type=(type I)
+Y8.M052_16	FGS-hmm	CDS	10942	11634	.	+	.	what=cas;des=cd09652:cas6;note=other
+Y8.M052_16	FGS-hmm	CDS	11662	13473	.	+	.	what=cas;des=mkCas0106:cas8b1;note=Subtype-I-B
+Y8.M052_16	FGS-hmm	CDS	13492	14409	.	+	.	what=cas;des=pfam05107:cas7b;note=Type-I
+Y8.M052_16	FGS-hmm	CDS	14413	15243	.	+	.	what=cas;des=cd09693:cas5;note=Type-I
+Y8.M052_16	FGS-hmm	CDS	15314	17887	.	+	.	what=cas;des=cd09641:cas3HD;note=Type-I
+Y8.M052_6	Genbank	region	1	32865	.	+	.	ID=Y8.M052_6;array=1;gene=0;type=NA
+Y8.M052_6	metaCRT	direct_repeat	25280	25508	.	.	.	what=CRISPR;des=repeat:GATTAATAATAACATAAGATGTATTTGAAT;note=copy:4
+Y8.M052_41	Genbank	region	1	19887	.	+	.	ID=Y8.M052_41;array=1;gene=0;type=NA
+Y8.M052_41	metaCRT	direct_repeat	12717	13268	.	.	.	what=CRISPR;des=repeat:GATAAATATCAACAGAAGCTGTACGAA;note=copy:9
+Y8.M052_73	Genbank	region	1	10792	.	+	.	ID=Y8.M052_73;array=1;gene=0;type=NA
+Y8.M052_73	metaCRT	direct_repeat	4751	5241	.	.	.	what=CRISPR;des=repeat:ATTCAAATACAACTCTTGTTTCTATTAATC;note=copy:8
+Y8.M052_51	Genbank	region	1	15411	.	+	.	ID=Y8.M052_51;array=1;gene=0;type=NA
+Y8.M052_51	metaCRT	direct_repeat	4495	5178	.	.	.	what=CRISPR;des=repeat:ATTCAAATACAACTCTTGTTAAAGTTAAAT;note=copy:11
+Y8.M052_27	Genbank	region	1	30993	.	+	.	ID=Y8.M052_27;array=1;gene=0;type=NA
+Y8.M052_27	metaCRT	direct_repeat	371	1122	.	.	.	what=CRISPR;des=repeat:ATTTAACTTTAACAAGAGTTGTATTTGAAT;note=copy:12
+Y8.M052_5	Genbank	region	1	41243	.	+	.	ID=Y8.M052_5;array=1;gene=3;type=(type II)
+Y8.M052_5	FGS-hmm	CDS	12784	15936	.	+	.	what=cas;des=cd09643:cas9;note=Subtype-II-C
+Y8.M052_5	FGS-hmm	CDS	15897	16790	.	+	.	what=cas;des=cd09634:cas1;note=Subtype-II-C
+Y8.M052_5	FGS-hmm	CDS	16795	17106	.	+	.	what=cas;des=cd09638:cas2;note=Subtype-II-C
+Y8.M052_5	metaCRT	direct_repeat	17145	18164	.	.	.	what=CRISPR;des=repeat:GTTTTAGTATCATGACATTTTTAGTACCTCTAAAAC;note=copy:16
+Y8.M052_175	Genbank	region	1	30536	.	+	.	ID=Y8.M052_175;array=1;gene=0;type=NA
+Y8.M052_175	metaCRT	direct_repeat	26320	27207	.	.	.	what=CRISPR;des=repeat:ATTTAACTTTAACAAGTGTTGTATTTGAAT;note=copy:14

@@ -1,0 +1,21 @@
+SEQ: Y7.M052_319
+Bases: 7053
+Total CRISPR: 1
+
+
+CRISPR 1   Range: 4972 - 5121
+POSITION	REPEAT				SPACER
+--------	--------------------	---------------------------------------------
+4972		CGCCGCCACCGCCGCCGCCG	GACGAACCGCTTCCGCCGCCGGAGCCGGAACCTGAACCGCCGCTAG	[ 20, 46 ]
+5038		CGCCGCCACCGCCGCCGCCG	GGATTCACCGCCTGCTCCGCCTGGCGCTGACGCTCGGCCTCGGC	[ 20, 44 ]
+5102		CGCAGCCTCCGCCGCCGCAG	
+--------	--------------------	---------------------------------------------
+Repeat-con	CGCCGCCACCGCCGCCGCCG
+Repeats: 3	Average Length: 20		Average Length: 45
+
+
+Total sequences checked: 391
+Total bases checked: 2141800
+Total sequences with predicted CRISPR: 1
+Time used: 309 ms
+

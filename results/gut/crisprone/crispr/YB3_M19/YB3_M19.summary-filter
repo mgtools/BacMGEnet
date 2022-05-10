@@ -1,0 +1,32 @@
+#/u/yye/CRISPRpk/pipelines/../CRISPRone/call-script/hmmscan2cas.py -collection unk -hmmscan crisprone/crispr/YB3_M19/YB3_M19-vs-cas.domtblout -gff crisprone/crispr/YB3_M19/YB3_M19.gff -isolate -outfile crisprone/crispr/YB3_M19/YB3_M19.summary -outfiltered crisprone/crispr/YB3_M19/YB3_M19.summary-filter -gafile /u/yye/CRISPRpk/pipelines/../CRISPRone/local/cas-db/cas-CRISPR.GA
+##YB3_17953 1 derived-fm crisprone/crispr/YB3_M19/YB3_M19-vs-cas.domtblout
+YB3_17953_62553_63536_- YB3_M19 YB3_17953 62553 63536 - cd06127:DEDDh 2
+##YB3_4240 2 derived-fm crisprone/crispr/YB3_M19/YB3_M19-vs-cas.domtblout
+YB3_4240_515_1474_- YB3_M19 YB3_4240 515 1474 - COG0640:csa3 2
+YB3_4240_94586_99124_+ YB3_M19 YB3_4240 94586 99124 + cd06127:DEDDh 2
+##YB3_12409 1 derived-fm crisprone/crispr/YB3_M19/YB3_M19-vs-cas.domtblout
+YB3_12409_14168_14959_+ YB3_M19 YB3_12409 14168 14959 + COG0640:csa3 2
+##YB3_2084 1 derived-fm crisprone/crispr/YB3_M19/YB3_M19-vs-cas.domtblout
+YB3_2084_8642_10084_- YB3_M19 YB3_2084 8642 10084 - pfam13280:WYL 2
+##YB3_15095 1 derived-fm crisprone/crispr/YB3_M19/YB3_M19-vs-cas.domtblout
+YB3_15095_13522_13902_- YB3_M19 YB3_15095 13522 13902 - COG0640:csa3 2
+##YB3_14753 1 derived-fm crisprone/crispr/YB3_M19/YB3_M19-vs-cas.domtblout
+YB3_14753_18519_19721_+ YB3_M19 YB3_14753 18519 19721 + pfam00078:RT 2
+##YB3_10789 1 derived-fm crisprone/crispr/YB3_M19/YB3_M19-vs-cas.domtblout
+YB3_10789_69292_69651_+ YB3_M19 YB3_10789 69292 69651 + COG0640:csa3 2
+##YB3_15633 1 derived-fm crisprone/crispr/YB3_M19/YB3_M19-vs-cas.domtblout
+YB3_15633_42891_43355_- YB3_M19 YB3_15633 42891 43355 - COG0640:csa3 2
+##YB3_661 2 derived-fm crisprone/crispr/YB3_M19/YB3_M19-vs-cas.domtblout
+YB3_661_28140_28526_+ YB3_M19 YB3_661 28140 28526 + COG0640:csa3 2
+YB3_661_35804_38200_+ YB3_M19 YB3_661 35804 38200 + COG1199:DinG 2
+##YB3_15341 5 derived-fm crisprone/crispr/YB3_M19/YB3_M19-vs-cas.domtblout
+YB3_15341_7293_7775_- YB3_M19 YB3_15341 7293 7775 - cls001593:casR 1
+YB3_15341_7888_8478_- YB3_M19 YB3_15341 7888 8478 - unk 1
+YB3_15341_8501_10024_- YB3_M19 YB3_15341 8501 10024 - unk 1
+YB3_15341_10167_10916_- YB3_M19 YB3_15341 10167 10916 - cd06127:DEDDh 2
+YB3_15341_10916_11572_- YB3_M19 YB3_15341 10916 11572 - mkCas0066:cas6 1
+##YB3_2727 4 derived-fm crisprone/crispr/YB3_M19/YB3_M19-vs-cas.domtblout
+YB3_2727_92496_93485_- YB3_M19 YB3_2727 92496 93485 - COG0640:csa3 2
+YB3_2727_93577_94587_+ YB3_M19 YB3_2727 93577 94587 + unk 1
+YB3_2727_94620_95588_+ YB3_M19 YB3_2727 94620 95588 + unk 1
+YB3_2727_95653_96195_- YB3_M19 YB3_2727 95653 96195 - COG2378:WYL 1

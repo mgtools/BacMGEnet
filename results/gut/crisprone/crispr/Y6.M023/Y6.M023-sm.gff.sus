@@ -1,0 +1,33 @@
+##gff-version 3
+#!processor CRISPRone
+Y6.M023_68	Genbank	region	1	75373	.	+	.	ID=Y6.M023_68
+Y6.M023_68	FGS-hmm	CDS	27924	28874	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I
+Y6.M023_45	Genbank	region	1	89559	.	+	.	ID=Y6.M023_45
+Y6.M023_45	FGS-hmm	CDS	23921	24523	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I
+Y6.M023_54	Genbank	region	1	201518	.	+	.	ID=Y6.M023_54
+Y6.M023_54	FGS-hmm	CDS	180703	185292	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I
+Y6.M023_49	Genbank	region	1	353998	.	+	.	ID=Y6.M023_49
+Y6.M023_49	FGS-hmm	CDS	343512	344267	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y6.M023_49	FGS-hmm	CDS	344356	344838	.	-	.	what=cas;des=unk;note=unknown
+Y6.M023_49	FGS-hmm	CDS	345137	346480	.	+	.	what=cas;des=cd09732:csx1;note=Type-III
+Y6.M023_64	Genbank	region	1	107228	.	+	.	ID=Y6.M023_64
+Y6.M023_64	FGS-hmm	CDS	7760	8779	.	-	.	what=cas;des=pfam13280:WYL;note=other
+Y6.M023_56	Genbank	region	1	105240	.	+	.	ID=Y6.M023_56
+Y6.M023_56	FGS-hmm	CDS	24738	25055	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y6.M023_62	Genbank	region	1	151178	.	+	.	ID=Y6.M023_62
+Y6.M023_62	FGS-hmm	CDS	103789	106281	.	-	.	what=cas;des=COG1199:DinG;note=Subtype-IV-A
+Y6.M023_50	Genbank	region	1	172127	.	+	.	ID=Y6.M023_50
+Y6.M023_50	FGS-hmm	CDS	69029	69697	.	-	.	what=cas;des=cls001593:casR;note=Type-I
+Y6.M023_50	FGS-hmm	CDS	69951	70325	.	+	.	what=cas;des=unk;note=unknown
+Y6.M023_50	FGS-hmm	CDS	70519	70893	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y6.M023_52	Genbank	region	1	296613	.	+	.	ID=Y6.M023_52
+Y6.M023_52	FGS-hmm	CDS	130715	131536	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y6.M023_53	Genbank	region	1	227577	.	+	.	ID=Y6.M023_53
+Y6.M023_53	FGS-hmm	CDS	22556	23455	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y6.M023_53	FGS-hmm	CDS	187013	187750	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I
+Y6.M023_57	Genbank	region	1	103081	.	+	.	ID=Y6.M023_57
+Y6.M023_57	FGS-hmm	CDS	3328	3645	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y6.M023_63	Genbank	region	1	71514	.	+	.	ID=Y6.M023_63
+Y6.M023_63	FGS-hmm	CDS	21844	22332	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y6.M023_37	Genbank	region	1	2443	.	+	.	ID=Y6.M023_37
+Y6.M023_37	FGS-hmm	CDS	533	2323	.	+	.	what=cas;des=pfam00078:RT;note=other

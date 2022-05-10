@@ -1,0 +1,13 @@
+SEQ: YB2_4350 length 506201
+Bases: 506201
+
+CRISPR 1 Range: 158874 - 159000
+POSITION	REPEAT				SPACER
+--------	--------------------------	------------------------
+158874		TCCAGACTTCGGTTTTTCAGAAGTCT	AGACTTCGGTATGGTACTGCTGCAATCAAG	[ 26, 30 ]
+158930		TTCAGACTTCGGTTTTTTAGAAGTCT	TGACTTCGGCACGCTTTTC	[ 26, 19 ]
+158975		TTCAGACTTCGGTTTTTCAGAAGTCT
+--------	--------------------------	------------------------
+Repeat-con	TTCAGACTTCGGTTTTTCAGAAGTCT
+Repeats: 3	Average Length: 26		Average Length: 24
+

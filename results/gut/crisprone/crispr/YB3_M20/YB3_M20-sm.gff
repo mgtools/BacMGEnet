@@ -1,0 +1,22 @@
+##gff-version 3
+#!processor CRISPRone
+YB3_15489	Genbank	region	1	59236	.	+	.	ID=YB3_15489;array=1;gene=3;type=(type II)
+YB3_15489	metaCRT	direct_repeat	52229	53057	.	.	.	what=CRISPR;des=repeat:GTTGTAGCTCCCTTTTTCATTTCGCAGTGCTATAAT;note=copy:13
+YB3_15489	FGS-hmm	CDS	53119	53427	.	-	.	what=cas;des=cd09638:cas2;note=Subtype-II-C
+YB3_15489	FGS-hmm	CDS	53438	54355	.	-	.	what=cas;des=cd09720:cas1;note=Subtype-II-C
+YB3_15489	FGS-hmm	CDS	54417	57581	.	-	.	what=cas;des=COG3513:cas9;note=Subtype-II-C
+YB3_15489	CRISPRone	partial_repeat	57685	57720	.	-	.	what=antiCRISPR;des=antiRepeat:eat;note=30-6
+YB3_12470	Genbank	region	1	88411	.	+	.	ID=YB3_12470;array=1;gene=7;type=(type I)
+YB3_12470	metaCRT	direct_repeat	39099	40396	.	.	.	what=CRISPR;des=repeat:GTTTCAACACACAGCCACCCGAAGGTGGCTGC;note=copy:20
+YB3_12470	FGS-hmm	CDS	40588	40881	.	-	.	what=cas;des=cd09725:cas2;note=universal
+YB3_12470	FGS-hmm	CDS	40885	41898	.	-	.	what=cas;des=cd09721:cas1;note=universal
+YB3_12470	FGS-hmm	CDS	41991	42521	.	-	.	what=cas;des=unk;note=unknown
+YB3_12470	FGS-hmm	CDS	42524	43609	.	-	.	what=cas;des=unk;note=unknown
+YB3_12470	FGS-hmm	CDS	43667	44278	.	-	.	what=cas;des=cd09637:cas4;note=other
+YB3_12470	FGS-hmm	CDS	44288	44911	.	-	.	what=cas;des=unk;note=unknown
+YB3_12470	FGS-hmm	CDS	45144	46010	.	-	.	what=cas;des=cd09689:cas7;note=Subtype-I-C
+YB3_12470	FGS-hmm	CDS	46022	47803	.	-	.	what=cas;des=cd09757:cas8c;note=Subtype-I-C
+YB3_12470	FGS-hmm	CDS	47800	48474	.	-	.	what=cas;des=cd09752:cas5;note=Subtype-I-C
+YB3_12470	FGS-hmm	CDS	48594	50663	.	-	.	what=cas;des=unk;note=unknown
+YB3_12470	FGS-hmm	CDS	50663	52024	.	-	.	what=cas;des=unk;note=unknown
+YB3_12470	FGS-hmm	CDS	52086	54401	.	-	.	what=cas;des=cd09641:cas3HD;note=Type-I

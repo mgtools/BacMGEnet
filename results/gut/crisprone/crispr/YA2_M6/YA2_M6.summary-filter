@@ -1,0 +1,26 @@
+#/u/yye/CRISPRpk/pipelines/../CRISPRone/call-script/hmmscan2cas.py -collection unk -hmmscan crisprone/crispr/YA2_M6/YA2_M6-vs-cas.domtblout -gff crisprone/crispr/YA2_M6/YA2_M6.gff -isolate -outfile crisprone/crispr/YA2_M6/YA2_M6.summary -outfiltered crisprone/crispr/YA2_M6/YA2_M6.summary-filter -gafile /u/yye/CRISPRpk/pipelines/../CRISPRone/local/cas-db/cas-CRISPR.GA
+##YA2_5261 2 derived-fm crisprone/crispr/YA2_M6/YA2_M6-vs-cas.domtblout
+YA2_5261_31613_33814_+ YA2_M6 YA2_5261 31613 33814 + COG1199:DinG 2
+YA2_5261_44357_45586_- YA2_M6 YA2_5261 44357 45586 - pfam13280:WYL 2
+##YA2_1391 5 derived-fm crisprone/crispr/YA2_M6/YA2_M6-vs-cas.domtblout
+YA2_1391_174271_175386_- YA2_M6 YA2_1391 174271 175386 - pfam00078:RT 2
+YA2_1391_289912_294180_+ YA2_M6 YA2_1391 289912 294180 + cd09704:cas9 1
+YA2_1391_294366_295190_+ YA2_M6 YA2_1391 294366 295190 + cd09634:cas1 2
+YA2_1391_295203_295499_+ YA2_M6 YA2_1391 295203 295499 + pfam09827:cas2 2
+YA2_1391_295486_296073_+ YA2_M6 YA2_1391 295486 296073 + cd09637:cas4 1
+##YA2_5241 1 derived-fm crisprone/crispr/YA2_M6/YA2_M6-vs-cas.domtblout
+YA2_5241_68322_68654_- YA2_M6 YA2_5241 68322 68654 - COG0640:csa3 2
+##YA2_517 1 derived-fm crisprone/crispr/YA2_M6/YA2_M6-vs-cas.domtblout
+YA2_517_57602_58936_+ YA2_M6 YA2_517 57602 58936 + pfam13280:WYL 2
+##YA2_3238 1 derived-fm crisprone/crispr/YA2_M6/YA2_M6-vs-cas.domtblout
+YA2_3238_263575_264816_+ YA2_M6 YA2_3238 263575 264816 + pfam00078:RT 2
+##YA2_4665 2 derived-fm crisprone/crispr/YA2_M6/YA2_M6-vs-cas.domtblout
+YA2_4665_116836_117825_+ YA2_M6 YA2_4665 116836 117825 + pfam13280:WYL 2
+YA2_4665_150447_151187_+ YA2_M6 YA2_4665 150447 151187 + cd06127:DEDDh 2
+##YA2_5211 3 derived-fm crisprone/crispr/YA2_M6/YA2_M6-vs-cas.domtblout
+YA2_5211_117014_117313_- YA2_M6 YA2_5211 117014 117313 - pfam13280:WYL 2
+YA2_5211_117500_117646_+ YA2_M6 YA2_5211 117500 117646 + unk 1
+YA2_5211_117996_118295_- YA2_M6 YA2_5211 117996 118295 - pfam13280:WYL 1
+##YA2_3899 2 derived-fm crisprone/crispr/YA2_M6/YA2_M6-vs-cas.domtblout
+YA2_3899_106946_107428_- YA2_M6 YA2_3899 106946 107428 - COG0640:csa3 2
+YA2_3899_155006_156121_+ YA2_M6 YA2_3899 155006 156121 + pfam00078:RT 2

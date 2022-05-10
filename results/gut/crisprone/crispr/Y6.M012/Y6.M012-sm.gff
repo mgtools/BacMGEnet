@@ -1,0 +1,4 @@
+##gff-version 3
+#!processor CRISPRone
+Y6.M012_5	Genbank	region	1	259689	.	+	.	ID=Y6.M012_5;array=1;gene=0;type=NA
+Y6.M012_5	metaCRT	direct_repeat	45444	45598	.	.	.	what=CRISPR;des=repeat:CGCGCCGGGCAGGCGCTCACGCT;note=copy:3

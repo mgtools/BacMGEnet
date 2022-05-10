@@ -1,0 +1,10 @@
+##gff-version 3
+#!processor CRISPRone
+YA2_5393	Genbank	region	1	2389749	.	+	.	ID=YA2_5393;array=1;gene=5;type=(type I, II, IV)
+YA2_5393	FGS-hmm	CDS	1547200	1549485	.	+	.	what=cas;des=COG1199:DinG;note=Subtype-IV-A
+YA2_5393	FGS-hmm	CDS	1549832	1550530	.	+	.	what=cas;des=mkCas0151:cas8b10;note=Subtype-I-B
+YA2_5393	metaCRT	direct_repeat	2354966	2357859	.	.	.	what=CRISPR;des=repeat:GTTGTAGCTTCCTTGAAATCCCTTACAGTGCTACAATC;note=copy:43
+YA2_5393	FGS-hmm	CDS	2357962	2358291	.	-	.	what=cas;des=cd09638:cas2;note=Subtype-II-C
+YA2_5393	FGS-hmm	CDS	2358297	2359148	.	-	.	what=cas;des=COG1518:cas1;note=Subtype-II-C
+YA2_5393	FGS-hmm	CDS	2359195	2362587	.	-	.	what=cas;des=COG3513:cas9;note=Subtype-II-C
+YA2_5393	CRISPRone	partial_repeat	2362747	2362784	.	-	.	what=antiCRISPR;des=antiRepeat:eat;note=27-11

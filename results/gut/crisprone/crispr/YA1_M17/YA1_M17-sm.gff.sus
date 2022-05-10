@@ -1,0 +1,21 @@
+##gff-version 3
+#!processor CRISPRone
+YA1_5384	Genbank	region	1	295012	.	+	.	ID=YA1_5384
+YA1_5384	FGS-hmm	CDS	199815	200132	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA1_1053	Genbank	region	1	622793	.	+	.	ID=YA1_1053
+YA1_1053	FGS-hmm	CDS	255535	256377	.	-	.	what=cas;des=pfam13280:WYL;note=other
+YA1_1053	FGS-hmm	CDS	573750	574316	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YA1_52	Genbank	region	1	235561	.	+	.	ID=YA1_52
+YA1_52	FGS-hmm	CDS	247	957	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA1_52	FGS-hmm	CDS	200812	201354	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA1_5183	Genbank	region	1	1104200	.	+	.	ID=YA1_5183
+YA1_5183	FGS-hmm	CDS	400953	401879	.	+	.	what=cas;des=COG2378:WYL;note=other
+YA1_5183	FGS-hmm	CDS	429293	430324	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA1_5183	FGS-hmm	CDS	845963	846397	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA1_5183	FGS-hmm	CDS	1027635	1030223	.	+	.	what=cas;des=COG1199:DinG;note=Subtype-IV-A
+YA1_5183	FGS-hmm	CDS	1030243	1032282	.	+	.	what=cas;des=cd09641:cas3HD;note=Type-I
+YA1_5183	FGS-hmm	CDS	1077323	1078225	.	-	.	what=cas;des=pfam13280:WYL;note=other
+YA1_5183	FGS-hmm	CDS	1078578	1079264	.	+	.	what=cas;des=unk;note=unknown
+YA1_5183	FGS-hmm	CDS	1079332	1080687	.	-	.	what=cas;des=unk;note=unknown
+YA1_5183	FGS-hmm	CDS	1080681	1082480	.	-	.	what=cas;des=mkCas0115:csx3;note=other
+YA1_5183	FGS-hmm	CDS	1098281	1102621	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I

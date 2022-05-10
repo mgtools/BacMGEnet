@@ -1,0 +1,11 @@
+##gff-version 3
+#!processor CRISPRone
+YB2_2827	Genbank	region	1	208344	.	+	.	ID=YB2_2827;array=1;gene=7;type=(type I)
+YB2_2827	FGS-hmm	CDS	195194	197647	.	+	.	what=cas;des=cd09641:cas3HD;note=Type-I
+YB2_2827	FGS-hmm	CDS	197811	198563	.	+	.	what=cas;des=cd09752:cas5;note=Subtype-I-C
+YB2_2827	FGS-hmm	CDS	198547	200478	.	+	.	what=cas;des=pfam09709:cas8c;note=Subtype-I-C
+YB2_2827	FGS-hmm	CDS	200482	201342	.	+	.	what=cas;des=pfam05107:cas7b;note=Type-I
+YB2_2827	FGS-hmm	CDS	201349	202011	.	+	.	what=cas;des=pfam01930:cas4;note=Type-I
+YB2_2827	FGS-hmm	CDS	202019	203047	.	+	.	what=cas;des=cd09721:cas1;note=universal
+YB2_2827	FGS-hmm	CDS	203054	203344	.	+	.	what=cas;des=cd09725:cas2;note=universal
+YB2_2827	metaCRT	direct_repeat	203539	208306	.	.	.	what=CRISPR;des=repeat:GTCTCCCTCCATGCGGAGGGAGTGGATTGAAAT;note=copy:71

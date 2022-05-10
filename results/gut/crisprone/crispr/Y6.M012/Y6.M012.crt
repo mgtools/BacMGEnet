@@ -1,0 +1,13 @@
+SEQ: Y6.M012_5 length 259689
+Bases: 259689
+
+CRISPR 1 Range: 45444 - 45598
+POSITION	REPEAT				SPACER
+--------	-----------------------	-------------------------------------------
+45444		CGCGCCGGGCAGGCGCTCACGCT	CTGACCCCCACGCCGGGCAGGCGCTCACGCTCTGACCCC	[ 23, 39 ]
+45506		CACGCCGGGCAGGCGCTCACGCT	TCGGCGCGCCGCACGTTCGGGATGCGGGCATCGCCCGTCATGCGCCG	[ 23, 47 ]
+45576		CGCGCCGGGCAGGCGCTCACGCT
+--------	-----------------------	-------------------------------------------
+Repeat-con	CGCGCCGGGCAGGCGCTCACGCT
+Repeats: 3	Average Length: 23		Average Length: 43
+

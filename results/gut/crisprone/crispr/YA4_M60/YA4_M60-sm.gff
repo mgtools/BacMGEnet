@@ -1,0 +1,20 @@
+##gff-version 3
+#!processor CRISPRone
+YA4_14104	Genbank	region	1	28051	.	+	.	ID=YA4_14104;array=0;gene=7;type=(type III)
+YA4_14104	FGS-hmm	CDS	12163	13512	.	+	.	what=cas;des=pfam09659:csm6;note=Subtype-III-A
+YA4_14104	FGS-hmm	CDS	13728	16082	.	+	.	what=cas;des=cd09680:cas10;note=Type-III
+YA4_14104	FGS-hmm	CDS	16069	16518	.	+	.	what=cas;des=pfam03750:csm2gr11;note=Subtype-III-A
+YA4_14104	FGS-hmm	CDS	16524	17189	.	+	.	what=cas;des=COG1337:csm3gr7;note=Subtype-III-D
+YA4_14104	FGS-hmm	CDS	17170	18135	.	+	.	what=cas;des=cd09663:csm4gr5;note=Subtype-III-A
+YA4_14104	FGS-hmm	CDS	18132	19226	.	+	.	what=cas;des=cd09726:csm3gr7;note=Subtype-III-D
+YA4_14104	FGS-hmm	CDS	19280	19993	.	+	.	what=cas;des=pfam10040:cas6;note=other
+YA4_10504	Genbank	region	1	39613	.	+	.	ID=YA4_10504;array=1;gene=7;type=(type I)
+YA4_10504	metaCRT	direct_repeat	0	3121	.	.	.	what=CRISPR;des=repeat:ATTTCAATCCACGCCCCCCGCGAGGGGGGCGAC;note=copy:47
+YA4_10504	FGS-hmm	CDS	3349	3639	.	-	.	what=cas;des=cd09725:cas2;note=universal
+YA4_10504	FGS-hmm	CDS	3644	4675	.	-	.	what=cas;des=cd09721:cas1;note=universal
+YA4_10504	FGS-hmm	CDS	4672	5334	.	-	.	what=cas;des=pfam01930:cas4;note=Type-I
+YA4_10504	FGS-hmm	CDS	5077	5295	.	+	.	what=cas;des=unk;note=unknown
+YA4_10504	FGS-hmm	CDS	5324	6172	.	-	.	what=cas;des=pfam05107:cas7b;note=Type-I
+YA4_10504	FGS-hmm	CDS	6173	7966	.	-	.	what=cas;des=pfam09709:cas8c;note=Subtype-I-C
+YA4_10504	FGS-hmm	CDS	7967	8698	.	-	.	what=cas;des=cd09752:cas5;note=Subtype-I-C
+YA4_10504	FGS-hmm	CDS	8702	11107	.	-	.	what=cas;des=cd09641:cas3HD;note=Type-I

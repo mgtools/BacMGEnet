@@ -1,0 +1,24 @@
+##gff-version 3
+#!processor CRISPRone
+Y8.M033_43	Genbank	region	1	18971	.	+	.	ID=Y8.M033_43;array=2;gene=3;type=(type II)
+Y8.M033_43	metaCRT	direct_repeat	13774	15853	.	.	.	what=CRISPR;des=repeat:GTTGTACAGTTACTTAAATCTTGAGAGTACAAAAAC;note=copy:32
+Y8.M033_43	metaCRT	direct_repeat	15948	16180	.	.	.	what=CRISPR;des=repeat:GTTGTACAGTTACTTAAATCTTGAGAGTACAAAAAC;note=copy:4
+Y8.M033_43	FGS-hmm	CDS	16243	17295	.	-	.	what=cas;des=cd12217:csn2;note=Subtype-II-A
+Y8.M033_43	FGS-hmm	CDS	17292	17615	.	-	.	what=cas;des=pfam09827:cas2;note=universal
+Y8.M033_43	FGS-hmm	CDS	17617	18528	.	-	.	what=cas;des=cd09720:cas1;note=universal
+Y8.M033_44	Genbank	region	1	12370	.	+	.	ID=Y8.M033_44;array=0;gene=8;type=(type III)
+Y8.M033_44	FGS-hmm	CDS	132	1205	.	-	.	what=cas;des=cd09726:csm3gr7;note=Subtype-III-D
+Y8.M033_44	FGS-hmm	CDS	1208	2107	.	-	.	what=cas;des=COG1567:csm4gr5;note=Subtype-III-A
+Y8.M033_44	FGS-hmm	CDS	2109	2771	.	-	.	what=cas;des=COG1337:csm3gr7;note=Subtype-III-D
+Y8.M033_44	FGS-hmm	CDS	2771	3151	.	-	.	what=cas;des=cd09647:csm2gr11;note=Subtype-III-A
+Y8.M033_44	FGS-hmm	CDS	3155	5431	.	-	.	what=cas;des=cd09680:cas10;note=Type-III
+Y8.M033_44	FGS-hmm	CDS	5412	6143	.	-	.	what=cas;des=cd09652:cas6;note=other
+Y8.M033_44	FGS-hmm	CDS	6482	6811	.	-	.	what=cas;des=cd09725:cas2;note=universal
+Y8.M033_44	FGS-hmm	CDS	7015	7815	.	-	.	what=cas;des=cd09634:cas1;note=universal
+Y8.M033_3	Genbank	region	1	143197	.	+	.	ID=Y8.M033_3;array=1;gene=4;type=(type II)
+Y8.M033_3	metaCRT	direct_repeat	61841	63199	.	.	.	what=CRISPR;des=repeat:GTTTTGGAACCATTCGAAACAACACAGCTCTAAAAC;note=copy:21
+Y8.M033_3	FGS-hmm	CDS	63521	64183	.	-	.	what=cas;des=cd09758:csn2;note=Subtype-II-A
+Y8.M033_3	FGS-hmm	CDS	64170	64499	.	-	.	what=cas;des=cd09638:cas2;note=Subtype-II-A
+Y8.M033_3	FGS-hmm	CDS	64511	65287	.	-	.	what=cas;des=cd09720:cas1;note=Subtype-II-A
+Y8.M033_3	FGS-hmm	CDS	65380	69546	.	-	.	what=cas;des=cd09643:cas9;note=Subtype-II-A
+Y8.M033_3	CRISPRone	partial_repeat	69733	69768	.	-	.	what=antiCRISPR;des=antiRepeat:eat;note=27-9

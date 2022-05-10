@@ -1,0 +1,14 @@
+##gff-version 3
+#!processor CRISPRone
+YA1_5553	Genbank	region	1	20072	.	+	.	ID=YA1_5553;array=1;gene=8;type=(type I)
+YA1_5553	metaCRT	direct_repeat	1526	3386	.	.	.	what=CRISPR;des=repeat:GGATCACCCCCGCGTGTGCGGGAAAAAC;note=copy:31
+YA1_5553	FGS-hmm	CDS	3407	4312	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YA1_5553	FGS-hmm	CDS	4314	5255	.	-	.	what=cas;des=cd09719:cas1;note=universal
+YA1_5553	FGS-hmm	CDS	5259	5897	.	-	.	what=cas;des=pfam08798:cas6e;note=other
+YA1_5553	FGS-hmm	CDS	5902	6636	.	-	.	what=cas;des=cd09756:cas5;note=Subtype-I-E
+YA1_5553	FGS-hmm	CDS	6642	7709	.	-	.	what=cas;des=pfam09344:cas7;note=Subtype-I-E
+YA1_5553	FGS-hmm	CDS	7699	8292	.	-	.	what=cas;des=mkCas0194:cse2gr11;note=Subtype-I-E
+YA1_5553	FGS-hmm	CDS	8302	9969	.	-	.	what=cas;des=cd09729:cas8e;note=Subtype-I-E
+YA1_5553	FGS-hmm	CDS	9956	12736	.	-	.	what=cas;des=COG1203:cas3;note=Type-I
+YA1_1502	Genbank	region	1	6497	.	+	.	ID=YA1_1502;array=1;gene=0;type=NA
+YA1_1502	metaCRT	direct_repeat	1302	1571	.	.	.	what=CRISPR;des=repeat:TGATGCGGACGTACTTGCTGATTC;note=copy:6

@@ -1,0 +1,32 @@
+##gff-version 3
+#!processor CRISPRone
+Y5.M001_1	Genbank	region	1	682337	.	+	.	ID=Y5.M001_1
+Y5.M001_1	FGS-hmm	CDS	187781	188239	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y5.M001_1	FGS-hmm	CDS	421304	423685	.	-	.	what=cas;des=COG1199:DinG;note=Subtype-IV-A
+Y5.M001_1	FGS-hmm	CDS	571801	572691	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y5.M001_2	Genbank	region	1	556523	.	+	.	ID=Y5.M001_2
+Y5.M001_2	FGS-hmm	CDS	163664	163990	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y5.M001_2	FGS-hmm	CDS	164223	166010	.	+	.	what=cas;des=unk;note=unknown
+Y5.M001_2	FGS-hmm	CDS	166189	167487	.	+	.	what=cas;des=unk;note=unknown
+Y5.M001_2	FGS-hmm	CDS	167533	169473	.	-	.	what=cas;des=COG2378:WYL;note=other
+Y5.M001_2	FGS-hmm	CDS	485051	485824	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y5.M001_10	Genbank	region	1	111749	.	+	.	ID=Y5.M001_10
+Y5.M001_10	FGS-hmm	CDS	27507	27830	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y5.M001_10	FGS-hmm	CDS	41401	41760	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y5.M001_9	Genbank	region	1	142377	.	+	.	ID=Y5.M001_9
+Y5.M001_9	FGS-hmm	CDS	24970	25878	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y5.M001_6	Genbank	region	1	331889	.	+	.	ID=Y5.M001_6
+Y5.M001_6	FGS-hmm	CDS	211093	212421	.	+	.	what=cas;des=mkCas0115:csx3;note=other
+Y5.M001_6	FGS-hmm	CDS	212424	213065	.	+	.	what=cas;des=unk;note=unknown
+Y5.M001_6	FGS-hmm	CDS	213094	214107	.	+	.	what=cas;des=unk;note=unknown
+Y5.M001_6	FGS-hmm	CDS	214191	215078	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y5.M001_3	Genbank	region	1	508850	.	+	.	ID=Y5.M001_3
+Y5.M001_3	FGS-hmm	CDS	66490	66786	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y5.M001_3	FGS-hmm	CDS	142297	143256	.	+	.	what=cas;des=COG2378:WYL;note=other
+Y5.M001_4	Genbank	region	1	492172	.	+	.	ID=Y5.M001_4
+Y5.M001_4	FGS-hmm	CDS	158056	159075	.	-	.	what=cas;des=pfam13280:WYL;note=other
+Y5.M001_4	FGS-hmm	CDS	305892	306842	.	-	.	what=cas;des=pfam13280:WYL;note=other
+Y5.M001_4	FGS-hmm	CDS	331453	332067	.	-	.	what=cas;des=mkCas0090:PD-DExK;note=other
+Y5.M001_7	Genbank	region	1	221437	.	+	.	ID=Y5.M001_7
+Y5.M001_7	FGS-hmm	CDS	41127	45569	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I
+Y5.M001_7	FGS-hmm	CDS	50675	51583	.	+	.	what=cas;des=COG2378:WYL;note=other

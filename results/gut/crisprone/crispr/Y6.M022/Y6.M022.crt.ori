@@ -1,0 +1,22 @@
+SEQ: Y6.M022_31
+Bases: 65274
+Total CRISPR: 1
+
+
+CRISPR 1   Range: 30272 - 30474
+POSITION	REPEAT				SPACER
+--------	-----------------------------------	---------------------
+30272		TGGTGTTTTTTCGCTGCCTGGGCTTTCTGGGCTAC	CGGTTTAGCGGCAGCTTTG	[ 35, 19 ]
+30326		TGGTGCTTTTTAGCGGCCTGGGCTTTCTGCGGAGC	GGCTGGTTTAGCTTCTGCTTTT	[ 35, 22 ]
+30383		TTGTGTTTTTTAGCGGCCTGGGCTTTCTGGGCAGC	GGCTGGTTTCGCTTCAGCTTTC	[ 35, 22 ]
+30440		TTGTGTTTTTTGGCAGCCTGAGCTTTCTGCTCTGC	
+--------	-----------------------------------	---------------------
+Repeat-con	TTGTGTTTTTTAGCGGCCTGGGCTTTCTGCGCAGC
+Repeats: 4	Average Length: 35		Average Length: 21
+
+
+Total sequences checked: 159
+Total bases checked: 5015987
+Total sequences with predicted CRISPR: 1
+Time used: 653 ms
+

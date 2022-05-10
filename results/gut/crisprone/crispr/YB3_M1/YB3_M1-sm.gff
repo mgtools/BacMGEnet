@@ -1,0 +1,11 @@
+##gff-version 3
+#!processor CRISPRone
+YB3_10945	Genbank	region	1	121179	.	+	.	ID=YB3_10945;array=1;gene=7;type=(type I)
+YB3_10945	FGS-hmm	CDS	59091	61250	.	+	.	what=cas;des=COG1203:cas3;note=Type-I
+YB3_10945	FGS-hmm	CDS	61583	62239	.	+	.	what=cas;des=cd09752:cas5;note=Subtype-I-C
+YB3_10945	FGS-hmm	CDS	62236	63984	.	+	.	what=cas;des=cd09757:cas8c;note=Subtype-I-C
+YB3_10945	FGS-hmm	CDS	63981	64895	.	+	.	what=cas;des=pfam05107:cas7b;note=Type-I
+YB3_10945	FGS-hmm	CDS	64892	65557	.	+	.	what=cas;des=pfam01930:cas4;note=Type-I
+YB3_10945	FGS-hmm	CDS	65554	66585	.	+	.	what=cas;des=cd09721:cas1;note=universal
+YB3_10945	FGS-hmm	CDS	66596	66886	.	+	.	what=cas;des=cd09725:cas2;note=universal
+YB3_10945	metaCRT	direct_repeat	67066	68092	.	.	.	what=CRISPR;des=repeat:GTCGCCTCCCTCGCGGAGGCGTGGATTGAAAT;note=copy:16

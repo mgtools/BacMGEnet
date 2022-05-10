@@ -1,0 +1,6 @@
+##gff-version 3
+#!processor CRISPRone
+YA1_190	Genbank	region	1	219247	.	+	.	ID=YA1_190;array=0;gene=3;type=(type I)
+YA1_190	FGS-hmm	CDS	56846	61462	.	-	.	what=cas;des=cd09639:cas3;note=Type-I
+YA1_190	FGS-hmm	CDS	61555	62202	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YA1_190	FGS-hmm	CDS	69719	70159	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A

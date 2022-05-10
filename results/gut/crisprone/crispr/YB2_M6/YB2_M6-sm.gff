@@ -1,0 +1,10 @@
+##gff-version 3
+#!processor CRISPRone
+YB2_14374	Genbank	region	1	102472	.	+	.	ID=YB2_14374;array=1;gene=3;type=(type II)
+YB2_14374	CRISPRone	partial_repeat	95102	95148	.	-	.	what=antiCRISPR;des=antiRepeat:eat;note=35-12
+YB2_14374	CRISPRone	partial_repeat	95164	95210	.	-	.	what=antiCRISPR;des=antiRepeat:eat;note=41-6
+YB2_14374	metaCRT	direct_repeat	95995	96958	.	.	.	what=CRISPR;des=repeat:GTTGTGATTCGCTTTCAAATTTGTATCTTTGACACATTAAATACAGC;note=copy:13
+YB2_14374	FGS-hmm	CDS	97105	97398	.	-	.	what=cas;des=pfam09827:cas2;note=Subtype-II-C
+YB2_14374	FGS-hmm	CDS	97404	98333	.	-	.	what=cas;des=cd09634:cas1;note=Subtype-II-C
+YB2_14374	FGS-hmm	CDS	98330	101791	.	-	.	what=cas;des=cd09643:cas9;note=Subtype-II-C
+YB2_14374	CRISPRone	partial_repeat	101872	101918	.	-	.	what=antiCRISPR;des=antiRepeat:eat;note=26-21

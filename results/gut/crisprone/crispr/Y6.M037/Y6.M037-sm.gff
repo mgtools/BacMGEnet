@@ -1,0 +1,11 @@
+##gff-version 3
+#!processor CRISPRone
+Y6.M037_18	Genbank	region	1	74327	.	+	.	ID=Y6.M037_18;array=1;gene=7;type=(type I)
+Y6.M037_18	FGS-hmm	CDS	38523	40661	.	+	.	what=cas;des=cd09641:cas3HD;note=Type-I
+Y6.M037_18	FGS-hmm	CDS	40676	41338	.	+	.	what=cas;des=cd09752:cas5;note=Subtype-I-C
+Y6.M037_18	FGS-hmm	CDS	41335	43095	.	+	.	what=cas;des=cd09757:cas8c;note=Subtype-I-C
+Y6.M037_18	FGS-hmm	CDS	43097	43987	.	+	.	what=cas;des=pfam05107:cas7b;note=Type-I
+Y6.M037_18	FGS-hmm	CDS	43984	44652	.	+	.	what=cas;des=pfam01930:cas4;note=Type-I
+Y6.M037_18	FGS-hmm	CDS	44649	45680	.	+	.	what=cas;des=cd09721:cas1;note=universal
+Y6.M037_18	FGS-hmm	CDS	45690	45980	.	+	.	what=cas;des=cd09725:cas2;note=universal
+Y6.M037_18	metaCRT	direct_repeat	46366	48127	.	.	.	what=CRISPR;des=repeat:GTCACTCCCCTCGCGGGAGTGTGGGTTGAAAT;note=copy:27

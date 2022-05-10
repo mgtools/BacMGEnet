@@ -1,0 +1,13 @@
+##gff-version 3
+#!processor CRISPRone
+Y7.M024_2	Genbank	region	1	356439	.	+	.	ID=Y7.M024_2;array=1;gene=0;type=NA
+Y7.M024_2	metaCRT	direct_repeat	105642	105916	.	.	.	what=CRISPR;des=repeat:CGTGATGATGCTCATGATCATGATCGTCG;note=copy:5
+Y7.M024_20	Genbank	region	1	88107	.	+	.	ID=Y7.M024_20;array=1;gene=7;type=(type I)
+Y7.M024_20	metaCRT	direct_repeat	19454	22913	.	.	.	what=CRISPR;des=repeat:ATTTCAATCCACGCTCCCCTCACAGGGAGCGAC;note=copy:52
+Y7.M024_20	FGS-hmm	CDS	23099	23389	.	-	.	what=cas;des=cd09725:cas2;note=universal
+Y7.M024_20	FGS-hmm	CDS	23426	24454	.	-	.	what=cas;des=cd09721:cas1;note=universal
+Y7.M024_20	FGS-hmm	CDS	24451	25116	.	-	.	what=cas;des=pfam01930:cas4;note=Type-I
+Y7.M024_20	FGS-hmm	CDS	25146	26033	.	-	.	what=cas;des=pfam05107:cas7b;note=Type-I
+Y7.M024_20	FGS-hmm	CDS	26035	27786	.	-	.	what=cas;des=cd09757:cas8c;note=Subtype-I-C
+Y7.M024_20	FGS-hmm	CDS	27783	28430	.	-	.	what=cas;des=cd09752:cas5;note=Subtype-I-C
+Y7.M024_20	FGS-hmm	CDS	28635	30860	.	-	.	what=cas;des=cd09641:cas3HD;note=Type-I

@@ -1,0 +1,25 @@
+#/u/yye/CRISPRpk/pipelines/../CRISPRone/call-script/hmmscan2cas.py -collection unk -hmmscan crisprone/crispr/Y7.M027/Y7.M027-vs-cas.domtblout -gff crisprone/crispr/Y7.M027/Y7.M027.gff -isolate -outfile crisprone/crispr/Y7.M027/Y7.M027.summary -outfiltered crisprone/crispr/Y7.M027/Y7.M027.summary-filter -gafile /u/yye/CRISPRpk/pipelines/../CRISPRone/local/cas-db/cas-CRISPR.GA
+##Y7.M027_141 1 derived-fm crisprone/crispr/Y7.M027/Y7.M027-vs-cas.domtblout
+Y7.M027_141_1146_1943_- Y7.M027 Y7.M027_141 1146 1943 - COG0640:csa3 2
+##Y7.M027_11 1 derived-fm crisprone/crispr/Y7.M027/Y7.M027-vs-cas.domtblout
+Y7.M027_11_56814_57113_- Y7.M027 Y7.M027_11 56814 57113 - COG0640:csa3 2
+##Y7.M027_158 1 derived-fm crisprone/crispr/Y7.M027/Y7.M027-vs-cas.domtblout
+Y7.M027_158_1795_2148_- Y7.M027 Y7.M027_158 1795 2148 - COG0640:csa3 2
+##Y7.M027_213 1 derived-fm crisprone/crispr/Y7.M027/Y7.M027-vs-cas.domtblout
+Y7.M027_213_210_950_- Y7.M027 Y7.M027_213 210 950 - cd06127:DEDDh 2
+##Y7.M027_205 1 derived-fm crisprone/crispr/Y7.M027/Y7.M027-vs-cas.domtblout
+Y7.M027_205_657_2180_+ Y7.M027 Y7.M027_205 657 2180 + pfam00078:RT 2
+##Y7.M027_54 1 derived-fm crisprone/crispr/Y7.M027/Y7.M027-vs-cas.domtblout
+Y7.M027_54_6511_7296_+ Y7.M027 Y7.M027_54 6511 7296 + COG0640:csa3 2
+##Y7.M027_8 3 derived-fm crisprone/crispr/Y7.M027/Y7.M027-vs-cas.domtblout
+Y7.M027_8_24126_26411_- Y7.M027 Y7.M027_8 24126 26411 - COG1199:DinG 2
+Y7.M027_8_26429_26878_+ Y7.M027 Y7.M027_8 26429 26878 + unk 1
+Y7.M027_8_27110_28474_- Y7.M027 Y7.M027_8 27110 28474 - COG1199:DinG 1
+##Y7.M027_1 1 derived-fm crisprone/crispr/Y7.M027/Y7.M027-vs-cas.domtblout
+Y7.M027_1_37052_38962_- Y7.M027 Y7.M027_1 37052 38962 - COG1199:DinG 2
+##Y7.M027_51 1 derived-fm crisprone/crispr/Y7.M027/Y7.M027-vs-cas.domtblout
+Y7.M027_51_12887_13720_- Y7.M027 Y7.M027_51 12887 13720 - COG0640:csa3 2
+##Y7.M027_6 3 derived-fm crisprone/crispr/Y7.M027/Y7.M027-vs-cas.domtblout
+Y7.M027_6_19109_19549_- Y7.M027 Y7.M027_6 19109 19549 - COG0640:csa3 2
+Y7.M027_6_26767_27414_+ Y7.M027 Y7.M027_6 26767 27414 + cd06127:DEDDh 2
+Y7.M027_6_27507_32123_+ Y7.M027 Y7.M027_6 27507 32123 + cd09639:cas3 1

@@ -1,0 +1,31 @@
+##gff-version 3
+#!processor CRISPRone
+Y6.M010_3	Genbank	region	1	490483	.	+	.	ID=Y6.M010_3;array=0;gene=2;type=NA
+Y6.M010_3	FGS-hmm	CDS	395353	396810	.	-	.	what=cas;des=cd09693:cas5;note=Type-I
+Y6.M010_3	FGS-hmm	CDS	396826	398520	.	-	.	what=cas;des=unk;note=unknown
+Y6.M010_3	FGS-hmm	CDS	398539	400032	.	-	.	what=cas;des=unk;note=unknown
+Y6.M010_3	FGS-hmm	CDS	400096	403518	.	-	.	what=cas;des=cd09639:cas3;note=Type-I
+Y6.M010_6	Genbank	region	1	391268	.	+	.	ID=Y6.M010_6;array=0;gene=3;type=(type I, IV)
+Y6.M010_6	FGS-hmm	CDS	30398	31162	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y6.M010_6	FGS-hmm	CDS	37314	39776	.	+	.	what=cas;des=COG1199:DinG;note=Subtype-IV-A
+Y6.M010_6	FGS-hmm	CDS	40273	41559	.	+	.	what=cas;des=cas14:cas14;note=Type-V
+Y6.M010_13	Genbank	region	1	135372	.	+	.	ID=Y6.M010_13;array=0;gene=2;type=(type I)
+Y6.M010_13	FGS-hmm	CDS	76947	77405	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y6.M010_13	FGS-hmm	CDS	77498	78778	.	+	.	what=cas;des=unk;note=unknown
+Y6.M010_13	FGS-hmm	CDS	79162	79728	.	-	.	what=cas;des=unk;note=unknown
+Y6.M010_13	FGS-hmm	CDS	79901	81172	.	+	.	what=cas;des=cd09680:cas10;note=Type-III
+Y6.M010_9	Genbank	region	1	218870	.	+	.	ID=Y6.M010_9;array=1;gene=0;type=NA
+Y6.M010_9	metaCRT	direct_repeat	177303	177535	.	.	.	what=CRISPR;des=repeat:CCTCAGCCAACTCCTGAACCAACCCCTCAGCCAACTCCTCA;note=copy:4
+Y6.M010_4	Genbank	region	1	489876	.	+	.	ID=Y6.M010_4;array=1;gene=0;type=NA
+Y6.M010_4	metaCRT	direct_repeat	313528	316117	.	.	.	what=CRISPR;des=repeat:ATTTAAATACATCTCATGTTAATCTTCAAC;note=copy:40
+Y6.M010_8	Genbank	region	1	282978	.	+	.	ID=Y6.M010_8;array=1;gene=9;type=(type I)
+Y6.M010_8	metaCRT	direct_repeat	31860	34562	.	.	.	what=CRISPR;des=repeat:ATTTAAATACATCTCATGTTAATCTTCAAC;note=copy:42
+Y6.M010_8	FGS-hmm	CDS	34743	35033	.	-	.	what=cas;des=cd09725:cas2;note=universal
+Y6.M010_8	FGS-hmm	CDS	35030	36028	.	-	.	what=cas;des=cd09722:cas1;note=universal
+Y6.M010_8	FGS-hmm	CDS	36040	36534	.	-	.	what=cas;des=pfam01930:cas4;note=Type-I
+Y6.M010_8	FGS-hmm	CDS	36545	39130	.	-	.	what=cas;des=cd09641:cas3HD;note=Type-I
+Y6.M010_8	FGS-hmm	CDS	39117	39857	.	-	.	what=cas;des=cd09693:cas5;note=Type-I
+Y6.M010_8	FGS-hmm	CDS	39859	40794	.	-	.	what=cas;des=pfam05107:cas7b;note=Type-I
+Y6.M010_8	FGS-hmm	CDS	40787	42526	.	-	.	what=cas;des=mkCas0106:cas8b1;note=Subtype-I-B
+Y6.M010_8	FGS-hmm	CDS	42541	43239	.	-	.	what=cas;des=cd09652:cas6;note=other
+Y6.M010_8	FGS-hmm	CDS	51957	53063	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A

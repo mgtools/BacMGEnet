@@ -1,0 +1,6 @@
+##gff-version 3
+#!processor CRISPRone
+YA4_21127	Genbank	region	1	5462	.	+	.	ID=YA4_21127;array=0;gene=2;type=NA
+YA4_21127	FGS-hmm	CDS	604	1578	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YA4_21127	FGS-hmm	CDS	1935	2375	.	+	.	what=cas;des=unk;note=unknown
+YA4_21127	FGS-hmm	CDS	2338	3456	.	+	.	what=cas;des=cas14:cas14;note=Type-V

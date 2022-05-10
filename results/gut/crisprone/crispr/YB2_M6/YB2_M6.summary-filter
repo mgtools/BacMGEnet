@@ -1,0 +1,28 @@
+#/u/yye/CRISPRpk/pipelines/../CRISPRone/call-script/hmmscan2cas.py -collection unk -hmmscan crisprone/crispr/YB2_M6/YB2_M6-vs-cas.domtblout -gff crisprone/crispr/YB2_M6/YB2_M6.gff -isolate -outfile crisprone/crispr/YB2_M6/YB2_M6.summary -outfiltered crisprone/crispr/YB2_M6/YB2_M6.summary-filter -gafile /u/yye/CRISPRpk/pipelines/../CRISPRone/local/cas-db/cas-CRISPR.GA
+##YB2_14374 3 derived-fm crisprone/crispr/YB2_M6/YB2_M6-vs-cas.domtblout
+YB2_14374_97105_97398_- YB2_M6 YB2_14374 97105 97398 - pfam09827:cas2 2
+YB2_14374_97404_98333_- YB2_M6 YB2_14374 97404 98333 - cd09634:cas1 2
+YB2_14374_98330_101791_- YB2_M6 YB2_14374 98330 101791 - cd09643:cas9 1
+##YB2_1511 5 derived-fm crisprone/crispr/YB2_M6/YB2_M6-vs-cas.domtblout
+YB2_1511_97101_98795_- YB2_M6 YB2_1511 97101 98795 - pfam00078:RT 2
+YB2_1511_98861_99208_+ YB2_M6 YB2_1511 98861 99208 + unk 1
+YB2_1511_99396_101429_- YB2_M6 YB2_1511 99396 101429 - unk 1
+YB2_1511_101429_101743_- YB2_M6 YB2_1511 101429 101743 - unk 1
+YB2_1511_102030_103739_- YB2_M6 YB2_1511 102030 103739 - pfam00078:RT 2
+##YB2_17174 1 derived-fm crisprone/crispr/YB2_M6/YB2_M6-vs-cas.domtblout
+YB2_17174_133559_134350_+ YB2_M6 YB2_17174 133559 134350 + COG0640:csa3 2
+##YB2_16526 1 derived-fm crisprone/crispr/YB2_M6/YB2_M6-vs-cas.domtblout
+YB2_16526_12768_13700_- YB2_M6 YB2_16526 12768 13700 - pfam13280:WYL 2
+##YB2_18383 1 derived-fm crisprone/crispr/YB2_M6/YB2_M6-vs-cas.domtblout
+YB2_18383_49220_49594_- YB2_M6 YB2_18383 49220 49594 - COG0640:csa3 2
+##YB2_16677 1 derived-fm crisprone/crispr/YB2_M6/YB2_M6-vs-cas.domtblout
+YB2_16677_75388_76320_+ YB2_M6 YB2_16677 75388 76320 + pfam13280:WYL 2
+##YB2_18203 1 derived-fm crisprone/crispr/YB2_M6/YB2_M6-vs-cas.domtblout
+YB2_18203_62530_63120_- YB2_M6 YB2_18203 62530 63120 - cd06127:DEDDh 2
+##YB2_588 1 derived-fm crisprone/crispr/YB2_M6/YB2_M6-vs-cas.domtblout
+YB2_588_49428_50228_- YB2_M6 YB2_588 49428 50228 - cd06127:DEDDh 2
+##YB2_2059 2 derived-fm crisprone/crispr/YB2_M6/YB2_M6-vs-cas.domtblout
+YB2_2059_111307_112551_- YB2_M6 YB2_2059 111307 112551 - COG0640:csa3 2
+YB2_2059_211476_211823_- YB2_M6 YB2_2059 211476 211823 - COG0640:csa3 2
+##YB2_5872 1 derived-fm crisprone/crispr/YB2_M6/YB2_M6-vs-cas.domtblout
+YB2_5872_31430_32272_+ YB2_M6 YB2_5872 31430 32272 + pfam01881:cas6 2

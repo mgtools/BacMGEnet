@@ -1,0 +1,22 @@
+SEQ: YB2_2936
+Bases: 43732
+Total CRISPR: 1
+
+
+CRISPR 1   Range: 40157 - 40335
+POSITION	REPEAT				SPACER
+--------	--------------------------	-------------------------
+40157		CATTGTGACCACGATCACCATGACCA	TCATGATCACGATCACGAC	[ 26, 19 ]
+40202		CATTGTGACCACGATCACCACGATCA	TGATCACTGCGATCACGACCATCATGAT	[ 26, 28 ]
+40256		CACTGCAATCACGATCATCATGACCA	CGATCATCATGACCATGATCACGATTGC	[ 26, 28 ]
+40310		TGCTGTGGACACGATCACGATCATCA	
+--------	--------------------------	-------------------------
+Repeat-con	CACTGTGACCACGATCACCATGACCA
+Repeats: 4	Average Length: 26		Average Length: 25
+
+
+Total sequences checked: 75
+Total bases checked: 2959204
+Total sequences with predicted CRISPR: 1
+Time used: 394 ms
+

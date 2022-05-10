@@ -1,0 +1,13 @@
+##gff-version 3
+#!processor CRISPRone
+YB4_17518	Genbank	region	1	88137	.	+	.	ID=YB4_17518;array=1;gene=4;type=(type II)
+YB4_17518	metaCRT	direct_repeat	6815	7245	.	.	.	what=CRISPR;des=repeat:GTTTGAGTACCATACATTTTTACATCATTCTCAAAC;note=copy:7
+YB4_17518	FGS-hmm	CDS	7309	7983	.	-	.	what=cas;des=cd09644:csn2;note=Subtype-II-A
+YB4_17518	FGS-hmm	CDS	7980	8285	.	-	.	what=cas;des=pfam09827:cas2;note=Subtype-II-A
+YB4_17518	FGS-hmm	CDS	8297	9259	.	-	.	what=cas;des=cd09720:cas1;note=Subtype-II-A
+YB4_17518	FGS-hmm	CDS	9160	13137	.	-	.	what=cas;des=mkCas0193:cas9;note=Subtype-II-A
+YB4_19838	Genbank	region	1	251185	.	+	.	ID=YB4_19838;array=0;gene=3;type=NA
+YB4_19838	FGS-hmm	CDS	16006	16983	.	+	.	what=cas;des=pfam00078:RT;note=other
+YB4_19838	FGS-hmm	CDS	25035	26312	.	-	.	what=cas;des=pfam00078:RT;note=other
+YB4_19838	FGS-hmm	CDS	26506	26655	.	+	.	what=cas;des=unk;note=unknown
+YB4_19838	FGS-hmm	CDS	26940	28043	.	-	.	what=cas;des=cas14:cas14;note=Type-V

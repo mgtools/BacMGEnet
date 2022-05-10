@@ -1,0 +1,33 @@
+##gff-version 3
+#!processor CRISPRone
+YA3_14126	Genbank	region	1	1036066	.	+	.	ID=YA3_14126;array=1;gene=7;type=(type I)
+YA3_14126	FGS-hmm	CDS	794582	796696	.	+	.	what=cas;des=cd09641:cas3HD;note=Type-I
+YA3_14126	FGS-hmm	CDS	796930	797391	.	+	.	what=cas;des=unk;note=unknown
+YA3_14126	FGS-hmm	CDS	797381	797821	.	+	.	what=cas;des=unk;note=unknown
+YA3_14126	FGS-hmm	CDS	797822	798490	.	+	.	what=cas;des=cd09752:cas5;note=Subtype-I-C
+YA3_14126	FGS-hmm	CDS	798487	800223	.	+	.	what=cas;des=cd09757:cas8c;note=Subtype-I-C
+YA3_14126	FGS-hmm	CDS	800224	801135	.	+	.	what=cas;des=cd09689:cas7;note=Subtype-I-C
+YA3_14126	FGS-hmm	CDS	801135	801797	.	+	.	what=cas;des=pfam01930:cas4;note=Type-I
+YA3_14126	FGS-hmm	CDS	801794	802825	.	+	.	what=cas;des=cd09721:cas1;note=universal
+YA3_14126	FGS-hmm	CDS	802835	803125	.	+	.	what=cas;des=cd09725:cas2;note=universal
+YA3_14126	metaCRT	direct_repeat	803303	806969	.	.	.	what=CRISPR;des=repeat:GTCGCTCCTCTCGTGGGAGCGTGGATTGAAAT;note=copy:56
+YA3_13798	Genbank	region	1	549365	.	+	.	ID=YA3_13798;array=0;gene=2;type=(type I)
+YA3_13798	FGS-hmm	CDS	53242	53436	.	+	.	what=cas;des=cas14:cas14;note=Type-V
+YA3_13798	FGS-hmm	CDS	53549	53749	.	+	.	what=cas;des=unk;note=unknown
+YA3_13798	FGS-hmm	CDS	54042	54281	.	+	.	what=cas;des=unk;note=unknown
+YA3_13798	FGS-hmm	CDS	54539	54808	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA3_14016	Genbank	region	1	870980	.	+	.	ID=YA3_14016;array=1;gene=6;type=(type II)
+YA3_14016	FGS-hmm	CDS	330445	333813	.	+	.	what=cas;des=cd09643:cas9;note=Subtype-II-A
+YA3_14016	CRISPRone	partial_repeat	333864	333901	.	+	.	what=antiCRISPR;des=antiRepeat:eat;note=34-2
+YA3_14016	FGS-hmm	CDS	333910	334875	.	+	.	what=cas;des=cd09720:cas1;note=Subtype-II-A
+YA3_14016	FGS-hmm	CDS	334901	335194	.	+	.	what=cas;des=pfam09827:cas2;note=Subtype-II-A
+YA3_14016	FGS-hmm	CDS	335191	336174	.	+	.	what=cas;des=cd12217:csn2;note=Subtype-II-A
+YA3_14016	metaCRT	direct_repeat	336256	337213	.	.	.	what=CRISPR;des=repeat:ATTTTAGTAACTGAATAATTTACGTGACTGTAAAAC;note=copy:15
+YA3_14016	FGS-hmm	CDS	336432	336767	.	-	.	what=cas;des=unk;note=unknown
+YA3_14016	FGS-hmm	CDS	337201	337398	.	+	.	what=cas;des=unk;note=unknown
+YA3_14016	FGS-hmm	CDS	337571	337786	.	+	.	what=cas;des=cd09650:cas7;note=Type-I
+YA3_14016	CRISPRone	partial_repeat	337780	337815	.	+	.	what=antiCRISPR;des=antiRepeat:eat;note=27-9
+YA3_14016	FGS-hmm	CDS	338105	338311	.	+	.	what=cas;des=unk;note=unknown
+YA3_14016	FGS-hmm	CDS	338589	339107	.	+	.	what=cas;des=unk;note=unknown
+YA3_14016	FGS-hmm	CDS	339120	339485	.	+	.	what=cas;des=unk;note=unknown
+YA3_14016	FGS-hmm	CDS	339566	340615	.	+	.	what=cas;des=pfam13280:WYL;note=other

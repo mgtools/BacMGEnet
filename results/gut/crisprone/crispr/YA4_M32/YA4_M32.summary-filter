@@ -1,0 +1,41 @@
+#/u/yye/CRISPRpk/pipelines/../CRISPRone/call-script/hmmscan2cas.py -collection unk -hmmscan crisprone/crispr/YA4_M32/YA4_M32-vs-cas.domtblout -gff crisprone/crispr/YA4_M32/YA4_M32.gff -isolate -outfile crisprone/crispr/YA4_M32/YA4_M32.summary -outfiltered crisprone/crispr/YA4_M32/YA4_M32.summary-filter -gafile /u/yye/CRISPRpk/pipelines/../CRISPRone/local/cas-db/cas-CRISPR.GA
+##YA4_16794 1 derived-fm crisprone/crispr/YA4_M32/YA4_M32-vs-cas.domtblout
+YA4_16794_3706_4692_+ YA4_M32 YA4_16794 3706 4692 + COG4804:PD-DExK 2
+##YA4_4848 1 derived-fm crisprone/crispr/YA4_M32/YA4_M32-vs-cas.domtblout
+YA4_4848_27127_31440_- YA4_M32 YA4_4848 27127 31440 - cd06127:DEDDh 2
+##YA4_334 1 derived-fm crisprone/crispr/YA4_M32/YA4_M32-vs-cas.domtblout
+YA4_334_1155_1598_+ YA4_M32 YA4_334 1155 1598 + COG0640:csa3 2
+##YA4_3796 4 derived-fm crisprone/crispr/YA4_M32/YA4_M32-vs-cas.domtblout
+YA4_3796_40056_41366_+ YA4_M32 YA4_3796 40056 41366 + cd09641:cas3HD 1
+YA4_3796_41824_42090_+ YA4_M32 YA4_3796 41824 42090 + unk 1
+YA4_3796_42442_42597_+ YA4_M32 YA4_3796 42442 42597 + unk 1
+YA4_3796_42742_43173_- YA4_M32 YA4_3796 42742 43173 - COG0640:csa3 2
+##YA4_15351 1 derived-fm crisprone/crispr/YA4_M32/YA4_M32-vs-cas.domtblout
+YA4_15351_132840_133238_+ YA4_M32 YA4_15351 132840 133238 + COG0640:csa3 2
+##YA4_18207 1 derived-fm crisprone/crispr/YA4_M32/YA4_M32-vs-cas.domtblout
+YA4_18207_5830_6576_- YA4_M32 YA4_18207 5830 6576 - COG0640:csa3 2
+##YA4_4104 1 derived-fm crisprone/crispr/YA4_M32/YA4_M32-vs-cas.domtblout
+YA4_4104_8458_9738_+ YA4_M32 YA4_4104 8458 9738 + pfam00078:RT 2
+##YA4_19931 5 derived-fm crisprone/crispr/YA4_M32/YA4_M32-vs-cas.domtblout
+YA4_19931_74109_75401_- YA4_M32 YA4_19931 74109 75401 - cd09637:cas4 1
+YA4_19931_75569_76585_- YA4_M32 YA4_19931 75569 76585 - unk 1
+YA4_19931_76588_77613_- YA4_M32 YA4_19931 76588 77613 - unk 1
+YA4_19931_77680_78702_- YA4_M32 YA4_19931 77680 78702 - COG4804:PD-DExK 2
+YA4_19931_78735_79247_- YA4_M32 YA4_19931 78735 79247 - cd09766:csx15 1
+##YA4_14547 1 derived-fm crisprone/crispr/YA4_M32/YA4_M32-vs-cas.domtblout
+YA4_14547_10735_11694_- YA4_M32 YA4_14547 10735 11694 - pfam13280:WYL 2
+##YA4_17451 1 derived-fm crisprone/crispr/YA4_M32/YA4_M32-vs-cas.domtblout
+YA4_17451_9113_9904_- YA4_M32 YA4_17451 9113 9904 - pfam00078:RT 2
+##YA4_308 4 derived-fm crisprone/crispr/YA4_M32/YA4_M32-vs-cas.domtblout
+YA4_308_11336_12391_+ YA4_M32 YA4_308 11336 12391 + COG4804:PD-DExK 2
+YA4_308_20324_20680_- YA4_M32 YA4_308 20324 20680 - pfam09827:cas2 2
+YA4_308_20673_21584_- YA4_M32 YA4_308 20673 21584 - pfam01867:cas1 2
+YA4_308_21781_26007_- YA4_M32 YA4_308 21781 26007 - cd09643:cas9 1
+##YA4_930 1 derived-fm crisprone/crispr/YA4_M32/YA4_M32-vs-cas.domtblout
+YA4_930_3025_4113_- YA4_M32 YA4_930 3025 4113 - pfam00078:RT 2
+##YA4_14123 1 derived-fm crisprone/crispr/YA4_M32/YA4_M32-vs-cas.domtblout
+YA4_14123_3223_3576_+ YA4_M32 YA4_14123 3223 3576 + COG0640:csa3 2
+##YA4_20245 3 derived-fm crisprone/crispr/YA4_M32/YA4_M32-vs-cas.domtblout
+YA4_20245_1950_3248_- YA4_M32 YA4_20245 1950 3248 - pfam00078:RT 2
+YA4_20245_7674_7820_- YA4_M32 YA4_20245 7674 7820 - COG2378:WYL 1
+YA4_20245_7925_8998_- YA4_M32 YA4_20245 7925 8998 - COG4804:PD-DExK 2

@@ -1,0 +1,18 @@
+##gff-version 3
+#!processor CRISPRone
+Y8.M032_16	Genbank	region	1	389230	.	+	.	ID=Y8.M032_16;array=3;gene=8;type=(type I)
+Y8.M032_16	FGS-hmm	CDS	21101	21394	.	+	.	what=cas;des=cd09655:casR;note=Type-I
+Y8.M032_16	FGS-hmm	CDS	21391	21654	.	+	.	what=cas;des=unk;note=unknown
+Y8.M032_16	FGS-hmm	CDS	21755	22012	.	+	.	what=cas;des=unk;note=unknown
+Y8.M032_16	metaCRT	direct_repeat	21757	22459	.	.	.	what=CRISPR;des=repeat:GTTTCAATCCACGCACTCCTTGCGGAGTGCGAC;note=copy:11
+Y8.M032_16	FGS-hmm	CDS	22662	22952	.	-	.	what=cas;des=cd09725:cas2;note=universal
+Y8.M032_16	FGS-hmm	CDS	22967	23986	.	-	.	what=cas;des=cd09721:cas1;note=universal
+Y8.M032_16	FGS-hmm	CDS	23983	24651	.	-	.	what=cas;des=pfam01930:cas4;note=Type-I
+Y8.M032_16	FGS-hmm	CDS	24748	27219	.	+	.	what=cas;des=cd09641:cas3HD;note=Type-I
+Y8.M032_16	FGS-hmm	CDS	27242	27937	.	+	.	what=cas;des=cd09752:cas5;note=Subtype-I-C
+Y8.M032_16	FGS-hmm	CDS	27954	29945	.	+	.	what=cas;des=pfam09709:cas8c;note=Subtype-I-C
+Y8.M032_16	FGS-hmm	CDS	29988	30812	.	+	.	what=cas;des=pfam05107:cas7b;note=Type-I
+Y8.M032_16	metaCRT	direct_repeat	30932	32389	.	.	.	what=CRISPR;des=repeat:GTTTCAATCCACGCACCCGTAAGGGTGCGAC;note=copy:23
+Y8.M032_16	metaCRT	direct_repeat	229692	230370	.	.	.	what=CRISPR;des=repeat:GTTTCAATCCACGCACCCGTGAGGGTGCGAC;note=copy:11
+Y8.M032_19	Genbank	region	1	229362	.	+	.	ID=Y8.M032_19;array=1;gene=0;type=NA
+Y8.M032_19	metaCRT	direct_repeat	87683	90447	.	.	.	what=CRISPR;des=repeat:GTCGCACTCTCACGAGTGCGTGGATTGAAAC;note=copy:43

@@ -1,0 +1,12 @@
+##gff-version 3
+#!processor CRISPRone
+Y7.M021_17	Genbank	region	1	127070	.	+	.	ID=Y7.M021_17;array=2;gene=7;type=(type I)
+Y7.M021_17	metaCRT	direct_repeat	18451	21931	.	.	.	what=CRISPR;des=repeat:ATTTCTATCCACGCCCTCCGCGAGGAGGGCGAC;note=copy:52
+Y7.M021_17	metaCRT	direct_repeat	22031	24286	.	.	.	what=CRISPR;des=repeat:ATTTCTATCCACGCCCTCCGCGAGGAGGGCGAC;note=copy:34
+Y7.M021_17	FGS-hmm	CDS	24470	24760	.	-	.	what=cas;des=cd09725:cas2;note=universal
+Y7.M021_17	FGS-hmm	CDS	24770	25801	.	-	.	what=cas;des=cd09721:cas1;note=universal
+Y7.M021_17	FGS-hmm	CDS	25798	26469	.	-	.	what=cas;des=pfam01930:cas4;note=Type-I
+Y7.M021_17	FGS-hmm	CDS	26469	27353	.	-	.	what=cas;des=cd09689:cas7;note=Subtype-I-C
+Y7.M021_17	FGS-hmm	CDS	27357	29120	.	-	.	what=cas;des=cd09757:cas8c;note=Subtype-I-C
+Y7.M021_17	FGS-hmm	CDS	29117	29821	.	-	.	what=cas;des=cd09651:cas5;note=Subtype-I-C
+Y7.M021_17	FGS-hmm	CDS	30146	32305	.	-	.	what=cas;des=cd09641:cas3HD;note=Type-I

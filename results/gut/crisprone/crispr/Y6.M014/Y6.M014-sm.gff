@@ -1,0 +1,31 @@
+##gff-version 3
+#!processor CRISPRone
+Y6.M014_71	Genbank	region	1	165020	.	+	.	ID=Y6.M014_71;array=0;gene=4;type=(type I, III)
+Y6.M014_71	FGS-hmm	CDS	133100	133660	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y6.M014_71	FGS-hmm	CDS	133739	134656	.	-	.	what=cas;des=unk;note=unknown
+Y6.M014_71	FGS-hmm	CDS	134783	136450	.	-	.	what=cas;des=mkCas0115:csx3;note=other
+Y6.M014_71	FGS-hmm	CDS	136492	137253	.	-	.	what=cas;des=unk;note=unknown
+Y6.M014_71	FGS-hmm	CDS	137262	137795	.	-	.	what=cas;des=unk;note=unknown
+Y6.M014_71	FGS-hmm	CDS	137816	138616	.	-	.	what=cas;des=mkCas0109:csx1;note=Type-III
+Y6.M014_71	FGS-hmm	CDS	138684	139982	.	-	.	what=cas;des=mkCas0122:csx19;note=Subtype-III-D
+Y6.M014_48	Genbank	region	1	173723	.	+	.	ID=Y6.M014_48;array=1;gene=8;type=(type I)
+Y6.M014_48	FGS-hmm	CDS	87200	87928	.	+	.	what=cas;des=pfam01881:cas6;note=other
+Y6.M014_48	FGS-hmm	CDS	87943	89349	.	+	.	what=cas;des=cd09697:cas8b2;note=Subtype-I-B
+Y6.M014_48	FGS-hmm	CDS	89373	90284	.	+	.	what=cas;des=cd09650:cas7;note=Type-I
+Y6.M014_48	FGS-hmm	CDS	90300	91376	.	+	.	what=cas;des=cd09693:cas5;note=Type-I
+Y6.M014_48	FGS-hmm	CDS	91422	93770	.	+	.	what=cas;des=cd09641:cas3HD;note=Type-I
+Y6.M014_48	FGS-hmm	CDS	93806	94300	.	+	.	what=cas;des=pfam01930:cas4;note=Type-I
+Y6.M014_48	FGS-hmm	CDS	94323	95315	.	+	.	what=cas;des=cd09722:cas1;note=universal
+Y6.M014_48	FGS-hmm	CDS	95331	95609	.	+	.	what=cas;des=cd09725:cas2;note=universal
+Y6.M014_48	metaCRT	direct_repeat	95789	96210	.	.	.	what=CRISPR;des=repeat:ATTAAAGTAGAACCATATTGGAATGTAAA;note=copy:7
+Y6.M014_74	Genbank	region	1	112930	.	+	.	ID=Y6.M014_74;array=1;gene=9;type=(type I)
+Y6.M014_74	FGS-hmm	CDS	20719	22566	.	+	.	what=cas;des=cd09730:cas8b1;note=Subtype-I-B
+Y6.M014_74	FGS-hmm	CDS	22553	23464	.	+	.	what=cas;des=pfam05107:cas7b;note=Type-I
+Y6.M014_74	FGS-hmm	CDS	23482	24180	.	+	.	what=cas;des=cd09693:cas5;note=Type-I
+Y6.M014_74	FGS-hmm	CDS	24167	26446	.	+	.	what=cas;des=cd09641:cas3HD;note=Type-I
+Y6.M014_74	FGS-hmm	CDS	26471	27124	.	+	.	what=cas;des=cls000004:cas6;note=other
+Y6.M014_74	FGS-hmm	CDS	27177	28112	.	+	.	what=cas;des=pfam01867:cas1;note=universal
+Y6.M014_74	FGS-hmm	CDS	28129	28404	.	+	.	what=cas;des=cd09725:cas2;note=universal
+Y6.M014_74	FGS-hmm	CDS	28475	28990	.	+	.	what=cas;des=cd09637:cas4;note=other
+Y6.M014_74	metaCRT	direct_repeat	29235	29710	.	.	.	what=CRISPR;des=repeat:GTAGAAGTATTAGATCCATTAAAATAAGGAT;note=copy:7
+Y6.M014_74	FGS-hmm	CDS	39530	40624	.	+	.	what=cas;des=pfam13280:WYL;note=other

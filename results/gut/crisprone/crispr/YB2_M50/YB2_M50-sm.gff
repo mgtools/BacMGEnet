@@ -1,0 +1,11 @@
+##gff-version 3
+#!processor CRISPRone
+YB2_10874	Genbank	region	1	26798	.	+	.	ID=YB2_10874;array=1;gene=7;type=(type I)
+YB2_10874	FGS-hmm	CDS	17785	19938	.	+	.	what=cas;des=cd09641:cas3HD;note=Type-I
+YB2_10874	FGS-hmm	CDS	20169	20822	.	+	.	what=cas;des=cd09752:cas5;note=Subtype-I-C
+YB2_10874	FGS-hmm	CDS	20819	22555	.	+	.	what=cas;des=cd09757:cas8c;note=Subtype-I-C
+YB2_10874	FGS-hmm	CDS	22558	23454	.	+	.	what=cas;des=cd09689:cas7;note=Subtype-I-C
+YB2_10874	FGS-hmm	CDS	23454	24116	.	+	.	what=cas;des=pfam01930:cas4;note=Type-I
+YB2_10874	FGS-hmm	CDS	24113	25144	.	+	.	what=cas;des=cd09721:cas1;note=universal
+YB2_10874	FGS-hmm	CDS	25154	25444	.	+	.	what=cas;des=cd09725:cas2;note=universal
+YB2_10874	metaCRT	direct_repeat	25615	26792	.	.	.	what=CRISPR;des=repeat:GTCGCTCTCCGCAAGGAGAGCGTGGATAGAAAT;note=copy:18

@@ -1,0 +1,14 @@
+##gff-version 3
+#!processor CRISPRone
+Y8.M008_2	Genbank	region	1	349992	.	+	.	ID=Y8.M008_2;array=0;gene=2;type=NA
+Y8.M008_2	FGS-hmm	CDS	281585	282475	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+Y8.M008_2	FGS-hmm	CDS	282484	284331	.	-	.	what=cas;des=unk;note=unknown
+Y8.M008_2	FGS-hmm	CDS	284610	286541	.	+	.	what=cas;des=unk;note=unknown
+Y8.M008_2	FGS-hmm	CDS	286543	287751	.	+	.	what=cas;des=cd09720:cas1;note=universal
+Y8.M008_3	Genbank	region	1	301592	.	+	.	ID=Y8.M008_3;array=1;gene=4;type=(type II)
+Y8.M008_3	metaCRT	direct_repeat	289938	291026	.	.	.	what=CRISPR;des=repeat:GTTTTACTACCTTATAGATTTACACTATTCTCAAAC(Degradation:291026bp-291089bp);note=copy:17
+Y8.M008_3	FGS-hmm	CDS	291109	291753	.	-	.	what=cas;des=cd09644:csn2;note=Subtype-II-A
+Y8.M008_3	FGS-hmm	CDS	291771	292076	.	-	.	what=cas;des=pfam09827:cas2;note=Subtype-II-A
+Y8.M008_3	FGS-hmm	CDS	292088	292957	.	-	.	what=cas;des=cd09720:cas1;note=Subtype-II-A
+Y8.M008_3	FGS-hmm	CDS	292982	296965	.	-	.	what=cas;des=mkCas0193:cas9;note=Subtype-II-A
+Y8.M008_3	CRISPRone	partial_repeat	297019	297055	.	-	.	what=antiCRISPR;des=antiRepeat:eat;note=23-13

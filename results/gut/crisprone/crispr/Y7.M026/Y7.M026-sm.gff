@@ -1,0 +1,12 @@
+##gff-version 3
+#!processor CRISPRone
+Y7.M026_101	Genbank	region	1	28276	.	+	.	ID=Y7.M026_101;array=0;gene=3;type=NA
+Y7.M026_101	FGS-hmm	CDS	2310	3017	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I
+Y7.M026_101	FGS-hmm	CDS	3109	4635	.	+	.	what=cas;des=unk;note=unknown
+Y7.M026_101	FGS-hmm	CDS	4638	5636	.	+	.	what=cas;des=unk;note=unknown
+Y7.M026_101	FGS-hmm	CDS	5666	6160	.	+	.	what=cas;des=cls001593:casR;note=Type-I
+Y7.M026_101	FGS-hmm	CDS	6160	7329	.	+	.	what=cas;des=unk;note=unknown
+Y7.M026_101	FGS-hmm	CDS	7360	7857	.	+	.	what=cas;des=unk;note=unknown
+Y7.M026_101	FGS-hmm	CDS	7941	10574	.	+	.	what=cas;des=cd09655:casR;note=Type-I
+Y7.M026_104	Genbank	region	1	23941	.	+	.	ID=Y7.M026_104;array=1;gene=0;type=NA
+Y7.M026_104	metaCRT	direct_repeat	15442	15741	.	.	.	what=CRISPR;des=repeat:GTTTTAGAACTGTGTGAAATCAGATGATTCCAAAGG;note=copy:5

@@ -1,0 +1,8 @@
+##gff-version 3
+#!processor CRISPRone
+Y8.M048_21	Genbank	region	1	442272	.	+	.	ID=Y8.M048_21;array=1;gene=3;type=(type II)
+Y8.M048_21	metaCRT	direct_repeat	172389	173020	.	.	.	what=CRISPR;des=repeat:GTCATAGTTCCCTAATAGCTCTTGGTATGGTATAAT;note=copy:10
+Y8.M048_21	FGS-hmm	CDS	173069	173389	.	-	.	what=cas;des=cd09638:cas2;note=Subtype-II-C
+Y8.M048_21	FGS-hmm	CDS	173382	174263	.	-	.	what=cas;des=cd09634:cas1;note=Subtype-II-C
+Y8.M048_21	FGS-hmm	CDS	174267	177491	.	-	.	what=cas;des=COG3513:cas9;note=Subtype-II-C
+Y8.M048_21	CRISPRone	partial_repeat	177645	177680	.	-	.	what=antiCRISPR;des=antiRepeat:eat;note=29-7

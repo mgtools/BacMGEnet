@@ -1,0 +1,23 @@
+SEQ: YB4_11186
+Bases: 28003
+Total CRISPR: 1
+
+
+CRISPR 1   Range: 6630 - 6817
+POSITION	REPEAT				SPACER
+--------	--------------------	----------------------
+6630		CGAAAGCGATTGCATTCGGT	ACAAGTTCATCAGCATCGGGCA	[ 20, 22 ]
+6672		ATAAATCTATTGCATTTGGT	TATAATGCATTAGGTGGTAGCG	[ 20, 22 ]
+6714		AGAATTCTATTGCATTTGGT	GTAGACGCTAAAGCTCATAAAA	[ 20, 22 ]
+6756		AAGATGCGATTGCATTTGGT	AATAGTGCTAATGCAAGCGAAG	[ 20, 22 ]
+6798		CAAACTCAATTGCATTTGGT	
+--------	--------------------	----------------------
+Repeat-con	AAAAATCTATTGCATTTGGT
+Repeats: 5	Average Length: 20		Average Length: 22
+
+
+Total sequences checked: 123
+Total bases checked: 2058511
+Total sequences with predicted CRISPR: 1
+Time used: 284 ms
+

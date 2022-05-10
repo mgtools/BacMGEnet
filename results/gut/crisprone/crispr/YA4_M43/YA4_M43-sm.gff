@@ -1,0 +1,4 @@
+##gff-version 3
+#!processor CRISPRone
+YA4_1636	Genbank	region	1	62438	.	+	.	ID=YA4_1636;array=1;gene=0;type=NA
+YA4_1636	metaCRT	direct_repeat	58895	59140	.	.	.	what=CRISPR;des=repeat:ATTTACGAGGTTTTGATCTC;note=copy:6

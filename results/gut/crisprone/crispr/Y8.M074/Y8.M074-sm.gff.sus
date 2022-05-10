@@ -1,0 +1,35 @@
+##gff-version 3
+#!processor CRISPRone
+Y8.M074_83	Genbank	region	1	13273	.	+	.	ID=Y8.M074_83
+Y8.M074_83	FGS-hmm	CDS	2247	3170	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y8.M074_83	FGS-hmm	CDS	3338	4297	.	+	.	what=cas;des=unk;note=unknown
+Y8.M074_83	FGS-hmm	CDS	4490	5422	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y8.M074_72	Genbank	region	1	45893	.	+	.	ID=Y8.M074_72
+Y8.M074_72	FGS-hmm	CDS	13748	14530	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y8.M074_57	Genbank	region	1	117912	.	+	.	ID=Y8.M074_57
+Y8.M074_57	FGS-hmm	CDS	72707	73177	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y8.M074_57	FGS-hmm	CDS	73207	74388	.	+	.	what=cas;des=unk;note=unknown
+Y8.M074_57	FGS-hmm	CDS	74474	75013	.	+	.	what=cas;des=unk;note=unknown
+Y8.M074_57	FGS-hmm	CDS	75094	76173	.	+	.	what=cas;des=mkCas0150:cas11b;note=Subtype-I-B
+Y8.M074_19	Genbank	region	1	91557	.	+	.	ID=Y8.M074_19
+Y8.M074_19	FGS-hmm	CDS	44323	44805	.	-	.	what=cas;des=cls001593:casR;note=Type-I
+Y8.M074_19	FGS-hmm	CDS	44807	45838	.	-	.	what=cas;des=unk;note=unknown
+Y8.M074_19	FGS-hmm	CDS	46005	47576	.	-	.	what=cas;des=unk;note=unknown
+Y8.M074_19	FGS-hmm	CDS	47749	48474	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+Y8.M074_75	Genbank	region	1	31417	.	+	.	ID=Y8.M074_75
+Y8.M074_75	metaCRT	direct_repeat	20527	20717	.	.	.	what=CRISPR;des=repeat:AGCAGAGACACTGGAGAGCGGAG;note=copy:5
+Y8.M074_18	Genbank	region	1	107811	.	+	.	ID=Y8.M074_18
+Y8.M074_18	FGS-hmm	CDS	52021	54663	.	-	.	what=cas;des=COG1199:DinG;note=Subtype-IV-A
+Y8.M074_42	Genbank	region	1	40706	.	+	.	ID=Y8.M074_42
+Y8.M074_42	FGS-hmm	CDS	32689	33087	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y8.M074_2	Genbank	region	1	58850	.	+	.	ID=Y8.M074_2
+Y8.M074_2	metaCRT	direct_repeat	34387	34667	.	.	.	what=CRISPR;des=repeat:TCCTGCTCAGTTTCCGTCTCAGT;note=copy:6
+Y8.M074_69	Genbank	region	1	54808	.	+	.	ID=Y8.M074_69
+Y8.M074_69	FGS-hmm	CDS	20144	24631	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I
+Y8.M074_5	Genbank	region	1	98191	.	+	.	ID=Y8.M074_5
+Y8.M074_5	FGS-hmm	CDS	59625	60152	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y8.M074_5	metaCRT	direct_repeat	90678	90886	.	.	.	what=CRISPR;des=repeat:TGGTCATGGCCGCAGCCGCACTCCTCGTCGTG;note=copy:4
+Y8.M074_52	Genbank	region	1	4794	.	+	.	ID=Y8.M074_52
+Y8.M074_52	FGS-hmm	CDS	318	2816	.	+	.	what=cas;des=COG1199:DinG;note=Subtype-IV-A
+Y8.M074_20	Genbank	region	1	35867	.	+	.	ID=Y8.M074_20
+Y8.M074_20	FGS-hmm	CDS	22639	23292	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A

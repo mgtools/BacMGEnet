@@ -1,0 +1,21 @@
+SEQ: Y8.M076_40
+Bases: 65379
+Total CRISPR: 1
+
+
+CRISPR 1   Range: 30416 - 30522
+POSITION	REPEAT				SPACER
+--------	-----------------------	-------------------
+30416		TTGTTGGAACCGTTGCCGCCATT	GTTGTTCCCGCCGTTGCCG	[ 23, 19 ]
+30458		TTGTTGGAACCGTTGCCACCGTT	CCCACTGCCGTTGTTCCCA	[ 23, 19 ]
+30500		TTGTTGGAACCGTTGCCACCGTT	
+--------	-----------------------	-------------------
+Repeat-con	TTGTTGGAACCGTTGCCACCGTT
+Repeats: 3	Average Length: 23		Average Length: 19
+
+
+Total sequences checked: 143
+Total bases checked: 2203783
+Total sequences with predicted CRISPR: 1
+Time used: 337 ms
+

@@ -1,0 +1,37 @@
+#/u/yye/CRISPRpk/pipelines/../CRISPRone/call-script/hmmscan2cas.py -collection unk -hmmscan crisprone/crispr/Y8.M031/Y8.M031-vs-cas.domtblout -gff crisprone/crispr/Y8.M031/Y8.M031.gff -isolate -outfile crisprone/crispr/Y8.M031/Y8.M031.summary -outfiltered crisprone/crispr/Y8.M031/Y8.M031.summary-filter -gafile /u/yye/CRISPRpk/pipelines/../CRISPRone/local/cas-db/cas-CRISPR.GA
+##Y8.M031_63 3 derived-fm crisprone/crispr/Y8.M031/Y8.M031-vs-cas.domtblout
+Y8.M031_63_30830_31216_- Y8.M031 Y8.M031_63 30830 31216 - COG0640:csa3 2
+Y8.M031_63_87593_89989_- Y8.M031 Y8.M031_63 87593 89989 - COG1199:DinG 2
+Y8.M031_63_104159_104518_+ Y8.M031 Y8.M031_63 104159 104518 + COG0640:csa3 2
+##Y8.M031_5 1 derived-fm crisprone/crispr/Y8.M031/Y8.M031-vs-cas.domtblout
+Y8.M031_5_85961_86242_- Y8.M031 Y8.M031_5 85961 86242 - COG0640:csa3 2
+##Y8.M031_69 1 derived-fm crisprone/crispr/Y8.M031/Y8.M031-vs-cas.domtblout
+Y8.M031_69_34671_38999_- Y8.M031 Y8.M031_69 34671 38999 - cd06127:DEDDh 2
+##Y8.M031_40 1 derived-fm crisprone/crispr/Y8.M031/Y8.M031-vs-cas.domtblout
+Y8.M031_40_8857_9768_- Y8.M031 Y8.M031_40 8857 9768 - COG2378:WYL 2
+##Y8.M031_13 1 derived-fm crisprone/crispr/Y8.M031/Y8.M031-vs-cas.domtblout
+Y8.M031_13_26116_26430_+ Y8.M031 Y8.M031_13 26116 26430 + COG0640:csa3 2
+##Y8.M031_4 1 derived-fm crisprone/crispr/Y8.M031/Y8.M031-vs-cas.domtblout
+Y8.M031_4_71370_72008_- Y8.M031 Y8.M031_4 71370 72008 - COG0640:csa3 2
+##Y8.M031_3 6 derived-fm crisprone/crispr/Y8.M031/Y8.M031-vs-cas.domtblout
+Y8.M031_3_10398_11060_+ Y8.M031 Y8.M031_3 10398 11060 + cd09641:cas3HD 2
+Y8.M031_3_30089_30400_- Y8.M031 Y8.M031_3 30089 30400 - COG0640:csa3 2
+Y8.M031_3_30751_31257_+ Y8.M031 Y8.M031_3 30751 31257 + unk 1
+Y8.M031_3_31384_31662_- Y8.M031 Y8.M031_3 31384 31662 - unk 1
+Y8.M031_3_31797_32333_- Y8.M031 Y8.M031_3 31797 32333 - cls001593:casR 1
+Y8.M031_3_132795_134675_- Y8.M031 Y8.M031_3 132795 134675 - COG1199:DinG 2
+##Y8.M031_36 1 derived-fm crisprone/crispr/Y8.M031/Y8.M031-vs-cas.domtblout
+Y8.M031_36_4543_5442_- Y8.M031 Y8.M031_36 4543 5442 - COG2378:WYL 2
+##Y8.M031_47 2 derived-fm crisprone/crispr/Y8.M031/Y8.M031-vs-cas.domtblout
+Y8.M031_47_129193_129486_- Y8.M031 Y8.M031_47 129193 129486 - COG0640:csa3 2
+Y8.M031_47_143174_144853_+ Y8.M031 Y8.M031_47 143174 144853 + pfam00078:RT 2
+##Y8.M031_16 3 derived-fm crisprone/crispr/Y8.M031/Y8.M031-vs-cas.domtblout
+Y8.M031_16_39795_40394_+ Y8.M031 Y8.M031_16 39795 40394 + cd09641:cas3HD 1
+Y8.M031_16_40525_41868_- Y8.M031 Y8.M031_16 40525 41868 - unk 1
+Y8.M031_16_42014_43006_+ Y8.M031 Y8.M031_16 42014 43006 + pfam13280:WYL 2
+##Y8.M031_8 1 derived-fm crisprone/crispr/Y8.M031/Y8.M031-vs-cas.domtblout
+Y8.M031_8_84370_85641_- Y8.M031 Y8.M031_8 84370 85641 - cd06127:DEDDh 2
+##Y8.M031_27 3 derived-fm crisprone/crispr/Y8.M031/Y8.M031-vs-cas.domtblout
+Y8.M031_27_2041_2349_- Y8.M031 Y8.M031_27 2041 2349 - pfam09827:cas2 2
+Y8.M031_27_2354_3250_- Y8.M031 Y8.M031_27 2354 3250 - cd09634:cas1 2
+Y8.M031_27_3273_6527_- Y8.M031 Y8.M031_27 3273 6527 - COG3513:cas9 1

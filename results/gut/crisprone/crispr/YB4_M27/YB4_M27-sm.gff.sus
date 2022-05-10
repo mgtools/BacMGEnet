@@ -1,0 +1,32 @@
+##gff-version 3
+#!processor CRISPRone
+YB4_12376	Genbank	region	1	16890	.	+	.	ID=YB4_12376
+YB4_12376	FGS-hmm	CDS	5803	6417	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YB4_3433	Genbank	region	1	44613	.	+	.	ID=YB4_3433
+YB4_3433	metaCRT	direct_repeat	41979	42181	.	.	.	what=CRISPR;des=repeat:GCACCAACAGAAAAAGCTACAACAGT;note=copy:4
+YB4_8081	Genbank	region	1	178660	.	+	.	ID=YB4_8081
+YB4_8081	FGS-hmm	CDS	130169	131167	.	-	.	what=cas;des=pfam13280:WYL;note=other
+YB4_8081	FGS-hmm	CDS	166148	167101	.	-	.	what=cas;des=pfam13280:WYL;note=other
+YB4_898	Genbank	region	1	4309	.	+	.	ID=YB4_898
+YB4_898	FGS-hmm	CDS	358	1446	.	+	.	what=cas;des=pfam00078:RT;note=other
+YB4_11177	Genbank	region	1	156857	.	+	.	ID=YB4_11177
+YB4_11177	FGS-hmm	CDS	124551	126374	.	+	.	what=cas;des=pfam00078:RT;note=other
+YB4_15112	Genbank	region	1	87813	.	+	.	ID=YB4_15112
+YB4_15112	metaCRT	direct_repeat	59552	59846	.	.	.	what=CRISPR;des=repeat:AAAATAAATTACGTGTCATA;note=copy:6
+YB4_11316	Genbank	region	1	153743	.	+	.	ID=YB4_11316
+YB4_11316	FGS-hmm	CDS	31617	32354	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YB4_11316	FGS-hmm	CDS	130901	131902	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YB4_2692	Genbank	region	1	47289	.	+	.	ID=YB4_2692
+YB4_2692	FGS-hmm	CDS	11535	13523	.	+	.	what=cas;des=pfam00078:RT;note=other
+YB4_15472	Genbank	region	1	84209	.	+	.	ID=YB4_15472
+YB4_15472	FGS-hmm	CDS	20433	20816	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YB4_13045	Genbank	region	1	13875	.	+	.	ID=YB4_13045
+YB4_13045	FGS-hmm	CDS	9973	11211	.	+	.	what=cas;des=pfam13280:WYL;note=other
+YB4_13045	FGS-hmm	CDS	11212	12117	.	+	.	what=cas;des=pfam13280:WYL;note=other
+YB4_11572	Genbank	region	1	55416	.	+	.	ID=YB4_11572
+YB4_11572	FGS-hmm	CDS	11697	12410	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YB4_11572	FGS-hmm	CDS	12693	14159	.	+	.	what=cas;des=unk;note=unknown
+YB4_11572	FGS-hmm	CDS	14179	15138	.	+	.	what=cas;des=unk;note=unknown
+YB4_11572	FGS-hmm	CDS	15154	15636	.	+	.	what=cas;des=cls001593:casR;note=Type-I
+YB4_6981	Genbank	region	1	2578	.	+	.	ID=YB4_6981
+YB4_6981	metaCRT	direct_repeat	798	1087	.	.	.	what=CRISPR;des=repeat:AGTCAAGGCAGTATTCTTACTGACATCTAATGAGGTTA;note=copy:5

@@ -1,0 +1,19 @@
+##gff-version 3
+#!processor CRISPRone
+YA2_3959	Genbank	region	1	2372	.	+	.	ID=YA2_3959;array=1;gene=0;type=NA
+YA2_3959	metaCRT	direct_repeat	1514	1795	.	.	.	what=CRISPR;des=repeat:TTTCATTGGACTGTACCTTC;note=copy:5
+YA2_332	Genbank	region	1	7358	.	+	.	ID=YA2_332;array=0;gene=4;type=(type II)
+YA2_332	FGS-hmm	CDS	1236	5381	.	+	.	what=cas;des=mkCas0193:cas9;note=Subtype-II-A
+YA2_332	FGS-hmm	CDS	5395	6270	.	+	.	what=cas;des=cd09720:cas1;note=Subtype-II-A
+YA2_332	FGS-hmm	CDS	6275	6580	.	+	.	what=cas;des=pfam09827:cas2;note=Subtype-II-A
+YA2_332	FGS-hmm	CDS	6577	7254	.	+	.	what=cas;des=cd09644:csn2;note=Subtype-II-A
+YA2_775	Genbank	region	1	5872	.	+	.	ID=YA2_775;array=1;gene=0;type=NA
+YA2_775	metaCRT	direct_repeat	3610	3778	.	.	.	what=CRISPR;des=repeat:TGAACGGATATGCTCCGGAAAA;note=copy:4
+YA2_1733	Genbank	region	1	4088	.	+	.	ID=YA2_1733;array=0;gene=2;type=(type I)
+YA2_1733	FGS-hmm	CDS	656	3475	.	+	.	what=cas;des=cd09641:cas3HD;note=Type-I
+YA2_1733	FGS-hmm	CDS	3478	4086	.	+	.	what=cas;des=cd09729:cas8e;note=Subtype-I-E
+YA2_616	Genbank	region	1	6360	.	+	.	ID=YA2_616;array=0;gene=4;type=(type II)
+YA2_616	FGS-hmm	CDS	429	4508	.	+	.	what=cas;des=mkCas0193:cas9;note=Subtype-II-A
+YA2_616	FGS-hmm	CDS	4583	5389	.	+	.	what=cas;des=COG1518:cas1;note=Subtype-II-A
+YA2_616	FGS-hmm	CDS	5379	5699	.	+	.	what=cas;des=pfam09827:cas2;note=Subtype-II-A
+YA2_616	FGS-hmm	CDS	5759	6346	.	+	.	what=cas;des=cd09644:csn2;note=Subtype-II-A

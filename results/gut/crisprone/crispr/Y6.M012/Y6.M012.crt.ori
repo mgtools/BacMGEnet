@@ -1,0 +1,49 @@
+SEQ: Y6.M012_5
+Bases: 259689
+Total CRISPR: 2
+
+
+CRISPR 1   Range: 45444 - 45598
+POSITION	REPEAT				SPACER
+--------	-----------------------	-------------------------------------------
+45444		CGCGCCGGGCAGGCGCTCACGCT	CTGACCCCCACGCCGGGCAGGCGCTCACGCTCTGACCCC	[ 23, 39 ]
+45506		CACGCCGGGCAGGCGCTCACGCT	TCGGCGCGCCGCACGTTCGGGATGCGGGCATCGCCCGTCATGCGCCG	[ 23, 47 ]
+45576		CGCGCCGGGCAGGCGCTCACGCT	
+--------	-----------------------	-------------------------------------------
+Repeat-con	CGCGCCGGGCAGGCGCTCACGCT
+Repeats: 3	Average Length: 23		Average Length: 43
+
+CRISPR 2   Range: 73789 - 73933
+POSITION	REPEAT				SPACER
+--------	---------------------	--------------------
+73789		TTCGCGGGGCCATGCCCGCCG	ATCAAGTCGGAATGCCGCGGC	[ 21, 21 ]
+73831		TTCGCGGGAACGCGCCCCGTC	CGCGCGGGTTGACCGCGGG	[ 21, 19 ]
+73871		TTCGCGGGAACGCGCCTGCCG	ATCAAGTCGGAATGCCGCGGC	[ 21, 21 ]
+73913		TTCGCGGGAACGCGCCAGCCG	
+--------	---------------------	--------------------
+Repeat-con	TTCGCGGGAACGCGCCCGCCG
+Repeats: 4	Average Length: 21		Average Length: 20
+
+
+SEQ: Y6.M012_8
+Bases: 138846
+Total CRISPR: 1
+
+
+CRISPR 1   Range: 83160 - 83376
+POSITION	REPEAT				SPACER
+--------	-------------------------------------	-----------------------
+83160		GTGGTCTGCGTTGTCATGCCGCCGGATTGCGTCGTTG	TGCCGGACTGCGCTGTGCCG	[ 37, 20 ]
+83217		GTGGTCTGCGTTGTCGTGCCGCCGGACTGCGTCGTTA	CGCCGGACTGCGTGGTGCCGGTGGCCTGC	[ 37, 29 ]
+83283		GTGGTCTGCGTTGTCATGCCGCCGGATTGCGTCGTTG	TGCCGGACTGCGCTGTGCCG	[ 37, 20 ]
+83340		GTGGTCTGCGTTGTCATGCCACCGGACTGCGTCGTTG	
+--------	-------------------------------------	-----------------------
+Repeat-con	GTGGTCTGCGTTGTCATGCCGCCGGACTGCGTCGTTG
+Repeats: 4	Average Length: 37		Average Length: 23
+
+
+Total sequences checked: 25
+Total bases checked: 3062318
+Total sequences with predicted CRISPR: 2
+Time used: 432 ms
+

@@ -1,0 +1,11 @@
+##gff-version 3
+#!processor CRISPRone
+YB1_6645	Genbank	region	1	337803	.	+	.	ID=YB1_6645;array=0;gene=3;type=NA
+YB1_6645	FGS-hmm	CDS	263390	263929	.	-	.	what=cas;des=COG4804:PD-DExK;note=other
+YB1_6645	FGS-hmm	CDS	263945	264442	.	-	.	what=cas;des=COG2254:cas3HD;note=Type-I
+YB1_6645	FGS-hmm	CDS	264480	265220	.	-	.	what=cas;des=unk;note=unknown
+YB1_6645	FGS-hmm	CDS	265201	266070	.	-	.	what=cas;des=unk;note=unknown
+YB1_6645	FGS-hmm	CDS	266093	266245	.	-	.	what=cas;des=unk;note=unknown
+YB1_6645	FGS-hmm	CDS	266283	267170	.	-	.	what=cas;des=COG4804:PD-DExK;note=other
+YB1_10219	Genbank	region	1	358430	.	+	.	ID=YB1_10219;array=1;gene=0;type=NA
+YB1_10219	metaCRT	direct_repeat	1876	2198	.	.	.	what=CRISPR;des=repeat:GAAGGTGGCGACCGTCCGCAACGTCCTTATAA;note=copy:5

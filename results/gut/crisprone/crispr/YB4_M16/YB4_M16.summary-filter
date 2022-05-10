@@ -1,0 +1,24 @@
+#/u/yye/CRISPRpk/pipelines/../CRISPRone/call-script/hmmscan2cas.py -collection unk -hmmscan crisprone/crispr/YB4_M16/YB4_M16-vs-cas.domtblout -gff crisprone/crispr/YB4_M16/YB4_M16.gff -isolate -outfile crisprone/crispr/YB4_M16/YB4_M16.summary -outfiltered crisprone/crispr/YB4_M16/YB4_M16.summary-filter -gafile /u/yye/CRISPRpk/pipelines/../CRISPRone/local/cas-db/cas-CRISPR.GA
+##YB4_11437 3 derived-fm crisprone/crispr/YB4_M16/YB4_M16-vs-cas.domtblout
+YB4_11437_143856_144149_- YB4_M16 YB4_11437 143856 144149 - pfam09827:cas2 2
+YB4_11437_144155_145084_- YB4_M16 YB4_11437 144155 145084 - cd09634:cas1 2
+YB4_11437_145081_148542_- YB4_M16 YB4_11437 145081 148542 - cd09643:cas9 1
+##YB4_14074 1 derived-fm crisprone/crispr/YB4_M16/YB4_M16-vs-cas.domtblout
+YB4_14074_13226_14239_- YB4_M16 YB4_14074 13226 14239 - COG4804:PD-DExK 2
+##YB4_11527 2 derived-fm crisprone/crispr/YB4_M16/YB4_M16-vs-cas.domtblout
+YB4_11527_110393_112102_+ YB4_M16 YB4_11527 110393 112102 + pfam00078:RT 2
+YB4_11527_115337_117031_+ YB4_M16 YB4_11527 115337 117031 + pfam00078:RT 2
+##YB4_13286 1 derived-fm crisprone/crispr/YB4_M16/YB4_M16-vs-cas.domtblout
+YB4_13286_219892_220824_+ YB4_M16 YB4_13286 219892 220824 + pfam13280:WYL 2
+##YB4_1611 1 derived-fm crisprone/crispr/YB4_M16/YB4_M16-vs-cas.domtblout
+YB4_1611_91774_93018_+ YB4_M16 YB4_1611 91774 93018 + COG0640:csa3 2
+##YB4_19041 1 derived-fm crisprone/crispr/YB4_M16/YB4_M16-vs-cas.domtblout
+YB4_19041_49159_49533_- YB4_M16 YB4_19041 49159 49533 - COG0640:csa3 2
+##YB4_11655 1 derived-fm crisprone/crispr/YB4_M16/YB4_M16-vs-cas.domtblout
+YB4_11655_130718_131509_+ YB4_M16 YB4_11655 130718 131509 + COG0640:csa3 2
+##YB4_14744 1 derived-fm crisprone/crispr/YB4_M16/YB4_M16-vs-cas.domtblout
+YB4_14744_2574_3374_+ YB4_M16 YB4_14744 2574 3374 + cd06127:DEDDh 2
+##YB4_15284 1 derived-fm crisprone/crispr/YB4_M16/YB4_M16-vs-cas.domtblout
+YB4_15284_153521_154363_- YB4_M16 YB4_15284 153521 154363 - pfam01881:cas6 2
+##YB4_4456 1 derived-fm crisprone/crispr/YB4_M16/YB4_M16-vs-cas.domtblout
+YB4_4456_2680_3612_- YB4_M16 YB4_4456 2680 3612 - pfam13280:WYL 2

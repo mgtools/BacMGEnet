@@ -1,0 +1,4 @@
+##gff-version 3
+#!processor CRISPRone
+YA4_13697	Genbank	region	1	175070	.	+	.	ID=YA4_13697;array=1;gene=0;type=NA
+YA4_13697	metaCRT	direct_repeat	70498	70772	.	.	.	what=CRISPR;des=repeat:CGTGATGATGCTCATGATCATGATCGTCG;note=copy:5

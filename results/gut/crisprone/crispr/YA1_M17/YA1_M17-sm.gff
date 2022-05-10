@@ -1,0 +1,7 @@
+##gff-version 3
+#!processor CRISPRone
+YA1_1053	Genbank	region	1	622793	.	+	.	ID=YA1_1053;array=0;gene=3;type=(type I)
+YA1_1053	FGS-hmm	CDS	378026	378409	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA1_1053	FGS-hmm	CDS	378675	379475	.	-	.	what=cas;des=unk;note=unknown
+YA1_1053	FGS-hmm	CDS	379559	380206	.	-	.	what=cas;des=cd09655:casR;note=Type-I
+YA1_1053	FGS-hmm	CDS	380379	380885	.	-	.	what=cas;des=COG2378:WYL;note=other

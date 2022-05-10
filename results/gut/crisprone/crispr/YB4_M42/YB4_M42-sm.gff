@@ -1,0 +1,51 @@
+##gff-version 3
+#!processor CRISPRone
+YB4_2254	Genbank	region	1	211570	.	+	.	ID=YB4_2254;array=1;gene=0;type=NA
+YB4_2254	metaCRT	direct_repeat	105381	106264	.	.	.	what=CRISPR;des=repeat:GTTTCAATACATCTCATGTTGTTGTTTAAC;note=copy:14
+YB4_11297	Genbank	region	1	154253	.	+	.	ID=YB4_11297;array=1;gene=8;type=(type I)
+YB4_11297	FGS-hmm	CDS	7036	7317	.	-	.	what=cas;des=cd09725:cas2;note=universal
+YB4_11297	FGS-hmm	CDS	7317	8315	.	-	.	what=cas;des=cd09722:cas1;note=universal
+YB4_11297	FGS-hmm	CDS	8326	8823	.	-	.	what=cas;des=pfam01930:cas4;note=Type-I
+YB4_11297	metaCRT	direct_repeat	8859	10849	.	.	.	what=CRISPR;des=repeat:ATTTCAAAACATCCTATGTTGTTGTTTAAC;note=copy:31
+YB4_11297	FGS-hmm	CDS	9464	9898	.	+	.	what=cas;des=unk;note=unknown
+YB4_11297	FGS-hmm	CDS	10890	11033	.	+	.	what=cas;des=unk;note=unknown
+YB4_11297	FGS-hmm	CDS	11108	13783	.	-	.	what=cas;des=cd09641:cas3HD;note=Type-I
+YB4_11297	FGS-hmm	CDS	13960	14703	.	-	.	what=cas;des=cd09693:cas5;note=Type-I
+YB4_11297	FGS-hmm	CDS	14707	15660	.	-	.	what=cas;des=pfam05107:cas7b;note=Type-I
+YB4_11297	FGS-hmm	CDS	15662	17422	.	-	.	what=cas;des=mkCas0106:cas8b1;note=Subtype-I-B
+YB4_11297	FGS-hmm	CDS	17532	18236	.	-	.	what=cas;des=cd09652:cas6;note=other
+YB4_4649	Genbank	region	1	41311	.	+	.	ID=YB4_4649;array=1;gene=0;type=NA
+YB4_4649	metaCRT	direct_repeat	23370	23662	.	.	.	what=CRISPR;des=repeat:GTTAAACAACAACATAAGATGTATTGAAACT;note=copy:5
+YB4_11220	Genbank	region	1	155941	.	+	.	ID=YB4_11220;array=1;gene=0;type=NA
+YB4_11220	metaCRT	direct_repeat	76610	77033	.	.	.	what=CRISPR;des=repeat:GTTAAACAACAACATAAGATGTATTGAAAC;note=copy:7
+YB4_11448	Genbank	region	1	148193	.	+	.	ID=YB4_11448;array=0;gene=3;type=NA
+YB4_11448	FGS-hmm	CDS	102360	103331	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YB4_11448	FGS-hmm	CDS	103519	103647	.	-	.	what=cas;des=cas14:cas14;note=Type-V
+YB4_11448	FGS-hmm	CDS	103814	104170	.	-	.	what=cas;des=cas14:cas14;note=Type-V
+YB4_5618	Genbank	region	1	39127	.	+	.	ID=YB4_5618;array=0;gene=9;type=(type III)
+YB4_5618	FGS-hmm	CDS	4492	6663	.	+	.	what=cas;des=pfam09455:csx1;note=Type-III
+YB4_5618	FGS-hmm	CDS	6696	7055	.	+	.	what=cas;des=cls000118:csx20;note=other
+YB4_5618	FGS-hmm	CDS	7100	7720	.	+	.	what=cas;des=mkCas0133:cas10;note=Type-III
+YB4_5618	FGS-hmm	CDS	7805	8737	.	+	.	what=cas;des=mkCas0133:cas10;note=Type-III
+YB4_5618	FGS-hmm	CDS	8727	10886	.	+	.	what=cas;des=cd09726:csm3gr7;note=Subtype-III-D
+YB4_5618	FGS-hmm	CDS	10876	12219	.	+	.	what=cas;des=cd09726:csm3gr7;note=Subtype-III-D
+YB4_5618	FGS-hmm	CDS	12219	12749	.	+	.	what=cas;des=cls001376:csx19;note=Subtype-III-D
+YB4_5618	FGS-hmm	CDS	12739	14631	.	+	.	what=cas;des=pfam03787:csm3gr7;note=Type-III
+YB4_5618	FGS-hmm	CDS	15039	16049	.	-	.	what=cas;des=unk;note=unknown
+YB4_5618	FGS-hmm	CDS	16278	17600	.	+	.	what=cas;des=mkCas0115:csx3;note=other
+YB4_12223	Genbank	region	1	17973	.	+	.	ID=YB4_12223;array=1;gene=0;type=NA
+YB4_12223	metaCRT	direct_repeat	8341	8603	.	.	.	what=CRISPR;des=repeat:TATCTTATCATTAGTTGTTT;note=copy:5
+YB4_2365	Genbank	region	1	209887	.	+	.	ID=YB4_2365;array=1;gene=0;type=NA
+YB4_2365	metaCRT	direct_repeat	4167	4419	.	.	.	what=CRISPR;des=repeat:GCAAAATTTACTCCAAAAATGTCTACAT;note=copy:4
+YB4_2616	Genbank	region	1	47472	.	+	.	ID=YB4_2616;array=1;gene=10;type=(type III)
+YB4_2616	FGS-hmm	CDS	2864	4012	.	-	.	what=cas;des=pfam09659:csm6;note=Subtype-III-A
+YB4_2616	FGS-hmm	CDS	4406	4669	.	-	.	what=cas;des=cd09725:cas2;note=universal
+YB4_2616	FGS-hmm	CDS	4809	5810	.	-	.	what=cas;des=cd09634:cas1;note=universal
+YB4_2616	metaCRT	direct_repeat	5845	6595	.	.	.	what=CRISPR;des=repeat:TTTCCGTCCCCTATCGGGGAATTGATATTTATAAC;note=copy:11
+YB4_2616	FGS-hmm	CDS	6921	8036	.	-	.	what=cas;des=pfam03787:csm3gr7;note=Type-III
+YB4_2616	FGS-hmm	CDS	8033	8980	.	-	.	what=cas;des=COG1567:csm4gr5;note=Subtype-III-A
+YB4_2616	FGS-hmm	CDS	8993	9661	.	-	.	what=cas;des=COG1337:csm3gr7;note=Subtype-III-D
+YB4_2616	FGS-hmm	CDS	9679	10122	.	-	.	what=cas;des=cd09647:csm2gr11;note=Subtype-III-A
+YB4_2616	FGS-hmm	CDS	10143	12575	.	-	.	what=cas;des=cd09680:cas10;note=Type-III
+YB4_2616	FGS-hmm	CDS	12670	13416	.	-	.	what=cas;des=COG5551:cas6;note=Type-III
+YB4_2616	FGS-hmm	CDS	13730	14758	.	+	.	what=cas;des=pfam13280:WYL;note=other

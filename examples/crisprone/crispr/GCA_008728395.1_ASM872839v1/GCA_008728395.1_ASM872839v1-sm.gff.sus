@@ -1,0 +1,19 @@
+##gff-version 3
+#!processor CRISPRone
+CP043529.1	Genbank	region	1	5010342	.	+	.	ID=CP043529.1
+CP043529.1	FGS-hmm	CDS	412642	414477	.	-	.	what=cas;des=pfam00078:RT;note=other
+CP043529.1	FGS-hmm	CDS	418566	420383	.	-	.	what=cas;des=pfam00078:RT;note=other
+CP043529.1	FGS-hmm	CDS	891443	891733	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+CP043529.1	FGS-hmm	CDS	928254	930350	.	+	.	what=cas;des=pfam08800:PrimPol;note=other
+CP043529.1	FGS-hmm	CDS	1571023	1571349	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+CP043529.1	FGS-hmm	CDS	1587340	1588470	.	+	.	what=cas;des=COG4804:PD-DExK;note=other
+CP043529.1	FGS-hmm	CDS	2906065	2906553	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+CP043529.1	FGS-hmm	CDS	3095538	3096314	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I
+CP043529.1	FGS-hmm	CDS	3695461	3696060	.	-	.	what=cas;des=pfam08800:PrimPol;note=other
+CP043529.1	FGS-hmm	CDS	3803933	3804556	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+CP043529.1	FGS-hmm	CDS	3804961	3807051	.	+	.	what=cas;des=pfam08800:PrimPol;note=other
+CP043529.1	FGS-hmm	CDS	3962118	3962561	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+CP043529.1	FGS-hmm	CDS	4002873	4004708	.	-	.	what=cas;des=pfam00078:RT;note=other
+CP043529.1	FGS-hmm	CDS	4020628	4021920	.	+	.	what=cas;des=COG4804:PD-DExK;note=other
+CP043529.1	FGS-hmm	CDS	4432282	4433283	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+CP043529.1	FGS-hmm	CDS	4683319	4684146	.	+	.	what=cas;des=COG4804:PD-DExK;note=other

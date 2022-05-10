@@ -1,0 +1,2 @@
+run command.sh to call both pipelines
+make sure that --db is set correctly to run the second pipeline

@@ -1,0 +1,26 @@
+#/u/yye/CRISPRpk/pipelines/../CRISPRone/call-script/hmmscan2cas.py -collection unk -hmmscan crisprone/crispr/Y8.M062/Y8.M062-vs-cas.domtblout -gff crisprone/crispr/Y8.M062/Y8.M062.gff -isolate -outfile crisprone/crispr/Y8.M062/Y8.M062.summary -outfiltered crisprone/crispr/Y8.M062/Y8.M062.summary-filter -gafile /u/yye/CRISPRpk/pipelines/../CRISPRone/local/cas-db/cas-CRISPR.GA
+##Y8.M062_28 1 derived-fm crisprone/crispr/Y8.M062/Y8.M062-vs-cas.domtblout
+Y8.M062_28_2471_3358_- Y8.M062 Y8.M062_28 2471 3358 - COG0640:csa3 2
+##Y8.M062_4 1 derived-fm crisprone/crispr/Y8.M062/Y8.M062-vs-cas.domtblout
+Y8.M062_4_33961_34761_- Y8.M062 Y8.M062_4 33961 34761 - COG0640:csa3 2
+##Y8.M062_6 7 derived-fm crisprone/crispr/Y8.M062/Y8.M062-vs-cas.domtblout
+Y8.M062_6_10427_10717_- Y8.M062 Y8.M062_6 10427 10717 - cd09725:cas2 2
+Y8.M062_6_10726_11757_- Y8.M062 Y8.M062_6 10726 11757 - cd09721:cas1 2
+Y8.M062_6_11754_12419_- Y8.M062 Y8.M062_6 11754 12419 - pfam01930:cas4 2
+Y8.M062_6_12421_13269_- Y8.M062 Y8.M062_6 12421 13269 - pfam05107:cas7b 2
+Y8.M062_6_13288_15237_- Y8.M062 Y8.M062_6 13288 15237 - pfam09709:cas8c 2
+Y8.M062_6_15234_15977_- Y8.M062 Y8.M062_6 15234 15977 - cd09752:cas5 2
+Y8.M062_6_15993_18431_- Y8.M062 Y8.M062_6 15993 18431 - cd09641:cas3HD 2
+##Y8.M062_7 6 derived-fm crisprone/crispr/Y8.M062/Y8.M062-vs-cas.domtblout
+Y8.M062_7_110358_110819_+ Y8.M062 Y8.M062_7 110358 110819 + COG0640:csa3 2
+Y8.M062_7_127802_128671_+ Y8.M062 Y8.M062_7 127802 128671 + cd09680:cas10 1
+Y8.M062_7_128837_130273_+ Y8.M062 Y8.M062_7 128837 130273 + unk 1
+Y8.M062_7_130424_131140_+ Y8.M062 Y8.M062_7 130424 131140 + COG0640:csa3 2
+Y8.M062_7_172885_177444_+ Y8.M062 Y8.M062_7 172885 177444 + cd06127:DEDDh 2
+Y8.M062_7_182716_185151_+ Y8.M062 Y8.M062_7 182716 185151 + COG1199:DinG 2
+##Y8.M062_25 1 derived-fm crisprone/crispr/Y8.M062/Y8.M062-vs-cas.domtblout
+Y8.M062_25_61097_61543_+ Y8.M062 Y8.M062_25 61097 61543 + COG0640:csa3 2
+##Y8.M062_11 1 derived-fm crisprone/crispr/Y8.M062/Y8.M062-vs-cas.domtblout
+Y8.M062_11_7752_8120_+ Y8.M062 Y8.M062_11 7752 8120 + COG0640:csa3 2
+##Y8.M062_8 1 derived-fm crisprone/crispr/Y8.M062/Y8.M062-vs-cas.domtblout
+Y8.M062_8_8819_9922_- Y8.M062 Y8.M062_8 8819 9922 - COG0640:csa3 2

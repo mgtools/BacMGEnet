@@ -1,0 +1,22 @@
+##gff-version 3
+#!processor CRISPRone
+YA4_22022	Genbank	region	1	224613	.	+	.	ID=YA4_22022
+YA4_22022	FGS-hmm	CDS	177384	178388	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YA4_22284	Genbank	region	1	156926	.	+	.	ID=YA4_22284
+YA4_22284	FGS-hmm	CDS	3479	4123	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YA4_15617	Genbank	region	1	338560	.	+	.	ID=YA4_15617
+YA4_15617	metaCRT	direct_repeat	298268	299130	.	.	.	what=CRISPR;des=repeat:AAGAAACAGTGACTTAGAAAGCCGAAAAAGCAAATAAGGTCAAA;note=copy:14
+YA4_17466	Genbank	region	1	310377	.	+	.	ID=YA4_17466
+YA4_17466	FGS-hmm	CDS	295294	295593	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA4_12081	Genbank	region	1	450743	.	+	.	ID=YA4_12081
+YA4_12081	FGS-hmm	CDS	290439	294905	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YA4_12081	metaCRT	direct_repeat	414935	415181	.	.	.	what=CRISPR;des=repeat:TCGCAGAATATGCGGGCTAAGACCCTCTAAGT;note=copy:4
+YA4_22102	Genbank	region	1	584745	.	+	.	ID=YA4_22102
+YA4_22102	FGS-hmm	CDS	147475	148584	.	+	.	what=cas;des=pfam13280:WYL;note=other
+YA4_22102	FGS-hmm	CDS	214889	215707	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA4_22102	FGS-hmm	CDS	318220	318696	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA4_22102	FGS-hmm	CDS	433844	434218	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA4_22102	FGS-hmm	CDS	538093	541725	.	+	.	what=cas;des=cd09641:cas3HD;note=Type-I
+YA4_22102	FGS-hmm	CDS	541712	542953	.	+	.	what=cas;des=unk;note=unknown
+YA4_22102	FGS-hmm	CDS	543105	543584	.	+	.	what=cas;des=unk;note=unknown
+YA4_22102	FGS-hmm	CDS	544062	545480	.	+	.	what=cas;des=pfam00078:RT;note=other

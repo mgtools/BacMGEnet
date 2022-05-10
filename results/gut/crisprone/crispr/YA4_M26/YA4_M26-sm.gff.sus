@@ -1,0 +1,30 @@
+##gff-version 3
+#!processor CRISPRone
+YA4_15659	Genbank	region	1	16016	.	+	.	ID=YA4_15659
+YA4_15659	FGS-hmm	CDS	2915	3241	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA4_12700	Genbank	region	1	35866	.	+	.	ID=YA4_12700
+YA4_12700	FGS-hmm	CDS	7706	8743	.	+	.	what=cas;des=pfam13280:WYL;note=other
+YA4_12700	FGS-hmm	CDS	8752	9549	.	+	.	what=cas;des=cd09682:cmr4gr7;note=Subtype-III-B
+YA4_8614	Genbank	region	1	43033	.	+	.	ID=YA4_8614
+YA4_8614	FGS-hmm	CDS	26484	26849	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA4_8581	Genbank	region	1	43053	.	+	.	ID=YA4_8581
+YA4_8581	FGS-hmm	CDS	5311	5898	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YA4_16222	Genbank	region	1	119193	.	+	.	ID=YA4_16222
+YA4_16222	FGS-hmm	CDS	8863	9177	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA4_16222	FGS-hmm	CDS	20023	20250	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA4_16222	FGS-hmm	CDS	20475	20894	.	-	.	what=cas;des=unk;note=unknown
+YA4_16222	FGS-hmm	CDS	20945	21178	.	-	.	what=cas;des=unk;note=unknown
+YA4_16222	FGS-hmm	CDS	21574	22935	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YA4_16222	FGS-hmm	CDS	38607	38978	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA4_13820	Genbank	region	1	31252	.	+	.	ID=YA4_13820
+YA4_13820	FGS-hmm	CDS	27659	28027	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA4_10980	Genbank	region	1	188221	.	+	.	ID=YA4_10980
+YA4_10980	FGS-hmm	CDS	98770	99684	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA4_16376	Genbank	region	1	326849	.	+	.	ID=YA4_16376
+YA4_16376	FGS-hmm	CDS	2270	3295	.	-	.	what=cas;des=cd09641:cas3HD;note=Type-I
+YA4_16376	FGS-hmm	CDS	3443	4276	.	-	.	what=cas;des=unk;note=unknown
+YA4_16376	FGS-hmm	CDS	4286	4918	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA4_16376	FGS-hmm	CDS	24975	25859	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA4_16376	FGS-hmm	CDS	190564	190848	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA4_14049	Genbank	region	1	28627	.	+	.	ID=YA4_14049
+YA4_14049	FGS-hmm	CDS	4678	5721	.	-	.	what=cas;des=pfam13280:WYL;note=other

@@ -1,0 +1,16 @@
+##gff-version 3
+#!processor CRISPRone
+YB1_7401	Genbank	region	1	434748	.	+	.	ID=YB1_7401;array=0;gene=3;type=NA
+YB1_7401	FGS-hmm	CDS	78827	81418	.	-	.	what=cas;des=cd09639:cas3;note=Type-I
+YB1_7401	FGS-hmm	CDS	81431	81748	.	-	.	what=cas;des=unk;note=unknown
+YB1_7401	FGS-hmm	CDS	81759	83672	.	-	.	what=cas;des=pfam13280:WYL;note=other
+YB1_7401	FGS-hmm	CDS	83812	85341	.	-	.	what=cas;des=unk;note=unknown
+YB1_7401	FGS-hmm	CDS	85696	87825	.	-	.	what=cas;des=mkCas0115:csx3;note=other
+YB1_11530	Genbank	region	1	335541	.	+	.	ID=YB1_11530;array=1;gene=3;type=NA
+YB1_11530	FGS-hmm	CDS	266072	266722	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YB1_11530	FGS-hmm	CDS	266771	268189	.	+	.	what=cas;des=unk;note=unknown
+YB1_11530	FGS-hmm	CDS	268384	271839	.	+	.	what=cas;des=cd09643:cas9;note=Type-II
+YB1_11530	FGS-hmm	CDS	271843	272748	.	+	.	what=cas;des=pfam01867:cas1;note=Type-II
+YB1_11530	metaCRT	direct_repeat	273128	274577	.	.	.	what=CRISPR;des=repeat:CAAGCTTATCAAGAAGGGTGAATGCTAATTCCCAGC(Degradation:273092bp-273128bp);note=copy:23
+YB1_5177	Genbank	region	1	198451	.	+	.	ID=YB1_5177;array=1;gene=0;type=NA
+YB1_5177	metaCRT	direct_repeat	100470	100596	.	.	.	what=CRISPR;des=repeat:ACATTCCCGGGAACGCGTCGC;note=copy:3

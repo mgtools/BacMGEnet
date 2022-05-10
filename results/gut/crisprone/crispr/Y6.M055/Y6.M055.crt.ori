@@ -1,0 +1,22 @@
+SEQ: Y6.M055_138
+Bases: 4198
+Total CRISPR: 1
+
+
+CRISPR 1   Range: 3938 - 4176
+POSITION	REPEAT				SPACER
+--------	------------------------------------	-------------------------------
+3938		GTCTCCGTCCTCGCGGGCGGAGTGGGTTGAAATCCC	TGACAATGTAATCATCGTTTTTCAGTGTCCATG	[ 36, 33 ]
+4007		GTCTCCGTCCTCGCGGGCGGAGTGGGTTGAAATTGC	CGATGTCTCCCGCTGCATCTGTGCAATCTGC	[ 36, 31 ]
+4074		GTCTCCGTCCTCGCGGGCGGAGTGGGTTGAAATCTC	CTTATCTTCTTGCTGCCATACGGATGGCGTT	[ 36, 31 ]
+4141		GTCTCCGTCCTCGCGGGCGGAGTGGGTTGAAATCTC	
+--------	------------------------------------	-------------------------------
+Repeat-con	GTCTCCGTCCTCGCGGGCGGAGTGGGTTGAAATCTC
+Repeats: 4	Average Length: 36		Average Length: 31
+
+
+Total sequences checked: 357
+Total bases checked: 3273830
+Total sequences with predicted CRISPR: 1
+Time used: 437 ms
+

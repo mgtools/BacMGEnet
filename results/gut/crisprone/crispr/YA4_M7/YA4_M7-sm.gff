@@ -1,0 +1,9 @@
+##gff-version 3
+#!processor CRISPRone
+YA4_3280	Genbank	region	1	501247	.	+	.	ID=YA4_3280;array=0;gene=2;type=NA
+YA4_3280	FGS-hmm	CDS	359711	360601	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YA4_3280	FGS-hmm	CDS	360610	362457	.	-	.	what=cas;des=unk;note=unknown
+YA4_3280	FGS-hmm	CDS	362737	364668	.	+	.	what=cas;des=unk;note=unknown
+YA4_3280	FGS-hmm	CDS	364670	365878	.	+	.	what=cas;des=cd09720:cas1;note=universal
+YA4_13678	Genbank	region	1	430504	.	+	.	ID=YA4_13678;array=1;gene=0;type=NA
+YA4_13678	metaCRT	direct_repeat	158831	158957	.	.	.	what=CRISPR;des=repeat:TTCAGACTTCGGTTTTTCAGAAGTCT;note=copy:3

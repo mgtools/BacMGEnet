@@ -1,0 +1,29 @@
+##gff-version 3
+#!processor CRISPRone
+Y8.M017_4	Genbank	region	1	478158	.	+	.	ID=Y8.M017_4
+Y8.M017_4	FGS-hmm	CDS	85307	85633	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y8.M017_4	FGS-hmm	CDS	85866	87653	.	+	.	what=cas;des=unk;note=unknown
+Y8.M017_4	FGS-hmm	CDS	87832	89130	.	+	.	what=cas;des=unk;note=unknown
+Y8.M017_4	FGS-hmm	CDS	89176	91116	.	-	.	what=cas;des=COG2378:WYL;note=other
+Y8.M017_4	FGS-hmm	CDS	406698	407471	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y8.M017_1	Genbank	region	1	843415	.	+	.	ID=Y8.M017_1
+Y8.M017_1	FGS-hmm	CDS	160094	160708	.	+	.	what=cas;des=mkCas0090:PD-DExK;note=other
+Y8.M017_1	FGS-hmm	CDS	185319	186269	.	+	.	what=cas;des=pfam13280:WYL;note=other
+Y8.M017_1	FGS-hmm	CDS	333104	334105	.	+	.	what=cas;des=pfam13280:WYL;note=other
+Y8.M017_6	Genbank	region	1	284976	.	+	.	ID=Y8.M017_6
+Y8.M017_6	FGS-hmm	CDS	92113	96555	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I
+Y8.M017_6	FGS-hmm	CDS	101661	102569	.	+	.	what=cas;des=COG2378:WYL;note=other
+Y8.M017_3	Genbank	region	1	508547	.	+	.	ID=Y8.M017_3
+Y8.M017_3	FGS-hmm	CDS	365598	366557	.	-	.	what=cas;des=COG2378:WYL;note=other
+Y8.M017_3	FGS-hmm	CDS	442060	442356	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y8.M017_2	Genbank	region	1	676397	.	+	.	ID=Y8.M017_2
+Y8.M017_2	FGS-hmm	CDS	38897	39355	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y8.M017_2	FGS-hmm	CDS	343840	344727	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y8.M017_2	FGS-hmm	CDS	344811	345824	.	-	.	what=cas;des=unk;note=unknown
+Y8.M017_2	FGS-hmm	CDS	345853	346494	.	-	.	what=cas;des=unk;note=unknown
+Y8.M017_2	FGS-hmm	CDS	346497	347825	.	-	.	what=cas;des=mkCas0115:csx3;note=other
+Y8.M017_8	Genbank	region	1	142353	.	+	.	ID=Y8.M017_8
+Y8.M017_8	FGS-hmm	CDS	24958	25866	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y8.M017_5	Genbank	region	1	455131	.	+	.	ID=Y8.M017_5
+Y8.M017_5	FGS-hmm	CDS	109532	110422	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y8.M017_5	FGS-hmm	CDS	258538	260919	.	+	.	what=cas;des=COG1199:DinG;note=Subtype-IV-A

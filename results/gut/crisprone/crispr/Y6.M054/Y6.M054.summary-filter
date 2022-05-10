@@ -1,0 +1,27 @@
+#/u/yye/CRISPRpk/pipelines/../CRISPRone/call-script/hmmscan2cas.py -collection unk -hmmscan crisprone/crispr/Y6.M054/Y6.M054-vs-cas.domtblout -gff crisprone/crispr/Y6.M054/Y6.M054.gff -isolate -outfile crisprone/crispr/Y6.M054/Y6.M054.summary -outfiltered crisprone/crispr/Y6.M054/Y6.M054.summary-filter -gafile /u/yye/CRISPRpk/pipelines/../CRISPRone/local/cas-db/cas-CRISPR.GA
+##Y6.M054_19 2 derived-fm crisprone/crispr/Y6.M054/Y6.M054-vs-cas.domtblout
+Y6.M054_19_21972_22574_+ Y6.M054 Y6.M054_19 21972 22574 + COG4804:PD-DExK 2
+Y6.M054_19_22571_22978_+ Y6.M054 Y6.M054_19 22571 22978 + COG4804:PD-DExK 2
+##Y6.M054_89 1 derived-fm crisprone/crispr/Y6.M054/Y6.M054-vs-cas.domtblout
+Y6.M054_89_3490_4788_- Y6.M054 Y6.M054_89 3490 4788 - pfam00078:RT 2
+##Y6.M054_76 1 derived-fm crisprone/crispr/Y6.M054/Y6.M054-vs-cas.domtblout
+Y6.M054_76_14040_14630_- Y6.M054 Y6.M054_76 14040 14630 - pfam13280:WYL 2
+##Y6.M054_6 2 derived-fm crisprone/crispr/Y6.M054/Y6.M054-vs-cas.domtblout
+Y6.M054_6_85083_86246_- Y6.M054 Y6.M054_6 85083 86246 - cd09641:cas3HD 1
+Y6.M054_6_86524_87417_- Y6.M054 Y6.M054_6 86524 87417 - COG4804:PD-DExK 2
+##Y6.M054_18 1 derived-fm crisprone/crispr/Y6.M054/Y6.M054-vs-cas.domtblout
+Y6.M054_18_5579_6157_+ Y6.M054 Y6.M054_18 5579 6157 + pfam13280:WYL 2
+##Y6.M054_94 1 derived-fm crisprone/crispr/Y6.M054/Y6.M054-vs-cas.domtblout
+Y6.M054_94_169_948_+ Y6.M054 Y6.M054_94 169 948 + COG4804:PD-DExK 2
+##Y6.M054_97 2 derived-fm crisprone/crispr/Y6.M054/Y6.M054-vs-cas.domtblout
+Y6.M054_97_1459_2463_- Y6.M054 Y6.M054_97 1459 2463 - COG4804:PD-DExK 2
+Y6.M054_97_2747_4741_- Y6.M054 Y6.M054_97 2747 4741 - cd09639:cas3 1
+##Y6.M054_30 1 derived-fm crisprone/crispr/Y6.M054/Y6.M054-vs-cas.domtblout
+Y6.M054_30_5314_6438_- Y6.M054 Y6.M054_30 5314 6438 - pfam00078:RT 2
+##Y6.M054_24 1 derived-fm crisprone/crispr/Y6.M054/Y6.M054-vs-cas.domtblout
+Y6.M054_24_14572_14934_- Y6.M054 Y6.M054_24 14572 14934 - COG0640:csa3 2
+##Y6.M054_20 1 derived-fm crisprone/crispr/Y6.M054/Y6.M054-vs-cas.domtblout
+Y6.M054_20_19186_21207_- Y6.M054 Y6.M054_20 19186 21207 - COG1199:DinG 2
+##Y6.M054_21 2 derived-fm crisprone/crispr/Y6.M054/Y6.M054-vs-cas.domtblout
+Y6.M054_21_22312_23355_+ Y6.M054 Y6.M054_21 22312 23355 + COG4804:PD-DExK 2
+Y6.M054_21_26221_27237_+ Y6.M054 Y6.M054_21 26221 27237 + COG4804:PD-DExK 2

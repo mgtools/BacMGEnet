@@ -1,0 +1,25 @@
+##gff-version 3
+#!processor CRISPRone
+Y5.M005_30	Genbank	region	1	35129	.	+	.	ID=Y5.M005_30;array=1;gene=7;type=(type I)
+Y5.M005_30	metaCRT	direct_repeat	21449	23132	.	.	.	what=CRISPR;des=repeat:ATTTCAATCCACGCTCCCACAAGGGGAGCGAC;note=copy:26
+Y5.M005_30	FGS-hmm	CDS	23309	23599	.	-	.	what=cas;des=cd09725:cas2;note=universal
+Y5.M005_30	FGS-hmm	CDS	23612	24643	.	-	.	what=cas;des=cd09721:cas1;note=universal
+Y5.M005_30	FGS-hmm	CDS	24640	25305	.	-	.	what=cas;des=pfam01930:cas4;note=Type-I
+Y5.M005_30	FGS-hmm	CDS	25305	26216	.	-	.	what=cas;des=cd09689:cas7;note=Subtype-I-C
+Y5.M005_30	FGS-hmm	CDS	26217	27971	.	-	.	what=cas;des=cd09757:cas8c;note=Subtype-I-C
+Y5.M005_30	FGS-hmm	CDS	27968	28630	.	-	.	what=cas;des=cd09752:cas5;note=Subtype-I-C
+Y5.M005_30	FGS-hmm	CDS	28656	29096	.	-	.	what=cas;des=unk;note=unknown
+Y5.M005_30	FGS-hmm	CDS	29080	29547	.	-	.	what=cas;des=unk;note=unknown
+Y5.M005_30	FGS-hmm	CDS	29898	32069	.	-	.	what=cas;des=COG1203:cas3;note=Type-I
+Y5.M005_34	Genbank	region	1	16844	.	+	.	ID=Y5.M005_34;array=1;gene=0;type=NA
+Y5.M005_34	metaCRT	direct_repeat	228	454	.	.	.	what=CRISPR;des=repeat:ATTTCAATACATCTCATGTTGTAGTTTATCG;note=copy:4
+Y5.M005_23	Genbank	region	1	65840	.	+	.	ID=Y5.M005_23;array=3;gene=6;type=(type III)
+Y5.M005_23	metaCRT	direct_repeat	10554	11263	.	.	.	what=CRISPR;des=repeat:GTCGCTCCCTTCACGGGGAGCGTGGATTGAAAT;note=copy:11
+Y5.M005_23	FGS-hmm	CDS	13464	14351	.	+	.	what=cas;des=mkCas0066:cas6;note=other
+Y5.M005_23	FGS-hmm	CDS	14348	15247	.	+	.	what=cas;des=mkCas0090:PD-DExK;note=other
+Y5.M005_23	FGS-hmm	CDS	15249	17156	.	+	.	what=cas;des=mkCas0133:cas10;note=Type-III
+Y5.M005_23	FGS-hmm	CDS	17158	17889	.	+	.	what=cas;des=cd09726:csm3gr7;note=Subtype-III-D
+Y5.M005_23	FGS-hmm	CDS	17876	18835	.	+	.	what=cas;des=mkCas0089:csm4gr5;note=Type-III
+Y5.M005_23	FGS-hmm	CDS	18832	19578	.	+	.	what=cas;des=cd09662:csm5gr7;note=Subtype-III-A
+Y5.M005_23	metaCRT	direct_repeat	19808	21230	.	.	.	what=CRISPR;des=repeat:GTCGCTCCCCTCGTGGGAGCGTGGATTGAAAT;note=copy:22
+Y5.M005_23	metaCRT	direct_repeat	21366	22394	.	.	.	what=CRISPR;des=repeat:GTCGCTCCCCTCGTGGGAGCGTGGATTGAAAT;note=copy:16

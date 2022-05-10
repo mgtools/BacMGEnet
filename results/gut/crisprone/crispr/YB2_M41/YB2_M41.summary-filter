@@ -1,0 +1,24 @@
+#/u/yye/CRISPRpk/pipelines/../CRISPRone/call-script/hmmscan2cas.py -collection unk -hmmscan crisprone/crispr/YB2_M41/YB2_M41-vs-cas.domtblout -gff crisprone/crispr/YB2_M41/YB2_M41.gff -isolate -outfile crisprone/crispr/YB2_M41/YB2_M41.summary -outfiltered crisprone/crispr/YB2_M41/YB2_M41.summary-filter -gafile /u/yye/CRISPRpk/pipelines/../CRISPRone/local/cas-db/cas-CRISPR.GA
+##YB2_17517 1 derived-fm crisprone/crispr/YB2_M41/YB2_M41-vs-cas.domtblout
+YB2_17517_19788_20168_+ YB2_M41 YB2_17517 19788 20168 + COG0640:csa3 2
+##YB2_11690 4 derived-fm crisprone/crispr/YB2_M41/YB2_M41-vs-cas.domtblout
+YB2_11690_21119_21628_+ YB2_M41 YB2_11690 21119 21628 + COG2378:WYL 1
+YB2_11690_21717_22253_+ YB2_M41 YB2_11690 21717 22253 + unk 1
+YB2_11690_22339_24399_- YB2_M41 YB2_11690 22339 24399 - cd09639:cas3 1
+YB2_11690_24465_25634_- YB2_M41 YB2_11690 24465 25634 - COG4804:PD-DExK 2
+##YB2_14774 7 derived-fm crisprone/crispr/YB2_M41/YB2_M41-vs-cas.domtblout
+YB2_14774_41397_44162_+ YB2_M41 YB2_14774 41397 44162 + cd09641:cas3HD 2
+YB2_14774_44149_45774_+ YB2_M41 YB2_14774 44149 45774 + cd09729:cas8e 2
+YB2_14774_45771_46394_+ YB2_M41 YB2_14774 45771 46394 + mkCas0194:cse2gr11 2
+YB2_14774_46396_47469_+ YB2_M41 YB2_14774 46396 47469 + pfam09344:cas7 2
+YB2_14774_47472_48158_+ YB2_M41 YB2_14774 47472 48158 + cd09645:cas5 2
+YB2_14774_48165_48806_+ YB2_M41 YB2_14774 48165 48806 + pfam08798:cas6e 2
+YB2_14774_63937_64941_+ YB2_M41 YB2_14774 63937 64941 + cd06127:DEDDh 2
+##YB2_15870 1 derived-fm crisprone/crispr/YB2_M41/YB2_M41-vs-cas.domtblout
+YB2_15870_76555_79059_- YB2_M41 YB2_15870 76555 79059 - COG1199:DinG 2
+##YB2_8724 1 derived-fm crisprone/crispr/YB2_M41/YB2_M41-vs-cas.domtblout
+YB2_8724_18522_19046_+ YB2_M41 YB2_8724 18522 19046 + COG0640:csa3 2
+##YB2_19540 1 derived-fm crisprone/crispr/YB2_M41/YB2_M41-vs-cas.domtblout
+YB2_19540_96675_97175_- YB2_M41 YB2_19540 96675 97175 - COG0640:csa3 2
+##YB2_18127 1 derived-fm crisprone/crispr/YB2_M41/YB2_M41-vs-cas.domtblout
+YB2_18127_11264_15517_- YB2_M41 YB2_18127 11264 15517 - cd06127:DEDDh 2

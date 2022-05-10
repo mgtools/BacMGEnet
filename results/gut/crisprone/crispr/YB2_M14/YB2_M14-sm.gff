@@ -1,0 +1,14 @@
+##gff-version 3
+#!processor CRISPRone
+YB2_12257	Genbank	region	1	147585	.	+	.	ID=YB2_12257;array=0;gene=3;type=(type I)
+YB2_12257	FGS-hmm	CDS	65577	66914	.	-	.	what=cas;des=mkCas0115:csx3;note=other
+YB2_12257	FGS-hmm	CDS	67016	68926	.	-	.	what=cas;des=unk;note=unknown
+YB2_12257	FGS-hmm	CDS	69007	69444	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YB2_12257	FGS-hmm	CDS	69587	70909	.	-	.	what=cas;des=unk;note=unknown
+YB2_12257	FGS-hmm	CDS	71008	71358	.	-	.	what=cas;des=cls001593:casR;note=Type-I
+YB2_13755	Genbank	region	1	114437	.	+	.	ID=YB2_13755;array=1;gene=3;type=(type II)
+YB2_13755	metaCRT	direct_repeat	4766	5122	.	.	.	what=CRISPR;des=repeat:GTTGTGATTTGCTTTCATTTTAGTAACTTTGAGCCATTGGAAACAGCTT;note=copy:5
+YB2_13755	FGS-hmm	CDS	5228	5560	.	-	.	what=cas;des=pfam09827:cas2;note=Subtype-II-C
+YB2_13755	FGS-hmm	CDS	5562	6491	.	-	.	what=cas;des=cd09634:cas1;note=Subtype-II-C
+YB2_13755	FGS-hmm	CDS	6606	10880	.	-	.	what=cas;des=cd09643:cas9;note=Subtype-II-C
+YB2_13755	CRISPRone	partial_repeat	10943	10990	.	-	.	what=antiCRISPR;des=antiRepeat:eat;note=35-14

@@ -1,0 +1,14 @@
+##gff-version 3
+#!processor CRISPRone
+YA2_5396	Genbank	region	1	2181457	.	+	.	ID=YA2_5396
+YA2_5396	FGS-hmm	CDS	60069	60479	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA2_5396	FGS-hmm	CDS	339020	339607	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YA2_5396	FGS-hmm	CDS	448675	449589	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA2_5396	FGS-hmm	CDS	1789583	1790626	.	-	.	what=cas;des=pfam13280:WYL;note=other
+YA2_5396	FGS-hmm	CDS	1824522	1824848	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA2_5396	FGS-hmm	CDS	1951851	1952735	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA2_5396	FGS-hmm	CDS	2108971	2109285	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA2_5396	FGS-hmm	CDS	2120115	2120342	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA2_5396	FGS-hmm	CDS	2120567	2121250	.	-	.	what=cas;des=unk;note=unknown
+YA2_5396	FGS-hmm	CDS	2121673	2123034	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YA2_5396	FGS-hmm	CDS	2136966	2137337	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A

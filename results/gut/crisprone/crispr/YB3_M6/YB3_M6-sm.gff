@@ -1,0 +1,7 @@
+##gff-version 3
+#!processor CRISPRone
+YB3_6424	Genbank	region	1	2394	.	+	.	ID=YB3_6424;array=1;gene=3;type=(type II)
+YB3_6424	FGS-hmm	CDS	1	846	.	+	.	what=cas;des=pfam01867:cas1;note=universal
+YB3_6424	FGS-hmm	CDS	809	1129	.	+	.	what=cas;des=mkCas0206:cas2;note=universal
+YB3_6424	FGS-hmm	CDS	1231	1800	.	+	.	what=cas;des=cd12218:csn2;note=Subtype-II-A
+YB3_6424	metaCRT	direct_repeat	1813	2376	.	.	.	what=CRISPR;des=repeat:GTTTTAGAAGTACGTCATTCTAATGAGATTAAGAGC;note=copy:9

@@ -1,0 +1,17 @@
+##gff-version 3
+#!processor CRISPRone
+Y7.M002_18	Genbank	region	1	593874	.	+	.	ID=Y7.M002_18;array=1;gene=10;type=(type I)
+Y7.M002_18	FGS-hmm	CDS	87786	90386	.	-	.	what=cas;des=cd09639:cas3;note=Type-I
+Y7.M002_18	FGS-hmm	CDS	90407	90724	.	-	.	what=cas;des=unk;note=unknown
+Y7.M002_18	FGS-hmm	CDS	90738	92648	.	-	.	what=cas;des=pfam13280:WYL;note=other
+Y7.M002_18	FGS-hmm	CDS	92795	94225	.	-	.	what=cas;des=unk;note=unknown
+Y7.M002_18	FGS-hmm	CDS	94603	95016	.	+	.	what=cas;des=unk;note=unknown
+Y7.M002_18	FGS-hmm	CDS	95120	97249	.	-	.	what=cas;des=mkCas0115:csx3;note=other
+Y7.M002_18	metaCRT	direct_repeat	514707	517702	.	.	.	what=CRISPR;des=repeat:ATTTCAATCCACACTCCCCTTGCGGGGAGCGAC;note=copy:45
+Y7.M002_18	FGS-hmm	CDS	517964	518254	.	-	.	what=cas;des=cd09725:cas2;note=universal
+Y7.M002_18	FGS-hmm	CDS	518289	519320	.	-	.	what=cas;des=cd09721:cas1;note=universal
+Y7.M002_18	FGS-hmm	CDS	519317	519994	.	-	.	what=cas;des=pfam01930:cas4;note=Type-I
+Y7.M002_18	FGS-hmm	CDS	520120	521052	.	-	.	what=cas;des=pfam05107:cas7b;note=Type-I
+Y7.M002_18	FGS-hmm	CDS	521045	522811	.	-	.	what=cas;des=cd09757:cas8c;note=Subtype-I-C
+Y7.M002_18	FGS-hmm	CDS	522808	523737	.	-	.	what=cas;des=cd09651:cas5;note=Subtype-I-C
+Y7.M002_18	FGS-hmm	CDS	523747	526188	.	-	.	what=cas;des=cd09641:cas3HD;note=Type-I

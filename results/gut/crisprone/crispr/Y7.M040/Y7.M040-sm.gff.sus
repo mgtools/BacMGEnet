@@ -1,0 +1,30 @@
+##gff-version 3
+#!processor CRISPRone
+Y7.M040_65	Genbank	region	1	21562	.	+	.	ID=Y7.M040_65
+Y7.M040_65	FGS-hmm	CDS	19413	21560	.	-	.	what=cas;des=COG1199:DinG;note=Subtype-IV-A
+Y7.M040_158	Genbank	region	1	5975	.	+	.	ID=Y7.M040_158
+Y7.M040_158	FGS-hmm	CDS	3348	3803	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y7.M040_187	Genbank	region	1	12951	.	+	.	ID=Y7.M040_187
+Y7.M040_187	FGS-hmm	CDS	1319	2107	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y7.M040_54	Genbank	region	1	29592	.	+	.	ID=Y7.M040_54
+Y7.M040_54	FGS-hmm	CDS	7832	8536	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+Y7.M040_54	FGS-hmm	CDS	8721	10100	.	+	.	what=cas;des=unk;note=unknown
+Y7.M040_54	FGS-hmm	CDS	10147	10821	.	+	.	what=cas;des=cd09641:cas3HD;note=Type-I
+Y7.M040_61	Genbank	region	1	24643	.	+	.	ID=Y7.M040_61
+Y7.M040_61	FGS-hmm	CDS	2425	2787	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y7.M040_259	Genbank	region	1	4240	.	+	.	ID=Y7.M040_259
+Y7.M040_259	FGS-hmm	CDS	2	187	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y7.M040_44	Genbank	region	1	33087	.	+	.	ID=Y7.M040_44
+Y7.M040_44	metaCRT	direct_repeat	14508	14767	.	.	.	what=CRISPR;des=repeat:CCGTGTTCGTGATGGTGCTCGTG;note=copy:6
+Y7.M040_106	Genbank	region	1	13808	.	+	.	ID=Y7.M040_106
+Y7.M040_106	FGS-hmm	CDS	12059	12712	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y7.M040_185	Genbank	region	1	14874	.	+	.	ID=Y7.M040_185
+Y7.M040_185	FGS-hmm	CDS	3317	3589	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y7.M040_63	Genbank	region	1	23043	.	+	.	ID=Y7.M040_63
+Y7.M040_63	FGS-hmm	CDS	18951	19871	.	+	.	what=cas;des=COG2378:WYL;note=other
+Y7.M040_49	Genbank	region	1	31093	.	+	.	ID=Y7.M040_49
+Y7.M040_49	metaCRT	direct_repeat	27763	27887	.	.	.	what=CRISPR;des=repeat:GTTGGACCGATTTCTCCCTGTGGGCC;note=copy:3
+Y7.M040_52	Genbank	region	1	30616	.	+	.	ID=Y7.M040_52
+Y7.M040_52	FGS-hmm	CDS	2508	3065	.	-	.	what=cas;des=pfam13280:WYL;note=other
+Y7.M040_22	Genbank	region	1	9473	.	+	.	ID=Y7.M040_22
+Y7.M040_22	FGS-hmm	CDS	4999	5952	.	-	.	what=cas;des=pfam13280:WYL;note=other

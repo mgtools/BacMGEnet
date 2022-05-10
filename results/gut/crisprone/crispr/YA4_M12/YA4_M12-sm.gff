@@ -1,0 +1,31 @@
+##gff-version 3
+#!processor CRISPRone
+YA4_14353	Genbank	region	1	25494	.	+	.	ID=YA4_14353;array=1;gene=7;type=(type I)
+YA4_14353	FGS-hmm	CDS	6482	9202	.	+	.	what=cas;des=cd09641:cas3HD;note=Type-I
+YA4_14353	FGS-hmm	CDS	9183	10829	.	+	.	what=cas;des=cd09729:cas8e;note=Subtype-I-E
+YA4_14353	FGS-hmm	CDS	10843	11463	.	+	.	what=cas;des=mkCas0194:cse2gr11;note=Subtype-I-E
+YA4_14353	FGS-hmm	CDS	11466	12524	.	+	.	what=cas;des=pfam09344:cas7;note=Subtype-I-E
+YA4_14353	FGS-hmm	CDS	12524	13186	.	+	.	what=cas;des=cd09756:cas5;note=Subtype-I-E
+YA4_14353	FGS-hmm	CDS	13202	13834	.	+	.	what=cas;des=pfam08798:cas6e;note=other
+YA4_14353	FGS-hmm	CDS	13836	14078	.	+	.	what=cas;des=cd09719:cas1;note=universal
+YA4_14353	metaCRT	direct_repeat	14046	14447	.	.	.	what=CRISPR;des=repeat:CTTTTCCCCGCATATGCGGGGGTGATCC;note=copy:7
+YA4_4422	Genbank	region	1	52560	.	+	.	ID=YA4_4422;array=1;gene=7;type=(type I)
+YA4_4422	FGS-hmm	CDS	12180	14339	.	+	.	what=cas;des=cd09641:cas3HD;note=Type-I
+YA4_4422	FGS-hmm	CDS	14411	15115	.	+	.	what=cas;des=cd09651:cas5;note=Subtype-I-C
+YA4_4422	FGS-hmm	CDS	15112	16875	.	+	.	what=cas;des=cd09757:cas8c;note=Subtype-I-C
+YA4_4422	FGS-hmm	CDS	16879	17763	.	+	.	what=cas;des=cd09689:cas7;note=Subtype-I-C
+YA4_4422	FGS-hmm	CDS	17763	18434	.	+	.	what=cas;des=pfam01930:cas4;note=Type-I
+YA4_4422	FGS-hmm	CDS	18431	19462	.	+	.	what=cas;des=cd09721:cas1;note=universal
+YA4_4422	FGS-hmm	CDS	19472	19762	.	+	.	what=cas;des=cd09725:cas2;note=universal
+YA4_4422	metaCRT	direct_repeat	19946	23685	.	.	.	what=CRISPR;des=repeat:GTCGCCCTCCTCGCGGAGGGCGTGGATAGAAAT;note=copy:56
+YA4_5831	Genbank	region	1	48252	.	+	.	ID=YA4_5831;array=2;gene=8;type=(type I)
+YA4_5831	metaCRT	direct_repeat	28449	28626	.	.	.	what=CRISPR;des=repeat:GCGCAGGGCTGGTTTTTTCTTTT;note=copy:4
+YA4_5831	metaCRT	direct_repeat	40353	40684	.	.	.	what=CRISPR;des=repeat:GGATCACCCCCGCATGTGCGGGGAAAAG;note=copy:6
+YA4_5831	FGS-hmm	CDS	40720	41112	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YA4_5831	FGS-hmm	CDS	41281	42231	.	-	.	what=cas;des=cd09719:cas1;note=universal
+YA4_5831	FGS-hmm	CDS	42233	42865	.	-	.	what=cas;des=pfam08798:cas6e;note=other
+YA4_5831	FGS-hmm	CDS	42881	43543	.	-	.	what=cas;des=cd09756:cas5;note=Subtype-I-E
+YA4_5831	FGS-hmm	CDS	43543	44601	.	-	.	what=cas;des=pfam09344:cas7;note=Subtype-I-E
+YA4_5831	FGS-hmm	CDS	44604	45218	.	-	.	what=cas;des=cd09731:cse2gr11;note=Subtype-I-E
+YA4_5831	FGS-hmm	CDS	45231	46865	.	-	.	what=cas;des=cd09729:cas8e;note=Subtype-I-E
+YA4_5831	FGS-hmm	CDS	46852	48249	.	-	.	what=cas;des=COG1203:cas3;note=Type-I

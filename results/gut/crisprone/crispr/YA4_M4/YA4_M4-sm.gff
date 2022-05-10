@@ -1,0 +1,10 @@
+##gff-version 3
+#!processor CRISPRone
+YA4_3719	Genbank	region	1	219508	.	+	.	ID=YA4_3719;array=1;gene=4;type=(type I, II)
+YA4_3719	FGS-hmm	CDS	15433	16314	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA4_3719	FGS-hmm	CDS	16405	17349	.	+	.	what=cas;des=unk;note=unknown
+YA4_3719	FGS-hmm	CDS	17910	21218	.	+	.	what=cas;des=cd09643:cas9;note=Subtype-II-C
+YA4_3719	CRISPRone	partial_repeat	21234	21271	.	+	.	what=antiCRISPR;des=antiRepeat:eat;note=32-4
+YA4_3719	FGS-hmm	CDS	21322	22215	.	+	.	what=cas;des=cd09634:cas1;note=Subtype-II-C
+YA4_3719	FGS-hmm	CDS	22220	22528	.	+	.	what=cas;des=pfam09827:cas2;note=Subtype-II-C
+YA4_3719	metaCRT	direct_repeat	23408	25227	.	.	.	what=CRISPR;des=repeat:GTTTTGTTACCATATGGATTTTTGCTAGAATAAGAC;note=copy:28

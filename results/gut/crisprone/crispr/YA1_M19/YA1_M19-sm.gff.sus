@@ -1,0 +1,32 @@
+##gff-version 3
+#!processor CRISPRone
+YA1_5720	Genbank	region	1	434814	.	+	.	ID=YA1_5720
+YA1_5720	FGS-hmm	CDS	147947	150430	.	+	.	what=cas;des=COG1199:DinG;note=Subtype-IV-A
+YA1_5606	Genbank	region	1	199861	.	+	.	ID=YA1_5606
+YA1_5606	FGS-hmm	CDS	35708	36721	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YA1_5715	Genbank	region	1	452965	.	+	.	ID=YA1_5715
+YA1_5715	FGS-hmm	CDS	84044	88333	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YA1_5715	FGS-hmm	CDS	416436	417560	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA1_5691	Genbank	region	1	249975	.	+	.	ID=YA1_5691
+YA1_5691	FGS-hmm	CDS	158973	159938	.	+	.	what=cas;des=pfam13280:WYL;note=other
+YA1_5578	Genbank	region	1	266067	.	+	.	ID=YA1_5578
+YA1_5578	FGS-hmm	CDS	17782	19728	.	-	.	what=cas;des=pfam00078:RT;note=other
+YA1_5578	FGS-hmm	CDS	107129	108307	.	-	.	what=cas;des=pfam00078:RT;note=other
+YA1_5667	Genbank	region	1	63410	.	+	.	ID=YA1_5667
+YA1_5667	FGS-hmm	CDS	7917	8255	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA1_5700	Genbank	region	1	131932	.	+	.	ID=YA1_5700
+YA1_5700	FGS-hmm	CDS	106435	106830	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA1_5692	Genbank	region	1	366741	.	+	.	ID=YA1_5692
+YA1_5692	metaCRT	direct_repeat	77281	77916	.	.	.	what=CRISPR;des=repeat:GCAACGGCAAAAACATCACCATCACCGGCAGCACGGTGACTGCTA;note=copy:7
+YA1_5692	FGS-hmm	CDS	244900	245280	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA1_5692	FGS-hmm	CDS	275454	276215	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA1_5692	FGS-hmm	CDS	276212	277117	.	+	.	what=cas;des=unk;note=unknown
+YA1_5692	FGS-hmm	CDS	277151	279073	.	+	.	what=cas;des=unk;note=unknown
+YA1_5692	FGS-hmm	CDS	279584	280024	.	+	.	what=cas;des=cd09655:casR;note=Type-I
+YA1_5692	FGS-hmm	CDS	306315	306710	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA1_5205	Genbank	region	1	37098	.	+	.	ID=YA1_5205
+YA1_5205	metaCRT	direct_repeat	36826	37008	.	.	.	what=CRISPR;des=repeat:GTTTTTTCTTTCGGTCAAATGGCT;note=copy:4
+YA1_5583	Genbank	region	1	163982	.	+	.	ID=YA1_5583
+YA1_5583	FGS-hmm	CDS	154927	156873	.	-	.	what=cas;des=pfam00078:RT;note=other
+YA1_5659	Genbank	region	1	130610	.	+	.	ID=YA1_5659
+YA1_5659	metaCRT	direct_repeat	23677	23990	.	.	.	what=CRISPR;des=repeat:GCGGGGCTGGTTTTTTCTTT;note=copy:7

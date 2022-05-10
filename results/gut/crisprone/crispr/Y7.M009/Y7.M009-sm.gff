@@ -1,0 +1,9 @@
+##gff-version 3
+#!processor CRISPRone
+Y7.M009_4	Genbank	region	1	652639	.	+	.	ID=Y7.M009_4;array=1;gene=3;type=(type V)
+Y7.M009_4	FGS-hmm	CDS	526505	527554	.	-	.	what=cas;des=pfam13280:WYL;note=other
+Y7.M009_4	metaCRT	direct_repeat	529398	530125	.	.	.	what=CRISPR;des=repeat:ATCTACAACAGTAGAAATTATTCTATATTACTTAAC;note=copy:12
+Y7.M009_4	FGS-hmm	CDS	530252	530689	.	-	.	what=cas;des=pfam09827:cas2;note=universal
+Y7.M009_4	FGS-hmm	CDS	530689	534480	.	-	.	what=cas;des=mkCas0192:cas12a;note=Subtype-V-A
+Y7.M009_35	Genbank	region	1	125202	.	+	.	ID=Y7.M009_35;array=1;gene=0;type=NA
+Y7.M009_35	metaCRT	direct_repeat	95767	96251	.	.	.	what=CRISPR;des=repeat:ACCAACTGACCTCTCTGGATGTCAGCAAGAATACGGCATTGACT;note=copy:8

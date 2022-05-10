@@ -1,0 +1,18 @@
+##gff-version 3
+#!processor CRISPRone
+YA1_5704	Genbank	region	1	2778271	.	+	.	ID=YA1_5704
+YA1_5704	FGS-hmm	CDS	92839	93321	.	-	.	what=cas;des=cls001593:casR;note=Type-I
+YA1_5704	FGS-hmm	CDS	93354	94331	.	-	.	what=cas;des=unk;note=unknown
+YA1_5704	FGS-hmm	CDS	94665	95282	.	+	.	what=cas;des=unk;note=unknown
+YA1_5704	FGS-hmm	CDS	95315	96031	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YA1_5704	metaCRT	direct_repeat	252508	252883	.	.	.	what=CRISPR;des=repeat:ACTGGAATTACACCGGTATGGCTGCCAATGATTTCGGATGGTGGTA;note=copy:6
+YA1_5704	FGS-hmm	CDS	472534	472836	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA1_5704	FGS-hmm	CDS	502734	503690	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YA1_5704	FGS-hmm	CDS	999582	999971	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA1_5704	FGS-hmm	CDS	1423707	1428239	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YA1_5704	metaCRT	direct_repeat	1433399	1433802	.	.	.	what=CRISPR;des=repeat:AAATAACGGCTACAGAAACGACC;note=copy:9
+YA1_5704	FGS-hmm	CDS	1508627	1509589	.	+	.	what=cas;des=pfam13280:WYL;note=other
+YA1_5704	FGS-hmm	CDS	1768535	1769584	.	-	.	what=cas;des=COG4804:PD-DExK;note=other
+YA1_5704	metaCRT	direct_repeat	2196230	2196804	.	.	.	what=CRISPR;des=repeat:GTCATGTACCACCAGCCGTATTCATTTACTGCCATTCCGGTATAATT;note=copy:9
+YA1_5704	FGS-hmm	CDS	2288069	2290528	.	-	.	what=cas;des=COG1199:DinG;note=Subtype-IV-A
+YA1_5704	FGS-hmm	CDS	2745359	2746381	.	-	.	what=cas;des=COG4804:PD-DExK;note=other

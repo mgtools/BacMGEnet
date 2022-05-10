@@ -1,0 +1,14 @@
+SEQ: Y7.M036_12 length 82947
+Bases: 82947
+
+CRISPR 1 Range: 21522 - 21678
+POSITION	REPEAT				SPACER
+--------	-------------------------	-----------------------------------------
+21522		CTAATAGCTCTTGGTATGGTATAAT	ACAGTCTCCACGCTCACAATGCGCCGCCCGGTCATAGTTCC	[ 25, 41 ]
+21588		CTAATAGCTCTTGGTATGGTATAAT	TAAGCCTAGATTTAAAACCGCTAATGTCGCGTCATAGTTCC	[ 25, 41 ]
+21654		CTAATAGCTCTTGGTATGGTATAAT
+--------	-------------------------	-----------------------------------------
+Repeat-con	CTAATAGCTCTTGGTATGGTATAAT
+Repeats: 3	Average Length: 25		Average Length: 41
+Time used: 324 ms
+

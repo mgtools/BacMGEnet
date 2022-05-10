@@ -1,0 +1,12 @@
+##gff-version 3
+#!processor CRISPRone
+Y6.M048_119	Genbank	region	1	27901	.	+	.	ID=Y6.M048_119;array=1;gene=0;type=NA
+Y6.M048_119	metaCRT	direct_repeat	27278	27816	.	.	.	what=CRISPR;des=repeat:ATCTCCGAAGTCTCGGCTTCGGAGCTTCATTGAGGG;note=copy:8
+Y6.M048_100	Genbank	region	1	27208	.	+	.	ID=Y6.M048_100;array=1;gene=6;type=(type I)
+Y6.M048_100	FGS-hmm	CDS	17280	18326	.	-	.	what=cas;des=cd09764:csb3;note=Subtype-I-U
+Y6.M048_100	FGS-hmm	CDS	18330	21383	.	-	.	what=cas;des=cd09696:cas3;note=Subtype-I-U
+Y6.M048_100	FGS-hmm	CDS	21374	23011	.	-	.	what=cas;des=cls000315:csb2gr5;note=Subtype-I-U
+Y6.M048_100	FGS-hmm	CDS	23030	24226	.	-	.	what=cas;des=cd09738:cas7;note=Subtype-I-U
+Y6.M048_100	FGS-hmm	CDS	24640	24933	.	-	.	what=cas;des=cd09725:cas2;note=universal
+Y6.M048_100	FGS-hmm	CDS	24945	26576	.	-	.	what=cas;des=cd09634:cas1;note=universal
+Y6.M048_100	metaCRT	direct_repeat	26605	27219	.	.	.	what=CRISPR;des=repeat:CCCTCAATGAAGCTCCGAAGCCGAGACTTCGGAGAT;note=copy:9

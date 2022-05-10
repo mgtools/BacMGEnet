@@ -1,0 +1,27 @@
+##gff-version 3
+#!processor CRISPRone
+YB2_13704	Genbank	region	1	11459	.	+	.	ID=YB2_13704;array=1;gene=8;type=(type I)
+YB2_13704	FGS-hmm	CDS	249	2948	.	+	.	what=cas;des=COG1203:cas3;note=Type-I
+YB2_13704	FGS-hmm	CDS	3046	4608	.	+	.	what=cas;des=cd09669:cas8e;note=Subtype-I-E
+YB2_13704	FGS-hmm	CDS	4605	5141	.	+	.	what=cas;des=cd09670:cse2gr11;note=Subtype-I-E
+YB2_13704	FGS-hmm	CDS	5153	6208	.	+	.	what=cas;des=cd09646:cas7;note=Subtype-I-E
+YB2_13704	FGS-hmm	CDS	6219	6965	.	+	.	what=cas;des=cd09645:cas5;note=Subtype-I-E
+YB2_13704	FGS-hmm	CDS	6947	7597	.	+	.	what=cas;des=cd09664:cas6e;note=Subtype-I-E
+YB2_13704	FGS-hmm	CDS	7594	8517	.	+	.	what=cas;des=cd09719:cas1;note=universal
+YB2_13704	FGS-hmm	CDS	8514	8807	.	+	.	what=cas;des=pfam09707:cas2;note=universal
+YB2_13704	metaCRT	direct_repeat	8904	9054	.	.	.	what=CRISPR;des=repeat:GTGTTCCCCGCGCCAGCGGGGATAAACCG;note=copy:3
+YB2_13059	Genbank	region	1	14270	.	+	.	ID=YB2_13059;array=0;gene=3;type=NA
+YB2_13059	FGS-hmm	CDS	3161	3604	.	-	.	what=cas;des=COG2378:WYL;note=other
+YB2_13059	FGS-hmm	CDS	3604	3840	.	-	.	what=cas;des=unk;note=unknown
+YB2_13059	FGS-hmm	CDS	3881	4582	.	-	.	what=cas;des=pfam13280:WYL;note=other
+YB2_13059	FGS-hmm	CDS	4799	5620	.	-	.	what=cas;des=unk;note=unknown
+YB2_13059	FGS-hmm	CDS	5712	6575	.	-	.	what=cas;des=unk;note=unknown
+YB2_13059	FGS-hmm	CDS	7007	8266	.	+	.	what=cas;des=pfam13280:WYL;note=other
+YB2_1326	Genbank	region	1	49582	.	+	.	ID=YB2_1326;array=0;gene=3;type=(type I)
+YB2_1326	FGS-hmm	CDS	24631	29247	.	-	.	what=cas;des=cd09639:cas3;note=Type-I
+YB2_1326	FGS-hmm	CDS	29340	29987	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YB2_1326	FGS-hmm	CDS	37504	37944	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YB2_6560	Genbank	region	1	34719	.	+	.	ID=YB2_6560;array=0;gene=2;type=(type I)
+YB2_6560	FGS-hmm	CDS	8807	9280	.	-	.	what=cas;des=cd09669:cas8e;note=Subtype-I-E
+YB2_6560	FGS-hmm	CDS	9399	10571	.	-	.	what=cas;des=unk;note=unknown
+YB2_6560	FGS-hmm	CDS	10774	12201	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I

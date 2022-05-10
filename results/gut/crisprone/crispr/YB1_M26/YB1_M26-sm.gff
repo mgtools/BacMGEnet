@@ -1,0 +1,13 @@
+##gff-version 3
+#!processor CRISPRone
+YB1_1098	Genbank	region	1	711266	.	+	.	ID=YB1_1098;array=0;gene=4;type=NA
+YB1_1098	FGS-hmm	CDS	692260	694083	.	-	.	what=cas;des=pfam00078:RT;note=other
+YB1_1098	FGS-hmm	CDS	694282	694476	.	+	.	what=cas;des=unk;note=unknown
+YB1_1098	FGS-hmm	CDS	694631	694969	.	-	.	what=cas;des=unk;note=unknown
+YB1_1098	FGS-hmm	CDS	695072	696898	.	-	.	what=cas;des=pfam00078:RT;note=other
+YB1_1098	FGS-hmm	CDS	697196	697393	.	-	.	what=cas;des=unk;note=unknown
+YB1_1098	FGS-hmm	CDS	697424	698815	.	-	.	what=cas;des=unk;note=unknown
+YB1_1098	FGS-hmm	CDS	698799	700475	.	-	.	what=cas;des=pfam00078:RT;note=other
+YB1_1098	FGS-hmm	CDS	701087	701917	.	-	.	what=cas;des=unk;note=unknown
+YB1_1098	FGS-hmm	CDS	701921	702385	.	-	.	what=cas;des=unk;note=unknown
+YB1_1098	FGS-hmm	CDS	702295	704112	.	-	.	what=cas;des=pfam00078:RT;note=other

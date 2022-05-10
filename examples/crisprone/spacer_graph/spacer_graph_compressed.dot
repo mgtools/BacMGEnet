@@ -1,0 +1,31 @@
+digraph SpacerGraph {
+rankdir="LR";
+node [fontsize = 40];
+"2-6"
+"18-22"[style=filled, fillcolor=skyblue]
+"82"
+"90"
+"77-81"
+"23-31"[style=filled, fillcolor=skyblue]
+"32"
+"38-45"
+"68-76"
+"1"[style=filled, fillcolor=skyblue]
+"91-92"[style=filled, fillcolor=yellow]
+"7-17"[style=filled, fillcolor=skyblue]
+"33-37"[style=filled, fillcolor=yellow]
+"46-67"
+"83-89"[style=filled, fillcolor=yellow]
+"18-22" -> "82" [penwidth=1]
+"82" -> "90" [penwidth=1]
+"82" -> "83-89" [penwidth=4]
+"90" -> "77-81" [penwidth=1]
+"77-81" -> "82" [penwidth=4]
+"23-31" -> "32" [penwidth=1]
+"32" -> "38-45" [penwidth=1]
+"32" -> "33-37" [penwidth=1]
+"38-45" -> "68-76" [penwidth=1]
+"68-76" -> "77-81" [penwidth=1]
+"1" -> "91-92" [penwidth=1]
+"7-17" -> "32" [penwidth=1]
+}

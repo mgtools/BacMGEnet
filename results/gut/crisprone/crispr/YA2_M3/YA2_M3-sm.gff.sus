@@ -1,0 +1,14 @@
+##gff-version 3
+#!processor CRISPRone
+YA2_5393	Genbank	region	1	2389749	.	+	.	ID=YA2_5393
+YA2_5393	FGS-hmm	CDS	253520	253933	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA2_5393	FGS-hmm	CDS	287362	288291	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YA2_5393	FGS-hmm	CDS	306258	307178	.	-	.	what=cas;des=pfam13280:WYL;note=other
+YA2_5393	metaCRT	direct_repeat	1025862	1026025	.	.	.	what=CRISPR;des=repeat:ATCATGAACACCACTGCTGTCAC;note=copy:4
+YA2_5393	FGS-hmm	CDS	1752405	1753403	.	+	.	what=cas;des=pfam13280:WYL;note=other
+YA2_5393	FGS-hmm	CDS	1919766	1920485	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YA2_5393	FGS-hmm	CDS	1921009	1922946	.	+	.	what=cas;des=unk;note=unknown
+YA2_5393	FGS-hmm	CDS	1923177	1923620	.	-	.	what=cas;des=unk;note=unknown
+YA2_5393	FGS-hmm	CDS	1923685	1924644	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YA2_5393	metaCRT	direct_repeat	2130014	2130691	.	.	.	what=CRISPR;des=repeat:ATATCAGTTCATGGGATGTTTCTAACGTTA;note=copy:10
+YA2_5393	FGS-hmm	CDS	2289138	2289839	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I

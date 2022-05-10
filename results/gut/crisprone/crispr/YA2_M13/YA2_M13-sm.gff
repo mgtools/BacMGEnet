@@ -1,0 +1,4 @@
+##gff-version 3
+#!processor CRISPRone
+YA2_5315	Genbank	region	1	10004	.	+	.	ID=YA2_5315;array=1;gene=0;type=NA
+YA2_5315	metaCRT	direct_repeat	1	156	.	.	.	what=CRISPR;des=repeat:ACTGCGAAATGAAAAAGGGAGCTA;note=copy:3

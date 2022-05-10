@@ -1,0 +1,26 @@
+#/u/yye/CRISPRpk/pipelines/../CRISPRone/call-script/hmmscan2cas.py -collection unk -hmmscan crisprone/crispr/Y8.M068/Y8.M068-vs-cas.domtblout -gff crisprone/crispr/Y8.M068/Y8.M068.gff -isolate -outfile crisprone/crispr/Y8.M068/Y8.M068.summary -outfiltered crisprone/crispr/Y8.M068/Y8.M068.summary-filter -gafile /u/yye/CRISPRpk/pipelines/../CRISPRone/local/cas-db/cas-CRISPR.GA
+##Y8.M068_6 4 derived-fm crisprone/crispr/Y8.M068/Y8.M068-vs-cas.domtblout
+Y8.M068_6_53766_58040_+ Y8.M068 Y8.M068_6 53766 58040 + mkCas0193:cas9 1
+Y8.M068_6_58063_58614_+ Y8.M068 Y8.M068_6 58063 58614 + cd09634:cas1 2
+Y8.M068_6_58655_58975_+ Y8.M068 Y8.M068_6 58655 58975 + pfam09827:cas2 2
+Y8.M068_6_58972_59670_+ Y8.M068 Y8.M068_6 58972 59670 + cd09644:csn2 1
+##Y8.M068_45 1 derived-fm crisprone/crispr/Y8.M068/Y8.M068-vs-cas.domtblout
+Y8.M068_45_7603_11241_+ Y8.M068 Y8.M068_45 7603 11241 + cd06127:DEDDh 2
+##Y8.M068_2 1 derived-fm crisprone/crispr/Y8.M068/Y8.M068-vs-cas.domtblout
+Y8.M068_2_153130_154104_- Y8.M068 Y8.M068_2 153130 154104 - cd06127:DEDDh 2
+##Y8.M068_64 1 derived-fm crisprone/crispr/Y8.M068/Y8.M068-vs-cas.domtblout
+Y8.M068_64_5464_5826_- Y8.M068 Y8.M068_64 5464 5826 - COG0640:csa3 2
+##Y8.M068_3 1 derived-fm crisprone/crispr/Y8.M068/Y8.M068-vs-cas.domtblout
+Y8.M068_3_89401_90147_+ Y8.M068 Y8.M068_3 89401 90147 + COG0640:csa3 2
+##Y8.M068_5 2 derived-fm crisprone/crispr/Y8.M068/Y8.M068-vs-cas.domtblout
+Y8.M068_5_77826_78851_- Y8.M068 Y8.M068_5 77826 78851 - pfam13280:WYL 2
+Y8.M068_5_80817_82022_- Y8.M068 Y8.M068_5 80817 82022 - pfam13280:WYL 2
+##Y8.M068_10 1 derived-fm crisprone/crispr/Y8.M068/Y8.M068-vs-cas.domtblout
+Y8.M068_10_1234_1587_+ Y8.M068 Y8.M068_10 1234 1587 + COG0640:csa3 2
+##Y8.M068_9 1 derived-fm crisprone/crispr/Y8.M068/Y8.M068-vs-cas.domtblout
+Y8.M068_9_18713_21178_- Y8.M068 Y8.M068_9 18713 21178 - COG1199:DinG 2
+##Y8.M068_60 4 derived-fm crisprone/crispr/Y8.M068/Y8.M068-vs-cas.domtblout
+Y8.M068_60_23530_24012_- Y8.M068 Y8.M068_60 23530 24012 - cls001593:casR 1
+Y8.M068_60_24036_25007_- Y8.M068 Y8.M068_60 24036 25007 - unk 1
+Y8.M068_60_25274_25888_+ Y8.M068 Y8.M068_60 25274 25888 + unk 1
+Y8.M068_60_25947_26666_- Y8.M068 Y8.M068_60 25947 26666 - cd06127:DEDDh 2

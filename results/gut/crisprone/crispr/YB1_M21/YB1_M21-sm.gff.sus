@@ -1,0 +1,24 @@
+##gff-version 3
+#!processor CRISPRone
+YB1_11237	Genbank	region	1	4267	.	+	.	ID=YB1_11237
+YB1_11237	FGS-hmm	CDS	2609	3046	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YB1_11015	Genbank	region	1	4409	.	+	.	ID=YB1_11015
+YB1_11015	FGS-hmm	CDS	1171	3507	.	+	.	what=cas;des=COG1199:DinG;note=Subtype-IV-A
+YB1_4811	Genbank	region	1	27068	.	+	.	ID=YB1_4811
+YB1_4811	FGS-hmm	CDS	26468	26974	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YB1_9352	Genbank	region	1	5821	.	+	.	ID=YB1_9352
+YB1_9352	FGS-hmm	CDS	2375	3343	.	+	.	what=cas;des=COG2378:WYL;note=other
+YB1_8224	Genbank	region	1	7388	.	+	.	ID=YB1_8224
+YB1_8224	FGS-hmm	CDS	4413	4778	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YB1_10304	Genbank	region	1	4919	.	+	.	ID=YB1_10304
+YB1_10304	FGS-hmm	CDS	1149	3209	.	-	.	what=cas;des=COG1199:DinG;note=Subtype-IV-A
+YB1_6784	Genbank	region	1	10918	.	+	.	ID=YB1_6784
+YB1_6784	FGS-hmm	CDS	815	1345	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YB1_5646	Genbank	region	1	16906	.	+	.	ID=YB1_5646
+YB1_5646	metaCRT	direct_repeat	79	431	.	.	.	what=CRISPR;des=repeat:TGCATCGGCATCTGCATCTGCAT;note=copy:7
+YB1_5225	Genbank	region	1	21481	.	+	.	ID=YB1_5225
+YB1_5225	FGS-hmm	CDS	131	4429	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YB1_11746	Genbank	region	1	56825	.	+	.	ID=YB1_11746
+YB1_11746	FGS-hmm	CDS	7295	7723	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YB1_6692	Genbank	region	1	11224	.	+	.	ID=YB1_6692
+YB1_6692	FGS-hmm	CDS	8883	9674	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A

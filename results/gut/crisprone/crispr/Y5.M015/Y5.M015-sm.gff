@@ -1,0 +1,26 @@
+##gff-version 3
+#!processor CRISPRone
+Y5.M015_4	Genbank	region	1	14425	.	+	.	ID=Y5.M015_4;array=0;gene=3;type=(type I)
+Y5.M015_4	FGS-hmm	CDS	1264	3069	.	-	.	what=cas;des=cd09757:cas8c;note=Subtype-I-C
+Y5.M015_4	FGS-hmm	CDS	3063	3785	.	-	.	what=cas;des=cd09752:cas5;note=Subtype-I-C
+Y5.M015_4	FGS-hmm	CDS	3796	5949	.	-	.	what=cas;des=cd09641:cas3HD;note=Type-I
+Y5.M015_6	Genbank	region	1	179855	.	+	.	ID=Y5.M015_6;array=1;gene=4;type=NA
+Y5.M015_6	FGS-hmm	CDS	160	1038	.	+	.	what=cas;des=pfam05107:cas7b;note=Type-I
+Y5.M015_6	FGS-hmm	CDS	1035	1679	.	+	.	what=cas;des=cd09637:cas4;note=other
+Y5.M015_6	FGS-hmm	CDS	1676	2698	.	+	.	what=cas;des=cd09634:cas1;note=universal
+Y5.M015_6	FGS-hmm	CDS	2708	2998	.	+	.	what=cas;des=cd09725:cas2;note=universal
+Y5.M015_6	metaCRT	direct_repeat	3144	4318	.	.	.	what=CRISPR;des=repeat:GTCACGCTCCCCACGGAGCGTGTGAGTTGAAAT;note=copy:18
+Y5.M015_12	Genbank	region	1	1204992	.	+	.	ID=Y5.M015_12;array=2;gene=8;type=(type III)
+Y5.M015_12	FGS-hmm	CDS	19395	20732	.	+	.	what=cas;des=pfam09659:csm6;note=Subtype-III-A
+Y5.M015_12	FGS-hmm	CDS	20892	21821	.	+	.	what=cas;des=pfam13280:WYL;note=other
+Y5.M015_12	FGS-hmm	CDS	21833	22000	.	+	.	what=cas;des=unk;note=unknown
+Y5.M015_12	metaCRT	direct_repeat	22033	23047	.	.	.	what=CRISPR;des=repeat:ATTAAAAAACGAATAACCCCTGTAAGGGACGGAAAC;note=copy:14
+Y5.M015_12	FGS-hmm	CDS	22110	22379	.	-	.	what=cas;des=unk;note=unknown
+Y5.M015_12	FGS-hmm	CDS	22481	22690	.	-	.	what=cas;des=unk;note=unknown
+Y5.M015_12	FGS-hmm	CDS	23204	23959	.	+	.	what=cas;des=pfam10040:cas6;note=other
+Y5.M015_12	FGS-hmm	CDS	23946	26216	.	+	.	what=cas;des=cd09680:cas10;note=Type-III
+Y5.M015_12	FGS-hmm	CDS	26223	26618	.	+	.	what=cas;des=cd09647:csm2gr11;note=Subtype-III-A
+Y5.M015_12	FGS-hmm	CDS	26621	27295	.	+	.	what=cas;des=COG1337:csm3gr7;note=Subtype-III-D
+Y5.M015_12	FGS-hmm	CDS	27299	28225	.	+	.	what=cas;des=pfam03787:csm3gr7;note=Type-III
+Y5.M015_12	FGS-hmm	CDS	28236	29327	.	+	.	what=cas;des=cd09726:csm3gr7;note=Subtype-III-D
+Y5.M015_12	metaCRT	direct_repeat	29597	29932	.	.	.	what=CRISPR;des=repeat:AATTAAAAAACGAATAACCCCTGTAAGGGACGGAAAC;note=copy:5

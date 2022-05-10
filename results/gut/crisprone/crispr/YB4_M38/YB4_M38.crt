@@ -1,0 +1,13 @@
+SEQ: YB4_6838 length 36621
+Bases: 36621
+
+CRISPR 1 Range: 36059 - 36161
+POSITION	REPEAT				SPACER
+--------	---------------------	--------------------
+36059		TGGATTCGCGTCTGAGTATTT	ATTGAGTGCAAACCCTTCGA	[ 21, 20 ]
+36100		TGGATTCGCGTCCGAGTGTTT	GTTGGGCGCGGATTTCTCGC	[ 21, 20 ]
+36141		TGGATTCGCGTCTGAGTATTT
+--------	---------------------	--------------------
+Repeat-con	TGGATTCGCGTCTGAGTATTT
+Repeats: 3	Average Length: 21		Average Length: 20
+

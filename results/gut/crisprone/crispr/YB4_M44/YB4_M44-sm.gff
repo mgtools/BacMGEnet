@@ -1,0 +1,21 @@
+##gff-version 3
+#!processor CRISPRone
+YB4_19630	Genbank	region	1	380795	.	+	.	ID=YB4_19630;array=1;gene=3;type=(type V)
+YB4_19630	FGS-hmm	CDS	142278	146069	.	+	.	what=cas;des=mkCas0192:cas12a;note=Subtype-V-A
+YB4_19630	FGS-hmm	CDS	146069	146506	.	+	.	what=cas;des=pfam09827:cas2;note=universal
+YB4_19630	metaCRT	direct_repeat	146632	146921	.	.	.	what=CRISPR;des=repeat:GTTAAGTAATATAGAATAATTTCTACTGTTGTAGATTT;note=copy:5
+YB4_19630	FGS-hmm	CDS	147247	147453	.	+	.	what=cas;des=unk;note=unknown
+YB4_19630	FGS-hmm	CDS	147713	148231	.	+	.	what=cas;des=unk;note=unknown
+YB4_19630	FGS-hmm	CDS	148244	148609	.	+	.	what=cas;des=unk;note=unknown
+YB4_19630	FGS-hmm	CDS	148687	149736	.	+	.	what=cas;des=pfam13280:WYL;note=other
+YB4_12880	Genbank	region	1	318108	.	+	.	ID=YB4_12880;array=1;gene=7;type=(type I)
+YB4_12880	metaCRT	direct_repeat	198883	200307	.	.	.	what=CRISPR;des=repeat:ATTTCAATCCACGCTCCCACGAGAGGAGCGAC;note=copy:22
+YB4_12880	FGS-hmm	CDS	200485	200775	.	-	.	what=cas;des=cd09725:cas2;note=universal
+YB4_12880	FGS-hmm	CDS	200785	201816	.	-	.	what=cas;des=cd09721:cas1;note=universal
+YB4_12880	FGS-hmm	CDS	201813	202475	.	-	.	what=cas;des=pfam01930:cas4;note=Type-I
+YB4_12880	FGS-hmm	CDS	202475	203386	.	-	.	what=cas;des=cd09689:cas7;note=Subtype-I-C
+YB4_12880	FGS-hmm	CDS	203387	205123	.	-	.	what=cas;des=cd09757:cas8c;note=Subtype-I-C
+YB4_12880	FGS-hmm	CDS	205120	205788	.	-	.	what=cas;des=cd09752:cas5;note=Subtype-I-C
+YB4_12880	FGS-hmm	CDS	205789	206229	.	-	.	what=cas;des=unk;note=unknown
+YB4_12880	FGS-hmm	CDS	206219	206680	.	-	.	what=cas;des=unk;note=unknown
+YB4_12880	FGS-hmm	CDS	206914	209028	.	-	.	what=cas;des=cd09641:cas3HD;note=Type-I

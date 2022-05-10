@@ -1,0 +1,7 @@
+##gff-version 3
+#!processor CRISPRone
+YB2_12020	Genbank	region	1	160031	.	+	.	ID=YB2_12020;array=0;gene=2;type=(type I)
+YB2_12020	FGS-hmm	CDS	144757	146013	.	-	.	what=cas;des=cas14:cas14;note=Type-V
+YB2_12020	FGS-hmm	CDS	146027	146371	.	-	.	what=cas;des=unk;note=unknown
+YB2_12020	FGS-hmm	CDS	146705	148051	.	-	.	what=cas;des=unk;note=unknown
+YB2_12020	FGS-hmm	CDS	148090	148671	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A

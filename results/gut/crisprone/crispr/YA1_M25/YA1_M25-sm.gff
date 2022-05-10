@@ -1,0 +1,13 @@
+##gff-version 3
+#!processor CRISPRone
+YA1_5517	Genbank	region	1	234548	.	+	.	ID=YA1_5517;array=1;gene=8;type=(type I)
+YA1_5517	FGS-hmm	CDS	39965	40252	.	+	.	what=cas;des=COG4951:PrimPol;note=other
+YA1_5517	FGS-hmm	CDS	40329	40538	.	+	.	what=cas;des=unk;note=unknown
+YA1_5517	FGS-hmm	CDS	40646	42784	.	+	.	what=cas;des=cd09641:cas3HD;note=Type-I
+YA1_5517	FGS-hmm	CDS	43013	43675	.	+	.	what=cas;des=cd09752:cas5;note=Subtype-I-C
+YA1_5517	FGS-hmm	CDS	43672	45396	.	+	.	what=cas;des=cd09757:cas8c;note=Subtype-I-C
+YA1_5517	FGS-hmm	CDS	45397	46296	.	+	.	what=cas;des=pfam05107:cas7b;note=Type-I
+YA1_5517	FGS-hmm	CDS	46315	46977	.	+	.	what=cas;des=pfam01930:cas4;note=Type-I
+YA1_5517	FGS-hmm	CDS	46974	48005	.	+	.	what=cas;des=cd09721:cas1;note=universal
+YA1_5517	FGS-hmm	CDS	48020	48310	.	+	.	what=cas;des=cd09725:cas2;note=universal
+YA1_5517	metaCRT	direct_repeat	48490	53778	.	.	.	what=CRISPR;des=repeat:GTCTGGCTCCGCGAGGAGCTAGTGGATTGAAAT;note=copy:79

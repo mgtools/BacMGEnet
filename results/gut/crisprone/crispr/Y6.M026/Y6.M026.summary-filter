@@ -1,0 +1,28 @@
+#/u/yye/CRISPRpk/pipelines/../CRISPRone/call-script/hmmscan2cas.py -collection unk -hmmscan crisprone/crispr/Y6.M026/Y6.M026-vs-cas.domtblout -gff crisprone/crispr/Y6.M026/Y6.M026.gff -isolate -outfile crisprone/crispr/Y6.M026/Y6.M026.summary -outfiltered crisprone/crispr/Y6.M026/Y6.M026.summary-filter -gafile /u/yye/CRISPRpk/pipelines/../CRISPRone/local/cas-db/cas-CRISPR.GA
+##Y6.M026_6 1 derived-fm crisprone/crispr/Y6.M026/Y6.M026-vs-cas.domtblout
+Y6.M026_6_8683_9681_+ Y6.M026 Y6.M026_6 8683 9681 + pfam13280:WYL 2
+##Y6.M026_15 3 derived-fm crisprone/crispr/Y6.M026/Y6.M026-vs-cas.domtblout
+Y6.M026_15_45569_46357_- Y6.M026 Y6.M026_15 45569 46357 - cd09655:casR 1
+Y6.M026_15_46481_48556_- Y6.M026 Y6.M026_15 46481 48556 - unk 1
+Y6.M026_15_49261_53862_- Y6.M026 Y6.M026_15 49261 53862 - cd06127:DEDDh 2
+##Y6.M026_42 1 derived-fm crisprone/crispr/Y6.M026/Y6.M026-vs-cas.domtblout
+Y6.M026_42_9103_9453_+ Y6.M026 Y6.M026_42 9103 9453 + COG0640:csa3 2
+##Y6.M026_46 1 derived-fm crisprone/crispr/Y6.M026/Y6.M026-vs-cas.domtblout
+Y6.M026_46_5739_6353_+ Y6.M026 Y6.M026_46 5739 6353 + COG0640:csa3 2
+##Y6.M026_11 2 derived-fm crisprone/crispr/Y6.M026/Y6.M026-vs-cas.domtblout
+Y6.M026_11_29795_32416_+ Y6.M026 Y6.M026_11 29795 32416 + COG1199:DinG 2
+Y6.M026_11_36274_37377_- Y6.M026 Y6.M026_11 36274 37377 - COG4804:PD-DExK 2
+##Y6.M026_31 1 derived-fm crisprone/crispr/Y6.M026/Y6.M026-vs-cas.domtblout
+Y6.M026_31_139_2298_- Y6.M026 Y6.M026_31 139 2298 - COG1203:cas3 2
+##Y6.M026_7 1 derived-fm crisprone/crispr/Y6.M026/Y6.M026-vs-cas.domtblout
+Y6.M026_7_30719_31465_+ Y6.M026 Y6.M026_7 30719 31465 + cd06127:DEDDh 2
+##Y6.M026_28 1 derived-fm crisprone/crispr/Y6.M026/Y6.M026-vs-cas.domtblout
+Y6.M026_28_8154_8483_- Y6.M026 Y6.M026_28 8154 8483 - COG0640:csa3 2
+##Y6.M026_20 1 derived-fm crisprone/crispr/Y6.M026/Y6.M026-vs-cas.domtblout
+Y6.M026_20_24831_25301_+ Y6.M026 Y6.M026_20 24831 25301 + COG0640:csa3 2
+##Y6.M026_44 5 derived-fm crisprone/crispr/Y6.M026/Y6.M026-vs-cas.domtblout
+Y6.M026_44_654_1163_- Y6.M026 Y6.M026_44 654 1163 - mkCas0150:cas11b 1
+Y6.M026_44_1405_3936_- Y6.M026 Y6.M026_44 1405 3936 - mkCas0115:csx3 1
+Y6.M026_44_4049_4270_- Y6.M026 Y6.M026_44 4049 4270 - unk 1
+Y6.M026_44_4309_4569_- Y6.M026 Y6.M026_44 4309 4569 - unk 1
+Y6.M026_44_4830_5195_+ Y6.M026 Y6.M026_44 4830 5195 + COG0640:csa3 2

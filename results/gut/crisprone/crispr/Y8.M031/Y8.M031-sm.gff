@@ -1,0 +1,8 @@
+##gff-version 3
+#!processor CRISPRone
+Y8.M031_27	Genbank	region	1	28064	.	+	.	ID=Y8.M031_27;array=1;gene=3;type=(type II)
+Y8.M031_27	metaCRT	direct_repeat	97	1980	.	.	.	what=CRISPR;des=repeat:GTTGTAGTTCCCTAACAGTTCTTGGTATGGTATAAT;note=copy:29
+Y8.M031_27	FGS-hmm	CDS	2041	2349	.	-	.	what=cas;des=pfam09827:cas2;note=Subtype-II-C
+Y8.M031_27	FGS-hmm	CDS	2354	3250	.	-	.	what=cas;des=cd09634:cas1;note=Subtype-II-C
+Y8.M031_27	FGS-hmm	CDS	3273	6527	.	-	.	what=cas;des=COG3513:cas9;note=Subtype-II-C
+Y8.M031_27	CRISPRone	partial_repeat	6723	6758	.	-	.	what=antiCRISPR;des=antiRepeat:eat;note=31-5

@@ -1,0 +1,4 @@
+##gff-version 3
+#!processor CRISPRone
+YB4_11186	Genbank	region	1	28003	.	+	.	ID=YB4_11186;array=1;gene=0;type=NA
+YB4_11186	metaCRT	direct_repeat	6630	6817	.	.	.	what=CRISPR;des=repeat:AAAAATCTATTGCATTTGGT;note=copy:5

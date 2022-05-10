@@ -1,0 +1,29 @@
+##gff-version 3
+#!processor CRISPRone
+Y5.M015_38	Genbank	region	1	59621	.	+	.	ID=Y5.M015_38
+Y5.M015_38	FGS-hmm	CDS	10982	11329	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y5.M015_31	Genbank	region	1	2003	.	+	.	ID=Y5.M015_31
+Y5.M015_31	FGS-hmm	CDS	120	623	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y5.M015_6	Genbank	region	1	179855	.	+	.	ID=Y5.M015_6
+Y5.M015_6	metaCRT	direct_repeat	34098	34305	.	.	.	what=CRISPR;des=repeat:CCAACGGCAACACCAACAGCAA;note=copy:4
+Y5.M015_6	FGS-hmm	CDS	69535	70566	.	-	.	what=cas;des=pfam13280:WYL;note=other
+Y5.M015_6	metaCRT	direct_repeat	82141	82301	.	.	.	what=CRISPR;des=repeat:CGACAGCTGAACCGACAGAAGCT;note=copy:4
+Y5.M015_2	Genbank	region	1	90948	.	+	.	ID=Y5.M015_2
+Y5.M015_2	metaCRT	direct_repeat	3131	3267	.	.	.	what=CRISPR;des=repeat:AGCCCGACAGCAGGACCGATAACAGAGCC;note=copy:3
+Y5.M015_13	Genbank	region	1	273696	.	+	.	ID=Y5.M015_13
+Y5.M015_13	FGS-hmm	CDS	78258	82301	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+Y5.M015_13	FGS-hmm	CDS	98338	98964	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I
+Y5.M015_15	Genbank	region	1	2485	.	+	.	ID=Y5.M015_15
+Y5.M015_15	FGS-hmm	CDS	536	2371	.	+	.	what=cas;des=pfam00078:RT;note=other
+Y5.M015_5	Genbank	region	1	423012	.	+	.	ID=Y5.M015_5
+Y5.M015_5	FGS-hmm	CDS	161013	161423	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y5.M015_16	Genbank	region	1	15962	.	+	.	ID=Y5.M015_16
+Y5.M015_16	FGS-hmm	CDS	1057	1938	.	+	.	what=cas;des=COG4804:PD-DExK;note=other
+Y5.M015_7	Genbank	region	1	177181	.	+	.	ID=Y5.M015_7
+Y5.M015_7	FGS-hmm	CDS	28725	29525	.	-	.	what=cas;des=mkCas0115:csx3;note=other
+Y5.M015_7	FGS-hmm	CDS	29513	30430	.	-	.	what=cas;des=pfam00078:RT;note=other
+Y5.M015_12	Genbank	region	1	1204992	.	+	.	ID=Y5.M015_12
+Y5.M015_12	FGS-hmm	CDS	43699	44925	.	+	.	what=cas;des=pfam13280:WYL;note=other
+Y5.M015_12	FGS-hmm	CDS	44925	45827	.	+	.	what=cas;des=pfam13280:WYL;note=other
+Y5.M015_12	FGS-hmm	CDS	241339	241764	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y5.M015_12	FGS-hmm	CDS	744523	745431	.	+	.	what=cas;des=COG2378:WYL;note=other

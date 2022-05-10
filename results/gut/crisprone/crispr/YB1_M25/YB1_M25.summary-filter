@@ -1,0 +1,54 @@
+#/u/yye/CRISPRpk/pipelines/../CRISPRone/call-script/hmmscan2cas.py -collection unk -hmmscan crisprone/crispr/YB1_M25/YB1_M25-vs-cas.domtblout -gff crisprone/crispr/YB1_M25/YB1_M25.gff -isolate -outfile crisprone/crispr/YB1_M25/YB1_M25.summary -outfiltered crisprone/crispr/YB1_M25/YB1_M25.summary-filter -gafile /u/yye/CRISPRpk/pipelines/../CRISPRone/local/cas-db/cas-CRISPR.GA
+##YB1_11314 1 derived-fm crisprone/crispr/YB1_M25/YB1_M25-vs-cas.domtblout
+YB1_11314_2369_2926_+ YB1_M25 YB1_11314 2369 2926 + COG0640:csa3 2
+##YB1_8971 1 derived-fm crisprone/crispr/YB1_M25/YB1_M25-vs-cas.domtblout
+YB1_8971_5756_6103_- YB1_M25 YB1_8971 5756 6103 - COG0640:csa3 2
+##YB1_920 1 derived-fm crisprone/crispr/YB1_M25/YB1_M25-vs-cas.domtblout
+YB1_920_26792_31132_+ YB1_M25 YB1_920 26792 31132 + cd06127:DEDDh 2
+##YB1_11225 1 derived-fm crisprone/crispr/YB1_M25/YB1_M25-vs-cas.domtblout
+YB1_11225_38185_40518_+ YB1_M25 YB1_11225 38185 40518 + COG1199:DinG 2
+##YB1_6659 1 derived-fm crisprone/crispr/YB1_M25/YB1_M25-vs-cas.domtblout
+YB1_6659_2733_3716_+ YB1_M25 YB1_6659 2733 3716 + pfam13280:WYL 2
+##YB1_13650 1 derived-fm crisprone/crispr/YB1_M25/YB1_M25-vs-cas.domtblout
+YB1_13650_14631_15524_- YB1_M25 YB1_13650 14631 15524 - COG2378:WYL 2
+##YB1_6287 4 derived-fm crisprone/crispr/YB1_M25/YB1_M25-vs-cas.domtblout
+YB1_6287_84142_85224_- YB1_M25 YB1_6287 84142 85224 - COG4804:PD-DExK 2
+YB1_6287_125671_126039_+ YB1_M25 YB1_6287 125671 126039 + cls001593:casR 1
+YB1_6287_126117_127352_+ YB1_M25 YB1_6287 126117 127352 + pfam13280:WYL 2
+YB1_6287_127352_128260_+ YB1_M25 YB1_6287 127352 128260 + pfam13280:WYL 2
+##YB1_4910 7 derived-fm crisprone/crispr/YB1_M25/YB1_M25-vs-cas.domtblout
+YB1_4910_5000_7402_+ YB1_M25 YB1_4910 5000 7402 + cd09641:cas3HD 2
+YB1_4910_7417_8157_+ YB1_M25 YB1_4910 7417 8157 + cd09752:cas5 2
+YB1_4910_8141_9988_+ YB1_M25 YB1_4910 8141 9988 + pfam09709:cas8c 1
+YB1_4910_9969_10832_+ YB1_M25 YB1_4910 9969 10832 + cd09689:cas7 2
+YB1_4910_10819_11481_+ YB1_M25 YB1_4910 10819 11481 + pfam01930:cas4 2
+YB1_4910_11486_12517_+ YB1_M25 YB1_4910 11486 12517 + cd09721:cas1 2
+YB1_4910_12524_12814_+ YB1_M25 YB1_4910 12524 12814 + cd09725:cas2 2
+##YB1_4952 1 derived-fm crisprone/crispr/YB1_M25/YB1_M25-vs-cas.domtblout
+YB1_4952_22921_24048_+ YB1_M25 YB1_4952 22921 24048 + COG0640:csa3 2
+##YB1_5572 1 derived-fm crisprone/crispr/YB1_M25/YB1_M25-vs-cas.domtblout
+YB1_5572_12508_13590_+ YB1_M25 YB1_5572 12508 13590 + COG0640:csa3 2
+##YB1_12813 3 derived-fm crisprone/crispr/YB1_M25/YB1_M25-vs-cas.domtblout
+YB1_12813_2291_3088_- YB1_M25 YB1_12813 2291 3088 - COG0640:csa3 2
+YB1_12813_3085_3651_- YB1_M25 YB1_12813 3085 3651 - unk 1
+YB1_12813_3727_4476_- YB1_M25 YB1_12813 3727 4476 - cls001593:casR 1
+##YB1_536 1 derived-fm crisprone/crispr/YB1_M25/YB1_M25-vs-cas.domtblout
+YB1_536_34699_35067_+ YB1_M25 YB1_536 34699 35067 + COG0640:csa3 2
+##YB1_6247 2 derived-fm crisprone/crispr/YB1_M25/YB1_M25-vs-cas.domtblout
+YB1_6247_7242_7808_- YB1_M25 YB1_6247 7242 7808 - cls001593:casR 1
+YB1_6247_7863_8300_- YB1_M25 YB1_6247 7863 8300 - COG0640:csa3 2
+##YB1_3240 4 derived-fm crisprone/crispr/YB1_M25/YB1_M25-vs-cas.domtblout
+YB1_3240_28165_30489_+ YB1_M25 YB1_3240 28165 30489 + mkCas0115:csx3 1
+YB1_3240_30490_31080_+ YB1_M25 YB1_3240 30490 31080 + unk 1
+YB1_3240_31176_31460_+ YB1_M25 YB1_3240 31176 31460 + unk 1
+YB1_3240_31462_31755_+ YB1_M25 YB1_3240 31462 31755 + COG0640:csa3 2
+##YB1_6733 1 derived-fm crisprone/crispr/YB1_M25/YB1_M25-vs-cas.domtblout
+YB1_6733_11298_11666_+ YB1_M25 YB1_6733 11298 11666 + COG0640:csa3 2
+##YB1_10591 1 derived-fm crisprone/crispr/YB1_M25/YB1_M25-vs-cas.domtblout
+YB1_10591_26965_27237_- YB1_M25 YB1_10591 26965 27237 - COG0640:csa3 2
+##YB1_7188 1 derived-fm crisprone/crispr/YB1_M25/YB1_M25-vs-cas.domtblout
+YB1_7188_43741_44097_- YB1_M25 YB1_7188 43741 44097 - COG0640:csa3 2
+##YB1_11496 1 derived-fm crisprone/crispr/YB1_M25/YB1_M25-vs-cas.domtblout
+YB1_11496_7159_7641_+ YB1_M25 YB1_11496 7159 7641 + COG0640:csa3 2
+##YB1_7161 1 derived-fm crisprone/crispr/YB1_M25/YB1_M25-vs-cas.domtblout
+YB1_7161_8367_8636_+ YB1_M25 YB1_7161 8367 8636 + COG0640:csa3 2

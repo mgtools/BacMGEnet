@@ -1,0 +1,10 @@
+##gff-version 3
+#!processor CRISPRone
+YA3_6548	Genbank	region	1	72261	.	+	.	ID=YA3_6548;array=0;gene=3;type=NA
+YA3_6548	FGS-hmm	CDS	36120	36827	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YA3_6548	FGS-hmm	CDS	36949	38445	.	+	.	what=cas;des=unk;note=unknown
+YA3_6548	FGS-hmm	CDS	38448	39446	.	+	.	what=cas;des=unk;note=unknown
+YA3_6548	FGS-hmm	CDS	39476	39970	.	+	.	what=cas;des=cls001593:casR;note=Type-I
+YA3_6548	FGS-hmm	CDS	39970	41139	.	+	.	what=cas;des=unk;note=unknown
+YA3_6548	FGS-hmm	CDS	41170	41667	.	+	.	what=cas;des=unk;note=unknown
+YA3_6548	FGS-hmm	CDS	41751	44384	.	+	.	what=cas;des=cd09655:casR;note=Type-I

@@ -1,0 +1,11 @@
+##gff-version 3
+#!processor CRISPRone
+YB4_13183	Genbank	region	1	313377	.	+	.	ID=YB4_13183;array=1;gene=5;type=(type I, II)
+YB4_13183	metaCRT	direct_repeat	303610	305227	.	.	.	what=CRISPR;des=repeat:GTTTTACTACCTTATGAAATTACACTATTCTCAAAC;note=copy:25
+YB4_13183	FGS-hmm	CDS	305292	305969	.	-	.	what=cas;des=cd09644:csn2;note=Subtype-II-A
+YB4_13183	FGS-hmm	CDS	305966	306271	.	-	.	what=cas;des=pfam09827:cas2;note=Subtype-II-A
+YB4_13183	FGS-hmm	CDS	306276	307157	.	-	.	what=cas;des=cd09720:cas1;note=Subtype-II-A
+YB4_13183	FGS-hmm	CDS	307174	311178	.	-	.	what=cas;des=mkCas0193:cas9;note=Subtype-II-A
+YB4_13183	FGS-hmm	CDS	311481	312416	.	-	.	what=cas;des=unk;note=unknown
+YB4_13183	FGS-hmm	CDS	312518	312682	.	+	.	what=cas;des=unk;note=unknown
+YB4_13183	FGS-hmm	CDS	312708	313067	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A

@@ -1,0 +1,12 @@
+##gff-version 3
+#!processor CRISPRone
+YB2_20319	Genbank	region	1	1147210	.	+	.	ID=YB2_20319;array=1;gene=4;type=(type II)
+YB2_20319	metaCRT	direct_repeat	794243	794411	.	.	.	what=CRISPR;des=repeat:TGAACGGATATGCTCCGGAAAA;note=copy:4
+YB2_20319	CRISPRone	partial_repeat	1089209	1089256	.	+	.	what=antiCRISPR;des=antiRepeat:eat;note=33-16
+YB2_20319	FGS-hmm	CDS	1089318	1092242	.	+	.	what=cas;des=cd09643:cas9;note=Subtype-II-C
+YB2_20319	FGS-hmm	CDS	1092217	1093815	.	+	.	what=cas;des=COG3513:cas9;note=Subtype-II-C
+YB2_20319	FGS-hmm	CDS	1093812	1094738	.	+	.	what=cas;des=cd09720:cas1;note=Subtype-II-C
+YB2_20319	FGS-hmm	CDS	1094765	1095070	.	+	.	what=cas;des=pfam09827:cas2;note=Subtype-II-C
+YB2_20384	Genbank	region	1	489790	.	+	.	ID=YB2_20384;array=2;gene=0;type=NA
+YB2_20384	metaCRT	direct_repeat	220055	220223	.	.	.	what=CRISPR;des=repeat:TTTTCCGGAGCATATCCGTTCA;note=copy:4
+YB2_20384	metaCRT	direct_repeat	465708	465876	.	.	.	what=CRISPR;des=repeat:TGAACGGATATGCTCCGGAAAA;note=copy:4

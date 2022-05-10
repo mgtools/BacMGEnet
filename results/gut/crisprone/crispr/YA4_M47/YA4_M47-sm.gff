@@ -1,0 +1,19 @@
+##gff-version 3
+#!processor CRISPRone
+YA4_7950	Genbank	region	1	44082	.	+	.	ID=YA4_7950;array=1;gene=11;type=(type I, IV)
+YA4_7950	FGS-hmm	CDS	104	916	.	-	.	what=cas;des=mkCas0196:cse2gr11;note=Subtype-I-E
+YA4_7950	FGS-hmm	CDS	931	1260	.	-	.	what=cas;des=unk;note=unknown
+YA4_7950	metaCRT	direct_repeat	1480	1703	.	.	.	what=CRISPR;des=repeat:GATTTCAATACATCTCATGTTTCTATTAATCC;note=copy:4
+YA4_7950	FGS-hmm	CDS	1580	1786	.	+	.	what=cas;des=unk;note=unknown
+YA4_7950	FGS-hmm	CDS	1913	2200	.	-	.	what=cas;des=cd09725:cas2;note=universal
+YA4_7950	FGS-hmm	CDS	2202	3200	.	-	.	what=cas;des=cd09722:cas1;note=universal
+YA4_7950	FGS-hmm	CDS	3210	3701	.	-	.	what=cas;des=pfam01930:cas4;note=Type-I
+YA4_7950	FGS-hmm	CDS	3716	6265	.	-	.	what=cas;des=cd09641:cas3HD;note=Type-I
+YA4_7950	FGS-hmm	CDS	6428	7135	.	-	.	what=cas;des=cd09693:cas5;note=Type-I
+YA4_7950	FGS-hmm	CDS	7135	8064	.	-	.	what=cas;des=pfam05107:cas7b;note=Type-I
+YA4_7950	FGS-hmm	CDS	8061	9866	.	-	.	what=cas;des=mkCas0106:cas8b1;note=Subtype-I-B
+YA4_7950	FGS-hmm	CDS	9879	10571	.	-	.	what=cas;des=cd09652:cas6;note=other
+YA4_7950	FGS-hmm	CDS	38209	40602	.	-	.	what=cas;des=COG1199:DinG;note=Subtype-IV-A
+YA4_7950	FGS-hmm	CDS	40631	41428	.	-	.	what=cas;des=unk;note=unknown
+YA4_7950	FGS-hmm	CDS	41510	42850	.	-	.	what=cas;des=unk;note=unknown
+YA4_7950	FGS-hmm	CDS	42956	43618	.	-	.	what=cas;des=cls000100:cas8b2;note=Subtype-I-B

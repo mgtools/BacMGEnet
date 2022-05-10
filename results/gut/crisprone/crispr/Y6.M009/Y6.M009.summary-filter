@@ -1,0 +1,28 @@
+#/u/yye/CRISPRpk/pipelines/../CRISPRone/call-script/hmmscan2cas.py -collection unk -hmmscan crisprone/crispr/Y6.M009/Y6.M009-vs-cas.domtblout -gff crisprone/crispr/Y6.M009/Y6.M009.gff -isolate -outfile crisprone/crispr/Y6.M009/Y6.M009.summary -outfiltered crisprone/crispr/Y6.M009/Y6.M009.summary-filter -gafile /u/yye/CRISPRpk/pipelines/../CRISPRone/local/cas-db/cas-CRISPR.GA
+##Y6.M009_22 1 derived-fm crisprone/crispr/Y6.M009/Y6.M009-vs-cas.domtblout
+Y6.M009_22_19953_21011_- Y6.M009 Y6.M009_22 19953 21011 - COG4804:PD-DExK 2
+##Y6.M009_24 1 derived-fm crisprone/crispr/Y6.M009/Y6.M009-vs-cas.domtblout
+Y6.M009_24_13544_13867_- Y6.M009 Y6.M009_24 13544 13867 - COG0640:csa3 2
+##Y6.M009_16 4 derived-fm crisprone/crispr/Y6.M009/Y6.M009-vs-cas.domtblout
+Y6.M009_16_7991_8317_- Y6.M009 Y6.M009_16 7991 8317 - COG0640:csa3 2
+Y6.M009_16_8402_8725_- Y6.M009 Y6.M009_16 8402 8725 - unk 1
+Y6.M009_16_8892_10283_- Y6.M009 Y6.M009_16 8892 10283 - unk 1
+Y6.M009_16_10314_11354_- Y6.M009 Y6.M009_16 10314 11354 - cd09641:cas3HD 1
+##Y6.M009_10 1 derived-fm crisprone/crispr/Y6.M009/Y6.M009-vs-cas.domtblout
+Y6.M009_10_14919_17261_+ Y6.M009 Y6.M009_10 14919 17261 + COG1199:DinG 2
+##Y6.M009_11 3 derived-fm crisprone/crispr/Y6.M009/Y6.M009-vs-cas.domtblout
+Y6.M009_11_26443_27183_+ Y6.M009 Y6.M009_11 26443 27183 + cd06127:DEDDh 2
+Y6.M009_11_27306_28292_+ Y6.M009 Y6.M009_11 27306 28292 + unk 1
+Y6.M009_11_28316_28807_+ Y6.M009 Y6.M009_11 28316 28807 + cls001593:casR 1
+##Y6.M009_43 1 derived-fm crisprone/crispr/Y6.M009/Y6.M009-vs-cas.domtblout
+Y6.M009_43_1012_2016_- Y6.M009 Y6.M009_43 1012 2016 - cd06127:DEDDh 2
+##Y6.M009_4 1 derived-fm crisprone/crispr/Y6.M009/Y6.M009-vs-cas.domtblout
+Y6.M009_4_71288_71662_+ Y6.M009 Y6.M009_4 71288 71662 + COG0640:csa3 2
+##Y6.M009_41 2 derived-fm crisprone/crispr/Y6.M009/Y6.M009-vs-cas.domtblout
+Y6.M009_41_18799_19137_- Y6.M009 Y6.M009_41 18799 19137 - COG4804:PD-DExK 2
+Y6.M009_41_19134_19328_- Y6.M009 Y6.M009_41 19134 19328 - COG4804:PD-DExK 2
+##Y6.M009_2 4 derived-fm crisprone/crispr/Y6.M009/Y6.M009-vs-cas.domtblout
+Y6.M009_2_12634_13629_+ Y6.M009 Y6.M009_2 12634 13629 + pfam13280:WYL 2
+Y6.M009_2_164400_168791_+ Y6.M009 Y6.M009_2 164400 168791 + cd06127:DEDDh 2
+Y6.M009_2_219934_222990_+ Y6.M009 Y6.M009_2 219934 222990 + COG1199:DinG 1
+Y6.M009_2_223056_223934_+ Y6.M009 Y6.M009_2 223056 223934 + COG0640:csa3 2

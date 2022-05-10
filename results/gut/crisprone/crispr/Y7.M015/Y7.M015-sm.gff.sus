@@ -1,0 +1,22 @@
+##gff-version 3
+#!processor CRISPRone
+Y7.M015_8	Genbank	region	1	195364	.	+	.	ID=Y7.M015_8
+Y7.M015_8	FGS-hmm	CDS	113189	114169	.	-	.	what=cas;des=COG4804:PD-DExK;note=other
+Y7.M015_7	Genbank	region	1	239156	.	+	.	ID=Y7.M015_7
+Y7.M015_7	metaCRT	direct_repeat	6256	6555	.	.	.	what=CRISPR;des=repeat:CTGTTGTAGGTGCTACTGTTGTTG;note=copy:5
+Y7.M015_7	FGS-hmm	CDS	120041	120781	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y7.M015_7	FGS-hmm	CDS	213278	214279	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+Y7.M015_9	Genbank	region	1	147447	.	+	.	ID=Y7.M015_9
+Y7.M015_9	FGS-hmm	CDS	135277	135990	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+Y7.M015_2	Genbank	region	1	277681	.	+	.	ID=Y7.M015_2
+Y7.M015_2	FGS-hmm	CDS	98507	99121	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y7.M015_1	Genbank	region	1	349717	.	+	.	ID=Y7.M015_1
+Y7.M015_1	FGS-hmm	CDS	127139	128377	.	+	.	what=cas;des=pfam13280:WYL;note=other
+Y7.M015_1	FGS-hmm	CDS	128378	129283	.	+	.	what=cas;des=pfam13280:WYL;note=other
+Y7.M015_3	Genbank	region	1	257348	.	+	.	ID=Y7.M015_3
+Y7.M015_3	FGS-hmm	CDS	4675	5634	.	+	.	what=cas;des=pfam13280:WYL;note=other
+Y7.M015_3	FGS-hmm	CDS	39352	40350	.	+	.	what=cas;des=pfam13280:WYL;note=other
+Y7.M015_10	Genbank	region	1	125580	.	+	.	ID=Y7.M015_10
+Y7.M015_10	FGS-hmm	CDS	107129	111655	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I
+Y7.M015_22	Genbank	region	1	35806	.	+	.	ID=Y7.M015_22
+Y7.M015_22	FGS-hmm	CDS	20528	20884	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A

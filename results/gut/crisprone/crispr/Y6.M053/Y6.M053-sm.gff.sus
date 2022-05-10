@@ -1,0 +1,31 @@
+##gff-version 3
+#!processor CRISPRone
+Y6.M053_37	Genbank	region	1	3605	.	+	.	ID=Y6.M053_37
+Y6.M053_37	FGS-hmm	CDS	2464	3468	.	+	.	what=cas;des=COG4804:PD-DExK;note=other
+Y6.M053_17	Genbank	region	1	116739	.	+	.	ID=Y6.M053_17
+Y6.M053_17	FGS-hmm	CDS	49796	52168	.	-	.	what=cas;des=COG1199:DinG;note=Subtype-IV-A
+Y6.M053_14	Genbank	region	1	128519	.	+	.	ID=Y6.M053_14
+Y6.M053_14	FGS-hmm	CDS	39223	43701	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+Y6.M053_72	Genbank	region	1	2901	.	+	.	ID=Y6.M053_72
+Y6.M053_72	FGS-hmm	CDS	2464	2898	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y6.M053_30	Genbank	region	1	73756	.	+	.	ID=Y6.M053_30
+Y6.M053_30	FGS-hmm	CDS	8328	9356	.	-	.	what=cas;des=COG4804:PD-DExK;note=other
+Y6.M053_12	Genbank	region	1	56686	.	+	.	ID=Y6.M053_12
+Y6.M053_12	FGS-hmm	CDS	3183	3455	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y6.M053_15	Genbank	region	1	121215	.	+	.	ID=Y6.M053_15
+Y6.M053_15	FGS-hmm	CDS	88890	89345	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y6.M053_46	Genbank	region	1	20733	.	+	.	ID=Y6.M053_46
+Y6.M053_46	FGS-hmm	CDS	3862	4389	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y6.M053_46	FGS-hmm	CDS	17359	18570	.	+	.	what=cas;des=pfam00078:RT;note=other
+Y6.M053_59	Genbank	region	1	6349	.	+	.	ID=Y6.M053_59
+Y6.M053_59	FGS-hmm	CDS	6200	6346	.	-	.	what=cas;des=pfam13280:WYL;note=other
+Y6.M053_50	Genbank	region	1	140404	.	+	.	ID=Y6.M053_50
+Y6.M053_50	FGS-hmm	CDS	37621	37893	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y6.M053_50	FGS-hmm	CDS	41674	41988	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y6.M053_27	Genbank	region	1	137075	.	+	.	ID=Y6.M053_27
+Y6.M053_27	FGS-hmm	CDS	80270	81271	.	+	.	what=cas;des=pfam00078:RT;note=other
+Y6.M053_27	FGS-hmm	CDS	102712	103626	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y6.M053_27	FGS-hmm	CDS	122163	122522	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y6.M053_27	FGS-hmm	CDS	122546	124408	.	+	.	what=cas;des=unk;note=unknown
+Y6.M053_27	FGS-hmm	CDS	124428	124952	.	+	.	what=cas;des=unk;note=unknown
+Y6.M053_27	FGS-hmm	CDS	124962	126212	.	+	.	what=cas;des=mkCas0115:csx3;note=other

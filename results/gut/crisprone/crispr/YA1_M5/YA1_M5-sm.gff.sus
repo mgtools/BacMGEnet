@@ -1,0 +1,21 @@
+##gff-version 3
+#!processor CRISPRone
+YA1_1055	Genbank	region	1	1731989	.	+	.	ID=YA1_1055
+YA1_1055	FGS-hmm	CDS	144215	146302	.	-	.	what=cas;des=pfam08800:PrimPol;note=other
+YA1_1055	FGS-hmm	CDS	146320	146511	.	+	.	what=cas;des=unk;note=unknown
+YA1_1055	FGS-hmm	CDS	146708	147331	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA1_1055	FGS-hmm	CDS	920027	920803	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YA1_1055	FGS-hmm	CDS	1119008	1119496	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YA1_5719	Genbank	region	1	3747779	.	+	.	ID=YA1_5719
+YA1_5719	FGS-hmm	CDS	108483	110291	.	-	.	what=cas;des=pfam00078:RT;note=other
+YA1_5719	FGS-hmm	CDS	161558	162199	.	-	.	what=cas;des=COG4804:PD-DExK;note=other
+YA1_5719	FGS-hmm	CDS	300073	301734	.	-	.	what=cas;des=pfam00078:RT;note=other
+YA1_5719	FGS-hmm	CDS	334396	336204	.	-	.	what=cas;des=pfam00078:RT;note=other
+YA1_5719	metaCRT	direct_repeat	606774	607228	.	.	.	what=CRISPR;des=repeat:CTTTTCATGTAGACTTCCTCGTT;note=copy:10
+YA1_5719	FGS-hmm	CDS	888934	890064	.	-	.	what=cas;des=COG4804:PD-DExK;note=other
+YA1_5719	FGS-hmm	CDS	1421064	1422161	.	+	.	what=cas;des=COG4804:PD-DExK;note=other
+YA1_5719	FGS-hmm	CDS	1422229	1426260	.	+	.	what=cas;des=unk;note=unknown
+YA1_5719	FGS-hmm	CDS	1426426	1427457	.	+	.	what=cas;des=pfam13280:WYL;note=other
+YA1_5719	FGS-hmm	CDS	1812622	1813725	.	+	.	what=cas;des=COG4804:PD-DExK;note=other
+YA1_5719	FGS-hmm	CDS	2909130	2910248	.	-	.	what=cas;des=COG4804:PD-DExK;note=other
+YA1_5719	FGS-hmm	CDS	2916468	2916794	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A

@@ -1,0 +1,21 @@
+SEQ: YB3_17827
+Bases: 548373
+Total CRISPR: 1
+
+
+CRISPR 1   Range: 523499 - 523639
+POSITION	REPEAT				SPACER
+--------	---------------------------------	---------------------
+523499		TAATACTGGCGGCAATACCGGTGGCGGTGATGC	TGGCGGGGGTAACACTGGTGG	[ 33, 21 ]
+523553		TGATACCGGCGGCAATACCGGTGGTGGTGATAC	CGGTGGCAATACCGGTGGCGG	[ 33, 21 ]
+523607		TGATACCGGCGGCAATACCGGTGGCGGTGATGC	
+--------	---------------------------------	---------------------
+Repeat-con	TGATACCGGCGGCAATACCGGTGGCGGTGATGC
+Repeats: 3	Average Length: 33		Average Length: 21
+
+
+Total sequences checked: 32
+Total bases checked: 2247655
+Total sequences with predicted CRISPR: 1
+Time used: 307 ms
+

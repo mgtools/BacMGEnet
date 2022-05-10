@@ -1,0 +1,18 @@
+##gff-version 3
+#!processor CRISPRone
+CP043529.1	Genbank	region	1	5010342	.	+	.	ID=CP043529.1;array=1;gene=11;type=(type I)
+CP043529.1	FGS-hmm	CDS	1015569	1016324	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+CP043529.1	FGS-hmm	CDS	1025232	1027457	.	+	.	what=cas;des=cd09641:cas3HD;note=Type-I
+CP043529.1	FGS-hmm	CDS	1027468	1028328	.	+	.	what=cas;des=unk;note=unknown
+CP043529.1	FGS-hmm	CDS	1028321	1029010	.	+	.	what=cas;des=cd09651:cas5;note=Subtype-I-C
+CP043529.1	FGS-hmm	CDS	1029007	1030728	.	+	.	what=cas;des=pfam09709:cas8c;note=Subtype-I-C
+CP043529.1	FGS-hmm	CDS	1030750	1031601	.	+	.	what=cas;des=cd09689:cas7;note=Subtype-I-C
+CP043529.1	FGS-hmm	CDS	1031611	1032276	.	+	.	what=cas;des=pfam01930:cas4;note=Type-I
+CP043529.1	FGS-hmm	CDS	1032273	1033295	.	+	.	what=cas;des=cd09721:cas1;note=universal
+CP043529.1	FGS-hmm	CDS	1033305	1033595	.	+	.	what=cas;des=cd09725:cas2;note=universal
+CP043529.1	metaCRT	direct_repeat	1033761	1034316	.	.	.	what=CRISPR;des=repeat:GTCACACCCTGCGTGGGTGTGTGGATTGAAAC;note=copy:9
+CP043529.1	FGS-hmm	CDS	4910691	4911038	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+CP043529.1	FGS-hmm	CDS	4917273	4918307	.	+	.	what=cas;des=pfam13280:WYL;note=other
+CP043529.1	FGS-hmm	CDS	4918353	4919981	.	+	.	what=cas;des=unk;note=unknown
+CP043529.1	FGS-hmm	CDS	4919991	4921760	.	+	.	what=cas;des=unk;note=unknown
+CP043529.1	FGS-hmm	CDS	4922089	4923549	.	+	.	what=cas;des=pfam00078:RT;note=other

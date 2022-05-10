@@ -1,0 +1,4 @@
+##gff-version 3
+#!processor CRISPRone
+YB2_1304	Genbank	region	1	49752	.	+	.	ID=YB2_1304;array=1;gene=0;type=NA
+YB2_1304	metaCRT	direct_repeat	40186	40288	.	.	.	what=CRISPR;des=repeat:TGGATTCGCGTCTGAGTATTT;note=copy:3

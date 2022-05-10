@@ -1,0 +1,25 @@
+#/u/yye/CRISPRpk/pipelines/../CRISPRone/call-script/hmmscan2cas.py -collection unk -hmmscan crisprone/crispr/YB2_M4/YB2_M4-vs-cas.domtblout -gff crisprone/crispr/YB2_M4/YB2_M4.gff -isolate -outfile crisprone/crispr/YB2_M4/YB2_M4.summary -outfiltered crisprone/crispr/YB2_M4/YB2_M4.summary-filter -gafile /u/yye/CRISPRpk/pipelines/../CRISPRone/local/cas-db/cas-CRISPR.GA
+##YB2_6012 3 derived-fm crisprone/crispr/YB2_M4/YB2_M4-vs-cas.domtblout
+YB2_6012_9193_12552_+ YB2_M4 YB2_6012 9193 12552 + cd09637:cas4 1
+YB2_6012_12555_16232_+ YB2_M4 YB2_6012 12555 16232 + cd09637:cas4 1
+YB2_6012_16377_16748_+ YB2_M4 YB2_6012 16377 16748 + COG0640:csa3 2
+##YB2_9366 4 derived-fm crisprone/crispr/YB2_M4/YB2_M4-vs-cas.domtblout
+YB2_9366_13320_14207_+ YB2_M4 YB2_9366 13320 14207 + COG0640:csa3 2
+YB2_9366_14288_15325_- YB2_M4 YB2_9366 14288 15325 - unk 1
+YB2_9366_15332_15985_- YB2_M4 YB2_9366 15332 15985 - unk 1
+YB2_9366_15988_17316_- YB2_M4 YB2_9366 15988 17316 - mkCas0115:csx3 1
+##YB2_20396 1 derived-fm crisprone/crispr/YB2_M4/YB2_M4-vs-cas.domtblout
+YB2_20396_7360_8646_+ YB2_M4 YB2_20396 7360 8646 + pfam00078:RT 2
+##YB2_14971 1 derived-fm crisprone/crispr/YB2_M4/YB2_M4-vs-cas.domtblout
+YB2_14971_77110_81564_- YB2_M4 YB2_14971 77110 81564 - cd06127:DEDDh 2
+##YB2_18245 2 derived-fm crisprone/crispr/YB2_M4/YB2_M4-vs-cas.domtblout
+YB2_18245_20826_21830_- YB2_M4 YB2_18245 20826 21830 - pfam13280:WYL 2
+YB2_18245_25368_26360_- YB2_M4 YB2_18245 25368 26360 - pfam13280:WYL 2
+##YB2_11980 1 derived-fm crisprone/crispr/YB2_M4/YB2_M4-vs-cas.domtblout
+YB2_11980_456_1742_- YB2_M4 YB2_11980 456 1742 - pfam00078:RT 2
+##YB2_11712 1 derived-fm crisprone/crispr/YB2_M4/YB2_M4-vs-cas.domtblout
+YB2_11712_15686_18055_+ YB2_M4 YB2_11712 15686 18055 + COG1199:DinG 2
+##YB2_15828 1 derived-fm crisprone/crispr/YB2_M4/YB2_M4-vs-cas.domtblout
+YB2_15828_4360_5286_+ YB2_M4 YB2_15828 4360 5286 + COG2378:WYL 2
+##YB2_16904 1 derived-fm crisprone/crispr/YB2_M4/YB2_M4-vs-cas.domtblout
+YB2_16904_19428_19928_+ YB2_M4 YB2_16904 19428 19928 + COG0640:csa3 2

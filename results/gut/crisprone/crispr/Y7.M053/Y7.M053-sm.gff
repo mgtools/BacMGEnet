@@ -1,0 +1,6 @@
+##gff-version 3
+#!processor CRISPRone
+Y7.M053_25	Genbank	region	1	22217	.	+	.	ID=Y7.M053_25;array=0;gene=3;type=(type I)
+Y7.M053_25	FGS-hmm	CDS	18606	18995	.	+	.	what=cas;des=COG4804:PD-DExK;note=other
+Y7.M053_25	FGS-hmm	CDS	18932	19393	.	+	.	what=cas;des=COG4804:PD-DExK;note=other
+Y7.M053_25	FGS-hmm	CDS	19778	20317	.	+	.	what=cas;des=mkCas0088:cas7;note=Subtype-I-B

@@ -1,0 +1,25 @@
+##gff-version 3
+#!processor CRISPRone
+Y8.M035_105	Genbank	region	1	24430	.	+	.	ID=Y8.M035_105
+Y8.M035_105	FGS-hmm	CDS	161	622	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y8.M035_105	FGS-hmm	CDS	11441	12361	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y8.M035_34	Genbank	region	1	29617	.	+	.	ID=Y8.M035_34
+Y8.M035_34	FGS-hmm	CDS	28215	28607	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y8.M035_78	Genbank	region	1	15125	.	+	.	ID=Y8.M035_78
+Y8.M035_78	metaCRT	direct_repeat	450	1006	.	.	.	what=CRISPR;des=repeat:TCGGTCTCTTTCTCAGTAGCCTTCTCGGTCTCTTTCTCAGT;note=copy:8
+Y8.M035_43	Genbank	region	1	20003	.	+	.	ID=Y8.M035_43
+Y8.M035_43	FGS-hmm	CDS	4326	4775	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y8.M035_5	Genbank	region	1	85602	.	+	.	ID=Y8.M035_5
+Y8.M035_5	FGS-hmm	CDS	25176	29735	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I
+Y8.M035_89	Genbank	region	1	15999	.	+	.	ID=Y8.M035_89
+Y8.M035_89	FGS-hmm	CDS	2025	2738	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I
+Y8.M035_89	FGS-hmm	CDS	2873	4516	.	+	.	what=cas;des=unk;note=unknown
+Y8.M035_89	FGS-hmm	CDS	4551	5168	.	+	.	what=cas;des=unk;note=unknown
+Y8.M035_89	FGS-hmm	CDS	5165	5647	.	+	.	what=cas;des=cls001593:casR;note=Type-I
+Y8.M035_13	Genbank	region	1	54589	.	+	.	ID=Y8.M035_13
+Y8.M035_13	FGS-hmm	CDS	20365	21396	.	+	.	what=cas;des=COG4804:PD-DExK;note=other
+Y8.M035_12	Genbank	region	1	55657	.	+	.	ID=Y8.M035_12
+Y8.M035_12	FGS-hmm	CDS	23293	25713	.	-	.	what=cas;des=COG1199:DinG;note=Subtype-IV-A
+Y8.M035_45	Genbank	region	1	19190	.	+	.	ID=Y8.M035_45
+Y8.M035_45	FGS-hmm	CDS	12504	13271	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y8.M035_45	FGS-hmm	CDS	13345	14706	.	-	.	what=cas;des=cls000006:csx18;note=other

@@ -1,0 +1,11 @@
+##gff-version 3
+#!processor CRISPRone
+Y8.M053_11	Genbank	region	1	151208	.	+	.	ID=Y8.M053_11;array=2;gene=3;type=(type II)
+Y8.M053_11	CRISPRone	partial_repeat	62112	62148	.	+	.	what=antiCRISPR;des=antiRepeat:eat;note=29-8
+Y8.M053_11	FGS-hmm	CDS	62303	65788	.	+	.	what=cas;des=COG3513:cas9;note=Subtype-II-C
+Y8.M053_11	FGS-hmm	CDS	65789	66694	.	+	.	what=cas;des=cd09720:cas1;note=Subtype-II-C
+Y8.M053_11	FGS-hmm	CDS	66687	67007	.	+	.	what=cas;des=cd09638:cas2;note=Subtype-II-C
+Y8.M053_11	metaCRT	direct_repeat	67104	67602	.	.	.	what=CRISPR;des=repeat:TATTATACCATACCAAGAAATAATAGGGAACTACAGC;note=copy:8
+Y8.M053_11	metaCRT	direct_repeat	67733	68230	.	.	.	what=CRISPR;des=repeat:ATTATACCATACCAAGAAATAATAGGGAACTACAGC;note=copy:8
+Y8.M053_11	CRISPRone	partial_repeat	62112	62147	.	+	.	what=antiCRISPR;des=antiRepeat:eat;note=37-0
+Y8.M053_11	CRISPRone	partial_repeat	62112	62147	.	+	.	what=antiCRISPR;des=antiRepeat:eat;note=37-0

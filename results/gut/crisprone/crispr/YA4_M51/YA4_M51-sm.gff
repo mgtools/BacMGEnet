@@ -1,0 +1,6 @@
+##gff-version 3
+#!processor CRISPRone
+YA4_8304	Genbank	region	1	43633	.	+	.	ID=YA4_8304;array=0;gene=3;type=(type I)
+YA4_8304	FGS-hmm	CDS	26924	27295	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA4_8304	FGS-hmm	CDS	27440	31117	.	-	.	what=cas;des=cd09637:cas4;note=other
+YA4_8304	FGS-hmm	CDS	31120	34479	.	-	.	what=cas;des=cd09637:cas4;note=other

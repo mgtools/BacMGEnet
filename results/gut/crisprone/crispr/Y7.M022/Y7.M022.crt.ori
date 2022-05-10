@@ -1,0 +1,22 @@
+SEQ: Y7.M022_3
+Bases: 249354
+Total CRISPR: 1
+
+
+CRISPR 1   Range: 31318 - 31490
+POSITION	REPEAT				SPACER
+--------	-----------------------------	-------------------
+31318		CGCCCGTGGATATTCCCTTGCCTCCCCCG	GAGGAAACCCCGCTTCCTC	[ 29, 19 ]
+31366		CACCCATGGACATCCCCTTGCCTCCCCTG	GAAGCCCCCCCACTTCCTC	[ 29, 19 ]
+31414		CGCCCATGGACATTCCCTTGCCTCCCCTG	CCGGAAGTACCGCTTCCTC	[ 29, 19 ]
+31462		CGCCCGTGGACATTCCCTTGCCTCCCCCG	
+--------	-----------------------------	-------------------
+Repeat-con	CGCCCATGGACATTCCCTTGCCTCCCCCG
+Repeats: 4	Average Length: 29		Average Length: 19
+
+
+Total sequences checked: 15
+Total bases checked: 2772372
+Total sequences with predicted CRISPR: 1
+Time used: 372 ms
+

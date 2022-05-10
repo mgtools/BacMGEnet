@@ -1,0 +1,34 @@
+##gff-version 3
+#!processor CRISPRone
+Y8.M045_57	Genbank	region	1	17102	.	+	.	ID=Y8.M045_57
+Y8.M045_57	FGS-hmm	CDS	8356	9132	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y8.M045_140	Genbank	region	1	3740	.	+	.	ID=Y8.M045_140
+Y8.M045_140	FGS-hmm	CDS	1230	1667	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y8.M045_114	Genbank	region	1	26971	.	+	.	ID=Y8.M045_114
+Y8.M045_114	FGS-hmm	CDS	16047	16793	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y8.M045_71	Genbank	region	1	13400	.	+	.	ID=Y8.M045_71
+Y8.M045_71	FGS-hmm	CDS	7232	7603	.	-	.	what=cas;des=cls001593:casR;note=Type-I
+Y8.M045_71	FGS-hmm	CDS	7650	7811	.	-	.	what=cas;des=unk;note=unknown
+Y8.M045_71	FGS-hmm	CDS	7887	8015	.	+	.	what=cas;des=unk;note=unknown
+Y8.M045_71	FGS-hmm	CDS	8096	8425	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y8.M045_16	Genbank	region	1	46309	.	+	.	ID=Y8.M045_16
+Y8.M045_16	FGS-hmm	CDS	22683	23024	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y8.M045_16	FGS-hmm	CDS	23072	23434	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y8.M045_56	Genbank	region	1	17297	.	+	.	ID=Y8.M045_56
+Y8.M045_56	FGS-hmm	CDS	5890	8388	.	+	.	what=cas;des=COG1199:DinG;note=Subtype-IV-A
+Y8.M045_143	Genbank	region	1	3668	.	+	.	ID=Y8.M045_143
+Y8.M045_143	FGS-hmm	CDS	558	932	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y8.M045_185	Genbank	region	1	36165	.	+	.	ID=Y8.M045_185
+Y8.M045_185	FGS-hmm	CDS	35732	36007	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y8.M045_20	Genbank	region	1	21517	.	+	.	ID=Y8.M045_20
+Y8.M045_20	FGS-hmm	CDS	8975	9466	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y8.M045_201	Genbank	region	1	4975	.	+	.	ID=Y8.M045_201
+Y8.M045_201	metaCRT	direct_repeat	3200	3421	.	.	.	what=CRISPR;des=repeat:ACTAAATTCGAGCTGCGTCTTCGACTTGCCCTCATTAAGT;note=copy:4
+Y8.M045_11	Genbank	region	1	98986	.	+	.	ID=Y8.M045_11
+Y8.M045_11	FGS-hmm	CDS	87248	88216	.	-	.	what=cas;des=pfam13280:WYL;note=other
+Y8.M045_14	Genbank	region	1	64886	.	+	.	ID=Y8.M045_14
+Y8.M045_14	FGS-hmm	CDS	13025	17479	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I
+Y8.M045_216	Genbank	region	1	7804	.	+	.	ID=Y8.M045_216
+Y8.M045_216	FGS-hmm	CDS	5132	6121	.	+	.	what=cas;des=pfam13280:WYL;note=other
+Y8.M045_110	Genbank	region	1	117745	.	+	.	ID=Y8.M045_110
+Y8.M045_110	FGS-hmm	CDS	69159	70013	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A

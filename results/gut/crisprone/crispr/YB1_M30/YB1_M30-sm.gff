@@ -1,0 +1,7 @@
+##gff-version 3
+#!processor CRISPRone
+YB1_7358	Genbank	region	1	117197	.	+	.	ID=YB1_7358;array=0;gene=3;type=(type I)
+YB1_7358	FGS-hmm	CDS	27353	28606	.	+	.	what=cas;des=mkCas0115:csx3;note=other
+YB1_7358	FGS-hmm	CDS	28626	29171	.	-	.	what=cas;des=cd09747:csx1;note=Type-III
+YB1_7358	FGS-hmm	CDS	29249	31117	.	-	.	what=cas;des=unk;note=unknown
+YB1_7358	FGS-hmm	CDS	31131	31559	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A

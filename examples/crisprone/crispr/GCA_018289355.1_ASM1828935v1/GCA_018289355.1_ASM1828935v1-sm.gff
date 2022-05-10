@@ -1,0 +1,12 @@
+##gff-version 3
+#!processor CRISPRone
+CP072234.1	Genbank	region	1	5298614	.	+	.	ID=CP072234.1;array=1;gene=7;type=(type I)
+CP072234.1	FGS-hmm	CDS	724048	726273	.	+	.	what=cas;des=cd09641:cas3HD;note=Type-I
+CP072234.1	FGS-hmm	CDS	726284	727144	.	+	.	what=cas;des=unk;note=unknown
+CP072234.1	FGS-hmm	CDS	727137	727826	.	+	.	what=cas;des=cd09651:cas5;note=Subtype-I-C
+CP072234.1	FGS-hmm	CDS	727823	729541	.	+	.	what=cas;des=pfam09709:cas8c;note=Subtype-I-C
+CP072234.1	FGS-hmm	CDS	729561	730445	.	+	.	what=cas;des=pfam05107:cas7b;note=Type-I
+CP072234.1	FGS-hmm	CDS	730455	731120	.	+	.	what=cas;des=pfam01930:cas4;note=Type-I
+CP072234.1	FGS-hmm	CDS	731117	732139	.	+	.	what=cas;des=cd09721:cas1;note=universal
+CP072234.1	FGS-hmm	CDS	732149	732439	.	+	.	what=cas;des=cd09725:cas2;note=universal
+CP072234.1	metaCRT	direct_repeat	732605	734079	.	.	.	what=CRISPR;des=repeat:GTCACACCCTGCGTGGGTGTGTGGATTGAAAC;note=copy:23

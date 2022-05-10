@@ -1,0 +1,35 @@
+#/u/yye/CRISPRpk/pipelines/../CRISPRone/call-script/hmmscan2cas.py -collection unk -hmmscan crisprone/crispr/Y5.M014/Y5.M014-vs-cas.domtblout -gff crisprone/crispr/Y5.M014/Y5.M014.gff -isolate -outfile crisprone/crispr/Y5.M014/Y5.M014.summary -outfiltered crisprone/crispr/Y5.M014/Y5.M014.summary-filter -gafile /u/yye/CRISPRpk/pipelines/../CRISPRone/local/cas-db/cas-CRISPR.GA
+##Y5.M014_5 1 derived-fm crisprone/crispr/Y5.M014/Y5.M014-vs-cas.domtblout
+Y5.M014_5_60817_61182_+ Y5.M014 Y5.M014_5 60817 61182 + COG0640:csa3 2
+##Y5.M014_9 1 derived-fm crisprone/crispr/Y5.M014/Y5.M014-vs-cas.domtblout
+Y5.M014_9_4178_8638_- Y5.M014 Y5.M014_9 4178 8638 - cd06127:DEDDh 2
+##Y5.M014_14 1 derived-fm crisprone/crispr/Y5.M014/Y5.M014-vs-cas.domtblout
+Y5.M014_14_75009_75386_+ Y5.M014 Y5.M014_14 75009 75386 + COG0640:csa3 2
+##Y5.M014_4 3 derived-fm crisprone/crispr/Y5.M014/Y5.M014-vs-cas.domtblout
+Y5.M014_4_128117_128653_+ Y5.M014 Y5.M014_4 128117 128653 + COG0640:csa3 2
+Y5.M014_4_128671_129114_+ Y5.M014 Y5.M014_4 128671 129114 + unk 1
+Y5.M014_4_129168_131351_- Y5.M014 Y5.M014_4 129168 131351 - cd09742:csm6 1
+##Y5.M014_16 1 derived-fm crisprone/crispr/Y5.M014/Y5.M014-vs-cas.domtblout
+Y5.M014_16_2243_3055_+ Y5.M014 Y5.M014_16 2243 3055 + COG4804:PD-DExK 2
+##Y5.M014_24 1 derived-fm crisprone/crispr/Y5.M014/Y5.M014-vs-cas.domtblout
+Y5.M014_24_15033_15413_+ Y5.M014 Y5.M014_24 15033 15413 + COG0640:csa3 2
+##Y5.M014_12 1 derived-fm crisprone/crispr/Y5.M014/Y5.M014-vs-cas.domtblout
+Y5.M014_12_68377_70752_- Y5.M014 Y5.M014_12 68377 70752 - COG1199:DinG 2
+##Y5.M014_18 1 derived-fm crisprone/crispr/Y5.M014/Y5.M014-vs-cas.domtblout
+Y5.M014_18_3760_4815_- Y5.M014 Y5.M014_18 3760 4815 - cd06127:DEDDh 2
+##Y5.M014_11 8 derived-fm crisprone/crispr/Y5.M014/Y5.M014-vs-cas.domtblout
+Y5.M014_11_74437_74769_- Y5.M014 Y5.M014_11 74437 74769 - COG4804:PD-DExK 2
+Y5.M014_11_95586_95876_- Y5.M014 Y5.M014_11 95586 95876 - cd09725:cas2 2
+Y5.M014_11_95886_96908_- Y5.M014 Y5.M014_11 95886 96908 - cd09634:cas1 2
+Y5.M014_11_96905_97564_- Y5.M014 Y5.M014_11 96905 97564 - cd09637:cas4 1
+Y5.M014_11_97570_98427_- Y5.M014 Y5.M014_11 97570 98427 - pfam05107:cas7b 2
+Y5.M014_11_98411_100234_- Y5.M014 Y5.M014_11 98411 100234 - cd09757:cas8c 1
+Y5.M014_11_100228_101016_- Y5.M014 Y5.M014_11 100228 101016 - cd09752:cas5 2
+Y5.M014_11_101175_103376_- Y5.M014 Y5.M014_11 101175 103376 - cd09641:cas3HD 2
+##Y5.M014_10 1 derived-fm crisprone/crispr/Y5.M014/Y5.M014-vs-cas.domtblout
+Y5.M014_10_32021_32353_- Y5.M014 Y5.M014_10 32021 32353 - COG0640:csa3 2
+##Y5.M014_23 4 derived-fm crisprone/crispr/Y5.M014/Y5.M014-vs-cas.domtblout
+Y5.M014_23_24034_24516_- Y5.M014 Y5.M014_23 24034 24516 - cls001593:casR 1
+Y5.M014_23_24550_25158_- Y5.M014 Y5.M014_23 24550 25158 - unk 1
+Y5.M014_23_25219_26811_- Y5.M014 Y5.M014_23 25219 26811 - unk 1
+Y5.M014_23_26973_27719_- Y5.M014 Y5.M014_23 26973 27719 - cd06127:DEDDh 2

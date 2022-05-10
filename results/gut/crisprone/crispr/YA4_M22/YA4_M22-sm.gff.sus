@@ -1,0 +1,35 @@
+##gff-version 3
+#!processor CRISPRone
+YA4_20714	Genbank	region	1	77706	.	+	.	ID=YA4_20714
+YA4_20714	FGS-hmm	CDS	65936	66295	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA4_9612	Genbank	region	1	41251	.	+	.	ID=YA4_9612
+YA4_9612	FGS-hmm	CDS	28113	29093	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YA4_13428	Genbank	region	1	34783	.	+	.	ID=YA4_13428
+YA4_13428	FGS-hmm	CDS	5975	6277	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA4_16972	Genbank	region	1	109807	.	+	.	ID=YA4_16972
+YA4_16972	FGS-hmm	CDS	67957	68391	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA4_15453	Genbank	region	1	132589	.	+	.	ID=YA4_15453
+YA4_15453	FGS-hmm	CDS	15882	16238	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA4_15453	FGS-hmm	CDS	16584	18422	.	-	.	what=cas;des=unk;note=unknown
+YA4_15453	FGS-hmm	CDS	18428	18586	.	-	.	what=cas;des=mkCas0115:csx3;note=other
+YA4_15453	FGS-hmm	CDS	67836	72167	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YA4_5799	Genbank	region	1	209841	.	+	.	ID=YA4_5799
+YA4_5799	FGS-hmm	CDS	188684	189016	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA4_17581	Genbank	region	1	102924	.	+	.	ID=YA4_17581
+YA4_17581	FGS-hmm	CDS	52604	53875	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA4_8448	Genbank	region	1	198030	.	+	.	ID=YA4_8448
+YA4_8448	FGS-hmm	CDS	166477	167910	.	-	.	what=cas;des=mkCas0065:cmr5gr11;note=Subtype-III-B
+YA4_8448	FGS-hmm	CDS	168173	168409	.	+	.	what=cas;des=unk;note=unknown
+YA4_8448	FGS-hmm	CDS	168499	169056	.	-	.	what=cas;des=unk;note=unknown
+YA4_8448	FGS-hmm	CDS	169142	171607	.	+	.	what=cas;des=COG1199:DinG;note=Subtype-IV-A
+YA4_2269	Genbank	region	1	59954	.	+	.	ID=YA4_2269
+YA4_2269	FGS-hmm	CDS	31250	31681	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA4_14479	Genbank	region	1	149763	.	+	.	ID=YA4_14479
+YA4_14479	FGS-hmm	CDS	6181	6498	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA4_14479	FGS-hmm	CDS	138859	139194	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA4_15574	Genbank	region	1	130358	.	+	.	ID=YA4_15574
+YA4_15574	FGS-hmm	CDS	48212	48676	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA4_14196	Genbank	region	1	27070	.	+	.	ID=YA4_14196
+YA4_14196	FGS-hmm	CDS	19516	19992	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA4_14135	Genbank	region	1	27713	.	+	.	ID=YA4_14135
+YA4_14135	FGS-hmm	CDS	10093	10992	.	+	.	what=cas;des=COG2378:WYL;note=other

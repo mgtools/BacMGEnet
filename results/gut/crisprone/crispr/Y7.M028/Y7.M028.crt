@@ -1,0 +1,14 @@
+SEQ: Y7.M028_3 length 347305
+Bases: 347305
+
+CRISPR 1 Range: 39871 - 40037
+POSITION	REPEAT				SPACER
+--------	----------------------------------	--------------------------------
+39871		TCTGGCAGCCTATGATTTGACATAGGTACAAAGC	ACGGTTACAATGGGGAGTCCACAAATGTAAGT	[ 34, 32 ]
+39937		TTTGGAAGCCTATGATTTGACATAGGTACAAAGC	CATTCTTTGCTATTGTTGGAACCGGAATGCGGT	[ 34, 33 ]
+40004		TTTGGAAGCCTATGATTTGACATGGGTACAAAGC
+--------	----------------------------------	--------------------------------
+Repeat-con	TTTGGAAGCCTATGATTTGACATAGGTACAAAGC
+Repeats: 3	Average Length: 34		Average Length: 32
+Time used: 366 ms
+

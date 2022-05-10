@@ -1,0 +1,25 @@
+#/u/yye/CRISPRpk/pipelines/../CRISPRone/call-script/hmmscan2cas.py -collection unk -hmmscan crisprone/crispr/Y6.M030/Y6.M030-vs-cas.domtblout -gff crisprone/crispr/Y6.M030/Y6.M030.gff -isolate -outfile crisprone/crispr/Y6.M030/Y6.M030.summary -outfiltered crisprone/crispr/Y6.M030/Y6.M030.summary-filter -gafile /u/yye/CRISPRpk/pipelines/../CRISPRone/local/cas-db/cas-CRISPR.GA
+##Y6.M030_1 1 derived-fm crisprone/crispr/Y6.M030/Y6.M030-vs-cas.domtblout
+Y6.M030_1_54955_59292_- Y6.M030 Y6.M030_1 54955 59292 - cd06127:DEDDh 2
+##Y6.M030_52 1 derived-fm crisprone/crispr/Y6.M030/Y6.M030-vs-cas.domtblout
+Y6.M030_52_35562_36596_- Y6.M030 Y6.M030_52 35562 36596 - pfam13280:WYL 2
+##Y6.M030_40 1 derived-fm crisprone/crispr/Y6.M030/Y6.M030-vs-cas.domtblout
+Y6.M030_40_81877_82347_- Y6.M030 Y6.M030_40 81877 82347 - COG0640:csa3 2
+##Y6.M030_51 2 derived-fm crisprone/crispr/Y6.M030/Y6.M030-vs-cas.domtblout
+Y6.M030_51_100_2748_- Y6.M030 Y6.M030_51 100 2748 - cd09641:cas3HD 2
+Y6.M030_51_11276_12241_- Y6.M030 Y6.M030_51 11276 12241 - pfam13280:WYL 2
+##Y6.M030_21 7 derived-fm crisprone/crispr/Y6.M030/Y6.M030-vs-cas.domtblout
+Y6.M030_21_120_1757_+ Y6.M030 Y6.M030_21 120 1757 + cd09729:cas8e 2
+Y6.M030_21_1775_2347_+ Y6.M030 Y6.M030_21 1775 2347 + mkCas0194:cse2gr11 2
+Y6.M030_21_2344_3417_+ Y6.M030 Y6.M030_21 2344 3417 + pfam09344:cas7 2
+Y6.M030_21_3423_4061_+ Y6.M030 Y6.M030_21 3423 4061 + cd09756:cas5 2
+Y6.M030_21_4070_4696_+ Y6.M030 Y6.M030_21 4070 4696 + pfam08798:cas6e 2
+Y6.M030_21_4696_5637_+ Y6.M030 Y6.M030_21 4696 5637 + cd09719:cas1 2
+Y6.M030_21_5634_6530_+ Y6.M030 Y6.M030_21 5634 6530 + cd06127:DEDDh 2
+##Y6.M030_38 2 derived-fm crisprone/crispr/Y6.M030/Y6.M030-vs-cas.domtblout
+Y6.M030_38_101310_101759_- Y6.M030 Y6.M030_38 101310 101759 - COG0640:csa3 2
+Y6.M030_38_102176_103762_- Y6.M030 Y6.M030_38 102176 103762 - cd09641:cas3HD 1
+##Y6.M030_45 1 derived-fm crisprone/crispr/Y6.M030/Y6.M030-vs-cas.domtblout
+Y6.M030_45_10250_10894_- Y6.M030 Y6.M030_45 10250 10894 - cd06127:DEDDh 2
+##Y6.M030_27 1 derived-fm crisprone/crispr/Y6.M030/Y6.M030-vs-cas.domtblout
+Y6.M030_27_15480_17501_- Y6.M030 Y6.M030_27 15480 17501 - COG1199:DinG 2

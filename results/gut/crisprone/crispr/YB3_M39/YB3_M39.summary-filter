@@ -1,0 +1,38 @@
+#/u/yye/CRISPRpk/pipelines/../CRISPRone/call-script/hmmscan2cas.py -collection unk -hmmscan crisprone/crispr/YB3_M39/YB3_M39-vs-cas.domtblout -gff crisprone/crispr/YB3_M39/YB3_M39.gff -isolate -outfile crisprone/crispr/YB3_M39/YB3_M39.summary -outfiltered crisprone/crispr/YB3_M39/YB3_M39.summary-filter -gafile /u/yye/CRISPRpk/pipelines/../CRISPRone/local/cas-db/cas-CRISPR.GA
+##YB3_7523 1 derived-fm crisprone/crispr/YB3_M39/YB3_M39-vs-cas.domtblout
+YB3_7523_23955_25217_+ YB3_M39 YB3_7523 23955 25217 + COG0640:csa3 2
+##YB3_16542 4 derived-fm crisprone/crispr/YB3_M39/YB3_M39-vs-cas.domtblout
+YB3_16542_17133_18347_- YB3_M39 YB3_16542 17133 18347 - mkCas0115:csx3 1
+YB3_16542_18344_19351_- YB3_M39 YB3_16542 18344 19351 - unk 1
+YB3_16542_19469_20056_- YB3_M39 YB3_16542 19469 20056 - unk 1
+YB3_16542_20329_20679_+ YB3_M39 YB3_16542 20329 20679 + COG0640:csa3 2
+##YB3_11682 1 derived-fm crisprone/crispr/YB3_M39/YB3_M39-vs-cas.domtblout
+YB3_11682_2702_3175_+ YB3_M39 YB3_11682 2702 3175 + pfam13280:WYL 2
+##YB3_5548 1 derived-fm crisprone/crispr/YB3_M39/YB3_M39-vs-cas.domtblout
+YB3_5548_13665_14390_+ YB3_M39 YB3_5548 13665 14390 + COG0640:csa3 2
+##YB3_92 8 derived-fm crisprone/crispr/YB3_M39/YB3_M39-vs-cas.domtblout
+YB3_92_2179_3078_- YB3_M39 YB3_92 2179 3078 - cd06127:DEDDh 2
+YB3_92_3075_4034_- YB3_M39 YB3_92 3075 4034 - cd09719:cas1 2
+YB3_92_4098_4736_- YB3_M39 YB3_92 4098 4736 - pfam08798:cas6e 2
+YB3_92_4749_5252_- YB3_M39 YB3_92 4749 5252 - cd09693:cas5 2
+YB3_92_5354_6523_- YB3_M39 YB3_92 5354 6523 - pfam09344:cas7 2
+YB3_92_6516_7127_- YB3_M39 YB3_92 6516 7127 - mkCas0194:cse2gr11 2
+YB3_92_7143_8702_- YB3_M39 YB3_92 7143 8702 - cd09729:cas8e 2
+YB3_92_8699_11392_- YB3_M39 YB3_92 8699 11392 - COG1203:cas3 2
+##YB3_11568 1 derived-fm crisprone/crispr/YB3_M39/YB3_M39-vs-cas.domtblout
+YB3_11568_3375_4274_- YB3_M39 YB3_11568 3375 4274 - COG0640:csa3 2
+##YB3_10059 1 derived-fm crisprone/crispr/YB3_M39/YB3_M39-vs-cas.domtblout
+YB3_10059_9097_11532_- YB3_M39 YB3_10059 9097 11532 - COG1199:DinG 2
+##YB3_11306 1 derived-fm crisprone/crispr/YB3_M39/YB3_M39-vs-cas.domtblout
+YB3_11306_1903_6552_- YB3_M39 YB3_11306 1903 6552 - cd06127:DEDDh 2
+##YB3_10087 1 derived-fm crisprone/crispr/YB3_M39/YB3_M39-vs-cas.domtblout
+YB3_10087_15407_15838_- YB3_M39 YB3_10087 15407 15838 - COG0640:csa3 2
+##YB3_11158 1 derived-fm crisprone/crispr/YB3_M39/YB3_M39-vs-cas.domtblout
+YB3_11158_8202_8627_- YB3_M39 YB3_11158 8202 8627 - COG0640:csa3 2
+##YB3_10788 1 derived-fm crisprone/crispr/YB3_M39/YB3_M39-vs-cas.domtblout
+YB3_10788_189_1136_+ YB3_M39 YB3_10788 189 1136 + cd06127:DEDDh 2
+##YB3_9644 4 derived-fm crisprone/crispr/YB3_M39/YB3_M39-vs-cas.domtblout
+YB3_9644_3379_3888_- YB3_M39 YB3_9644 3379 3888 - cls001593:casR 1
+YB3_9644_3969_4562_- YB3_M39 YB3_9644 3969 4562 - unk 1
+YB3_9644_4559_6181_- YB3_M39 YB3_9644 4559 6181 - unk 1
+YB3_9644_6323_7045_- YB3_M39 YB3_9644 6323 7045 - cd06127:DEDDh 2

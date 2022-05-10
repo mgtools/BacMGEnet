@@ -1,0 +1,26 @@
+#/u/yye/CRISPRpk/pipelines/../CRISPRone/call-script/hmmscan2cas.py -collection unk -hmmscan crisprone/crispr/YB3_M8/YB3_M8-vs-cas.domtblout -gff crisprone/crispr/YB3_M8/YB3_M8.gff -isolate -outfile crisprone/crispr/YB3_M8/YB3_M8.summary -outfiltered crisprone/crispr/YB3_M8/YB3_M8.summary-filter -gafile /u/yye/CRISPRpk/pipelines/../CRISPRone/local/cas-db/cas-CRISPR.GA
+##YB3_17585 1 derived-fm crisprone/crispr/YB3_M8/YB3_M8-vs-cas.domtblout
+YB3_17585_27359_27808_+ YB3_M8 YB3_17585 27359 27808 + COG4804:PD-DExK 2
+##YB3_10198 2 derived-fm crisprone/crispr/YB3_M8/YB3_M8-vs-cas.domtblout
+YB3_10198_192238_194331_+ YB3_M8 YB3_10198 192238 194331 + pfam08800:PrimPol 2
+YB3_10198_236014_236775_+ YB3_M8 YB3_10198 236014 236775 + COG0640:csa3 2
+##YB3_4744 1 derived-fm crisprone/crispr/YB3_M8/YB3_M8-vs-cas.domtblout
+YB3_4744_853_1344_- YB3_M8 YB3_4744 853 1344 - cd06127:DEDDh 2
+##YB3_1507 4 derived-fm crisprone/crispr/YB3_M8/YB3_M8-vs-cas.domtblout
+YB3_1507_3143_4429_- YB3_M8 YB3_1507 3143 4429 - COG4804:PD-DExK 2
+YB3_1507_123354_124124_+ YB3_M8 YB3_1507 123354 124124 + cd06127:DEDDh 2
+YB3_1507_124125_125354_+ YB3_M8 YB3_1507 124125 125354 + unk 1
+YB3_1507_125374_127044_+ YB3_M8 YB3_1507 125374 127044 + mkCas0096:cse2gr11 1
+##YB3_10066 1 derived-fm crisprone/crispr/YB3_M8/YB3_M8-vs-cas.domtblout
+YB3_10066_11314_13023_+ YB3_M8 YB3_10066 11314 13023 + pfam00078:RT 2
+##YB3_2320 1 derived-fm crisprone/crispr/YB3_M8/YB3_M8-vs-cas.domtblout
+YB3_2320_191709_192350_- YB3_M8 YB3_2320 191709 192350 - COG4804:PD-DExK 2
+##YB3_6224 2 derived-fm crisprone/crispr/YB3_M8/YB3_M8-vs-cas.domtblout
+YB3_6224_20981_23446_+ YB3_M8 YB3_6224 20981 23446 + cd09708:DinG 1
+YB3_6224_23926_26016_- YB3_M8 YB3_6224 23926 26016 - pfam08800:PrimPol 2
+##YB3_16265 1 derived-fm crisprone/crispr/YB3_M8/YB3_M8-vs-cas.domtblout
+YB3_16265_213188_213637_- YB3_M8 YB3_16265 213188 213637 - COG4804:PD-DExK 2
+##YB3_15263 3 derived-fm crisprone/crispr/YB3_M8/YB3_M8-vs-cas.domtblout
+YB3_15263_122003_122911_+ YB3_M8 YB3_15263 122003 122911 + pfam13280:WYL 2
+YB3_15263_513687_515777_- YB3_M8 YB3_15263 513687 515777 - pfam08800:PrimPol 2
+YB3_15263_687157_687756_+ YB3_M8 YB3_15263 687157 687756 + pfam08800:PrimPol 2

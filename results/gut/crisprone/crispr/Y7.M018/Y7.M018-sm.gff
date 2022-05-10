@@ -1,0 +1,12 @@
+##gff-version 3
+#!processor CRISPRone
+Y7.M018_22	Genbank	region	1	187216	.	+	.	ID=Y7.M018_22;array=2;gene=7;type=(type I)
+Y7.M018_22	FGS-hmm	CDS	121641	124094	.	+	.	what=cas;des=cd09641:cas3HD;note=Type-I
+Y7.M018_22	FGS-hmm	CDS	124258	125010	.	+	.	what=cas;des=cd09752:cas5;note=Subtype-I-C
+Y7.M018_22	FGS-hmm	CDS	124994	126925	.	+	.	what=cas;des=pfam09709:cas8c;note=Subtype-I-C
+Y7.M018_22	FGS-hmm	CDS	126929	127789	.	+	.	what=cas;des=pfam05107:cas7b;note=Type-I
+Y7.M018_22	FGS-hmm	CDS	127796	128458	.	+	.	what=cas;des=pfam01930:cas4;note=Type-I
+Y7.M018_22	FGS-hmm	CDS	128466	129506	.	+	.	what=cas;des=cd09634:cas1;note=universal
+Y7.M018_22	FGS-hmm	CDS	129497	129787	.	+	.	what=cas;des=cd09725:cas2;note=universal
+Y7.M018_22	metaCRT	direct_repeat	129982	138241	.	.	.	what=CRISPR;des=repeat:GTCTCCCTCCATGCGGAGGGAGTGGATTGAAAT;note=copy:123
+Y7.M018_22	metaCRT	direct_repeat	140472	140773	.	.	.	what=CRISPR;des=repeat:GTCTCCCTCCGTATGGAGAGAGTGGATTGAAA;note=copy:5

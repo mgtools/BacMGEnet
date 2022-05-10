@@ -1,0 +1,10 @@
+##gff-version 3
+#!processor CRISPRone
+YB2_13322	Genbank	region	1	122114	.	+	.	ID=YB2_13322;array=1;gene=6;type=(type I)
+YB2_13322	metaCRT	direct_repeat	82754	86873	.	.	.	what=CRISPR;des=repeat:TTTCTAAGCTGCCTATGCGGCAGTGATC;note=copy:69
+YB2_13322	FGS-hmm	CDS	87006	87584	.	-	.	what=cas;des=cd09739:cas6f;note=other
+YB2_13322	FGS-hmm	CDS	87591	88622	.	-	.	what=cas;des=pfam09615:cas7f;note=Subtype-I-F
+YB2_13322	FGS-hmm	CDS	88640	89548	.	-	.	what=cas;des=pfam09614:cas5f;note=Subtype-I-F
+YB2_13322	FGS-hmm	CDS	89545	90768	.	-	.	what=cas;des=cd09735:cas8f;note=Subtype-I-F
+YB2_13322	FGS-hmm	CDS	90790	94167	.	-	.	what=cas;des=COG1203:cas3;note=Type-I
+YB2_13322	FGS-hmm	CDS	94164	95129	.	-	.	what=cas;des=COG1518:cas1;note=universal

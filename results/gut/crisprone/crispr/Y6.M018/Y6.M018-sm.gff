@@ -1,0 +1,25 @@
+##gff-version 3
+#!processor CRISPRone
+Y6.M018_40	Genbank	region	1	143719	.	+	.	ID=Y6.M018_40;array=1;gene=7;type=(type I)
+Y6.M018_40	FGS-hmm	CDS	36680	38833	.	+	.	what=cas;des=cd09641:cas3HD;note=Type-I
+Y6.M018_40	FGS-hmm	CDS	38844	39566	.	+	.	what=cas;des=cd09752:cas5;note=Subtype-I-C
+Y6.M018_40	FGS-hmm	CDS	39560	41341	.	+	.	what=cas;des=cd09757:cas8c;note=Subtype-I-C
+Y6.M018_40	FGS-hmm	CDS	41358	42209	.	+	.	what=cas;des=pfam05107:cas7b;note=Type-I
+Y6.M018_40	FGS-hmm	CDS	42206	42850	.	+	.	what=cas;des=cd09637:cas4;note=other
+Y6.M018_40	FGS-hmm	CDS	42847	43869	.	+	.	what=cas;des=cd09634:cas1;note=universal
+Y6.M018_40	FGS-hmm	CDS	43879	44169	.	+	.	what=cas;des=cd09725:cas2;note=universal
+Y6.M018_40	metaCRT	direct_repeat	44314	45490	.	.	.	what=CRISPR;des=repeat:GTCACGCTCCCCACGGAGCGTGTGAGTTGAAAT;note=copy:18
+Y6.M018_46	Genbank	region	1	38562	.	+	.	ID=Y6.M018_46;array=2;gene=8;type=(type III)
+Y6.M018_46	metaCRT	direct_repeat	554	2292	.	.	.	what=CRISPR;des=repeat:ATTAAAAAACGAATAACCCCTGTAAGGGACGGAAAC;note=copy:24
+Y6.M018_46	FGS-hmm	CDS	2449	3204	.	+	.	what=cas;des=pfam10040:cas6;note=other
+Y6.M018_46	FGS-hmm	CDS	3191	5461	.	+	.	what=cas;des=cd09680:cas10;note=Type-III
+Y6.M018_46	FGS-hmm	CDS	5468	5839	.	+	.	what=cas;des=cd09647:csm2gr11;note=Subtype-III-A
+Y6.M018_46	FGS-hmm	CDS	5842	6516	.	+	.	what=cas;des=COG1337:csm3gr7;note=Subtype-III-D
+Y6.M018_46	FGS-hmm	CDS	6520	7446	.	+	.	what=cas;des=pfam03787:csm3gr7;note=Type-III
+Y6.M018_46	FGS-hmm	CDS	7457	8548	.	+	.	what=cas;des=cd09726:csm3gr7;note=Subtype-III-D
+Y6.M018_46	FGS-hmm	CDS	8579	9580	.	+	.	what=cas;des=cd09634:cas1;note=universal
+Y6.M018_46	FGS-hmm	CDS	9606	9917	.	+	.	what=cas;des=cd09725:cas2;note=universal
+Y6.M018_46	metaCRT	direct_repeat	10153	10486	.	.	.	what=CRISPR;des=repeat:ATTAAAAAATGAATAACCCCTGTAAGGGACGGAAACT;note=copy:5
+Y6.M018_45	Genbank	region	1	171651	.	+	.	ID=Y6.M018_45;array=2;gene=0;type=NA
+Y6.M018_45	metaCRT	direct_repeat	8879	9821	.	.	.	what=CRISPR;des=repeat:GTTTCCGTCCCTTACAGGGGTTATTCGTTTTTTAAT;note=copy:13
+Y6.M018_45	metaCRT	direct_repeat	24945	25747	.	.	.	what=CRISPR;des=repeat:TCTCCAATACTTTTTACACTATCCGGTATAACTATTTCTTTTAAATT;note=copy:12

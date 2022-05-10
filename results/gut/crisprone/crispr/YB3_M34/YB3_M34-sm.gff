@@ -1,0 +1,7 @@
+##gff-version 3
+#!processor CRISPRone
+YB3_5661	Genbank	region	1	2520	.	+	.	ID=YB3_5661;array=1;gene=3;type=NA
+YB3_5661	FGS-hmm	CDS	203	865	.	+	.	what=cas;des=pfam01930:cas4;note=Type-I
+YB3_5661	FGS-hmm	CDS	862	1893	.	+	.	what=cas;des=cd09721:cas1;note=universal
+YB3_5661	FGS-hmm	CDS	1901	2191	.	+	.	what=cas;des=cd09725:cas2;note=universal
+YB3_5661	metaCRT	direct_repeat	2363	2519	.	.	.	what=CRISPR;des=repeat:GTCGCACCCCTCGCGGGGTGCGT;note=copy:3

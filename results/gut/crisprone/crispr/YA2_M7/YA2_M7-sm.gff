@@ -1,0 +1,20 @@
+##gff-version 3
+#!processor CRISPRone
+YA2_5396	Genbank	region	1	2181457	.	+	.	ID=YA2_5396;array=2;gene=12;type=(type I, III)
+YA2_5396	metaCRT	direct_repeat	504744	504953	.	.	.	what=CRISPR;des=repeat:GATCACTGCCGCATAGGCAGCTTAGAAAAT;note=copy:4
+YA2_5396	FGS-hmm	CDS	1582155	1582676	.	-	.	what=cas;des=cd09641:cas3HD;note=Type-I
+YA2_5396	FGS-hmm	CDS	1582910	1583374	.	-	.	what=cas;des=unk;note=unknown
+YA2_5396	FGS-hmm	CDS	1583488	1583928	.	-	.	what=cas;des=unk;note=unknown
+YA2_5396	FGS-hmm	CDS	1583921	1584718	.	-	.	what=cas;des=cd09682:cmr4gr7;note=Subtype-III-B
+YA2_5396	FGS-hmm	CDS	1584727	1585764	.	-	.	what=cas;des=pfam13280:WYL;note=other
+YA2_5396	metaCRT	direct_repeat	1699457	1699665	.	.	.	what=CRISPR;des=repeat:TTTCTAAGCTGCCTATGCGGCAGTGATC;note=copy:4
+YA2_5396	FGS-hmm	CDS	1699798	1700376	.	-	.	what=cas;des=cd09739:cas6f;note=other
+YA2_5396	FGS-hmm	CDS	1700383	1701414	.	-	.	what=cas;des=pfam09615:cas7f;note=Subtype-I-F
+YA2_5396	FGS-hmm	CDS	1701432	1702340	.	-	.	what=cas;des=pfam09614:cas5f;note=Subtype-I-F
+YA2_5396	FGS-hmm	CDS	1702337	1703560	.	-	.	what=cas;des=cd09735:cas8f;note=Subtype-I-F
+YA2_5396	FGS-hmm	CDS	1703582	1706959	.	-	.	what=cas;des=COG1203:cas3;note=Type-I
+YA2_5396	FGS-hmm	CDS	1706956	1707921	.	-	.	what=cas;des=COG1518:cas1;note=universal
+YA2_5396	FGS-hmm	CDS	1927863	1928231	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA2_5396	FGS-hmm	CDS	1929107	1930132	.	-	.	what=cas;des=cd09641:cas3HD;note=Type-I
+YA2_5396	FGS-hmm	CDS	1930280	1931113	.	-	.	what=cas;des=unk;note=unknown
+YA2_5396	FGS-hmm	CDS	1931123	1931755	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A

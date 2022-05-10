@@ -1,0 +1,18 @@
+##gff-version 3
+#!processor CRISPRone
+YB1_9727	Genbank	region	1	77069	.	+	.	ID=YB1_9727;array=1;gene=0;type=NA
+YB1_9727	metaCRT	direct_repeat	76023	76966	.	.	.	what=CRISPR;des=repeat:GAGTTCCCCGCGCCAGCGGGGATAAACCG;note=copy:16
+YB1_12727	Genbank	region	1	319394	.	+	.	ID=YB1_12727;array=1;gene=8;type=(type I)
+YB1_12727	FGS-hmm	CDS	205197	207896	.	+	.	what=cas;des=COG1203:cas3;note=Type-I
+YB1_12727	FGS-hmm	CDS	207994	209556	.	+	.	what=cas;des=cd09669:cas8e;note=Subtype-I-E
+YB1_12727	FGS-hmm	CDS	209553	210089	.	+	.	what=cas;des=cd09731:cse2gr11;note=Subtype-I-E
+YB1_12727	FGS-hmm	CDS	210104	211159	.	+	.	what=cas;des=cd09646:cas7;note=Subtype-I-E
+YB1_12727	FGS-hmm	CDS	211170	211916	.	+	.	what=cas;des=cd09645:cas5;note=Subtype-I-E
+YB1_12727	FGS-hmm	CDS	211898	212548	.	+	.	what=cas;des=cd09664:cas6e;note=Subtype-I-E
+YB1_12727	FGS-hmm	CDS	212545	213468	.	+	.	what=cas;des=cd09719:cas1;note=universal
+YB1_12727	FGS-hmm	CDS	213465	213758	.	+	.	what=cas;des=pfam09707:cas2;note=universal
+YB1_12727	metaCRT	direct_repeat	213855	214310	.	.	.	what=CRISPR;des=repeat:GTGTTCCCCGCGCCAGCGGGGATAAACCG;note=copy:8
+YB1_4793	Genbank	region	1	233207	.	+	.	ID=YB1_4793;array=0;gene=3;type=(type I)
+YB1_4793	FGS-hmm	CDS	71851	76467	.	-	.	what=cas;des=cd09639:cas3;note=Type-I
+YB1_4793	FGS-hmm	CDS	76560	77207	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YB1_4793	FGS-hmm	CDS	84724	85164	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A

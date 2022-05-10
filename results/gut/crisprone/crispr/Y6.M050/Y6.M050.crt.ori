@@ -1,0 +1,22 @@
+SEQ: Y6.M050_269
+Bases: 2832
+Total CRISPR: 1
+
+
+CRISPR 1   Range: 1557 - 1800
+POSITION	REPEAT				SPACER
+--------	-------------------------------------	--------------------------------
+1557		GCGGTCGCATCCTCATGCAGGGCGCGGGGATTGAAAT	TCGATTGGCTCAAGGCGGCAGACCCGAAGCTT	[ 37, 32 ]
+1626		GAAGTCGCACCCCCATGCAGGGCGCGTGGATCGAAGT	CTCTACGGGATCGAGCCGGTCAAGGCGTCCG	[ 37, 31 ]
+1694		GCGGTCGCACCCTCATGCAGGGCGCGTGGATTGAAAT	TGGTATCGAAGTCACTGCGCCACAGCCATGCCG	[ 37, 33 ]
+1764		ACGGTCGCACCCTCATGAAAGGTGCGGGGATTGAAAT	
+--------	-------------------------------------	--------------------------------
+Repeat-con	GCGGTCGCACCCTCATGCAGGGCGCGTGGATTGAAAT
+Repeats: 4	Average Length: 37		Average Length: 32
+
+
+Total sequences checked: 307
+Total bases checked: 2882323
+Total sequences with predicted CRISPR: 1
+Time used: 414 ms
+

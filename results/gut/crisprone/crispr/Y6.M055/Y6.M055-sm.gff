@@ -1,0 +1,9 @@
+##gff-version 3
+#!processor CRISPRone
+Y6.M055_138	Genbank	region	1	4198	.	+	.	ID=Y6.M055_138;array=1;gene=5;type=(type I)
+Y6.M055_138	FGS-hmm	CDS	130	816	.	+	.	what=cas;des=cd09757:cas8c;note=Subtype-I-C
+Y6.M055_138	FGS-hmm	CDS	818	1708	.	+	.	what=cas;des=pfam05107:cas7b;note=Type-I
+Y6.M055_138	FGS-hmm	CDS	1708	2370	.	+	.	what=cas;des=pfam01930:cas4;note=Type-I
+Y6.M055_138	FGS-hmm	CDS	2367	3398	.	+	.	what=cas;des=cd09721:cas1;note=universal
+Y6.M055_138	FGS-hmm	CDS	3437	3727	.	+	.	what=cas;des=cd09725:cas2;note=universal
+Y6.M055_138	metaCRT	direct_repeat	3938	4176	.	.	.	what=CRISPR;des=repeat:GTCTCCGTCCTCGCGGGCGGAGTGGGTTGAAATCTC;note=copy:4

@@ -1,0 +1,16 @@
+##gff-version 3
+#!processor CRISPRone
+YB4_13077	Genbank	region	1	505085	.	+	.	ID=YB4_13077
+YB4_13077	FGS-hmm	CDS	4890	5657	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YB4_13077	FGS-hmm	CDS	87684	88946	.	+	.	what=cas;des=pfam00078:RT;note=other
+YB4_8624	Genbank	region	1	522446	.	+	.	ID=YB4_8624
+YB4_8624	FGS-hmm	CDS	40383	41210	.	+	.	what=cas;des=COG4804:PD-DExK;note=other
+YB4_8624	FGS-hmm	CDS	92666	93580	.	+	.	what=cas;des=pfam13280:WYL;note=other
+YB4_11178	Genbank	region	1	406275	.	+	.	ID=YB4_11178
+YB4_11178	FGS-hmm	CDS	127878	128927	.	-	.	what=cas;des=COG4804:PD-DExK;note=other
+YB4_2151	Genbank	region	1	579660	.	+	.	ID=YB4_2151
+YB4_2151	FGS-hmm	CDS	5795	6700	.	+	.	what=cas;des=pfam13280:WYL;note=other
+YB4_2151	FGS-hmm	CDS	163516	164286	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YB4_2151	FGS-hmm	CDS	248422	249453	.	-	.	what=cas;des=COG4804:PD-DExK;note=other
+YB4_11545	Genbank	region	1	144809	.	+	.	ID=YB4_11545
+YB4_11545	FGS-hmm	CDS	123293	124315	.	+	.	what=cas;des=COG4804:PD-DExK;note=other

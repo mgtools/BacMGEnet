@@ -1,0 +1,7 @@
+##gff-version 3
+#!processor CRISPRone
+YB1_9115	Genbank	region	1	83558	.	+	.	ID=YB1_9115;array=1;gene=3;type=(type II)
+YB1_9115	FGS-hmm	CDS	75477	79142	.	+	.	what=cas;des=cd09643:cas9;note=Subtype-II-C
+YB1_9115	FGS-hmm	CDS	79136	80023	.	+	.	what=cas;des=cd09720:cas1;note=Subtype-II-C
+YB1_9115	FGS-hmm	CDS	80028	80366	.	+	.	what=cas;des=pfam09827:cas2;note=Subtype-II-C
+YB1_9115	metaCRT	direct_repeat	80496	82899	.	.	.	what=CRISPR;des=repeat:GTTGTGGTTTGATGTAGAATTTCGATAAGATACAAC;note=copy:37

@@ -1,0 +1,26 @@
+#/u/yye/CRISPRpk/pipelines/../CRISPRone/call-script/hmmscan2cas.py -collection unk -hmmscan crisprone/crispr/YA4_M34/YA4_M34-vs-cas.domtblout -gff crisprone/crispr/YA4_M34/YA4_M34.gff -isolate -outfile crisprone/crispr/YA4_M34/YA4_M34.summary -outfiltered crisprone/crispr/YA4_M34/YA4_M34.summary-filter -gafile /u/yye/CRISPRpk/pipelines/../CRISPRone/local/cas-db/cas-CRISPR.GA
+##YA4_9888 1 derived-fm crisprone/crispr/YA4_M34/YA4_M34-vs-cas.domtblout
+YA4_9888_26057_27070_+ YA4_M34 YA4_9888 26057 27070 + pfam13280:WYL 2
+##YA4_16354 2 derived-fm crisprone/crispr/YA4_M34/YA4_M34-vs-cas.domtblout
+YA4_16354_5146_6732_+ YA4_M34 YA4_16354 5146 6732 + cd09641:cas3HD 1
+YA4_16354_6888_7217_+ YA4_M34 YA4_16354 6888 7217 + COG0640:csa3 2
+##YA4_15528 1 derived-fm crisprone/crispr/YA4_M34/YA4_M34-vs-cas.domtblout
+YA4_15528_320_1093_- YA4_M34 YA4_15528 320 1093 - COG4804:PD-DExK 2
+##YA4_6350 2 derived-fm crisprone/crispr/YA4_M34/YA4_M34-vs-cas.domtblout
+YA4_6350_146051_146689_+ YA4_M34 YA4_6350 146051 146689 + cd06127:DEDDh 2
+YA4_6350_200015_200539_+ YA4_M34 YA4_6350 200015 200539 + COG0640:csa3 2
+##YA4_1888 1 derived-fm crisprone/crispr/YA4_M34/YA4_M34-vs-cas.domtblout
+YA4_1888_30960_35300_+ YA4_M34 YA4_1888 30960 35300 + cd06127:DEDDh 2
+##YA4_18870 1 derived-fm crisprone/crispr/YA4_M34/YA4_M34-vs-cas.domtblout
+YA4_18870_59004_59981_+ YA4_M34 YA4_18870 59004 59981 + pfam13280:WYL 2
+##YA4_14530 7 derived-fm crisprone/crispr/YA4_M34/YA4_M34-vs-cas.domtblout
+YA4_14530_81934_82224_- YA4_M34 YA4_14530 81934 82224 - cd09725:cas2 2
+YA4_14530_82231_83259_- YA4_M34 YA4_14530 82231 83259 - cd09721:cas1 2
+YA4_14530_83267_83929_- YA4_M34 YA4_14530 83267 83929 - pfam01930:cas4 2
+YA4_14530_83936_84796_- YA4_M34 YA4_14530 83936 84796 - pfam05107:cas7b 2
+YA4_14530_84800_86731_- YA4_M34 YA4_14530 84800 86731 - pfam09709:cas8c 1
+YA4_14530_86715_87467_- YA4_M34 YA4_14530 86715 87467 - cd09752:cas5 2
+YA4_14530_87631_90084_- YA4_M34 YA4_14530 87631 90084 - cd09641:cas3HD 2
+##YA4_18430 2 derived-fm crisprone/crispr/YA4_M34/YA4_M34-vs-cas.domtblout
+YA4_18430_17755_18738_- YA4_M34 YA4_18430 17755 18738 - pfam13280:WYL 2
+YA4_18430_19000_21693_+ YA4_M34 YA4_18430 19000 21693 + cd09637:cas4 1

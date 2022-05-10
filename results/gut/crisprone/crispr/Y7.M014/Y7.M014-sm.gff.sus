@@ -1,0 +1,28 @@
+##gff-version 3
+#!processor CRISPRone
+Y7.M014_1	Genbank	region	1	51536	.	+	.	ID=Y7.M014_1
+Y7.M014_1	metaCRT	direct_repeat	24121	24614	.	.	.	what=CRISPR;des=repeat:CCTGCTTCACCTGCGGGGCCGGTCGG;note=copy:11
+Y7.M014_12	Genbank	region	1	475365	.	+	.	ID=Y7.M014_12
+Y7.M014_12	FGS-hmm	CDS	417824	422197	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I
+Y7.M014_15	Genbank	region	1	246236	.	+	.	ID=Y7.M014_15
+Y7.M014_15	FGS-hmm	CDS	12142	13077	.	+	.	what=cas;des=cls000315:csb2gr5;note=Subtype-I-U
+Y7.M014_15	FGS-hmm	CDS	13089	13562	.	+	.	what=cas;des=unk;note=unknown
+Y7.M014_15	FGS-hmm	CDS	13777	14634	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I
+Y7.M014_15	FGS-hmm	CDS	91279	92277	.	+	.	what=cas;des=pfam13280:WYL;note=other
+Y7.M014_15	FGS-hmm	CDS	135257	135715	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y7.M014_3	Genbank	region	1	294377	.	+	.	ID=Y7.M014_3
+Y7.M014_3	FGS-hmm	CDS	106857	107348	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y7.M014_13	Genbank	region	1	350914	.	+	.	ID=Y7.M014_13
+Y7.M014_13	metaCRT	direct_repeat	104737	104854	.	.	.	what=CRISPR;des=repeat:AGCAGCCGCAGGCAGAACAGCC;note=copy:3
+Y7.M014_10	Genbank	region	1	31411	.	+	.	ID=Y7.M014_10
+Y7.M014_10	FGS-hmm	CDS	9800	10390	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y7.M014_10	FGS-hmm	CDS	11097	11402	.	+	.	what=cas;des=unk;note=unknown
+Y7.M014_10	FGS-hmm	CDS	11465	13516	.	+	.	what=cas;des=cd09639:cas3;note=Type-I
+Y7.M014_14	Genbank	region	1	303673	.	+	.	ID=Y7.M014_14
+Y7.M014_14	FGS-hmm	CDS	60665	61789	.	-	.	what=cas;des=pfam00078:RT;note=other
+Y7.M014_14	FGS-hmm	CDS	98180	98848	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I
+Y7.M014_14	FGS-hmm	CDS	160556	161251	.	+	.	what=cas;des=cls000088:csa5gr11;note=Subtype-I-A
+Y7.M014_14	FGS-hmm	CDS	161254	162015	.	+	.	what=cas;des=unk;note=unknown
+Y7.M014_14	FGS-hmm	CDS	162016	162450	.	+	.	what=cas;des=unk;note=unknown
+Y7.M014_14	FGS-hmm	CDS	162815	163588	.	+	.	what=cas;des=pfam10040:cas6;note=other
+Y7.M014_14	FGS-hmm	CDS	246556	246840	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A

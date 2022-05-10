@@ -1,0 +1,13 @@
+##gff-version 3
+#!processor CRISPRone
+AP025235.1	Genbank	region	1	4985319	.	+	.	ID=AP025235.1;array=1;gene=8;type=(type I)
+AP025235.1	metaCRT	direct_repeat	525493	526389	.	.	.	what=CRISPR;des=repeat:GTTTCAATCCACACACCCACGCAGGGTGTGAC;note=copy:14
+AP025235.1	FGS-hmm	CDS	526555	526845	.	-	.	what=cas;des=cd09725:cas2;note=universal
+AP025235.1	FGS-hmm	CDS	526855	527877	.	-	.	what=cas;des=cd09721:cas1;note=universal
+AP025235.1	FGS-hmm	CDS	527874	528539	.	-	.	what=cas;des=pfam01930:cas4;note=Type-I
+AP025235.1	FGS-hmm	CDS	528549	529400	.	-	.	what=cas;des=cd09689:cas7;note=Subtype-I-C
+AP025235.1	FGS-hmm	CDS	529422	531143	.	-	.	what=cas;des=pfam09709:cas8c;note=Subtype-I-C
+AP025235.1	FGS-hmm	CDS	531140	531829	.	-	.	what=cas;des=cd09651:cas5;note=Subtype-I-C
+AP025235.1	FGS-hmm	CDS	531822	532682	.	-	.	what=cas;des=unk;note=unknown
+AP025235.1	FGS-hmm	CDS	532693	534918	.	-	.	what=cas;des=cd09641:cas3HD;note=Type-I
+AP025235.1	FGS-hmm	CDS	543825	544580	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A

@@ -1,0 +1,31 @@
+##gff-version 3
+#!processor CRISPRone
+Y8.M039_32	Genbank	region	1	116133	.	+	.	ID=Y8.M039_32
+Y8.M039_32	FGS-hmm	CDS	57739	58119	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y8.M039_12	Genbank	region	1	107770	.	+	.	ID=Y8.M039_12
+Y8.M039_12	FGS-hmm	CDS	75930	76925	.	-	.	what=cas;des=pfam13280:WYL;note=other
+Y8.M039_20	Genbank	region	1	37178	.	+	.	ID=Y8.M039_20
+Y8.M039_20	FGS-hmm	CDS	12552	13289	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+Y8.M039_31	Genbank	region	1	132421	.	+	.	ID=Y8.M039_31
+Y8.M039_31	FGS-hmm	CDS	15632	16684	.	-	.	what=cas;des=COG4804:PD-DExK;note=other
+Y8.M039_4	Genbank	region	1	195689	.	+	.	ID=Y8.M039_4
+Y8.M039_4	FGS-hmm	CDS	21774	24185	.	+	.	what=cas;des=COG1199:DinG;note=Subtype-IV-A
+Y8.M039_4	FGS-hmm	CDS	45334	45681	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y8.M039_13	Genbank	region	1	101323	.	+	.	ID=Y8.M039_13
+Y8.M039_13	FGS-hmm	CDS	94180	95760	.	+	.	what=cas;des=cd09639:cas3;note=Type-I
+Y8.M039_13	FGS-hmm	CDS	95761	96171	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y8.M039_14	Genbank	region	1	91484	.	+	.	ID=Y8.M039_14
+Y8.M039_14	FGS-hmm	CDS	41406	42452	.	-	.	what=cas;des=COG4804:PD-DExK;note=other
+Y8.M039_18	Genbank	region	1	50785	.	+	.	ID=Y8.M039_18
+Y8.M039_18	FGS-hmm	CDS	27209	27514	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y8.M039_7	Genbank	region	1	42693	.	+	.	ID=Y8.M039_7
+Y8.M039_7	FGS-hmm	CDS	8749	9183	.	+	.	what=cas;des=cls001593:casR;note=Type-I
+Y8.M039_7	FGS-hmm	CDS	9242	9658	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y8.M039_2	Genbank	region	1	5391	.	+	.	ID=Y8.M039_2
+Y8.M039_2	FGS-hmm	CDS	1200	1655	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y8.M039_24	Genbank	region	1	110888	.	+	.	ID=Y8.M039_24
+Y8.M039_24	FGS-hmm	CDS	89275	93666	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I
+Y8.M039_15	Genbank	region	1	81539	.	+	.	ID=Y8.M039_15
+Y8.M039_15	FGS-hmm	CDS	39175	39984	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y8.M039_30	Genbank	region	1	141064	.	+	.	ID=Y8.M039_30
+Y8.M039_30	FGS-hmm	CDS	118190	119152	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I

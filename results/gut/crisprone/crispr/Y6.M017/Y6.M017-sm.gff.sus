@@ -1,0 +1,7 @@
+##gff-version 3
+#!processor CRISPRone
+Y6.M017_2	Genbank	region	1	326826	.	+	.	ID=Y6.M017_2
+Y6.M017_2	FGS-hmm	CDS	97682	98047	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y6.M017_2	FGS-hmm	CDS	177147	178205	.	-	.	what=cas;des=pfam13280:WYL;note=other
+Y6.M017_6	Genbank	region	1	459848	.	+	.	ID=Y6.M017_6
+Y6.M017_6	FGS-hmm	CDS	225992	226867	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I

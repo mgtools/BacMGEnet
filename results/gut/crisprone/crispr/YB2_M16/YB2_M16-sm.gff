@@ -1,0 +1,16 @@
+##gff-version 3
+#!processor CRISPRone
+YB2_2169	Genbank	region	1	538109	.	+	.	ID=YB2_2169;array=1;gene=4;type=(type II)
+YB2_2169	CRISPRone	partial_repeat	461339	461375	.	-	.	what=antiCRISPR;des=antiRepeat:eat;note=22-14
+YB2_2169	metaCRT	direct_repeat	461641	463386	.	.	.	what=CRISPR;des=repeat:GTTTAAGAGATATCATAAATTACAAGGTTCTCAAAC;note=copy:27
+YB2_2169	FGS-hmm	CDS	463446	464120	.	-	.	what=cas;des=cd09644:csn2;note=Subtype-II-A
+YB2_2169	FGS-hmm	CDS	464117	464422	.	-	.	what=cas;des=pfam09827:cas2;note=Subtype-II-A
+YB2_2169	FGS-hmm	CDS	464427	465299	.	-	.	what=cas;des=cd09720:cas1;note=Subtype-II-A
+YB2_2169	FGS-hmm	CDS	465303	469364	.	-	.	what=cas;des=mkCas0193:cas9;note=Subtype-II-A
+YB2_2169	CRISPRone	partial_repeat	469485	469519	.	-	.	what=antiCRISPR;des=antiRepeat:eat;note=27-9
+YB2_2169	CRISPRone	partial_repeat	469615	469650	.	-	.	what=antiCRISPR;des=antiRepeat:eat;note=20-16
+YB2_14937	Genbank	region	1	303593	.	+	.	ID=YB2_14937;array=0;gene=3;type=(type I)
+YB2_14937	FGS-hmm	CDS	258027	259019	.	-	.	what=cas;des=pfam13280:WYL;note=other
+YB2_14937	FGS-hmm	CDS	266591	267013	.	-	.	what=cas;des=mkCas0112:csx1;note=Type-III
+YB2_14937	FGS-hmm	CDS	266965	267276	.	+	.	what=cas;des=unk;note=unknown
+YB2_14937	FGS-hmm	CDS	267409	268818	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A

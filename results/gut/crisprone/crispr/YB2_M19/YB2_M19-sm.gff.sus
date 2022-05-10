@@ -1,0 +1,32 @@
+##gff-version 3
+#!processor CRISPRone
+YB2_20495	Genbank	region	1	29578	.	+	.	ID=YB2_20495
+YB2_20495	FGS-hmm	CDS	14642	15439	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YB2_20495	FGS-hmm	CDS	15692	16168	.	-	.	what=cas;des=unk;note=unknown
+YB2_20495	FGS-hmm	CDS	16274	18568	.	-	.	what=cas;des=unk;note=unknown
+YB2_20495	FGS-hmm	CDS	18327	18836	.	-	.	what=cas;des=cls001403:csx1;note=Type-III
+YB2_12617	Genbank	region	1	17060	.	+	.	ID=YB2_12617
+YB2_12617	FGS-hmm	CDS	16167	16952	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YB2_7971	Genbank	region	1	31904	.	+	.	ID=YB2_7971
+YB2_7971	FGS-hmm	CDS	22337	24247	.	+	.	what=cas;des=COG1199:DinG;note=Subtype-IV-A
+YB2_1962	Genbank	region	1	47458	.	+	.	ID=YB2_1962
+YB2_1962	FGS-hmm	CDS	3	227	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YB2_1962	FGS-hmm	CDS	9125	10072	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YB2_12446	Genbank	region	1	18524	.	+	.	ID=YB2_12446
+YB2_12446	FGS-hmm	CDS	5870	6634	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YB2_11175	Genbank	region	1	26376	.	+	.	ID=YB2_11175
+YB2_11175	FGS-hmm	CDS	5729	6028	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YB2_12497	Genbank	region	1	18011	.	+	.	ID=YB2_12497
+YB2_12497	FGS-hmm	CDS	7389	8129	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YB2_12497	FGS-hmm	CDS	16327	17040	.	-	.	what=cas;des=pfam13280:WYL;note=other
+YB2_2608	Genbank	region	1	45038	.	+	.	ID=YB2_2608
+YB2_2608	FGS-hmm	CDS	4440	4793	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YB2_12541	Genbank	region	1	17638	.	+	.	ID=YB2_12541
+YB2_12541	FGS-hmm	CDS	9198	10562	.	+	.	what=cas;des=COG1199:DinG;note=Subtype-IV-A
+YB2_12541	FGS-hmm	CDS	10794	11243	.	-	.	what=cas;des=unk;note=unknown
+YB2_12541	FGS-hmm	CDS	11261	13546	.	+	.	what=cas;des=COG1199:DinG;note=Subtype-IV-A
+YB2_4470	Genbank	region	1	39351	.	+	.	ID=YB2_4470
+YB2_4470	FGS-hmm	CDS	2634	3437	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YB2_8362	Genbank	region	1	31325	.	+	.	ID=YB2_8362
+YB2_8362	FGS-hmm	CDS	10258	10611	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YB2_8362	FGS-hmm	CDS	15537	15830	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A

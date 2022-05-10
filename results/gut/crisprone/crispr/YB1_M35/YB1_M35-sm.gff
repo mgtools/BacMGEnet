@@ -1,0 +1,13 @@
+##gff-version 3
+#!processor CRISPRone
+YB1_14268	Genbank	region	1	1723175	.	+	.	ID=YB1_14268;array=1;gene=8;type=(type I)
+YB1_14268	FGS-hmm	CDS	1533370	1534125	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YB1_14268	FGS-hmm	CDS	1542964	1545189	.	+	.	what=cas;des=cd09641:cas3HD;note=Type-I
+YB1_14268	FGS-hmm	CDS	1545200	1546060	.	+	.	what=cas;des=unk;note=unknown
+YB1_14268	FGS-hmm	CDS	1546053	1546754	.	+	.	what=cas;des=cd09651:cas5;note=Subtype-I-C
+YB1_14268	FGS-hmm	CDS	1546751	1548472	.	+	.	what=cas;des=pfam09709:cas8c;note=Subtype-I-C
+YB1_14268	FGS-hmm	CDS	1548494	1549345	.	+	.	what=cas;des=cd09689:cas7;note=Subtype-I-C
+YB1_14268	FGS-hmm	CDS	1549355	1550020	.	+	.	what=cas;des=pfam01930:cas4;note=Type-I
+YB1_14268	FGS-hmm	CDS	1550017	1551039	.	+	.	what=cas;des=cd09721:cas1;note=universal
+YB1_14268	FGS-hmm	CDS	1551049	1551339	.	+	.	what=cas;des=cd09725:cas2;note=universal
+YB1_14268	metaCRT	direct_repeat	1551505	1551927	.	.	.	what=CRISPR;des=repeat:GTCACACCCTACGTGGGTGTGTGGATTGAAAC;note=copy:7

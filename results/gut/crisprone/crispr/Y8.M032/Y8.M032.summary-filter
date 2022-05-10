@@ -1,0 +1,24 @@
+#/u/yye/CRISPRpk/pipelines/../CRISPRone/call-script/hmmscan2cas.py -collection unk -hmmscan crisprone/crispr/Y8.M032/Y8.M032-vs-cas.domtblout -gff crisprone/crispr/Y8.M032/Y8.M032.gff -isolate -outfile crisprone/crispr/Y8.M032/Y8.M032.summary -outfiltered crisprone/crispr/Y8.M032/Y8.M032.summary-filter -gafile /u/yye/CRISPRpk/pipelines/../CRISPRone/local/cas-db/cas-CRISPR.GA
+##Y8.M032_18 1 derived-fm crisprone/crispr/Y8.M032/Y8.M032-vs-cas.domtblout
+Y8.M032_18_25513_25842_- Y8.M032 Y8.M032_18 25513 25842 - COG0640:csa3 2
+##Y8.M032_16 10 derived-fm crisprone/crispr/Y8.M032/Y8.M032-vs-cas.domtblout
+Y8.M032_16_21101_21394_+ Y8.M032 Y8.M032_16 21101 21394 + cd09655:casR 1
+Y8.M032_16_21391_21654_+ Y8.M032 Y8.M032_16 21391 21654 + unk 1
+Y8.M032_16_21755_22012_+ Y8.M032 Y8.M032_16 21755 22012 + unk 1
+Y8.M032_16_22662_22952_- Y8.M032 Y8.M032_16 22662 22952 - cd09725:cas2 2
+Y8.M032_16_22967_23986_- Y8.M032 Y8.M032_16 22967 23986 - cd09721:cas1 2
+Y8.M032_16_23983_24651_- Y8.M032 Y8.M032_16 23983 24651 - pfam01930:cas4 2
+Y8.M032_16_24748_27219_+ Y8.M032 Y8.M032_16 24748 27219 + cd09641:cas3HD 2
+Y8.M032_16_27242_27937_+ Y8.M032 Y8.M032_16 27242 27937 + cd09752:cas5 2
+Y8.M032_16_27954_29945_+ Y8.M032 Y8.M032_16 27954 29945 + pfam09709:cas8c 2
+Y8.M032_16_29988_30812_+ Y8.M032 Y8.M032_16 29988 30812 + pfam05107:cas7b 2
+##Y8.M032_2 3 derived-fm crisprone/crispr/Y8.M032/Y8.M032-vs-cas.domtblout
+Y8.M032_2_29079_31064_- Y8.M032 Y8.M032_2 29079 31064 - COG1199:DinG 2
+Y8.M032_2_139840_140247_- Y8.M032 Y8.M032_2 139840 140247 - COG0640:csa3 2
+Y8.M032_2_158198_159115_+ Y8.M032 Y8.M032_2 158198 159115 + COG0640:csa3 2
+##Y8.M032_12 1 derived-fm crisprone/crispr/Y8.M032/Y8.M032-vs-cas.domtblout
+Y8.M032_12_230215_230604_- Y8.M032 Y8.M032_12 230215 230604 - COG0640:csa3 2
+##Y8.M032_9 1 derived-fm crisprone/crispr/Y8.M032/Y8.M032-vs-cas.domtblout
+Y8.M032_9_36044_36637_+ Y8.M032 Y8.M032_9 36044 36637 + cd06127:DEDDh 2
+##Y8.M032_13 1 derived-fm crisprone/crispr/Y8.M032/Y8.M032-vs-cas.domtblout
+Y8.M032_13_114456_115112_+ Y8.M032 Y8.M032_13 114456 115112 + COG0640:csa3 2

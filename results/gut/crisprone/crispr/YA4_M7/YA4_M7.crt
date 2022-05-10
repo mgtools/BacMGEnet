@@ -1,0 +1,13 @@
+SEQ: YA4_13678 length 430504
+Bases: 430504
+
+CRISPR 1 Range: 158831 - 158957
+POSITION	REPEAT				SPACER
+--------	--------------------------	------------------------
+158831		TCCAGACTTCGGTTTTTCAGAAGTCT	AGACTTCGGTATGGTACTGCTGCAATCAAG	[ 26, 30 ]
+158887		TTCAGACTTCGGTTTTTTAGAAGTCT	TGACTTCGGCACGCTTTTC	[ 26, 19 ]
+158932		TTCAGACTTCGGTTTTTCAGAAGTCT
+--------	--------------------------	------------------------
+Repeat-con	TTCAGACTTCGGTTTTTCAGAAGTCT
+Repeats: 3	Average Length: 26		Average Length: 24
+

@@ -1,0 +1,34 @@
+##gff-version 3
+#!processor CRISPRone
+YB3_18025	Genbank	region	1	404565	.	+	.	ID=YB3_18025
+YB3_18025	FGS-hmm	CDS	58348	59487	.	-	.	what=cas;des=COG4804:PD-DExK;note=other
+YB3_18025	metaCRT	direct_repeat	159754	159980	.	.	.	what=CRISPR;des=repeat:GAAGGTGGTGAGCAGCGTCC;note=copy:5
+YB3_17965	Genbank	region	1	350634	.	+	.	ID=YB3_17965
+YB3_17965	FGS-hmm	CDS	348334	350142	.	-	.	what=cas;des=pfam00078:RT;note=other
+YB3_17303	Genbank	region	1	153085	.	+	.	ID=YB3_17303
+YB3_17303	FGS-hmm	CDS	4293	5588	.	+	.	what=cas;des=COG4804:PD-DExK;note=other
+YB3_17303	FGS-hmm	CDS	148745	150031	.	+	.	what=cas;des=COG4804:PD-DExK;note=other
+YB3_18107	Genbank	region	1	403258	.	+	.	ID=YB3_18107
+YB3_18107	FGS-hmm	CDS	178158	179288	.	-	.	what=cas;des=COG4804:PD-DExK;note=other
+YB3_18107	FGS-hmm	CDS	195229	195555	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YB3_18055	Genbank	region	1	221253	.	+	.	ID=YB3_18055
+YB3_18055	FGS-hmm	CDS	13016	14824	.	+	.	what=cas;des=pfam00078:RT;note=other
+YB3_17304	Genbank	region	1	535600	.	+	.	ID=YB3_17304
+YB3_17304	FGS-hmm	CDS	26044	26799	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YB3_17304	FGS-hmm	CDS	167474	169570	.	-	.	what=cas;des=pfam08800:PrimPol;note=other
+YB3_17304	FGS-hmm	CDS	170250	172430	.	-	.	what=cas;des=cd09710:cas3;note=Subtype-I-D
+YB3_17304	FGS-hmm	CDS	191253	191543	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YB3_17876	Genbank	region	1	191174	.	+	.	ID=YB3_17876
+YB3_17876	FGS-hmm	CDS	12021	13181	.	+	.	what=cas;des=COG4804:PD-DExK;note=other
+YB3_17876	FGS-hmm	CDS	119783	120406	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YB3_17876	FGS-hmm	CDS	120518	120700	.	+	.	what=cas;des=unk;note=unknown
+YB3_17876	FGS-hmm	CDS	120811	122901	.	+	.	what=cas;des=pfam08800:PrimPol;note=other
+YB3_17876	FGS-hmm	CDS	179771	181066	.	+	.	what=cas;des=COG4804:PD-DExK;note=other
+YB3_17491	Genbank	region	1	629307	.	+	.	ID=YB3_17491
+YB3_17491	FGS-hmm	CDS	24310	25965	.	-	.	what=cas;des=pfam00078:RT;note=other
+YB3_17491	FGS-hmm	CDS	223781	224284	.	+	.	what=cas;des=COG4804:PD-DExK;note=other
+YB3_17491	FGS-hmm	CDS	239906	240682	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YB3_17850	Genbank	region	1	101873	.	+	.	ID=YB3_17850
+YB3_17850	FGS-hmm	CDS	2494	3093	.	+	.	what=cas;des=pfam08800:PrimPol;note=other
+YB3_17418	Genbank	region	1	482870	.	+	.	ID=YB3_17418
+YB3_17418	FGS-hmm	CDS	58833	59321	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I

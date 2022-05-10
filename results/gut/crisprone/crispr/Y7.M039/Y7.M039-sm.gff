@@ -1,0 +1,17 @@
+##gff-version 3
+#!processor CRISPRone
+Y7.M039_19	Genbank	region	1	71733	.	+	.	ID=Y7.M039_19;array=1;gene=0;type=NA
+Y7.M039_19	metaCRT	direct_repeat	17250	17472	.	.	.	what=CRISPR;des=repeat:AAAGAATACCAAGATGGTCTAAAACAATATCAAG;note=copy:4
+Y7.M039_10	Genbank	region	1	162453	.	+	.	ID=Y7.M039_10;array=1;gene=11;type=(type III)
+Y7.M039_10	metaCRT	direct_repeat	111469	112244	.	.	.	what=CRISPR;des=repeat:GCGTTAATCCTTAATAAGTATGATATCTAAC;note=copy:12
+Y7.M039_10	FGS-hmm	CDS	112405	112668	.	-	.	what=cas;des=cd09725:cas2;note=universal
+Y7.M039_10	FGS-hmm	CDS	112670	113500	.	-	.	what=cas;des=cd09634:cas1;note=universal
+Y7.M039_10	FGS-hmm	CDS	113631	114368	.	-	.	what=cas;des=cd09652:cas6;note=other
+Y7.M039_10	FGS-hmm	CDS	114358	114693	.	-	.	what=cas;des=pfam01881:cas6;note=other
+Y7.M039_10	FGS-hmm	CDS	114737	115075	.	-	.	what=cas;des=mkCas0091:cas6;note=other
+Y7.M039_10	FGS-hmm	CDS	115062	116207	.	-	.	what=cas;des=pfam03787:csm3gr7;note=Type-III
+Y7.M039_10	FGS-hmm	CDS	116220	117176	.	-	.	what=cas;des=mkCas0089:csm4gr5;note=Type-III
+Y7.M039_10	FGS-hmm	CDS	117163	117795	.	-	.	what=cas;des=COG1337:csm3gr7;note=Subtype-III-D
+Y7.M039_10	FGS-hmm	CDS	117798	118256	.	-	.	what=cas;des=pfam03750:csm2gr11;note=Subtype-III-A
+Y7.M039_10	FGS-hmm	CDS	118257	120584	.	-	.	what=cas;des=COG1353:cas10;note=Type-III
+Y7.M039_10	FGS-hmm	CDS	120586	121509	.	-	.	what=cas;des=cd09732:csx1;note=Type-III

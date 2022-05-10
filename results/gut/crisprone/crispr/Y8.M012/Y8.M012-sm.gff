@@ -1,0 +1,8 @@
+##gff-version 3
+#!processor CRISPRone
+Y8.M012_4	Genbank	region	1	201446	.	+	.	ID=Y8.M012_4;array=1;gene=0;type=NA
+Y8.M012_4	metaCRT	direct_repeat	74047	74334	.	.	.	what=CRISPR;des=repeat:CGGGCATCGCTTCGCTCGCCCGGCGT;note=copy:5
+Y8.M012_1	Genbank	region	1	331859	.	+	.	ID=Y8.M012_1;array=0;gene=3;type=(type IV)
+Y8.M012_1	FGS-hmm	CDS	286982	287995	.	+	.	what=cas;des=pfam13280:WYL;note=other
+Y8.M012_1	FGS-hmm	CDS	287985	288911	.	+	.	what=cas;des=pfam13280:WYL;note=other
+Y8.M012_1	FGS-hmm	CDS	289258	292137	.	-	.	what=cas;des=COG1199:DinG;note=Subtype-IV-A

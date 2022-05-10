@@ -1,0 +1,14 @@
+##gff-version 3
+#!processor CRISPRone
+YA1_5704	Genbank	region	1	2778271	.	+	.	ID=YA1_5704;array=3;gene=6;type=(type I, II)
+YA1_5704	metaCRT	direct_repeat	210819	211186	.	.	.	what=CRISPR;des=repeat:TACCACCAGCCGTATTCATTTAACGCCATTCCGGTATA;note=copy:6
+YA1_5704	metaCRT	direct_repeat	1948900	1950056	.	.	.	what=CRISPR;des=repeat:GTTTTGTTACCATTCAAAATAACATTGTTCTAAAAC;note=copy:18
+YA1_5704	FGS-hmm	CDS	1950027	1950698	.	-	.	what=cas;des=cd09644:csn2;note=Subtype-II-A
+YA1_5704	FGS-hmm	CDS	1950716	1951036	.	-	.	what=cas;des=pfam09827:cas2;note=Subtype-II-A
+YA1_5704	FGS-hmm	CDS	1951033	1951902	.	-	.	what=cas;des=cd09720:cas1;note=Subtype-II-A
+YA1_5704	FGS-hmm	CDS	1951899	1955960	.	-	.	what=cas;des=mkCas0193:cas9;note=Subtype-II-A
+YA1_5704	CRISPRone	partial_repeat	1955997	1956032	.	-	.	what=antiCRISPR;des=antiRepeat:eat;note=27-9
+YA1_5704	FGS-hmm	CDS	2331500	2332750	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA1_5704	FGS-hmm	CDS	2332780	2333433	.	-	.	what=cas;des=unk;note=unknown
+YA1_5704	FGS-hmm	CDS	2333452	2334951	.	-	.	what=cas;des=mkCas0193:cas9;note=Type-II
+YA1_5704	metaCRT	direct_repeat	2554124	2554807	.	.	.	what=CRISPR;des=repeat:GTTTCAATACATCCTATGTTAATGTTTATC;note=copy:11

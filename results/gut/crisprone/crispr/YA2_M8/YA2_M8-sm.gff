@@ -1,0 +1,11 @@
+##gff-version 3
+#!processor CRISPRone
+YA2_637	Genbank	region	1	558347	.	+	.	ID=YA2_637;array=1;gene=7;type=(type I)
+YA2_637	FGS-hmm	CDS	167452	170100	.	+	.	what=cas;des=cd09639:cas3;note=Type-I
+YA2_637	FGS-hmm	CDS	170106	172124	.	+	.	what=cas;des=cd09731:cse2gr11;note=Subtype-I-E
+YA2_637	FGS-hmm	CDS	172128	172757	.	+	.	what=cas;des=pfam08798:cas6e;note=other
+YA2_637	FGS-hmm	CDS	172768	173877	.	+	.	what=cas;des=pfam09344:cas7;note=Subtype-I-E
+YA2_637	FGS-hmm	CDS	173888	174598	.	+	.	what=cas;des=cd09756:cas5;note=Subtype-I-E
+YA2_637	FGS-hmm	CDS	174603	175460	.	+	.	what=cas;des=cd09719:cas1;note=universal
+YA2_637	FGS-hmm	CDS	175457	175741	.	+	.	what=cas;des=cd09648:cas2;note=universal
+YA2_637	metaCRT	direct_repeat	175831	178364	.	.	.	what=CRISPR;des=repeat:CTTTTCTCTGCCTACGCAGAGGTGTTTC;note=copy:42

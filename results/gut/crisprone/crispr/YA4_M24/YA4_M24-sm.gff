@@ -1,0 +1,12 @@
+##gff-version 3
+#!processor CRISPRone
+YA4_10869	Genbank	region	1	188557	.	+	.	ID=YA4_10869;array=0;gene=3;type=NA
+YA4_10869	FGS-hmm	CDS	180483	181586	.	+	.	what=cas;des=cas14:cas14;note=Type-V
+YA4_10869	FGS-hmm	CDS	182606	184114	.	+	.	what=cas;des=pfam00078:RT;note=other
+YA4_10869	FGS-hmm	CDS	184350	185627	.	+	.	what=cas;des=pfam00078:RT;note=other
+YA4_22268	Genbank	region	1	58241	.	+	.	ID=YA4_22268;array=1;gene=4;type=(type II)
+YA4_22268	FGS-hmm	CDS	45738	49715	.	+	.	what=cas;des=mkCas0193:cas9;note=Subtype-II-A
+YA4_22268	FGS-hmm	CDS	49616	50578	.	+	.	what=cas;des=cd09720:cas1;note=Subtype-II-A
+YA4_22268	FGS-hmm	CDS	50590	50895	.	+	.	what=cas;des=pfam09827:cas2;note=Subtype-II-A
+YA4_22268	FGS-hmm	CDS	50892	51566	.	+	.	what=cas;des=cd09644:csn2;note=Subtype-II-A
+YA4_22268	metaCRT	direct_repeat	51630	52060	.	.	.	what=CRISPR;des=repeat:GTTTGAGAATGATGTAAAAATGTATGGTACTCAAAC;note=copy:7

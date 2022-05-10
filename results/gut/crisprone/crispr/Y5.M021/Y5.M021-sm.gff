@@ -1,0 +1,26 @@
+##gff-version 3
+#!processor CRISPRone
+Y5.M021_52	Genbank	region	1	41921	.	+	.	ID=Y5.M021_52;array=1;gene=7;type=(type I)
+Y5.M021_52	FGS-hmm	CDS	22335	24533	.	+	.	what=cas;des=cd09641:cas3HD;note=Type-I
+Y5.M021_52	FGS-hmm	CDS	24764	25426	.	+	.	what=cas;des=cd09752:cas5;note=Subtype-I-C
+Y5.M021_52	FGS-hmm	CDS	25423	27171	.	+	.	what=cas;des=cd09757:cas8c;note=Subtype-I-C
+Y5.M021_52	FGS-hmm	CDS	27175	28074	.	+	.	what=cas;des=pfam05107:cas7b;note=Type-I
+Y5.M021_52	FGS-hmm	CDS	28077	28739	.	+	.	what=cas;des=pfam01930:cas4;note=Type-I
+Y5.M021_52	FGS-hmm	CDS	28904	29767	.	+	.	what=cas;des=cd09634:cas1;note=universal
+Y5.M021_52	FGS-hmm	CDS	29769	30068	.	+	.	what=cas;des=cd09725:cas2;note=universal
+Y5.M021_52	metaCRT	direct_repeat	30225	32269	.	.	.	what=CRISPR;des=repeat:GTCACTCCCCGCATGGGGAGTGCGGGTTGAAAT;note=copy:31
+Y5.M021_95	Genbank	region	1	17123	.	+	.	ID=Y5.M021_95;array=0;gene=3;type=(type I)
+Y5.M021_95	FGS-hmm	CDS	9911	10867	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y5.M021_95	FGS-hmm	CDS	11151	12311	.	-	.	what=cas;des=unk;note=unknown
+Y5.M021_95	FGS-hmm	CDS	11867	13312	.	-	.	what=cas;des=cd09655:casR;note=Type-I
+Y5.M021_95	FGS-hmm	CDS	13526	15199	.	+	.	what=cas;des=unk;note=unknown
+Y5.M021_95	FGS-hmm	CDS	15247	15780	.	-	.	what=cas;des=unk;note=unknown
+Y5.M021_95	FGS-hmm	CDS	15777	17120	.	-	.	what=cas;des=cd09641:cas3HD;note=Type-I
+Y5.M021_57	Genbank	region	1	35901	.	+	.	ID=Y5.M021_57;array=1;gene=0;type=NA
+Y5.M021_57	metaCRT	direct_repeat	11251	11498	.	.	.	what=CRISPR;des=repeat:GTCACACCCCCATGCAGGGTGCGGGGATTGAAATTGGTTTCG;note=copy:4
+Y5.M021_92	Genbank	region	1	17440	.	+	.	ID=Y5.M021_92;array=0;gene=3;type=(type I)
+Y5.M021_92	FGS-hmm	CDS	4702	8187	.	+	.	what=cas;des=cd09639:cas3;note=Type-I
+Y5.M021_92	FGS-hmm	CDS	8184	9179	.	+	.	what=cas;des=unk;note=unknown
+Y5.M021_92	FGS-hmm	CDS	9814	10083	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y5.M021_92	FGS-hmm	CDS	10580	11659	.	+	.	what=cas;des=unk;note=unknown
+Y5.M021_92	FGS-hmm	CDS	11949	12404	.	+	.	what=cas;des=cls001593:casR;note=Type-I

@@ -1,0 +1,38 @@
+SEQ: Y8.M061_55
+Bases: 36893
+Total CRISPR: 1
+
+
+CRISPR 1   Range: 28760 - 28922
+POSITION	REPEAT				SPACER
+--------	------------------------------	------------------------------------
+28760		TCAACCCACACTCCCCATGCGGGGAGTGAC	AACGCCGCTCGTGTTCTGCCTCGTCGGCTCGTTTATT	[ 30, 37 ]
+28827		TCAACCCACACTCCCCATGCGGGGAGTGAC	CTTGTTCGTGTCGTTGACGAGTTTGACGAACTGATT	[ 30, 36 ]
+28893		TCAACCCACACTCCCCATGCGGGGAGTGAC	
+--------	------------------------------	------------------------------------
+Repeat-con	TCAACCCACACTCCCCATGCGGGGAGTGAC
+Repeats: 3	Average Length: 30		Average Length: 36
+
+
+SEQ: Y8.M061_57
+Bases: 36297
+Total CRISPR: 1
+
+
+CRISPR 1   Range: 31462 - 31690
+POSITION	REPEAT				SPACER
+--------	-------------------------------------	---------------------------
+31462		GCGCCTTCGTCGATGCCGACGGTGACGGCGTGTGCGA	TCGCTATGCCGACGGCCGCTGCG	[ 37, 23 ]
+31522		GCGGCTACGTCGATGCCGACGGCGACGGCATCTGCGA	TGATTGCGGCTTCGAGGCGGGAGCCTGCCGAGGAT	[ 37, 35 ]
+31594		ACGTCGATGAGAACGCCGACGGCATATGCGACAATTA	CGCCGGCGGTGCGGGATGCGGGC	[ 37, 23 ]
+31654		GCGGCTACGTCGATGCCGACGGCGACGGCGTGTGCGA	
+--------	-------------------------------------	---------------------------
+Repeat-con	GCGGCTACGTCGATGCCGACGGCGACGGCGTCTGCGA
+Repeats: 4	Average Length: 37		Average Length: 27
+
+
+Total sequences checked: 263
+Total bases checked: 3794403
+Total sequences with predicted CRISPR: 2
+Time used: 492 ms
+

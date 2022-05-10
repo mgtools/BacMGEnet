@@ -1,0 +1,8 @@
+##gff-version 3
+#!processor CRISPRone
+YA4_15617	Genbank	region	1	338560	.	+	.	ID=YA4_15617;array=0;gene=3;type=(type I)
+YA4_15617	FGS-hmm	CDS	68538	69239	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YA4_15617	FGS-hmm	CDS	69359	69979	.	-	.	what=cas;des=mkCas0092:csc1gr5;note=Subtype-I-D
+YA4_15617	FGS-hmm	CDS	69974	70132	.	+	.	what=cas;des=unk;note=unknown
+YA4_15617	FGS-hmm	CDS	70391	71386	.	+	.	what=cas;des=unk;note=unknown
+YA4_15617	FGS-hmm	CDS	71447	71929	.	+	.	what=cas;des=cls001593:casR;note=Type-I

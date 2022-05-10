@@ -1,0 +1,17 @@
+##gff-version 3
+#!processor CRISPRone
+Y5.M011_36	Genbank	region	1	16191	.	+	.	ID=Y5.M011_36;array=1;gene=0;type=NA
+Y5.M011_36	metaCRT	direct_repeat	1220	1664	.	.	.	what=CRISPR;des=repeat:GTCAAGCTCTTTCGCGGAGCTTGTGGATCTAAAT;note=copy:7
+Y5.M011_167	Genbank	region	1	101250	.	+	.	ID=Y5.M011_167;array=0;gene=3;type=NA
+Y5.M011_167	FGS-hmm	CDS	12022	12924	.	-	.	what=cas;des=COG2378:WYL;note=other
+Y5.M011_167	FGS-hmm	CDS	13051	13557	.	-	.	what=cas;des=cd09725:cas2;note=universal
+Y5.M011_167	FGS-hmm	CDS	17523	18794	.	-	.	what=cas;des=pfam00078:RT;note=other
+Y5.M011_7	Genbank	region	1	23495	.	+	.	ID=Y5.M011_7;array=0;gene=2;type=(type I)
+Y5.M011_7	FGS-hmm	CDS	13448	14539	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y5.M011_7	FGS-hmm	CDS	14837	15247	.	+	.	what=cas;des=pfam01905:cas7;note=Type-I
+Y5.M011_72	Genbank	region	1	10136	.	+	.	ID=Y5.M011_72;array=1;gene=0;type=NA
+Y5.M011_72	metaCRT	direct_repeat	8378	9493	.	.	.	what=CRISPR;des=repeat:ATTTAGATCCACTAGCCTCAGGAGAGGCTAGAC;note=copy:17
+Y5.M011_28	Genbank	region	1	17617	.	+	.	ID=Y5.M011_28;array=0;gene=2;type=NA
+Y5.M011_28	FGS-hmm	CDS	2	520	.	-	.	what=cas;des=pfam09704:cas5;note=Type-I
+Y5.M011_28	FGS-hmm	CDS	598	732	.	-	.	what=cas;des=unk;note=unknown
+Y5.M011_28	FGS-hmm	CDS	1035	3401	.	-	.	what=cas;des=cd09641:cas3HD;note=Type-I

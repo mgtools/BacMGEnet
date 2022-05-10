@@ -1,0 +1,14 @@
+SEQ: YB3_5661 length 2520
+Bases: 2520
+
+CRISPR 1 Range: 2363 - 2519
+POSITION	REPEAT				SPACER
+--------	-----------------------	--------------------------------------------
+2363		GTCGCACCCCTCGCGGGGTGCGT	GGATTGAAATACGTTAAGATAAGTGCAGATACCCTTTGCGGTGG	[ 23, 44 ]
+2430		GTCGCACCCCTCGCGGGGTGCGT	GGATTGAAATTGAGCGGCGGCAGACTGGTCTGCGGCATACTTTG	[ 23, 44 ]
+2497		GTCGCACCCCTCGCGGGGTGCGT
+--------	-----------------------	--------------------------------------------
+Repeat-con	GTCGCACCCCTCGCGGGGTGCGT
+Repeats: 3	Average Length: 23		Average Length: 44
+Time used: 432 ms
+

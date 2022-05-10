@@ -1,0 +1,13 @@
+##gff-version 3
+#!processor CRISPRone
+Y6.M038_70	Genbank	region	1	54773	.	+	.	ID=Y6.M038_70;array=0;gene=3;type=(type I, II, IV)
+Y6.M038_70	FGS-hmm	CDS	17116	18945	.	-	.	what=cas;des=COG1199:DinG;note=Subtype-IV-A
+Y6.M038_70	FGS-hmm	CDS	19233	20543	.	+	.	what=cas;des=unk;note=unknown
+Y6.M038_70	FGS-hmm	CDS	20654	21880	.	-	.	what=cas;des=cd12217:csn2;note=Subtype-II-A
+Y6.M038_70	FGS-hmm	CDS	21927	22178	.	-	.	what=cas;des=unk;note=unknown
+Y6.M038_70	FGS-hmm	CDS	22349	23500	.	-	.	what=cas;des=unk;note=unknown
+Y6.M038_70	FGS-hmm	CDS	23637	24401	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y6.M038_41	Genbank	region	1	169242	.	+	.	ID=Y6.M038_41;array=0;gene=3;type=(type I, III, IV)
+Y6.M038_41	FGS-hmm	CDS	40450	42933	.	-	.	what=cas;des=COG1199:DinG;note=Subtype-IV-A
+Y6.M038_41	FGS-hmm	CDS	47256	47510	.	+	.	what=cas;des=mkCas0117:cmr5gr11;note=Subtype-III-C
+Y6.M038_41	FGS-hmm	CDS	47585	48328	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A

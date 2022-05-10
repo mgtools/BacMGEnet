@@ -1,0 +1,9 @@
+##gff-version 3
+#!processor CRISPRone
+YB2_4675	Genbank	region	1	195208	.	+	.	ID=YB2_4675;array=0;gene=1;type=NA
+YB2_4675	FGS-hmm	CDS	24807	25121	.	+	.	what=cas;des=pfam09827:cas2;note=universal
+YB2_4349	Genbank	region	1	196499	.	+	.	ID=YB2_4349;array=0;gene=2;type=NA
+YB2_4349	FGS-hmm	CDS	172057	172647	.	-	.	what=cas;des=mkCas0193:cas9;note=Type-II
+YB2_4349	FGS-hmm	CDS	172647	173180	.	-	.	what=cas;des=unk;note=unknown
+YB2_4349	FGS-hmm	CDS	173204	173806	.	-	.	what=cas;des=unk;note=unknown
+YB2_4349	FGS-hmm	CDS	173957	174961	.	-	.	what=cas;des=pfam13280:WYL;note=other

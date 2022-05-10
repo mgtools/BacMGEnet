@@ -1,0 +1,32 @@
+##gff-version 3
+#!processor CRISPRone
+YA4_6957	Genbank	region	1	46076	.	+	.	ID=YA4_6957
+YA4_6957	FGS-hmm	CDS	1160	2161	.	-	.	what=cas;des=pfam13280:WYL;note=other
+YA4_17037	Genbank	region	1	109563	.	+	.	ID=YA4_17037
+YA4_17037	FGS-hmm	CDS	52252	52611	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA4_13932	Genbank	region	1	29958	.	+	.	ID=YA4_13932
+YA4_13932	FGS-hmm	CDS	2677	4149	.	+	.	what=cas;des=mkCas0101:csm2gr11;note=Subtype-III-D
+YA4_13932	FGS-hmm	CDS	4146	5891	.	+	.	what=cas;des=unk;note=unknown
+YA4_13932	FGS-hmm	CDS	5906	7642	.	+	.	what=cas;des=unk;note=unknown
+YA4_13932	FGS-hmm	CDS	7654	7905	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA4_1453	Genbank	region	1	63195	.	+	.	ID=YA4_1453
+YA4_1453	FGS-hmm	CDS	25241	26206	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YA4_2994	Genbank	region	1	57743	.	+	.	ID=YA4_2994
+YA4_2994	FGS-hmm	CDS	38410	39606	.	+	.	what=cas;des=pfam13280:WYL;note=other
+YA4_9777	Genbank	region	1	40946	.	+	.	ID=YA4_9777
+YA4_9777	FGS-hmm	CDS	30366	32249	.	-	.	what=cas;des=pfam00078:RT;note=other
+YA4_14087	Genbank	region	1	160815	.	+	.	ID=YA4_14087
+YA4_14087	FGS-hmm	CDS	139097	139597	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA4_14087	FGS-hmm	CDS	139711	141042	.	-	.	what=cas;des=unk;note=unknown
+YA4_14087	FGS-hmm	CDS	141023	141532	.	-	.	what=cas;des=cls001593:casR;note=Type-I
+YA4_13718	Genbank	region	1	32703	.	+	.	ID=YA4_13718
+YA4_13718	FGS-hmm	CDS	28193	29260	.	+	.	what=cas;des=COG4804:PD-DExK;note=other
+YA4_10140	Genbank	region	1	40345	.	+	.	ID=YA4_10140
+YA4_10140	FGS-hmm	CDS	25718	26200	.	-	.	what=cas;des=cls001593:casR;note=Type-I
+YA4_10140	FGS-hmm	CDS	26197	26778	.	-	.	what=cas;des=unk;note=unknown
+YA4_10140	FGS-hmm	CDS	26871	28316	.	-	.	what=cas;des=unk;note=unknown
+YA4_10140	FGS-hmm	CDS	28485	29219	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YA4_3544	Genbank	region	1	55754	.	+	.	ID=YA4_3544
+YA4_3544	FGS-hmm	CDS	17162	19621	.	-	.	what=cas;des=COG1199:DinG;note=Subtype-IV-A
+YA4_5996	Genbank	region	1	47965	.	+	.	ID=YA4_5996
+YA4_5996	FGS-hmm	CDS	2117	6640	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I

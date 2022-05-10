@@ -1,0 +1,14 @@
+SEQ: YB1_5061 length 213065
+Bases: 213065
+
+CRISPR 1 Range: 208564 - 208711
+POSITION	REPEAT				SPACER
+--------	--------------------------	-----------------------------------
+208564		ATATTCCCAATATATTGTGAATTTGA	AACAAAAATACTAAGTATTTGTTTGATAAGCAAGG	[ 26, 35 ]
+208625		AAATTCCCAATATATTGTGAATTTGA	GCTTTTTGTGGCTTGAGTTATGTACCTTCATCATG	[ 26, 35 ]
+208686		AAATTCACAATATATTGGGAATTTGA
+--------	--------------------------	-----------------------------------
+Repeat-con	AAATTCCCAATATATTGTGAATTTGA
+Repeats: 3	Average Length: 26		Average Length: 35
+Time used: 688 ms
+

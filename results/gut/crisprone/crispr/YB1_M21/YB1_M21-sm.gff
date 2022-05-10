@@ -1,0 +1,29 @@
+##gff-version 3
+#!processor CRISPRone
+YB1_12856	Genbank	region	1	50420	.	+	.	ID=YB1_12856;array=0;gene=4;type=(type I, III)
+YB1_12856	FGS-hmm	CDS	24777	25337	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YB1_12856	FGS-hmm	CDS	25416	26333	.	-	.	what=cas;des=unk;note=unknown
+YB1_12856	FGS-hmm	CDS	26460	28127	.	-	.	what=cas;des=mkCas0115:csx3;note=other
+YB1_12856	FGS-hmm	CDS	28169	28930	.	-	.	what=cas;des=unk;note=unknown
+YB1_12856	FGS-hmm	CDS	28939	29472	.	-	.	what=cas;des=unk;note=unknown
+YB1_12856	FGS-hmm	CDS	29493	30293	.	-	.	what=cas;des=mkCas0109:csx1;note=Type-III
+YB1_12856	FGS-hmm	CDS	30361	31659	.	-	.	what=cas;des=mkCas0122:csx19;note=Subtype-III-D
+YB1_1810	Genbank	region	1	36087	.	+	.	ID=YB1_1810;array=1;gene=7;type=(type I)
+YB1_1810	metaCRT	direct_repeat	9535	10311	.	.	.	what=CRISPR;des=repeat:GTTTCAATCCTTATTTTAATGGATCTAATACTTCTAC;note=copy:11
+YB1_1810	FGS-hmm	CDS	10556	11071	.	-	.	what=cas;des=cd09637:cas4;note=other
+YB1_1810	FGS-hmm	CDS	11142	11432	.	-	.	what=cas;des=cd09725:cas2;note=universal
+YB1_1810	FGS-hmm	CDS	11434	12420	.	-	.	what=cas;des=pfam01867:cas1;note=universal
+YB1_1810	FGS-hmm	CDS	12423	13076	.	-	.	what=cas;des=cls000004:cas6;note=other
+YB1_1810	FGS-hmm	CDS	13101	15380	.	-	.	what=cas;des=cd09641:cas3HD;note=Type-I
+YB1_1810	FGS-hmm	CDS	15367	16065	.	-	.	what=cas;des=cd09693:cas5;note=Type-I
+YB1_1810	FGS-hmm	CDS	16981	18828	.	-	.	what=cas;des=cd09730:cas8b1;note=Subtype-I-B
+YB1_3308	Genbank	region	1	31777	.	+	.	ID=YB1_3308;array=1;gene=8;type=(type I)
+YB1_3308	FGS-hmm	CDS	21866	22594	.	+	.	what=cas;des=pfam01881:cas6;note=other
+YB1_3308	FGS-hmm	CDS	22609	24015	.	+	.	what=cas;des=cd09697:cas8b2;note=Subtype-I-B
+YB1_3308	FGS-hmm	CDS	24039	24950	.	+	.	what=cas;des=cd09650:cas7;note=Type-I
+YB1_3308	FGS-hmm	CDS	24966	26042	.	+	.	what=cas;des=cd09693:cas5;note=Type-I
+YB1_3308	FGS-hmm	CDS	26088	28436	.	+	.	what=cas;des=COG1203:cas3;note=Type-I
+YB1_3308	FGS-hmm	CDS	28472	28966	.	+	.	what=cas;des=pfam01930:cas4;note=Type-I
+YB1_3308	FGS-hmm	CDS	28989	29981	.	+	.	what=cas;des=cd09722:cas1;note=universal
+YB1_3308	FGS-hmm	CDS	29997	30275	.	+	.	what=cas;des=cd09725:cas2;note=universal
+YB1_3308	metaCRT	direct_repeat	30455	31017	.	.	.	what=CRISPR;des=repeat:ATTAAAGTAGAACCATATTGGAATGTAAATT;note=copy:9

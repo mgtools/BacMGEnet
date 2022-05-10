@@ -1,0 +1,31 @@
+##gff-version 3
+#!processor CRISPRone
+YA1_3897	Genbank	region	1	53048	.	+	.	ID=YA1_3897
+YA1_3897	FGS-hmm	CDS	6524	7819	.	+	.	what=cas;des=pfam00078:RT;note=other
+YA1_74	Genbank	region	1	232214	.	+	.	ID=YA1_74
+YA1_74	FGS-hmm	CDS	55393	57303	.	-	.	what=cas;des=pfam00078:RT;note=other
+YA1_74	FGS-hmm	CDS	129239	129943	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YA1_875	Genbank	region	1	152251	.	+	.	ID=YA1_875
+YA1_875	FGS-hmm	CDS	119681	121654	.	-	.	what=cas;des=COG1199:DinG;note=Subtype-IV-A
+YA1_1913	Genbank	region	1	102553	.	+	.	ID=YA1_1913
+YA1_1913	FGS-hmm	CDS	55400	56704	.	+	.	what=cas;des=pfam00078:RT;note=other
+YA1_5366	Genbank	region	1	296458	.	+	.	ID=YA1_5366
+YA1_5366	FGS-hmm	CDS	101995	106473	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YA1_5366	FGS-hmm	CDS	167269	167658	.	+	.	what=cas;des=COG4804:PD-DExK;note=other
+YA1_5366	FGS-hmm	CDS	167788	168312	.	+	.	what=cas;des=COG4804:PD-DExK;note=other
+YA1_1031	Genbank	region	1	138533	.	+	.	ID=YA1_1031
+YA1_1031	FGS-hmm	CDS	42154	42426	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA1_1031	FGS-hmm	CDS	48299	48613	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA1_1031	FGS-hmm	CDS	106725	108020	.	+	.	what=cas;des=pfam00078:RT;note=other
+YA1_886	Genbank	region	1	151241	.	+	.	ID=YA1_886
+YA1_886	FGS-hmm	CDS	16569	17000	.	-	.	what=cas;des=COG4804:PD-DExK;note=other
+YA1_886	FGS-hmm	CDS	58877	59791	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA1_886	FGS-hmm	CDS	76998	77999	.	-	.	what=cas;des=pfam00078:RT;note=other
+YA1_5185	Genbank	region	1	38549	.	+	.	ID=YA1_5185
+YA1_5185	FGS-hmm	CDS	33384	35420	.	-	.	what=cas;des=COG1199:DinG;note=Subtype-IV-A
+YA1_5185	FGS-hmm	CDS	35483	35686	.	-	.	what=cas;des=unk;note=unknown
+YA1_5185	FGS-hmm	CDS	35817	36248	.	-	.	what=cas;des=cls001593:casR;note=Type-I
+YA1_181	Genbank	region	1	219249	.	+	.	ID=YA1_181
+YA1_181	FGS-hmm	CDS	3165	3446	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA1_181	FGS-hmm	CDS	3505	6009	.	-	.	what=cas;des=unk;note=unknown
+YA1_181	FGS-hmm	CDS	6013	6693	.	-	.	what=cas;des=mkCas0101:csm2gr11;note=Subtype-III-D

@@ -1,0 +1,24 @@
+##gff-version 3
+#!processor CRISPRone
+YA4_5734	Genbank	region	1	48459	.	+	.	ID=YA4_5734;array=0;gene=3;type=NA
+YA4_5734	FGS-hmm	CDS	24209	24691	.	-	.	what=cas;des=cls001593:casR;note=Type-I
+YA4_5734	FGS-hmm	CDS	24706	25230	.	-	.	what=cas;des=unk;note=unknown
+YA4_5734	FGS-hmm	CDS	25255	26907	.	-	.	what=cas;des=unk;note=unknown
+YA4_5734	FGS-hmm	CDS	27050	27769	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YA4_5734	FGS-hmm	CDS	27766	29508	.	-	.	what=cas;des=unk;note=unknown
+YA4_5734	FGS-hmm	CDS	30139	32241	.	-	.	what=cas;des=unk;note=unknown
+YA4_5734	FGS-hmm	CDS	32581	34392	.	-	.	what=cas;des=mkCas0115:csx3;note=other
+YA4_19980	Genbank	region	1	6368	.	+	.	ID=YA4_19980;array=1;gene=6;type=(type III)
+YA4_19980	FGS-hmm	CDS	2	370	.	+	.	what=cas;des=pfam03787:csm3gr7;note=Type-III
+YA4_19980	FGS-hmm	CDS	383	1309	.	+	.	what=cas;des=pfam03787:csm3gr7;note=Type-III
+YA4_19980	FGS-hmm	CDS	1363	2430	.	+	.	what=cas;des=cd09726:csm3gr7;note=Subtype-III-D
+YA4_19980	metaCRT	direct_repeat	2629	3530	.	.	.	what=CRISPR;des=repeat:ATTAAGAAATATAGCTCCCCGAGAGGGGACGGAAA;note=copy:13
+YA4_19980	FGS-hmm	CDS	2689	2904	.	+	.	what=cas;des=unk;note=unknown
+YA4_19980	FGS-hmm	CDS	3610	4611	.	+	.	what=cas;des=cd09634:cas1;note=universal
+YA4_19980	FGS-hmm	CDS	4718	4930	.	+	.	what=cas;des=pfam09827:cas2;note=universal
+YA4_19980	FGS-hmm	CDS	4950	6266	.	+	.	what=cas;des=cd09746:csm6;note=Subtype-III-A
+YA4_18632	Genbank	region	1	7880	.	+	.	ID=YA4_18632;array=0;gene=4;type=(type III)
+YA4_18632	FGS-hmm	CDS	4014	4754	.	+	.	what=cas;des=COG5551:cas6;note=Type-III
+YA4_18632	FGS-hmm	CDS	4747	7128	.	+	.	what=cas;des=cd09680:cas10;note=Type-III
+YA4_18632	FGS-hmm	CDS	7115	7519	.	+	.	what=cas;des=cd09647:csm2gr11;note=Subtype-III-A
+YA4_18632	FGS-hmm	CDS	7532	7879	.	+	.	what=cas;des=pfam03787:csm3gr7;note=Type-III

@@ -1,0 +1,8 @@
+##gff-version 3
+#!processor CRISPRone
+YB3_5355	Genbank	region	1	216447	.	+	.	ID=YB3_5355;array=0;gene=3;type=(type IV)
+YB3_5355	FGS-hmm	CDS	181055	183406	.	-	.	what=cas;des=COG1199:DinG;note=Subtype-IV-A
+YB3_5355	FGS-hmm	CDS	190746	191174	.	-	.	what=cas;des=cls000118:csx20;note=other
+YB3_5355	FGS-hmm	CDS	191450	191647	.	+	.	what=cas;des=unk;note=unknown
+YB3_5355	FGS-hmm	CDS	191773	193023	.	-	.	what=cas;des=unk;note=unknown
+YB3_5355	FGS-hmm	CDS	193098	197609	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I

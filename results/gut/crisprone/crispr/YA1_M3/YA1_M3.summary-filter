@@ -1,0 +1,31 @@
+#/u/yye/CRISPRpk/pipelines/../CRISPRone/call-script/hmmscan2cas.py -collection unk -hmmscan crisprone/crispr/YA1_M3/YA1_M3-vs-cas.domtblout -gff crisprone/crispr/YA1_M3/YA1_M3.gff -isolate -outfile crisprone/crispr/YA1_M3/YA1_M3.summary -outfiltered crisprone/crispr/YA1_M3/YA1_M3.summary-filter -gafile /u/yye/CRISPRpk/pipelines/../CRISPRone/local/cas-db/cas-CRISPR.GA
+##YA1_1020 1 derived-fm crisprone/crispr/YA1_M3/YA1_M3-vs-cas.domtblout
+YA1_1020_132145_133134_- YA1_M3 YA1_1020 132145 133134 - pfam13280:WYL 2
+##YA1_833 1 derived-fm crisprone/crispr/YA1_M3/YA1_M3-vs-cas.domtblout
+YA1_833_2_334_- YA1_M3 YA1_833 2 334 - COG0640:csa3 2
+##YA1_5374 2 derived-fm crisprone/crispr/YA1_M3/YA1_M3-vs-cas.domtblout
+YA1_5374_14436_14711_+ YA1_M3 YA1_5374 14436 14711 + COG0640:csa3 2
+YA1_5374_228895_231405_+ YA1_M3 YA1_5374 228895 231405 + COG1199:DinG 2
+##YA1_257 1 derived-fm crisprone/crispr/YA1_M3/YA1_M3-vs-cas.domtblout
+YA1_257_7539_12050_+ YA1_M3 YA1_257 7539 12050 + cd06127:DEDDh 2
+##YA1_1831 1 derived-fm crisprone/crispr/YA1_M3/YA1_M3-vs-cas.domtblout
+YA1_1831_34095_34550_+ YA1_M3 YA1_1831 34095 34550 + COG0640:csa3 2
+##YA1_5359 1 derived-fm crisprone/crispr/YA1_M3/YA1_M3-vs-cas.domtblout
+YA1_5359_17840_18178_- YA1_M3 YA1_5359 17840 18178 - COG0640:csa3 2
+##YA1_5365 1 derived-fm crisprone/crispr/YA1_M3/YA1_M3-vs-cas.domtblout
+YA1_5365_6578_7858_- YA1_M3 YA1_5365 6578 7858 - COG0640:csa3 2
+##YA1_713 3 derived-fm crisprone/crispr/YA1_M3/YA1_M3-vs-cas.domtblout
+YA1_713_30574_31164_- YA1_M3 YA1_713 30574 31164 - cd06127:DEDDh 2
+YA1_713_31213_31749_- YA1_M3 YA1_713 31213 31749 - cls001593:casR 1
+YA1_713_59219_60004_- YA1_M3 YA1_713 59219 60004 - COG0640:csa3 2
+##YA1_3036 1 derived-fm crisprone/crispr/YA1_M3/YA1_M3-vs-cas.domtblout
+YA1_3036_53461_53787_- YA1_M3 YA1_3036 53461 53787 - COG0640:csa3 2
+##YA1_5553 8 derived-fm crisprone/crispr/YA1_M3/YA1_M3-vs-cas.domtblout
+YA1_5553_3407_4312_- YA1_M3 YA1_5553 3407 4312 - cd06127:DEDDh 2
+YA1_5553_4314_5255_- YA1_M3 YA1_5553 4314 5255 - cd09719:cas1 2
+YA1_5553_5259_5897_- YA1_M3 YA1_5553 5259 5897 - pfam08798:cas6e 2
+YA1_5553_5902_6636_- YA1_M3 YA1_5553 5902 6636 - cd09756:cas5 2
+YA1_5553_6642_7709_- YA1_M3 YA1_5553 6642 7709 - pfam09344:cas7 2
+YA1_5553_7699_8292_- YA1_M3 YA1_5553 7699 8292 - mkCas0194:cse2gr11 2
+YA1_5553_8302_9969_- YA1_M3 YA1_5553 8302 9969 - cd09729:cas8e 2
+YA1_5553_9956_12736_- YA1_M3 YA1_5553 9956 12736 - COG1203:cas3 2

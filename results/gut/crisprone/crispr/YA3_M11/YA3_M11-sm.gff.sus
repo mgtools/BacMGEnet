@@ -1,0 +1,22 @@
+##gff-version 3
+#!processor CRISPRone
+YA3_10778	Genbank	region	1	33553	.	+	.	ID=YA3_10778
+YA3_10778	FGS-hmm	CDS	28239	28829	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YA3_10778	FGS-hmm	CDS	28878	29414	.	-	.	what=cas;des=cls001593:casR;note=Type-I
+YA3_6766	Genbank	region	1	67518	.	+	.	ID=YA3_6766
+YA3_6766	FGS-hmm	CDS	48491	50977	.	-	.	what=cas;des=COG1199:DinG;note=Subtype-IV-A
+YA3_8331	Genbank	region	1	7200	.	+	.	ID=YA3_8331
+YA3_8331	FGS-hmm	CDS	3727	4626	.	-	.	what=cas;des=COG2378:WYL;note=other
+YA3_8331	FGS-hmm	CDS	5030	5212	.	-	.	what=cas;des=cd09750:csa5gr11;note=Subtype-I-A
+YA3_4201	Genbank	region	1	18700	.	+	.	ID=YA3_4201
+YA3_4201	FGS-hmm	CDS	5635	6915	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA3_6275	Genbank	region	1	13396	.	+	.	ID=YA3_6275
+YA3_6275	FGS-hmm	CDS	127	4521	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YA3_407	Genbank	region	1	24002	.	+	.	ID=YA3_407
+YA3_407	FGS-hmm	CDS	5284	5559	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA3_9013	Genbank	region	1	42562	.	+	.	ID=YA3_9013
+YA3_9013	FGS-hmm	CDS	25208	25993	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA3_10313	Genbank	region	1	35256	.	+	.	ID=YA3_10313
+YA3_10313	FGS-hmm	CDS	2634	3089	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA3_8798	Genbank	region	1	43884	.	+	.	ID=YA3_8798
+YA3_8798	FGS-hmm	CDS	31411	31737	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A

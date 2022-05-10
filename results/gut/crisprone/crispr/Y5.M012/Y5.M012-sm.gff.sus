@@ -1,0 +1,15 @@
+##gff-version 3
+#!processor CRISPRone
+Y5.M012_1	Genbank	region	1	779647	.	+	.	ID=Y5.M012_1
+Y5.M012_1	FGS-hmm	CDS	81467	82123	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y5.M012_1	FGS-hmm	CDS	319697	320449	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y5.M012_1	FGS-hmm	CDS	360096	361076	.	-	.	what=cas;des=pfam00078:RT;note=other
+Y5.M012_1	FGS-hmm	CDS	537268	537585	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y5.M012_1	FGS-hmm	CDS	644740	644994	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y5.M012_3	Genbank	region	1	152800	.	+	.	ID=Y5.M012_3
+Y5.M012_3	FGS-hmm	CDS	34489	35256	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y5.M012_5	Genbank	region	1	750498	.	+	.	ID=Y5.M012_5
+Y5.M012_5	FGS-hmm	CDS	277215	277589	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y5.M012_5	FGS-hmm	CDS	367858	372216	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I
+Y5.M012_2	Genbank	region	1	323123	.	+	.	ID=Y5.M012_2
+Y5.M012_2	FGS-hmm	CDS	248051	249052	.	-	.	what=cas;des=pfam13280:WYL;note=other

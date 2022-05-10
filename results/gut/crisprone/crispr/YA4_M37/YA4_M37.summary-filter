@@ -1,0 +1,27 @@
+#/u/yye/CRISPRpk/pipelines/../CRISPRone/call-script/hmmscan2cas.py -collection unk -hmmscan crisprone/crispr/YA4_M37/YA4_M37-vs-cas.domtblout -gff crisprone/crispr/YA4_M37/YA4_M37.gff -isolate -outfile crisprone/crispr/YA4_M37/YA4_M37.summary -outfiltered crisprone/crispr/YA4_M37/YA4_M37.summary-filter -gafile /u/yye/CRISPRpk/pipelines/../CRISPRone/local/cas-db/cas-CRISPR.GA
+##YA4_19587 2 derived-fm crisprone/crispr/YA4_M37/YA4_M37-vs-cas.domtblout
+YA4_19587_27787_28875_+ YA4_M37 YA4_19587 27787 28875 + COG0640:csa3 2
+YA4_19587_69674_71371_+ YA4_M37 YA4_19587 69674 71371 + cd06127:DEDDh 2
+##YA4_17243 1 derived-fm crisprone/crispr/YA4_M37/YA4_M37-vs-cas.domtblout
+YA4_17243_3044_3949_- YA4_M37 YA4_17243 3044 3949 - COG2378:WYL 2
+##YA4_15603 1 derived-fm crisprone/crispr/YA4_M37/YA4_M37-vs-cas.domtblout
+YA4_15603_6213_7223_- YA4_M37 YA4_15603 6213 7223 - pfam13280:WYL 2
+##YA4_9758 1 derived-fm crisprone/crispr/YA4_M37/YA4_M37-vs-cas.domtblout
+YA4_9758_186_1001_- YA4_M37 YA4_9758 186 1001 - COG0640:csa3 2
+##YA4_17507 10 derived-fm crisprone/crispr/YA4_M37/YA4_M37-vs-cas.domtblout
+YA4_17507_351_641_- YA4_M37 YA4_17507 351 641 - cd09725:cas2 2
+YA4_17507_649_1680_- YA4_M37 YA4_17507 649 1680 - cd09721:cas1 2
+YA4_17507_1677_2348_- YA4_M37 YA4_17507 1677 2348 - pfam01930:cas4 2
+YA4_17507_2349_3272_- YA4_M37 YA4_17507 2349 3272 - pfam05107:cas7b 2
+YA4_17507_3275_4882_- YA4_M37 YA4_17507 3275 4882 - cd09757:cas8c 1
+YA4_17507_5047_5703_- YA4_M37 YA4_17507 5047 5703 - cd09752:cas5 2
+YA4_17507_5887_6075_+ YA4_M37 YA4_17507 5887 6075 + unk 1
+YA4_17507_6118_6540_+ YA4_M37 YA4_17507 6118 6540 + unk 1
+YA4_17507_6649_8784_- YA4_M37 YA4_17507 6649 8784 - cd09641:cas3HD 2
+YA4_17507_8944_9798_- YA4_M37 YA4_17507 8944 9798 - cd06127:DEDDh 1
+##YA4_15363 1 derived-fm crisprone/crispr/YA4_M37/YA4_M37-vs-cas.domtblout
+YA4_15363_12145_16488_- YA4_M37 YA4_15363 12145 16488 - cd06127:DEDDh 2
+##YA4_12168 1 derived-fm crisprone/crispr/YA4_M37/YA4_M37-vs-cas.domtblout
+YA4_12168_34031_34408_- YA4_M37 YA4_12168 34031 34408 - COG0640:csa3 2
+##YA4_15559 1 derived-fm crisprone/crispr/YA4_M37/YA4_M37-vs-cas.domtblout
+YA4_15559_4197_5006_+ YA4_M37 YA4_15559 4197 5006 + COG0640:csa3 2

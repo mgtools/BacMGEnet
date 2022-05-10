@@ -1,0 +1,6 @@
+##gff-version 3
+#!processor CRISPRone
+YB4_16663	Genbank	region	1	74666	.	+	.	ID=YB4_16663;array=0;gene=3;type=NA
+YB4_16663	FGS-hmm	CDS	1752	2153	.	-	.	what=cas;des=cd09638:cas2;note=universal
+YB4_16663	FGS-hmm	CDS	2065	2946	.	-	.	what=cas;des=cd09634:cas1;note=universal
+YB4_16663	FGS-hmm	CDS	2950	6174	.	-	.	what=cas;des=COG3513:cas9;note=Type-II

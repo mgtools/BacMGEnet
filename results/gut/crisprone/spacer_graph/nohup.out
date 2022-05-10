@@ -1,0 +1,10 @@
+Command line argument error: Argument "query". File is not accessible:  `crisprone/spacer_graph/spacer_nr100.fa'
+path /u/yye/CRISPRpk/pipelines mgenet /u/yye/CRISPRpk/pipelines/../mgenet/
+Traceback (most recent call last):
+  File "/u/yye/CRISPRpk/pipelines/mge_net.py", line 75, in <module>
+    check_result=subprocess.check_output(command, shell=True)
+  File "/u/mmonshiz/miniconda3/lib/python3.9/subprocess.py", line 424, in check_output
+    return run(*popenargs, stdout=PIPE, timeout=timeout, check=True,
+  File "/u/mmonshiz/miniconda3/lib/python3.9/subprocess.py", line 528, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '/u/yye/CRISPRpk/pipelines/../CRISPRone//bin/blast+/bin/blastn -query crisprone/spacer_graph/spacer_nr100.fa -db /home/team/mgedb//all_phage_seq.fna -evalue 0.001 -outfmt "6 qseqid sseqid pident nident length mismatch gapopen qstart qend sstart send evalue bitscore qlen slen qcovs"  -num_threads 8 -out mgenet/spacer_vs_phages.m8' returned non-zero exit status 1.

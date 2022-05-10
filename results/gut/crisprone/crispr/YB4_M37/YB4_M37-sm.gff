@@ -1,0 +1,10 @@
+##gff-version 3
+#!processor CRISPRone
+YB4_11377	Genbank	region	1	151420	.	+	.	ID=YB4_11377;array=1;gene=4;type=(type I, II)
+YB4_11377	metaCRT	direct_repeat	94851	96670	.	.	.	what=CRISPR;des=repeat:GTCTTATTCTAGCAAAAATCCATATGGTAACAAAAC;note=copy:28
+YB4_11377	FGS-hmm	CDS	97550	97873	.	-	.	what=cas;des=pfam09827:cas2;note=Subtype-II-C
+YB4_11377	FGS-hmm	CDS	97863	98756	.	-	.	what=cas;des=cd09634:cas1;note=Subtype-II-C
+YB4_11377	CRISPRone	partial_repeat	98807	98844	.	-	.	what=antiCRISPR;des=antiRepeat:eat;note=32-4
+YB4_11377	FGS-hmm	CDS	98860	102168	.	-	.	what=cas;des=cd09643:cas9;note=Subtype-II-C
+YB4_11377	FGS-hmm	CDS	102729	103673	.	-	.	what=cas;des=unk;note=unknown
+YB4_11377	FGS-hmm	CDS	103764	104645	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A

@@ -1,0 +1,25 @@
+#/u/yye/CRISPRpk/pipelines/../CRISPRone/call-script/hmmscan2cas.py -collection unk -hmmscan crisprone/crispr/YB4_M26/YB4_M26-vs-cas.domtblout -gff crisprone/crispr/YB4_M26/YB4_M26.gff -isolate -outfile crisprone/crispr/YB4_M26/YB4_M26.summary -outfiltered crisprone/crispr/YB4_M26/YB4_M26.summary-filter -gafile /u/yye/CRISPRpk/pipelines/../CRISPRone/local/cas-db/cas-CRISPR.GA
+##YB4_13072 1 derived-fm crisprone/crispr/YB4_M26/YB4_M26-vs-cas.domtblout
+YB4_13072_12745_13701_+ YB4_M26 YB4_13072 12745 13701 + cd06127:DEDDh 2
+##YB4_329 4 derived-fm crisprone/crispr/YB4_M26/YB4_M26-vs-cas.domtblout
+YB4_329_31880_35956_+ YB4_M26 YB4_329 31880 35956 + mkCas0193:cas9 1
+YB4_329_35953_36825_+ YB4_M26 YB4_329 35953 36825 + cd09720:cas1 2
+YB4_329_36830_37135_+ YB4_M26 YB4_329 36830 37135 + pfam09827:cas2 2
+YB4_329_37132_37824_+ YB4_M26 YB4_329 37132 37824 + cd09644:csn2 1
+##YB4_14457 1 derived-fm crisprone/crispr/YB4_M26/YB4_M26-vs-cas.domtblout
+YB4_14457_82320_86876_- YB4_M26 YB4_14457 82320 86876 - cd06127:DEDDh 2
+##YB4_12051 1 derived-fm crisprone/crispr/YB4_M26/YB4_M26-vs-cas.domtblout
+YB4_12051_111495_113969_- YB4_M26 YB4_12051 111495 113969 - COG1199:DinG 2
+##YB4_13036 4 derived-fm crisprone/crispr/YB4_M26/YB4_M26-vs-cas.domtblout
+YB4_13036_95343_96044_+ YB4_M26 YB4_13036 95343 96044 + cd06127:DEDDh 2
+YB4_13036_96065_96622_- YB4_M26 YB4_13036 96065 96622 - unk 1
+YB4_13036_96911_97894_+ YB4_M26 YB4_13036 96911 97894 + unk 1
+YB4_13036_97924_98406_+ YB4_M26 YB4_13036 97924 98406 + cls001593:casR 1
+##YB4_864 5 derived-fm crisprone/crispr/YB4_M26/YB4_M26-vs-cas.domtblout
+YB4_864_39200_39598_- YB4_M26 YB4_864 39200 39598 - COG0640:csa3 2
+YB4_864_132033_132740_- YB4_M26 YB4_864 132033 132740 - cd09644:csn2 1
+YB4_864_132737_133057_- YB4_M26 YB4_864 132737 133057 - pfam09827:cas2 2
+YB4_864_133054_133530_- YB4_M26 YB4_864 133054 133530 - cd09720:cas1 1
+YB4_864_133731_138062_- YB4_M26 YB4_864 133731 138062 - mkCas0193:cas9 1
+##YB4_11752 1 derived-fm crisprone/crispr/YB4_M26/YB4_M26-vs-cas.domtblout
+YB4_11752_63411_63824_- YB4_M26 YB4_11752 63411 63824 - COG0640:csa3 2

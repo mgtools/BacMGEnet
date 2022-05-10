@@ -1,0 +1,27 @@
+#/u/yye/CRISPRpk/pipelines/../CRISPRone/call-script/hmmscan2cas.py -collection unk -hmmscan crisprone/crispr/YA2_M5/YA2_M5-vs-cas.domtblout -gff crisprone/crispr/YA2_M5/YA2_M5.gff -isolate -outfile crisprone/crispr/YA2_M5/YA2_M5.summary -outfiltered crisprone/crispr/YA2_M5/YA2_M5.summary-filter -gafile /u/yye/CRISPRpk/pipelines/../CRISPRone/local/cas-db/cas-CRISPR.GA
+##YA2_200 1 derived-fm crisprone/crispr/YA2_M5/YA2_M5-vs-cas.domtblout
+YA2_200_71033_72028_+ YA2_M5 YA2_200 71033 72028 + pfam00078:RT 2
+##YA2_2832 6 derived-fm crisprone/crispr/YA2_M5/YA2_M5-vs-cas.domtblout
+YA2_2832_15958_16605_+ YA2_M5 YA2_2832 15958 16605 + mkCas0193:cas9 1
+YA2_2832_16648_17499_+ YA2_M5 YA2_2832 16648 17499 + mkCas0193:cas9 1
+YA2_2832_17575_20154_+ YA2_M5 YA2_2832 17575 20154 + mkCas0193:cas9 1
+YA2_2832_20366_21271_+ YA2_M5 YA2_2832 20366 21271 + cd09720:cas1 2
+YA2_2832_21405_21554_+ YA2_M5 YA2_2832 21405 21554 + mkCas0206:cas2 1
+YA2_2832_21551_22021_+ YA2_M5 YA2_2832 21551 22021 + cd12218:csn2 1
+##YA2_4974 2 derived-fm crisprone/crispr/YA2_M5/YA2_M5-vs-cas.domtblout
+YA2_4974_29063_29596_+ YA2_M5 YA2_4974 29063 29596 + cd06127:DEDDh 2
+YA2_4974_107971_108411_- YA2_M5 YA2_4974 107971 108411 - COG0640:csa3 2
+##YA2_420 1 derived-fm crisprone/crispr/YA2_M5/YA2_M5-vs-cas.domtblout
+YA2_420_54772_59133_+ YA2_M5 YA2_420 54772 59133 + cd06127:DEDDh 2
+##YA2_4445 2 derived-fm crisprone/crispr/YA2_M5/YA2_M5-vs-cas.domtblout
+YA2_4445_3065_4066_- YA2_M5 YA2_4445 3065 4066 - pfam13280:WYL 2
+YA2_4445_4165_5418_+ YA2_M5 YA2_4445 4165 5418 + cas14:cas14 1
+##YA2_4446 1 derived-fm crisprone/crispr/YA2_M5/YA2_M5-vs-cas.domtblout
+YA2_4446_182936_183250_- YA2_M5 YA2_4446 182936 183250 - COG0640:csa3 2
+##YA2_44 4 derived-fm crisprone/crispr/YA2_M5/YA2_M5-vs-cas.domtblout
+YA2_44_64694_65404_- YA2_M5 YA2_44 64694 65404 - cls001593:casR 1
+YA2_44_65641_66954_- YA2_M5 YA2_44 65641 66954 - unk 1
+YA2_44_66964_67482_- YA2_M5 YA2_44 66964 67482 - unk 1
+YA2_44_67534_70377_- YA2_M5 YA2_44 67534 70377 - COG1199:DinG 2
+##YA2_5308 1 derived-fm crisprone/crispr/YA2_M5/YA2_M5-vs-cas.domtblout
+YA2_5308_62111_63157_- YA2_M5 YA2_5308 62111 63157 - pfam13280:WYL 2

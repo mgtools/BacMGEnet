@@ -1,0 +1,38 @@
+SEQ: Y5.M020_118
+Bases: 19191
+Total CRISPR: 1
+
+
+CRISPR 1   Range: 4526 - 4745
+POSITION	REPEAT				SPACER
+--------	-------------------------------	--------------------------------
+4526		CGGCAGAGCAACCAGCAGCAACATCAGAAGC	GTCTTCAGAAGCACCAGCGACTTCTGAAGCGC	[ 31, 32 ]
+4589		CAGCAGAGCAACCAGCAGCAACATCAGAAGC	TGTTTCAGAGGCACCAGCTGCTTCAGAAGCGCCAGCAGAACAAC	[ 31, 44 ]
+4664		CAGCGGTAGAACCAGCAGCAACATCAGAAGT	GGCATCAGAAGCACCAGTAG	[ 31, 20 ]
+4715		CTTCAGAGGCACCAGCAGCACAACCTGCATC	
+--------	-------------------------------	--------------------------------
+Repeat-con	CAGCAGAGCAACCAGCAGCAACATCAGAAGC
+Repeats: 4	Average Length: 31		Average Length: 32
+
+
+SEQ: Y5.M020_124
+Bases: 16475
+Total CRISPR: 1
+
+
+CRISPR 1   Range: 46 - 164
+POSITION	REPEAT				SPACER
+--------	-----------------------	-------------------------
+46		GGTGGTGTTGGCGGTGTTGGTGG	TGTTGGTGGTGTTGGTGGTGTT	[ 23, 22 ]
+91		GGTGGTGTTGGTGGTGTTGGCGG	AACCACTGGTGGTTTAGGTGGGACACTT	[ 23, 28 ]
+142		GGTGGTGTCGGTGGTGTTGGCGG	
+--------	-----------------------	-------------------------
+Repeat-con	GGTGGTGTTGGTGGTGTTGGCGG
+Repeats: 3	Average Length: 23		Average Length: 25
+
+
+Total sequences checked: 201
+Total bases checked: 1906305
+Total sequences with predicted CRISPR: 2
+Time used: 285 ms
+

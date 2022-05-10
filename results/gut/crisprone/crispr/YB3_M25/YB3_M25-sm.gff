@@ -1,0 +1,9 @@
+##gff-version 3
+#!processor CRISPRone
+YB3_2095	Genbank	region	1	40998	.	+	.	ID=YB3_2095;array=1;gene=4;type=(type II)
+YB3_2095	CRISPRone	partial_repeat	10837	10872	.	-	.	what=antiCRISPR;des=antiRepeat:eat;note=25-11
+YB3_2095	metaCRT	direct_repeat	11095	11789	.	.	.	what=CRISPR;des=repeat:GTTTGAGTACCATACGTTTTTACATCATTCTCAAAC;note=copy:11
+YB3_2095	FGS-hmm	CDS	11847	12521	.	-	.	what=cas;des=cd09644:csn2;note=Subtype-II-A
+YB3_2095	FGS-hmm	CDS	12518	12823	.	-	.	what=cas;des=pfam09827:cas2;note=Subtype-II-A
+YB3_2095	FGS-hmm	CDS	12828	13700	.	-	.	what=cas;des=cd09720:cas1;note=Subtype-II-A
+YB3_2095	FGS-hmm	CDS	13697	17707	.	-	.	what=cas;des=mkCas0193:cas9;note=Subtype-II-A

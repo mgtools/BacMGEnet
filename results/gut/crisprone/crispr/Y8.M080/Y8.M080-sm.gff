@@ -1,0 +1,27 @@
+##gff-version 3
+#!processor CRISPRone
+Y8.M080_77	Genbank	region	1	10635	.	+	.	ID=Y8.M080_77;array=0;gene=6;type=(type III)
+Y8.M080_77	FGS-hmm	CDS	2	163	.	-	.	what=cas;des=cd09726:csm3gr7;note=Subtype-III-D
+Y8.M080_77	FGS-hmm	CDS	168	1652	.	-	.	what=cas;des=mkCas0133:cas10;note=Type-III
+Y8.M080_77	FGS-hmm	CDS	1773	2468	.	+	.	what=cas;des=cls000004:cas6;note=other
+Y8.M080_77	FGS-hmm	CDS	2473	3717	.	+	.	what=cas;des=pfam09455:csx1;note=Type-III
+Y8.M080_77	FGS-hmm	CDS	3731	4762	.	+	.	what=cas;des=pfam13280:WYL;note=other
+Y8.M080_77	FGS-hmm	CDS	4768	6066	.	+	.	what=cas;des=cd09732:csx1;note=Type-III
+Y8.M080_76	Genbank	region	1	20269	.	+	.	ID=Y8.M080_76;array=1;gene=0;type=NA
+Y8.M080_76	metaCRT	direct_repeat	8618	9625	.	.	.	what=CRISPR;des=repeat:TTGTTATTCCTGATAGTGTTACTAGCATTG;note=copy:15
+Y8.M080_43	Genbank	region	1	2669	.	+	.	ID=Y8.M080_43;array=0;gene=3;type=(type III)
+Y8.M080_43	FGS-hmm	CDS	3	602	.	-	.	what=cas;des=pfam03787:csm3gr7;note=Type-III
+Y8.M080_43	FGS-hmm	CDS	607	2127	.	-	.	what=cas;des=cd09726:csm3gr7;note=Subtype-III-D
+Y8.M080_43	FGS-hmm	CDS	1888	2094	.	+	.	what=cas;des=unk;note=unknown
+Y8.M080_43	FGS-hmm	CDS	2124	2666	.	-	.	what=cas;des=cd09726:csm3gr7;note=Subtype-III-D
+Y8.M080_4	Genbank	region	1	23122	.	+	.	ID=Y8.M080_4;array=3;gene=5;type=(type III)
+Y8.M080_4	metaCRT	direct_repeat	6016	6632	.	.	.	what=CRISPR;des=repeat:GTACGAGACCATTGTCCACTACAACAAGGATTAAGAC;note=copy:9
+Y8.M080_4	metaCRT	direct_repeat	12894	13517	.	.	.	what=CRISPR;des=repeat:GTACGAGACCATTGTCCATTACAAAAAGGATTAAGAC;note=copy:9
+Y8.M080_4	FGS-hmm	CDS	17178	17642	.	-	.	what=cas;des=pfam09827:cas2;note=universal
+Y8.M080_4	FGS-hmm	CDS	17639	18685	.	-	.	what=cas;des=pfam08800:PrimPol;note=other
+Y8.M080_4	FGS-hmm	CDS	18687	19664	.	-	.	what=cas;des=pfam01867:cas1;note=universal
+Y8.M080_4	FGS-hmm	CDS	19756	19911	.	+	.	what=cas;des=unk;note=unknown
+Y8.M080_4	metaCRT	direct_repeat	20151	20548	.	.	.	what=CRISPR;des=repeat:GTACGAGACCATTGTCCACTACAACAAGGATTAAGAC;note=copy:6
+Y8.M080_4	FGS-hmm	CDS	20551	20703	.	-	.	what=cas;des=unk;note=unknown
+Y8.M080_4	FGS-hmm	CDS	20888	22636	.	-	.	what=cas;des=pfam03787:csm3gr7;note=Type-III
+Y8.M080_4	FGS-hmm	CDS	22652	23050	.	-	.	what=cas;des=mkCas0123:csx19;note=Subtype-III-D

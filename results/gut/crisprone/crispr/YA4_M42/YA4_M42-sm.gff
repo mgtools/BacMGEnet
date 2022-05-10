@@ -1,0 +1,20 @@
+##gff-version 3
+#!processor CRISPRone
+YA4_3094	Genbank	region	1	57539	.	+	.	ID=YA4_3094;array=1;gene=7;type=(type I)
+YA4_3094	metaCRT	direct_repeat	43262	47897	.	.	.	what=CRISPR;des=repeat:ATTTCTATCCACGCTCTCCTTGCGGAGAGCGAC;note=copy:69
+YA4_3094	FGS-hmm	CDS	48068	48358	.	-	.	what=cas;des=cd09725:cas2;note=universal
+YA4_3094	FGS-hmm	CDS	48368	49399	.	-	.	what=cas;des=cd09721:cas1;note=universal
+YA4_3094	FGS-hmm	CDS	49396	50058	.	-	.	what=cas;des=pfam01930:cas4;note=Type-I
+YA4_3094	FGS-hmm	CDS	50058	50954	.	-	.	what=cas;des=cd09689:cas7;note=Subtype-I-C
+YA4_3094	FGS-hmm	CDS	50957	52693	.	-	.	what=cas;des=cd09757:cas8c;note=Subtype-I-C
+YA4_3094	FGS-hmm	CDS	52690	53340	.	-	.	what=cas;des=cd09752:cas5;note=Subtype-I-C
+YA4_3094	FGS-hmm	CDS	53574	55727	.	-	.	what=cas;des=cd09641:cas3HD;note=Type-I
+YA4_3234	Genbank	region	1	57030	.	+	.	ID=YA4_3234;array=1;gene=0;type=NA
+YA4_3234	metaCRT	direct_repeat	49906	50156	.	.	.	what=CRISPR;des=repeat:CATCACCACCACCATGATGATGACGACGA;note=copy:5
+YA4_13882	Genbank	region	1	30555	.	+	.	ID=YA4_13882;array=1;gene=5;type=(type I)
+YA4_13882	FGS-hmm	CDS	2255	4483	.	+	.	what=cas;des=cd09641:cas3HD;note=Type-I
+YA4_13882	FGS-hmm	CDS	4675	5370	.	+	.	what=cas;des=pfam09704:cas5;note=Type-I
+YA4_13882	FGS-hmm	CDS	5351	7150	.	+	.	what=cas;des=pfam09709:cas8c;note=Subtype-I-C
+YA4_13882	FGS-hmm	CDS	7166	8164	.	+	.	what=cas;des=pfam05107:cas7b;note=Type-I
+YA4_13882	metaCRT	direct_repeat	8246	9402	.	.	.	what=CRISPR;des=repeat:GCGGGGGCGTGAGTAGAAAT;note=copy:18
+YA4_13882	FGS-hmm	CDS	10520	11458	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I

@@ -1,0 +1,31 @@
+#/u/yye/CRISPRpk/pipelines/../CRISPRone/call-script/hmmscan2cas.py -collection unk -hmmscan crisprone/crispr/Y7.M053/Y7.M053-vs-cas.domtblout -gff crisprone/crispr/Y7.M053/Y7.M053.gff -isolate -outfile crisprone/crispr/Y7.M053/Y7.M053.summary -outfiltered crisprone/crispr/Y7.M053/Y7.M053.summary-filter -gafile /u/yye/CRISPRpk/pipelines/../CRISPRone/local/cas-db/cas-CRISPR.GA
+##Y7.M053_368 1 derived-fm crisprone/crispr/Y7.M053/Y7.M053-vs-cas.domtblout
+Y7.M053_368_711_3071_+ Y7.M053 Y7.M053_368 711 3071 + COG1199:DinG 2
+##Y7.M053_26 1 derived-fm crisprone/crispr/Y7.M053/Y7.M053-vs-cas.domtblout
+Y7.M053_26_19110_19880_+ Y7.M053 Y7.M053_26 19110 19880 + COG0640:csa3 2
+##Y7.M053_25 3 derived-fm crisprone/crispr/Y7.M053/Y7.M053-vs-cas.domtblout
+Y7.M053_25_18606_18995_+ Y7.M053 Y7.M053_25 18606 18995 + COG4804:PD-DExK 2
+Y7.M053_25_18932_19393_+ Y7.M053 Y7.M053_25 18932 19393 + COG4804:PD-DExK 2
+Y7.M053_25_19778_20317_+ Y7.M053 Y7.M053_25 19778 20317 + mkCas0088:cas7 1
+##Y7.M053_232 1 derived-fm crisprone/crispr/Y7.M053/Y7.M053-vs-cas.domtblout
+Y7.M053_232_5466_5750_- Y7.M053 Y7.M053_232 5466 5750 - COG0640:csa3 2
+##Y7.M053_132 1 derived-fm crisprone/crispr/Y7.M053/Y7.M053-vs-cas.domtblout
+Y7.M053_132_3613_3873_- Y7.M053 Y7.M053_132 3613 3873 - COG0640:csa3 2
+##Y7.M053_302 1 derived-fm crisprone/crispr/Y7.M053/Y7.M053-vs-cas.domtblout
+Y7.M053_302_3_701_+ Y7.M053 Y7.M053_302 3 701 + pfam13280:WYL 2
+##Y7.M053_18 1 derived-fm crisprone/crispr/Y7.M053/Y7.M053-vs-cas.domtblout
+Y7.M053_18_2638_2976_+ Y7.M053 Y7.M053_18 2638 2976 + COG0640:csa3 2
+##Y7.M053_108 1 derived-fm crisprone/crispr/Y7.M053/Y7.M053-vs-cas.domtblout
+Y7.M053_108_3659_4648_- Y7.M053 Y7.M053_108 3659 4648 - cd06127:DEDDh 2
+##Y7.M053_273 1 derived-fm crisprone/crispr/Y7.M053/Y7.M053-vs-cas.domtblout
+Y7.M053_273_3_2984_- Y7.M053 Y7.M053_273 3 2984 - cd06127:DEDDh 2
+##Y7.M053_403 1 derived-fm crisprone/crispr/Y7.M053/Y7.M053-vs-cas.domtblout
+Y7.M053_403_5592_6422_+ Y7.M053 Y7.M053_403 5592 6422 + COG4804:PD-DExK 2
+##Y7.M053_248 1 derived-fm crisprone/crispr/Y7.M053/Y7.M053-vs-cas.domtblout
+Y7.M053_248_1965_2327_+ Y7.M053 Y7.M053_248 1965 2327 + COG0640:csa3 2
+##Y7.M053_183 1 derived-fm crisprone/crispr/Y7.M053/Y7.M053-vs-cas.domtblout
+Y7.M053_183_1741_2490_- Y7.M053 Y7.M053_183 1741 2490 - cd06127:DEDDh 2
+##Y7.M053_235 1 derived-fm crisprone/crispr/Y7.M053/Y7.M053-vs-cas.domtblout
+Y7.M053_235_220_597_+ Y7.M053 Y7.M053_235 220 597 + COG0640:csa3 2
+##Y7.M053_275 1 derived-fm crisprone/crispr/Y7.M053/Y7.M053-vs-cas.domtblout
+Y7.M053_275_3796_4245_- Y7.M053 Y7.M053_275 3796 4245 - COG0640:csa3 2

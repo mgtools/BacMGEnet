@@ -1,0 +1,27 @@
+#/u/yye/CRISPRpk/pipelines/../CRISPRone/call-script/hmmscan2cas.py -collection unk -hmmscan crisprone/crispr/Y5.M009/Y5.M009-vs-cas.domtblout -gff crisprone/crispr/Y5.M009/Y5.M009.gff -isolate -outfile crisprone/crispr/Y5.M009/Y5.M009.summary -outfiltered crisprone/crispr/Y5.M009/Y5.M009.summary-filter -gafile /u/yye/CRISPRpk/pipelines/../CRISPRone/local/cas-db/cas-CRISPR.GA
+##Y5.M009_26 4 derived-fm crisprone/crispr/Y5.M009/Y5.M009-vs-cas.domtblout
+Y5.M009_26_13398_14321_- Y5.M009 Y5.M009_26 13398 14321 - COG0640:csa3 2
+Y5.M009_26_14508_15464_+ Y5.M009 Y5.M009_26 14508 15464 + unk 1
+Y5.M009_26_15509_17083_+ Y5.M009 Y5.M009_26 15509 17083 + unk 1
+Y5.M009_26_17137_18060_- Y5.M009 Y5.M009_26 17137 18060 - COG0640:csa3 2
+##Y5.M009_37 1 derived-fm crisprone/crispr/Y5.M009/Y5.M009-vs-cas.domtblout
+Y5.M009_37_55547_56311_+ Y5.M009 Y5.M009_37 55547 56311 + COG0640:csa3 2
+##Y5.M009_64 2 derived-fm crisprone/crispr/Y5.M009/Y5.M009-vs-cas.domtblout
+Y5.M009_64_24596_25015_- Y5.M009 Y5.M009_64 24596 25015 - COG0640:csa3 2
+Y5.M009_64_25302_26204_- Y5.M009 Y5.M009_64 25302 26204 - cls001593:casR 1
+##Y5.M009_25 1 derived-fm crisprone/crispr/Y5.M009/Y5.M009-vs-cas.domtblout
+Y5.M009_25_247343_247723_- Y5.M009 Y5.M009_25 247343 247723 - COG0640:csa3 2
+##Y5.M009_43 1 derived-fm crisprone/crispr/Y5.M009/Y5.M009-vs-cas.domtblout
+Y5.M009_43_19527_24017_- Y5.M009 Y5.M009_43 19527 24017 - cd06127:DEDDh 2
+##Y5.M009_56 1 derived-fm crisprone/crispr/Y5.M009/Y5.M009-vs-cas.domtblout
+Y5.M009_56_36058_38415_- Y5.M009 Y5.M009_56 36058 38415 - COG1199:DinG 2
+##Y5.M009_68 1 derived-fm crisprone/crispr/Y5.M009/Y5.M009-vs-cas.domtblout
+Y5.M009_68_7436_8179_- Y5.M009 Y5.M009_68 7436 8179 - COG0640:csa3 2
+##Y5.M009_12 1 derived-fm crisprone/crispr/Y5.M009/Y5.M009-vs-cas.domtblout
+Y5.M009_12_3064_3426_+ Y5.M009 Y5.M009_12 3064 3426 + COG0640:csa3 2
+##Y5.M009_38 1 derived-fm crisprone/crispr/Y5.M009/Y5.M009-vs-cas.domtblout
+Y5.M009_38_9597_9881_- Y5.M009 Y5.M009_38 9597 9881 - COG0640:csa3 2
+##Y5.M009_67 1 derived-fm crisprone/crispr/Y5.M009/Y5.M009-vs-cas.domtblout
+Y5.M009_67_13804_14055_- Y5.M009 Y5.M009_67 13804 14055 - COG0640:csa3 2
+##Y5.M009_61 1 derived-fm crisprone/crispr/Y5.M009/Y5.M009-vs-cas.domtblout
+Y5.M009_61_8307_8948_- Y5.M009 Y5.M009_61 8307 8948 - pfam13280:WYL 2

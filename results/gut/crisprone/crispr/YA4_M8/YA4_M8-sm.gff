@@ -1,0 +1,15 @@
+##gff-version 3
+#!processor CRISPRone
+YA4_20345	Genbank	region	1	80696	.	+	.	ID=YA4_20345;array=1;gene=0;type=NA
+YA4_20345	metaCRT	direct_repeat	8615	8868	.	.	.	what=CRISPR;des=repeat:GGCTGCTGATAACCCTGCTG;note=copy:5
+YA4_19138	Genbank	region	1	89478	.	+	.	ID=YA4_19138;array=1;gene=7;type=(type III)
+YA4_19138	FGS-hmm	CDS	46992	48413	.	+	.	what=cas;des=pfam09659:csm6;note=Subtype-III-A
+YA4_19138	metaCRT	direct_repeat	48574	49265	.	.	.	what=CRISPR;des=repeat:GATGCAGCTTAGCCCCGCGAGGGGACGGTTAC;note=copy:11
+YA4_19138	FGS-hmm	CDS	48816	49046	.	+	.	what=cas;des=unk;note=unknown
+YA4_19138	FGS-hmm	CDS	49094	49303	.	+	.	what=cas;des=unk;note=unknown
+YA4_19138	FGS-hmm	CDS	49369	51717	.	+	.	what=cas;des=cd09680:cas10;note=Type-III
+YA4_19138	FGS-hmm	CDS	51836	52153	.	+	.	what=cas;des=pfam03750:csm2gr11;note=Subtype-III-A
+YA4_19138	FGS-hmm	CDS	52156	52833	.	+	.	what=cas;des=COG1337:csm3gr7;note=Subtype-III-D
+YA4_19138	FGS-hmm	CDS	52802	53791	.	+	.	what=cas;des=cd09663:csm4gr5;note=Subtype-III-A
+YA4_19138	FGS-hmm	CDS	53788	54852	.	+	.	what=cas;des=cd09726:csm3gr7;note=Subtype-III-D
+YA4_19138	FGS-hmm	CDS	54849	55601	.	+	.	what=cas;des=pfam10040:cas6;note=other

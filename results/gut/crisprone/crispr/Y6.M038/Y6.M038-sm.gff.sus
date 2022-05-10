@@ -1,0 +1,31 @@
+##gff-version 3
+#!processor CRISPRone
+Y6.M038_58	Genbank	region	1	67092	.	+	.	ID=Y6.M038_58
+Y6.M038_58	FGS-hmm	CDS	60077	61045	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y6.M038_107	Genbank	region	1	5308	.	+	.	ID=Y6.M038_107
+Y6.M038_107	FGS-hmm	CDS	2433	2852	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y6.M038_107	FGS-hmm	CDS	3109	4011	.	-	.	what=cas;des=cls001593:casR;note=Type-I
+Y6.M038_44	Genbank	region	1	15216	.	+	.	ID=Y6.M038_44
+Y6.M038_44	FGS-hmm	CDS	12429	12797	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y6.M038_40	Genbank	region	1	254091	.	+	.	ID=Y6.M038_40
+Y6.M038_40	FGS-hmm	CDS	93841	94980	.	-	.	what=cas;des=pfam00078:RT;note=other
+Y6.M038_40	FGS-hmm	CDS	164917	166308	.	-	.	what=cas;des=pfam00078:RT;note=other
+Y6.M038_151	Genbank	region	1	16457	.	+	.	ID=Y6.M038_151
+Y6.M038_151	FGS-hmm	CDS	8425	8676	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y6.M038_151	FGS-hmm	CDS	8688	10424	.	-	.	what=cas;des=unk;note=unknown
+Y6.M038_151	FGS-hmm	CDS	10439	12184	.	-	.	what=cas;des=unk;note=unknown
+Y6.M038_151	FGS-hmm	CDS	12181	13653	.	-	.	what=cas;des=mkCas0101:csm2gr11;note=Subtype-III-D
+Y6.M038_69	Genbank	region	1	55368	.	+	.	ID=Y6.M038_69
+Y6.M038_69	FGS-hmm	CDS	3889	4506	.	+	.	what=cas;des=pfam13280:WYL;note=other
+Y6.M038_67	Genbank	region	1	110572	.	+	.	ID=Y6.M038_67
+Y6.M038_67	FGS-hmm	CDS	58603	58881	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y6.M038_145	Genbank	region	1	45382	.	+	.	ID=Y6.M038_145
+Y6.M038_145	FGS-hmm	CDS	1	876	.	-	.	what=cas;des=pfam13280:WYL;note=other
+Y6.M038_150	Genbank	region	1	18237	.	+	.	ID=Y6.M038_150
+Y6.M038_150	FGS-hmm	CDS	1	210	.	+	.	what=cas;des=pfam13280:WYL;note=other
+Y6.M038_77	Genbank	region	1	16857	.	+	.	ID=Y6.M038_77
+Y6.M038_77	FGS-hmm	CDS	11237	11626	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y6.M038_109	Genbank	region	1	2843	.	+	.	ID=Y6.M038_109
+Y6.M038_109	FGS-hmm	CDS	2433	2840	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y6.M038_56	Genbank	region	1	70306	.	+	.	ID=Y6.M038_56
+Y6.M038_56	FGS-hmm	CDS	38366	42859	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I

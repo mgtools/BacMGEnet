@@ -1,0 +1,10 @@
+##gff-version 3
+#!processor CRISPRone
+Y8.M011_1	Genbank	region	1	361953	.	+	.	ID=Y8.M011_1;array=0;gene=5;type=(type I, IV)
+Y8.M011_1	FGS-hmm	CDS	256308	257762	.	-	.	what=cas;des=mkCas0128:cas2;note=universal
+Y8.M011_1	FGS-hmm	CDS	258272	258976	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y8.M011_1	FGS-hmm	CDS	323925	324893	.	+	.	what=cas;des=mkCas0115:csx3;note=other
+Y8.M011_1	FGS-hmm	CDS	324949	326304	.	+	.	what=cas;des=unk;note=unknown
+Y8.M011_1	FGS-hmm	CDS	326309	326998	.	-	.	what=cas;des=unk;note=unknown
+Y8.M011_1	FGS-hmm	CDS	327130	327846	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y8.M011_1	FGS-hmm	CDS	328131	328583	.	+	.	what=cas;des=mkCas0068:csf1gr8;note=Subtype-IV-A

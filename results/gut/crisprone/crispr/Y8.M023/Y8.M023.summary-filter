@@ -1,0 +1,24 @@
+#/u/yye/CRISPRpk/pipelines/../CRISPRone/call-script/hmmscan2cas.py -collection unk -hmmscan crisprone/crispr/Y8.M023/Y8.M023-vs-cas.domtblout -gff crisprone/crispr/Y8.M023/Y8.M023.gff -isolate -outfile crisprone/crispr/Y8.M023/Y8.M023.summary -outfiltered crisprone/crispr/Y8.M023/Y8.M023.summary-filter -gafile /u/yye/CRISPRpk/pipelines/../CRISPRone/local/cas-db/cas-CRISPR.GA
+##Y8.M023_25 1 derived-fm crisprone/crispr/Y8.M023/Y8.M023-vs-cas.domtblout
+Y8.M023_25_15108_15479_+ Y8.M023 Y8.M023_25 15108 15479 + COG0640:csa3 2
+##Y8.M023_6 1 derived-fm crisprone/crispr/Y8.M023/Y8.M023-vs-cas.domtblout
+Y8.M023_6_48425_48796_+ Y8.M023 Y8.M023_6 48425 48796 + COG0640:csa3 2
+##Y8.M023_5 1 derived-fm crisprone/crispr/Y8.M023/Y8.M023-vs-cas.domtblout
+Y8.M023_5_48349_48879_+ Y8.M023 Y8.M023_5 48349 48879 + COG0640:csa3 2
+##Y8.M023_1 8 derived-fm crisprone/crispr/Y8.M023/Y8.M023-vs-cas.domtblout
+Y8.M023_1_124601_125443_- Y8.M023 Y8.M023_1 124601 125443 - cd06127:DEDDh 2
+Y8.M023_1_125488_126525_- Y8.M023 Y8.M023_1 125488 126525 - cd09719:cas1 2
+Y8.M023_1_126438_127088_- Y8.M023 Y8.M023_1 126438 127088 - pfam08798:cas6e 2
+Y8.M023_1_127103_127777_- Y8.M023 Y8.M023_1 127103 127777 - cd09756:cas5 2
+Y8.M023_1_127774_128847_- Y8.M023 Y8.M023_1 127774 128847 - pfam09344:cas7 2
+Y8.M023_1_128840_129451_- Y8.M023 Y8.M023_1 128840 129451 - mkCas0194:cse2gr11 2
+Y8.M023_1_129448_131016_- Y8.M023 Y8.M023_1 129448 131016 - cd09729:cas8e 2
+Y8.M023_1_131018_133549_- Y8.M023 Y8.M023_1 131018 133549 - COG1203:cas3 2
+##Y8.M023_12 1 derived-fm crisprone/crispr/Y8.M023/Y8.M023-vs-cas.domtblout
+Y8.M023_12_7325_8104_+ Y8.M023 Y8.M023_12 7325 8104 + COG0640:csa3 2
+##Y8.M023_13 1 derived-fm crisprone/crispr/Y8.M023/Y8.M023-vs-cas.domtblout
+Y8.M023_13_11240_11689_- Y8.M023 Y8.M023_13 11240 11689 - COG0640:csa3 2
+##Y8.M023_8 1 derived-fm crisprone/crispr/Y8.M023/Y8.M023-vs-cas.domtblout
+Y8.M023_8_99571_99888_- Y8.M023 Y8.M023_8 99571 99888 - COG0640:csa3 2
+##Y8.M023_3 1 derived-fm crisprone/crispr/Y8.M023/Y8.M023-vs-cas.domtblout
+Y8.M023_3_6339_6668_- Y8.M023 Y8.M023_3 6339 6668 - COG0640:csa3 2

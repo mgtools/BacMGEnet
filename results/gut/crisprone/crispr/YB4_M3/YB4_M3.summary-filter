@@ -1,0 +1,27 @@
+#/u/yye/CRISPRpk/pipelines/../CRISPRone/call-script/hmmscan2cas.py -collection unk -hmmscan crisprone/crispr/YB4_M3/YB4_M3-vs-cas.domtblout -gff crisprone/crispr/YB4_M3/YB4_M3.gff -isolate -outfile crisprone/crispr/YB4_M3/YB4_M3.summary -outfiltered crisprone/crispr/YB4_M3/YB4_M3.summary-filter -gafile /u/yye/CRISPRpk/pipelines/../CRISPRone/local/cas-db/cas-CRISPR.GA
+##YB4_11368 1 derived-fm crisprone/crispr/YB4_M3/YB4_M3-vs-cas.domtblout
+YB4_11368_8777_9511_+ YB4_M3 YB4_11368 8777 9511 + cd06127:DEDDh 2
+##YB4_14229 7 derived-fm crisprone/crispr/YB4_M3/YB4_M3-vs-cas.domtblout
+YB4_14229_176358_176747_+ YB4_M3 YB4_14229 176358 176747 + cd09655:casR 1
+YB4_14229_177168_179120_- YB4_M3 YB4_14229 177168 179120 - unk 1
+YB4_14229_179220_179438_- YB4_M3 YB4_14229 179220 179438 - unk 1
+YB4_14229_179502_179867_- YB4_M3 YB4_14229 179502 179867 - COG0640:csa3 2
+YB4_14229_180287_181477_- YB4_M3 YB4_14229 180287 181477 - unk 1
+YB4_14229_181827_182795_- YB4_M3 YB4_14229 181827 182795 - cd06127:DEDDh 1
+YB4_14229_220107_220556_+ YB4_M3 YB4_14229 220107 220556 + COG0640:csa3 2
+##YB4_9594 3 derived-fm crisprone/crispr/YB4_M3/YB4_M3-vs-cas.domtblout
+YB4_9594_74419_75123_- YB4_M3 YB4_9594 74419 75123 - COG0640:csa3 2
+YB4_9594_97059_97781_+ YB4_M3 YB4_9594 97059 97781 + COG0640:csa3 2
+YB4_9594_170982_172013_- YB4_M3 YB4_9594 170982 172013 - COG0640:csa3 2
+##YB4_19589 1 derived-fm crisprone/crispr/YB4_M3/YB4_M3-vs-cas.domtblout
+YB4_19589_19074_19718_- YB4_M3 YB4_19589 19074 19718 - COG0640:csa3 2
+##YB4_11166 1 derived-fm crisprone/crispr/YB4_M3/YB4_M3-vs-cas.domtblout
+YB4_11166_137459_137779_- YB4_M3 YB4_11166 137459 137779 - COG0640:csa3 2
+##YB4_19593 1 derived-fm crisprone/crispr/YB4_M3/YB4_M3-vs-cas.domtblout
+YB4_19593_64716_64994_- YB4_M3 YB4_19593 64716 64994 - COG0640:csa3 2
+##YB4_6566 3 derived-fm crisprone/crispr/YB4_M3/YB4_M3-vs-cas.domtblout
+YB4_6566_20512_21534_+ YB4_M3 YB4_6566 20512 21534 + pfam13280:WYL 2
+YB4_6566_21872_22246_- YB4_M3 YB4_6566 21872 22246 - unk 1
+YB4_6566_22435_25218_- YB4_M3 YB4_6566 22435 25218 - COG1199:DinG 2
+##YB4_11410 1 derived-fm crisprone/crispr/YB4_M3/YB4_M3-vs-cas.domtblout
+YB4_11410_81404_82189_+ YB4_M3 YB4_11410 81404 82189 + pfam13280:WYL 2

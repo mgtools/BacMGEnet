@@ -1,0 +1,9 @@
+##gff-version 3
+#!processor CRISPRone
+Y7.M048_2	Genbank	region	1	94774	.	+	.	ID=Y7.M048_2;array=1;gene=4;type=(type II)
+Y7.M048_2	CRISPRone	partial_repeat	33389	33424	.	+	.	what=antiCRISPR;des=antiRepeat:eat;note=22-14
+Y7.M048_2	FGS-hmm	CDS	33445	37590	.	+	.	what=cas;des=mkCas0193:cas9;note=Subtype-II-A
+Y7.M048_2	FGS-hmm	CDS	37606	38481	.	+	.	what=cas;des=cd09720:cas1;note=Subtype-II-A
+Y7.M048_2	FGS-hmm	CDS	38486	38791	.	+	.	what=cas;des=pfam09827:cas2;note=Subtype-II-A
+Y7.M048_2	FGS-hmm	CDS	38788	39465	.	+	.	what=cas;des=cd09644:csn2;note=Subtype-II-A
+Y7.M048_2	metaCRT	direct_repeat	39514	40474	.	.	.	what=CRISPR;des=repeat:GTTTGAGAGTCTTGTTAATACGGAAGGAATTCAAAC;note=copy:15

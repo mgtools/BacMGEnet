@@ -1,0 +1,13 @@
+#/u/yye/CRISPRpk/pipelines/../CRISPRone/call-script/hmmscan2cas.py -collection unk -hmmscan crisprone/crispr/YB4_M30/YB4_M30-vs-cas.domtblout -gff crisprone/crispr/YB4_M30/YB4_M30.gff -isolate -outfile crisprone/crispr/YB4_M30/YB4_M30.summary -outfiltered crisprone/crispr/YB4_M30/YB4_M30.summary-filter -gafile /u/yye/CRISPRpk/pipelines/../CRISPRone/local/cas-db/cas-CRISPR.GA
+##YB4_4583 2 derived-fm crisprone/crispr/YB4_M30/YB4_M30-vs-cas.domtblout
+YB4_4583_19841_20698_- YB4_M30 YB4_4583 19841 20698 - cd06127:DEDDh 2
+YB4_4583_20828_21763_- YB4_M30 YB4_4583 20828 21763 - cls000315:csb2gr5 1
+##YB4_11873 1 derived-fm crisprone/crispr/YB4_M30/YB4_M30-vs-cas.domtblout
+YB4_11873_89_580_+ YB4_M30 YB4_11873 89 580 + COG0640:csa3 2
+##YB4_5712 1 derived-fm crisprone/crispr/YB4_M30/YB4_M30-vs-cas.domtblout
+YB4_5712_5145_5429_- YB4_M30 YB4_5712 5145 5429 - COG0640:csa3 2
+##YB4_18795 2 derived-fm crisprone/crispr/YB4_M30/YB4_M30-vs-cas.domtblout
+YB4_18795_59411_60115_+ YB4_M30 YB4_18795 59411 60115 + COG1203:cas3 1
+YB4_18795_60181_60615_+ YB4_M30 YB4_18795 60181 60615 + cd09693:cas5 2
+##YB4_5488 1 derived-fm crisprone/crispr/YB4_M30/YB4_M30-vs-cas.domtblout
+YB4_5488_30723_31733_- YB4_M30 YB4_5488 30723 31733 - pfam13280:WYL 2

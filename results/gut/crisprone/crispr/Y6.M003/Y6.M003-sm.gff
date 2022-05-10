@@ -1,0 +1,9 @@
+##gff-version 3
+#!processor CRISPRone
+Y6.M003_22	Genbank	region	1	83479	.	+	.	ID=Y6.M003_22;array=0;gene=3;type=(type I)
+Y6.M003_22	FGS-hmm	CDS	20370	20747	.	+	.	what=cas;des=cd09655:casR;note=Type-I
+Y6.M003_22	FGS-hmm	CDS	20830	22782	.	-	.	what=cas;des=unk;note=unknown
+Y6.M003_22	FGS-hmm	CDS	22882	23100	.	-	.	what=cas;des=unk;note=unknown
+Y6.M003_22	FGS-hmm	CDS	23163	23528	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y6.M003_22	FGS-hmm	CDS	23918	25039	.	-	.	what=cas;des=unk;note=unknown
+Y6.M003_22	FGS-hmm	CDS	25680	26648	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I

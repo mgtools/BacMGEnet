@@ -1,0 +1,12 @@
+##gff-version 3
+#!processor CRISPRone
+YB2_2499	Genbank	region	1	209581	.	+	.	ID=YB2_2499;array=1;gene=8;type=(type I)
+YB2_2499	metaCRT	direct_repeat	120564	124861	.	.	.	what=CRISPR;des=repeat:GGTTCATCCCCGCTCACGCGGGGAATAC;note=copy:71
+YB2_2499	FGS-hmm	CDS	124907	125806	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YB2_2499	FGS-hmm	CDS	125803	126747	.	-	.	what=cas;des=cd09719:cas1;note=universal
+YB2_2499	FGS-hmm	CDS	126826	127464	.	-	.	what=cas;des=pfam08798:cas6e;note=other
+YB2_2499	FGS-hmm	CDS	127479	128186	.	-	.	what=cas;des=cd09645:cas5;note=Subtype-I-E
+YB2_2499	FGS-hmm	CDS	128183	129250	.	-	.	what=cas;des=pfam09344:cas7;note=Subtype-I-E
+YB2_2499	FGS-hmm	CDS	129243	129854	.	-	.	what=cas;des=mkCas0194:cse2gr11;note=Subtype-I-E
+YB2_2499	FGS-hmm	CDS	129870	131429	.	-	.	what=cas;des=cd09729:cas8e;note=Subtype-I-E
+YB2_2499	FGS-hmm	CDS	131426	134122	.	-	.	what=cas;des=COG1203:cas3;note=Type-I

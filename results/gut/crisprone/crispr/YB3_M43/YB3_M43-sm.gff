@@ -1,0 +1,19 @@
+##gff-version 3
+#!processor CRISPRone
+YB3_11288	Genbank	region	1	11188	.	+	.	ID=YB3_11288;array=1;gene=0;type=NA
+YB3_11288	metaCRT	direct_repeat	1168	1348	.	.	.	what=CRISPR;des=repeat:CCGGCTCTGTCACCGGCTCACTGCTTTC;note=copy:3
+YB3_6667	Genbank	region	1	2358	.	+	.	ID=YB3_6667;array=1;gene=3;type=(type III)
+YB3_6667	metaCRT	direct_repeat	4	332	.	.	.	what=CRISPR;des=repeat:ATTTGAGAAATGCAGTCCCCGTGAGGGGACGGAAAC;note=copy:5
+YB3_6667	FGS-hmm	CDS	499	1500	.	+	.	what=cas;des=cd09634:cas1;note=universal
+YB3_6667	FGS-hmm	CDS	1532	1819	.	+	.	what=cas;des=pfam09827:cas2;note=universal
+YB3_6667	FGS-hmm	CDS	1831	2355	.	+	.	what=cas;des=cd09746:csm6;note=Subtype-III-A
+YB3_11842	Genbank	region	1	100944	.	+	.	ID=YB3_11842;array=1;gene=0;type=NA
+YB3_11842	metaCRT	direct_repeat	11202	11488	.	.	.	what=CRISPR;des=repeat:GGTGCGTCTGTCTCAGGAGC;note=copy:7
+YB3_10653	Genbank	region	1	13644	.	+	.	ID=YB3_10653;array=1;gene=6;type=(type III)
+YB3_10653	metaCRT	direct_repeat	0	1192	.	.	.	what=CRISPR;des=repeat:TTTCCGTCCCCTCACGGGGACTGCATTTCTCAAAT;note=copy:17
+YB3_10653	FGS-hmm	CDS	1327	2427	.	-	.	what=cas;des=pfam03787:csm3gr7;note=Type-III
+YB3_10653	FGS-hmm	CDS	2424	3350	.	-	.	what=cas;des=pfam03787:csm3gr7;note=Type-III
+YB3_10653	FGS-hmm	CDS	3362	4033	.	-	.	what=cas;des=COG1337:csm3gr7;note=Subtype-III-D
+YB3_10653	FGS-hmm	CDS	4048	4443	.	-	.	what=cas;des=cd09647:csm2gr11;note=Subtype-III-A
+YB3_10653	FGS-hmm	CDS	4445	6787	.	-	.	what=cas;des=cd09680:cas10;note=Type-III
+YB3_10653	FGS-hmm	CDS	6780	7520	.	-	.	what=cas;des=COG5551:cas6;note=Type-III

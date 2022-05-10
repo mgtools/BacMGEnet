@@ -1,0 +1,22 @@
+##gff-version 3
+#!processor CRISPRone
+YB3_9594	Genbank	region	1	174295	.	+	.	ID=YB3_9594;array=1;gene=0;type=NA
+YB3_9594	metaCRT	direct_repeat	113291	113456	.	.	.	what=CRISPR;des=repeat:GTCTTCTCAACTCACGCCTTCACGGAAGGCGAC;note=copy:3
+YB3_12893	Genbank	region	1	82197	.	+	.	ID=YB3_12893;array=1;gene=4;type=(type II)
+YB3_12893	FGS-hmm	CDS	68401	72378	.	+	.	what=cas;des=mkCas0193:cas9;note=Subtype-II-A
+YB3_12893	FGS-hmm	CDS	72375	73241	.	+	.	what=cas;des=cd09720:cas1;note=Subtype-II-A
+YB3_12893	FGS-hmm	CDS	73253	73558	.	+	.	what=cas;des=pfam09827:cas2;note=Subtype-II-A
+YB3_12893	FGS-hmm	CDS	73555	74229	.	+	.	what=cas;des=cd09644:csn2;note=Subtype-II-A
+YB3_12893	metaCRT	direct_repeat	74293	76179	.	.	.	what=CRISPR;des=repeat:GTTTGAGAATGATGTAAAAATGTATGGTACTCAAAC;note=copy:29
+YB3_9918	Genbank	region	1	523368	.	+	.	ID=YB3_9918;array=1;gene=9;type=(type III)
+YB3_9918	FGS-hmm	CDS	502481	503827	.	-	.	what=cas;des=pfam09659:csm6;note=Subtype-III-A
+YB3_9918	FGS-hmm	CDS	503840	504157	.	-	.	what=cas;des=pfam09827:cas2;note=universal
+YB3_9918	FGS-hmm	CDS	504177	505223	.	-	.	what=cas;des=cd09634:cas1;note=universal
+YB3_9918	metaCRT	direct_repeat	505228	506647	.	.	.	what=CRISPR;des=repeat:TTTTCGTCCCCTATCGGGGAATCTACTTTCTCTAC;note=copy:20
+YB3_9918	FGS-hmm	CDS	505432	505653	.	+	.	what=cas;des=unk;note=unknown
+YB3_9918	FGS-hmm	CDS	506788	507924	.	-	.	what=cas;des=cd09726:csm3gr7;note=Subtype-III-D
+YB3_9918	FGS-hmm	CDS	507927	508838	.	-	.	what=cas;des=pfam03787:csm3gr7;note=Type-III
+YB3_9918	FGS-hmm	CDS	508849	509502	.	-	.	what=cas;des=COG1337:csm3gr7;note=Subtype-III-D
+YB3_9918	FGS-hmm	CDS	509515	509907	.	-	.	what=cas;des=cd09647:csm2gr11;note=Subtype-III-A
+YB3_9918	FGS-hmm	CDS	509904	512213	.	-	.	what=cas;des=cd09680:cas10;note=Type-III
+YB3_9918	FGS-hmm	CDS	512210	512953	.	-	.	what=cas;des=cd09652:cas6;note=other

@@ -1,0 +1,25 @@
+#/u/yye/CRISPRpk/pipelines/../CRISPRone/call-script/hmmscan2cas.py -collection unk -hmmscan crisprone/crispr/Y8.M082/Y8.M082-vs-cas.domtblout -gff crisprone/crispr/Y8.M082/Y8.M082.gff -isolate -outfile crisprone/crispr/Y8.M082/Y8.M082.summary -outfiltered crisprone/crispr/Y8.M082/Y8.M082.summary-filter -gafile /u/yye/CRISPRpk/pipelines/../CRISPRone/local/cas-db/cas-CRISPR.GA
+##Y8.M082_94 1 derived-fm crisprone/crispr/Y8.M082/Y8.M082-vs-cas.domtblout
+Y8.M082_94_1326_1652_+ Y8.M082 Y8.M082_94 1326 1652 + COG0640:csa3 2
+##Y8.M082_50 8 derived-fm crisprone/crispr/Y8.M082/Y8.M082-vs-cas.domtblout
+Y8.M082_50_5434_7800_+ Y8.M082 Y8.M082_50 5434 7800 + cd09641:cas3HD 2
+Y8.M082_50_8103_8237_+ Y8.M082 Y8.M082_50 8103 8237 + unk 1
+Y8.M082_50_8315_9055_+ Y8.M082 Y8.M082_50 8315 9055 + cd09752:cas5 2
+Y8.M082_50_9039_10919_+ Y8.M082 Y8.M082_50 9039 10919 + pfam09709:cas8c 1
+Y8.M082_50_10916_11761_+ Y8.M082 Y8.M082_50 10916 11761 + cd09689:cas7 2
+Y8.M082_50_11748_12416_+ Y8.M082 Y8.M082_50 11748 12416 + pfam01930:cas4 2
+Y8.M082_50_12413_13444_+ Y8.M082 Y8.M082_50 12413 13444 + cd09721:cas1 2
+Y8.M082_50_13451_13744_+ Y8.M082 Y8.M082_50 13451 13744 + cd09725:cas2 2
+##Y8.M082_172 1 derived-fm crisprone/crispr/Y8.M082/Y8.M082-vs-cas.domtblout
+Y8.M082_172_1628_2659_+ Y8.M082 Y8.M082_172 1628 2659 + pfam13280:WYL 2
+##Y8.M082_143 1 derived-fm crisprone/crispr/Y8.M082/Y8.M082-vs-cas.domtblout
+Y8.M082_143_3575_4063_- Y8.M082 Y8.M082_143 3575 4063 - cd06127:DEDDh 2
+##Y8.M082_494 1 derived-fm crisprone/crispr/Y8.M082/Y8.M082-vs-cas.domtblout
+Y8.M082_494_4025_5686_- Y8.M082 Y8.M082_494 4025 5686 - pfam00078:RT 2
+##Y8.M082_462 1 derived-fm crisprone/crispr/Y8.M082/Y8.M082-vs-cas.domtblout
+Y8.M082_462_4071_4826_+ Y8.M082 Y8.M082_462 4071 4826 + COG0640:csa3 2
+##Y8.M082_345 1 derived-fm crisprone/crispr/Y8.M082/Y8.M082-vs-cas.domtblout
+Y8.M082_345_2025_3317_- Y8.M082 Y8.M082_345 2025 3317 - COG4804:PD-DExK 2
+##Y8.M082_114 2 derived-fm crisprone/crispr/Y8.M082/Y8.M082-vs-cas.domtblout
+Y8.M082_114_4047_4367_- Y8.M082 Y8.M082_114 4047 4367 - COG4804:PD-DExK 2
+Y8.M082_114_4357_5148_- Y8.M082 Y8.M082_114 4357 5148 - COG4804:PD-DExK 2

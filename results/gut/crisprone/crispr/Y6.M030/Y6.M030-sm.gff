@@ -1,0 +1,11 @@
+##gff-version 3
+#!processor CRISPRone
+Y6.M030_21	Genbank	region	1	22057	.	+	.	ID=Y6.M030_21;array=1;gene=7;type=(type I)
+Y6.M030_21	FGS-hmm	CDS	120	1757	.	+	.	what=cas;des=cd09729:cas8e;note=Subtype-I-E
+Y6.M030_21	FGS-hmm	CDS	1775	2347	.	+	.	what=cas;des=mkCas0194:cse2gr11;note=Subtype-I-E
+Y6.M030_21	FGS-hmm	CDS	2344	3417	.	+	.	what=cas;des=pfam09344:cas7;note=Subtype-I-E
+Y6.M030_21	FGS-hmm	CDS	3423	4061	.	+	.	what=cas;des=cd09756:cas5;note=Subtype-I-E
+Y6.M030_21	FGS-hmm	CDS	4070	4696	.	+	.	what=cas;des=pfam08798:cas6e;note=other
+Y6.M030_21	FGS-hmm	CDS	4696	5637	.	+	.	what=cas;des=cd09719:cas1;note=universal
+Y6.M030_21	FGS-hmm	CDS	5634	6530	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I
+Y6.M030_21	metaCRT	direct_repeat	6566	9099	.	.	.	what=CRISPR;des=repeat:CTTTTCCCCGCATAGGCGGGGGTGATCC;note=copy:42

@@ -1,0 +1,12 @@
+##gff-version 3
+#!processor CRISPRone
+YA1_2211	Genbank	region	1	452890	.	+	.	ID=YA1_2211;array=2;gene=7;type=(type I)
+YA1_2211	metaCRT	direct_repeat	412066	412226	.	.	.	what=CRISPR;des=repeat:TCGGTACTGTCGTAGGCGTTGCT;note=copy:4
+YA1_2211	metaCRT	direct_repeat	441933	443245	.	.	.	what=CRISPR;des=repeat:ATTTCAACTCACACGCTCCGTGGGGAGCGTGAC;note=copy:20
+YA1_2211	FGS-hmm	CDS	443391	443681	.	-	.	what=cas;des=cd09725:cas2;note=universal
+YA1_2211	FGS-hmm	CDS	443691	444713	.	-	.	what=cas;des=cd09634:cas1;note=universal
+YA1_2211	FGS-hmm	CDS	444710	445354	.	-	.	what=cas;des=cd09637:cas4;note=other
+YA1_2211	FGS-hmm	CDS	445351	446229	.	-	.	what=cas;des=pfam05107:cas7b;note=Type-I
+YA1_2211	FGS-hmm	CDS	446246	448036	.	-	.	what=cas;des=cd09757:cas8c;note=Subtype-I-C
+YA1_2211	FGS-hmm	CDS	448030	448752	.	-	.	what=cas;des=cd09752:cas5;note=Subtype-I-C
+YA1_2211	FGS-hmm	CDS	448763	450916	.	-	.	what=cas;des=cd09641:cas3HD;note=Type-I

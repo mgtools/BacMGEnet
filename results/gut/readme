@@ -1,0 +1,5 @@
+this folder contains results for the human gut MAG collection.
+
+crisprone/ -- CRISPR characterization results.
+mgenet/ -- network of MGEs and human gut bacteria.
+mge.tsv and mge.fna -- the annotation and sequences of the identified MGEs

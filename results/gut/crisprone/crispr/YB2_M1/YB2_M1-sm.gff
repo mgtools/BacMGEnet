@@ -1,0 +1,15 @@
+##gff-version 3
+#!processor CRISPRone
+YB2_10021	Genbank	region	1	169833	.	+	.	ID=YB2_10021;array=0;gene=8;type=(type I)
+YB2_10021	FGS-hmm	CDS	143650	143946	.	-	.	what=cas;des=cd09648:cas2;note=universal
+YB2_10021	FGS-hmm	CDS	143924	144835	.	-	.	what=cas;des=cd09719:cas1;note=universal
+YB2_10021	FGS-hmm	CDS	144887	145585	.	-	.	what=cas;des=cd09645:cas5;note=Subtype-I-E
+YB2_10021	FGS-hmm	CDS	145582	146664	.	-	.	what=cas;des=pfam09344:cas7;note=Subtype-I-E
+YB2_10021	FGS-hmm	CDS	146680	147288	.	-	.	what=cas;des=pfam08798:cas6e;note=other
+YB2_10021	FGS-hmm	CDS	147285	147830	.	-	.	what=cas;des=cd09731:cse2gr11;note=Subtype-I-E
+YB2_10021	FGS-hmm	CDS	147842	149329	.	-	.	what=cas;des=pfam09481:cas8e;note=Subtype-I-E
+YB2_10021	FGS-hmm	CDS	149345	151903	.	-	.	what=cas;des=cd09639:cas3;note=Type-I
+YB2_12815	Genbank	region	1	678317	.	+	.	ID=YB2_12815;array=1;gene=0;type=NA
+YB2_12815	metaCRT	direct_repeat	20777	21344	.	.	.	what=CRISPR;des=repeat:GTTATCCGCCGTGTAGGTGGTTTAGAAG;note=copy:10
+YB2_7224	Genbank	region	1	33275	.	+	.	ID=YB2_7224;array=1;gene=0;type=NA
+YB2_7224	metaCRT	direct_repeat	7190	7517	.	.	.	what=CRISPR;des=repeat:GTTATCCGCCGTGTAGGTGGCTTAGAAG;note=copy:6

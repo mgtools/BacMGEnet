@@ -1,0 +1,27 @@
+#/u/yye/CRISPRpk/pipelines/../CRISPRone/call-script/hmmscan2cas.py -collection unk -hmmscan crisprone/crispr/YB2_M26/YB2_M26-vs-cas.domtblout -gff crisprone/crispr/YB2_M26/YB2_M26.gff -isolate -outfile crisprone/crispr/YB2_M26/YB2_M26.summary -outfiltered crisprone/crispr/YB2_M26/YB2_M26.summary-filter -gafile /u/yye/CRISPRpk/pipelines/../CRISPRone/local/cas-db/cas-CRISPR.GA
+##YB2_7512 1 derived-fm crisprone/crispr/YB2_M26/YB2_M26-vs-cas.domtblout
+YB2_7512_78008_79042_+ YB2_M26 YB2_7512 78008 79042 + pfam00078:RT 2
+##YB2_15680 4 derived-fm crisprone/crispr/YB2_M26/YB2_M26-vs-cas.domtblout
+YB2_15680_64923_65900_- YB2_M26 YB2_15680 64923 65900 - pfam13280:WYL 2
+YB2_15680_65969_68290_- YB2_M26 YB2_15680 65969 68290 - unk 1
+YB2_15680_68375_69418_- YB2_M26 YB2_15680 68375 69418 - unk 1
+YB2_15680_69473_69730_- YB2_M26 YB2_15680 69473 69730 - mkCas0071:csa5gr11 1
+##YB2_16167 4 derived-fm crisprone/crispr/YB2_M26/YB2_M26-vs-cas.domtblout
+YB2_16167_70202_71533_+ YB2_M26 YB2_16167 70202 71533 + pfam00078:RT 2
+YB2_16167_71535_71867_- YB2_M26 YB2_16167 71535 71867 - unk 1
+YB2_16167_72098_72874_- YB2_M26 YB2_16167 72098 72874 - unk 1
+YB2_16167_72871_73842_- YB2_M26 YB2_16167 72871 73842 - cls001593:casR 1
+##YB2_12574 3 derived-fm crisprone/crispr/YB2_M26/YB2_M26-vs-cas.domtblout
+YB2_12574_27600_28190_- YB2_M26 YB2_12574 27600 28190 - cd06127:DEDDh 2
+YB2_12574_117049_118017_- YB2_M26 YB2_12574 117049 118017 - COG0640:csa3 2
+YB2_12574_118179_119483_+ YB2_M26 YB2_12574 118179 119483 + cd09649:cas5 1
+##YB2_17451 1 derived-fm crisprone/crispr/YB2_M26/YB2_M26-vs-cas.domtblout
+YB2_17451_52417_52839_- YB2_M26 YB2_17451 52417 52839 - COG0640:csa3 2
+##YB2_966 1 derived-fm crisprone/crispr/YB2_M26/YB2_M26-vs-cas.domtblout
+YB2_966_165325_166716_+ YB2_M26 YB2_966 165325 166716 + pfam00078:RT 2
+##YB2_14511 2 derived-fm crisprone/crispr/YB2_M26/YB2_M26-vs-cas.domtblout
+YB2_14511_31040_33259_- YB2_M26 YB2_14511 31040 33259 - mkCas0115:csx3 1
+YB2_14511_33384_34388_+ YB2_M26 YB2_14511 33384 34388 + pfam13280:WYL 2
+##YB2_1076 2 derived-fm crisprone/crispr/YB2_M26/YB2_M26-vs-cas.domtblout
+YB2_1076_449413_451410_- YB2_M26 YB2_1076 449413 451410 - COG1199:DinG 2
+YB2_1076_518131_518913_- YB2_M26 YB2_1076 518131 518913 - cd06127:DEDDh 2

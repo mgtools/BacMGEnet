@@ -1,0 +1,11 @@
+##gff-version 3
+#!processor CRISPRone
+YA4_13592	Genbank	region	1	34474	.	+	.	ID=YA4_13592;array=1;gene=5;type=(type I, II)
+YA4_13592	metaCRT	direct_repeat	24729	26346	.	.	.	what=CRISPR;des=repeat:GTTTTACTACCTTATGAAATTACACTATTCTCAAAC;note=copy:25
+YA4_13592	FGS-hmm	CDS	26411	27088	.	-	.	what=cas;des=cd09644:csn2;note=Subtype-II-A
+YA4_13592	FGS-hmm	CDS	27085	27390	.	-	.	what=cas;des=pfam09827:cas2;note=Subtype-II-A
+YA4_13592	FGS-hmm	CDS	27395	28276	.	-	.	what=cas;des=cd09720:cas1;note=Subtype-II-A
+YA4_13592	FGS-hmm	CDS	28293	32297	.	-	.	what=cas;des=mkCas0193:cas9;note=Subtype-II-A
+YA4_13592	FGS-hmm	CDS	32600	33535	.	-	.	what=cas;des=unk;note=unknown
+YA4_13592	FGS-hmm	CDS	33637	33801	.	+	.	what=cas;des=unk;note=unknown
+YA4_13592	FGS-hmm	CDS	33827	34186	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A

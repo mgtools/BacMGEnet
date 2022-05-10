@@ -1,0 +1,22 @@
+##gff-version 3
+#!processor CRISPRone
+YA2_276	Genbank	region	1	81836	.	+	.	ID=YA2_276
+YA2_276	FGS-hmm	CDS	79741	81075	.	-	.	what=cas;des=COG4804:PD-DExK;note=other
+YA2_5196	Genbank	region	1	11207	.	+	.	ID=YA2_5196
+YA2_5196	FGS-hmm	CDS	1967	2899	.	-	.	what=cas;des=COG2378:WYL;note=other
+YA2_634	Genbank	region	1	6273	.	+	.	ID=YA2_634
+YA2_634	FGS-hmm	CDS	4976	5530	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA2_856	Genbank	region	1	5691	.	+	.	ID=YA2_856
+YA2_856	FGS-hmm	CDS	1144	1722	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YA2_1727	Genbank	region	1	30173	.	+	.	ID=YA2_1727
+YA2_1727	FGS-hmm	CDS	8551	9096	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YA2_4989	Genbank	region	1	14222	.	+	.	ID=YA2_4989
+YA2_4989	metaCRT	direct_repeat	2028	2256	.	.	.	what=CRISPR;des=repeat:ATTCGACCGCGCACCCGATGCA;note=copy:6
+YA2_4767	Genbank	region	1	2046	.	+	.	ID=YA2_4767
+YA2_4767	FGS-hmm	CDS	2	1159	.	-	.	what=cas;des=pfam00078:RT;note=other
+YA2_2334	Genbank	region	1	24768	.	+	.	ID=YA2_2334
+YA2_2334	FGS-hmm	CDS	12799	13569	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YA2_2594	Genbank	region	1	23326	.	+	.	ID=YA2_2594
+YA2_2594	FGS-hmm	CDS	15451	15912	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA2_1456	Genbank	region	1	33740	.	+	.	ID=YA2_1456
+YA2_1456	FGS-hmm	CDS	26932	28518	.	+	.	what=cas;des=pfam08800:PrimPol;note=other

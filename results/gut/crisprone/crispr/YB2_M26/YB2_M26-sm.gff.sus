@@ -1,0 +1,26 @@
+##gff-version 3
+#!processor CRISPRone
+YB2_966	Genbank	region	1	225718	.	+	.	ID=YB2_966
+YB2_966	FGS-hmm	CDS	165325	166716	.	+	.	what=cas;des=pfam00078:RT;note=other
+YB2_16167	Genbank	region	1	83621	.	+	.	ID=YB2_16167
+YB2_16167	FGS-hmm	CDS	70202	71533	.	+	.	what=cas;des=pfam00078:RT;note=other
+YB2_16167	FGS-hmm	CDS	71535	71867	.	-	.	what=cas;des=unk;note=unknown
+YB2_16167	FGS-hmm	CDS	72098	72874	.	-	.	what=cas;des=unk;note=unknown
+YB2_16167	FGS-hmm	CDS	72871	73842	.	-	.	what=cas;des=cls001593:casR;note=Type-I
+YB2_12574	Genbank	region	1	136030	.	+	.	ID=YB2_12574
+YB2_12574	FGS-hmm	CDS	27600	28190	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YB2_1076	Genbank	region	1	547445	.	+	.	ID=YB2_1076
+YB2_1076	FGS-hmm	CDS	449413	451410	.	-	.	what=cas;des=COG1199:DinG;note=Subtype-IV-A
+YB2_1076	FGS-hmm	CDS	518131	518913	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YB2_17451	Genbank	region	1	73502	.	+	.	ID=YB2_17451
+YB2_17451	FGS-hmm	CDS	52417	52839	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YB2_15680	Genbank	region	1	292210	.	+	.	ID=YB2_15680
+YB2_15680	FGS-hmm	CDS	64923	65900	.	-	.	what=cas;des=pfam13280:WYL;note=other
+YB2_15680	FGS-hmm	CDS	65969	68290	.	-	.	what=cas;des=unk;note=unknown
+YB2_15680	FGS-hmm	CDS	68375	69418	.	-	.	what=cas;des=unk;note=unknown
+YB2_15680	FGS-hmm	CDS	69473	69730	.	-	.	what=cas;des=mkCas0071:csa5gr11;note=Subtype-I-A
+YB2_7512	Genbank	region	1	180705	.	+	.	ID=YB2_7512
+YB2_7512	FGS-hmm	CDS	78008	79042	.	+	.	what=cas;des=pfam00078:RT;note=other
+YB2_14511	Genbank	region	1	99401	.	+	.	ID=YB2_14511
+YB2_14511	FGS-hmm	CDS	31040	33259	.	-	.	what=cas;des=mkCas0115:csx3;note=other
+YB2_14511	FGS-hmm	CDS	33384	34388	.	+	.	what=cas;des=pfam13280:WYL;note=other

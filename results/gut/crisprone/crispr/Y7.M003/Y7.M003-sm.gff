@@ -1,0 +1,12 @@
+##gff-version 3
+#!processor CRISPRone
+Y7.M003_23	Genbank	region	1	129158	.	+	.	ID=Y7.M003_23;array=0;gene=4;type=(type I, II)
+Y7.M003_23	FGS-hmm	CDS	55330	55647	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y7.M003_23	FGS-hmm	CDS	55748	56446	.	+	.	what=cas;des=unk;note=unknown
+Y7.M003_23	FGS-hmm	CDS	56776	57126	.	-	.	what=cas;des=unk;note=unknown
+Y7.M003_23	FGS-hmm	CDS	57164	59296	.	-	.	what=cas;des=cd09641:cas3HD;note=Type-I
+Y7.M003_23	FGS-hmm	CDS	59392	59523	.	-	.	what=cas;des=unk;note=unknown
+Y7.M003_23	FGS-hmm	CDS	59546	59932	.	+	.	what=cas;des=unk;note=unknown
+Y7.M003_23	FGS-hmm	CDS	59949	61094	.	+	.	what=cas;des=cd12218:csn2;note=Subtype-II-A
+Y7.M003_23	FGS-hmm	CDS	61145	62572	.	-	.	what=cas;des=unk;note=unknown
+Y7.M003_23	FGS-hmm	CDS	62701	66027	.	-	.	what=cas;des=cd09639:cas3;note=Type-I

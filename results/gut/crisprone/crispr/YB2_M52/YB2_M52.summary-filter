@@ -1,0 +1,13 @@
+#/u/yye/CRISPRpk/pipelines/../CRISPRone/call-script/hmmscan2cas.py -collection unk -hmmscan crisprone/crispr/YB2_M52/YB2_M52-vs-cas.domtblout -gff crisprone/crispr/YB2_M52/YB2_M52.gff -isolate -outfile crisprone/crispr/YB2_M52/YB2_M52.summary -outfiltered crisprone/crispr/YB2_M52/YB2_M52.summary-filter -gafile /u/yye/CRISPRpk/pipelines/../CRISPRone/local/cas-db/cas-CRISPR.GA
+##YB2_13596 1 derived-fm crisprone/crispr/YB2_M52/YB2_M52-vs-cas.domtblout
+YB2_13596_9334_10023_+ YB2_M52 YB2_13596 9334 10023 + cd06127:DEDDh 2
+##YB2_17493 1 derived-fm crisprone/crispr/YB2_M52/YB2_M52-vs-cas.domtblout
+YB2_17493_4695_5648_- YB2_M52 YB2_17493 4695 5648 - pfam13280:WYL 2
+##YB2_13725 1 derived-fm crisprone/crispr/YB2_M52/YB2_M52-vs-cas.domtblout
+YB2_13725_624_1451_- YB2_M52 YB2_13725 624 1451 - COG0640:csa3 2
+##YB2_1666 1 derived-fm crisprone/crispr/YB2_M52/YB2_M52-vs-cas.domtblout
+YB2_1666_2676_3437_+ YB2_M52 YB2_1666 2676 3437 + cd06127:DEDDh 2
+##YB2_14117 1 derived-fm crisprone/crispr/YB2_M52/YB2_M52-vs-cas.domtblout
+YB2_14117_2609_3514_+ YB2_M52 YB2_14117 2609 3514 + COG0640:csa3 2
+##YB2_17612 1 derived-fm crisprone/crispr/YB2_M52/YB2_M52-vs-cas.domtblout
+YB2_17612_734_2656_+ YB2_M52 YB2_17612 734 2656 + COG1199:DinG 2

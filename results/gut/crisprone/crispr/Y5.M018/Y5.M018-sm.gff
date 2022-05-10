@@ -1,0 +1,18 @@
+##gff-version 3
+#!processor CRISPRone
+Y5.M018_37	Genbank	region	1	21610	.	+	.	ID=Y5.M018_37;array=1;gene=0;type=NA
+Y5.M018_37	metaCRT	direct_repeat	7566	7786	.	.	.	what=CRISPR;des=repeat:ATTTTGGGGGCGCTTTCTGCCCCCACTTT;note=copy:4
+Y5.M018_24	Genbank	region	1	39278	.	+	.	ID=Y5.M018_24;array=2;gene=9;type=(type I)
+Y5.M018_24	metaCRT	direct_repeat	26325	26884	.	.	.	what=CRISPR;des=repeat:GAATTAATAGAAACATAATGGAATTTAAAG;note=copy:9
+Y5.M018_24	metaCRT	direct_repeat	26986	27498	.	.	.	what=CRISPR;des=repeat:GAATTAATAGAAACATAATGGAATTTAAAG;note=copy:8
+Y5.M018_24	FGS-hmm	CDS	27778	28530	.	+	.	what=cas;des=pfam01881:cas6;note=other
+Y5.M018_24	FGS-hmm	CDS	28527	29918	.	+	.	what=cas;des=cd09697:cas8b2;note=Subtype-I-B
+Y5.M018_24	FGS-hmm	CDS	29911	30795	.	+	.	what=cas;des=cd09650:cas7;note=Type-I
+Y5.M018_24	FGS-hmm	CDS	30819	31925	.	+	.	what=cas;des=cd09693:cas5;note=Type-I
+Y5.M018_24	FGS-hmm	CDS	31982	34240	.	+	.	what=cas;des=COG1203:cas3;note=Type-I
+Y5.M018_24	FGS-hmm	CDS	34252	34752	.	+	.	what=cas;des=pfam01930:cas4;note=Type-I
+Y5.M018_24	FGS-hmm	CDS	34766	35758	.	+	.	what=cas;des=cd09722:cas1;note=universal
+Y5.M018_24	FGS-hmm	CDS	35761	36039	.	+	.	what=cas;des=COG1343:cas2;note=universal
+Y5.M018_24	FGS-hmm	CDS	36162	39134	.	+	.	what=cas;des=COG4951:PrimPol;note=other
+Y5.M018_20	Genbank	region	1	88547	.	+	.	ID=Y5.M018_20;array=1;gene=0;type=NA
+Y5.M018_20	metaCRT	direct_repeat	6553	8697	.	.	.	what=CRISPR;des=repeat:ATTTAAATTCCATTATGATTCTATTAATTC;note=copy:33

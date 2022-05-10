@@ -1,0 +1,9 @@
+##gff-version 3
+#!processor CRISPRone
+YA2_1391	Genbank	region	1	397292	.	+	.	ID=YA2_1391;array=1;gene=4;type=(type II)
+YA2_1391	FGS-hmm	CDS	289912	294180	.	+	.	what=cas;des=cd09704:cas9;note=Subtype-II-B
+YA2_1391	FGS-hmm	CDS	294366	295190	.	+	.	what=cas;des=cd09634:cas1;note=Subtype-II-B
+YA2_1391	FGS-hmm	CDS	295203	295499	.	+	.	what=cas;des=pfam09827:cas2;note=Subtype-II-B
+YA2_1391	FGS-hmm	CDS	295486	296073	.	+	.	what=cas;des=cd09637:cas4;note=Subtype-II-B
+YA2_1391	CRISPRone	partial_repeat	296224	296260	.	+	.	what=antiCRISPR;des=antiRepeat:eat;note=30-7
+YA2_1391	metaCRT	direct_repeat	296382	297726	.	.	.	what=CRISPR;des=repeat:GCAGAGATCATAACGCTACGAGCTATAGCACTGAAAC;note=copy:19

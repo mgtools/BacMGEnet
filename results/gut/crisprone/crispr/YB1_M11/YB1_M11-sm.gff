@@ -1,0 +1,27 @@
+##gff-version 3
+#!processor CRISPRone
+YB1_12507	Genbank	region	1	320521	.	+	.	ID=YB1_12507;array=1;gene=0;type=NA
+YB1_12507	metaCRT	direct_repeat	250506	251141	.	.	.	what=CRISPR;des=repeat:ATTTCAATCCACGTTCCCTATACAGGGAACGAC;note=copy:10
+YB1_7585	Genbank	region	1	111671	.	+	.	ID=YB1_7585;array=0;gene=3;type=(type I)
+YB1_7585	FGS-hmm	CDS	69957	70316	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YB1_7585	FGS-hmm	CDS	79212	82814	.	+	.	what=cas;des=cd09637:cas4;note=other
+YB1_7585	FGS-hmm	CDS	82811	83077	.	+	.	what=cas;des=unk;note=unknown
+YB1_7585	FGS-hmm	CDS	83504	83764	.	+	.	what=cas;des=unk;note=unknown
+YB1_7585	FGS-hmm	CDS	83887	84210	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YB1_5780	Genbank	region	1	540307	.	+	.	ID=YB1_5780;array=2;gene=8;type=(type I)
+YB1_5780	metaCRT	direct_repeat	370060	371712	.	.	.	what=CRISPR;des=repeat:GTCTCCCTCTGCGAAGAGGGAGTGGATTGAAAT;note=copy:25
+YB1_5780	FGS-hmm	CDS	372121	374544	.	+	.	what=cas;des=COG1203:cas3;note=Type-I
+YB1_5780	FGS-hmm	CDS	374560	375300	.	+	.	what=cas;des=cd09752:cas5;note=Subtype-I-C
+YB1_5780	FGS-hmm	CDS	375287	377275	.	+	.	what=cas;des=cd09757:cas8c;note=Subtype-I-C
+YB1_5780	FGS-hmm	CDS	377272	378129	.	+	.	what=cas;des=pfam05107:cas7b;note=Type-I
+YB1_5780	FGS-hmm	CDS	378116	378778	.	+	.	what=cas;des=pfam01930:cas4;note=Type-I
+YB1_5780	FGS-hmm	CDS	378781	379812	.	+	.	what=cas;des=cd09721:cas1;note=universal
+YB1_5780	FGS-hmm	CDS	379821	380111	.	+	.	what=cas;des=cd09725:cas2;note=universal
+YB1_5780	metaCRT	direct_repeat	380293	381211	.	.	.	what=CRISPR;des=repeat:GTCTCTCCCTGCAGAGGGAGAGTGGATTGAAAT;note=copy:14
+YB1_5780	FGS-hmm	CDS	386955	387857	.	+	.	what=cas;des=COG2378:WYL;note=other
+YB1_6148	Genbank	region	1	122179	.	+	.	ID=YB1_6148;array=0;gene=3;type=(type I)
+YB1_6148	FGS-hmm	CDS	84927	85265	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YB1_6148	FGS-hmm	CDS	94047	94550	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YB1_6148	FGS-hmm	CDS	94754	95200	.	-	.	what=cas;des=unk;note=unknown
+YB1_6148	FGS-hmm	CDS	95201	95659	.	-	.	what=cas;des=unk;note=unknown
+YB1_6148	FGS-hmm	CDS	95684	96169	.	-	.	what=cas;des=cd09641:cas3HD;note=Type-I

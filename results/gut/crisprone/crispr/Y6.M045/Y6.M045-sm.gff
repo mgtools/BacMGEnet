@@ -1,0 +1,6 @@
+##gff-version 3
+#!processor CRISPRone
+Y6.M045_6	Genbank	region	1	79657	.	+	.	ID=Y6.M045_6;array=0;gene=3;type=NA
+Y6.M045_6	FGS-hmm	CDS	17751	18743	.	+	.	what=cas;des=pfam13280:WYL;note=other
+Y6.M045_6	FGS-hmm	CDS	22251	22967	.	+	.	what=cas;des=pfam13280:WYL;note=other
+Y6.M045_6	FGS-hmm	CDS	23015	23143	.	+	.	what=cas;des=pfam13280:WYL;note=other

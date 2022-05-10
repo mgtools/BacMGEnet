@@ -1,0 +1,19 @@
+##gff-version 3
+#!processor CRISPRone
+Y8.M024_14	Genbank	region	1	71006	.	+	.	ID=Y8.M024_14
+Y8.M024_14	FGS-hmm	CDS	9432	10661	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y8.M024_49	Genbank	region	1	163541	.	+	.	ID=Y8.M024_49
+Y8.M024_49	FGS-hmm	CDS	35134	39438	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I
+Y8.M024_49	FGS-hmm	CDS	133611	134825	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y8.M024_40	Genbank	region	1	15129	.	+	.	ID=Y8.M024_40
+Y8.M024_40	FGS-hmm	CDS	153	926	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y8.M024_7	Genbank	region	1	95346	.	+	.	ID=Y8.M024_7
+Y8.M024_7	FGS-hmm	CDS	42542	42952	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y8.M024_44	Genbank	region	1	10114	.	+	.	ID=Y8.M024_44
+Y8.M024_44	FGS-hmm	CDS	2385	3176	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y8.M024_3	Genbank	region	1	134953	.	+	.	ID=Y8.M024_3
+Y8.M024_3	FGS-hmm	CDS	79234	79617	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y8.M024_3	FGS-hmm	CDS	107553	108548	.	+	.	what=cas;des=pfam13280:WYL;note=other
+Y8.M024_23	Genbank	region	1	46227	.	+	.	ID=Y8.M024_23
+Y8.M024_23	FGS-hmm	CDS	17937	18260	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y8.M024_23	FGS-hmm	CDS	29869	30996	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A

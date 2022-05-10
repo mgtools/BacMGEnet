@@ -1,0 +1,37 @@
+##gff-version 3
+#!processor CRISPRone
+YA1_4396	Genbank	region	1	46923	.	+	.	ID=YA1_4396
+YA1_4396	FGS-hmm	CDS	18338	19090	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA1_5273	Genbank	region	1	32338	.	+	.	ID=YA1_5273
+YA1_5273	FGS-hmm	CDS	29145	29537	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA1_2157	Genbank	region	1	91297	.	+	.	ID=YA1_2157
+YA1_2157	FGS-hmm	CDS	75599	76288	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA1_303	Genbank	region	1	14344	.	+	.	ID=YA1_303
+YA1_303	FGS-hmm	CDS	11322	12734	.	+	.	what=cas;des=pfam00078:RT;note=other
+YA1_5451	Genbank	region	1	23544	.	+	.	ID=YA1_5451
+YA1_5451	FGS-hmm	CDS	19452	21125	.	-	.	what=cas;des=pfam00078:RT;note=other
+YA1_594	Genbank	region	1	173251	.	+	.	ID=YA1_594
+YA1_594	FGS-hmm	CDS	20260	21045	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA1_2137	Genbank	region	1	92134	.	+	.	ID=YA1_2137
+YA1_2137	FGS-hmm	CDS	5298	6689	.	-	.	what=cas;des=pfam00078:RT;note=other
+YA1_2137	FGS-hmm	CDS	46906	47298	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA1_85	Genbank	region	1	230538	.	+	.	ID=YA1_85
+YA1_85	FGS-hmm	CDS	156275	156604	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA1_85	FGS-hmm	CDS	204320	205732	.	-	.	what=cas;des=pfam00078:RT;note=other
+YA1_5419	Genbank	region	1	24548	.	+	.	ID=YA1_5419
+YA1_5419	FGS-hmm	CDS	3266	4144	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA1_4254	Genbank	region	1	48497	.	+	.	ID=YA1_4254
+YA1_4254	FGS-hmm	CDS	24510	24803	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA1_1341	Genbank	region	1	124955	.	+	.	ID=YA1_1341
+YA1_1341	FGS-hmm	CDS	64109	64543	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA1_1104	Genbank	region	1	8158	.	+	.	ID=YA1_1104
+YA1_1104	FGS-hmm	CDS	2554	3900	.	-	.	what=cas;des=pfam00078:RT;note=other
+YA1_5229	Genbank	region	1	35375	.	+	.	ID=YA1_5229
+YA1_5229	FGS-hmm	CDS	7754	8248	.	-	.	what=cas;des=cls001593:casR;note=Type-I
+YA1_5229	FGS-hmm	CDS	8278	9276	.	-	.	what=cas;des=unk;note=unknown
+YA1_5229	FGS-hmm	CDS	9279	10772	.	-	.	what=cas;des=unk;note=unknown
+YA1_5229	FGS-hmm	CDS	10894	11601	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YA1_3825	Genbank	region	1	54848	.	+	.	ID=YA1_3825
+YA1_3825	FGS-hmm	CDS	30267	31013	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA1_3199	Genbank	region	1	66506	.	+	.	ID=YA1_3199
+YA1_3199	FGS-hmm	CDS	49265	53677	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I

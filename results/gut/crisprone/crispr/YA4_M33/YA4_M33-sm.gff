@@ -1,0 +1,10 @@
+##gff-version 3
+#!processor CRISPRone
+YA4_22023	Genbank	region	1	188707	.	+	.	ID=YA4_22023;array=0;gene=3;type=NA
+YA4_22023	FGS-hmm	CDS	27827	28816	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YA4_22023	FGS-hmm	CDS	37726	38046	.	+	.	what=cas;des=COG4804:PD-DExK;note=other
+YA4_22023	FGS-hmm	CDS	38043	38381	.	+	.	what=cas;des=COG4804:PD-DExK;note=other
+YA4_21747	Genbank	region	1	71609	.	+	.	ID=YA4_21747;array=0;gene=3;type=NA
+YA4_21747	FGS-hmm	CDS	4832	5170	.	-	.	what=cas;des=COG4804:PD-DExK;note=other
+YA4_21747	FGS-hmm	CDS	5167	5487	.	-	.	what=cas;des=COG4804:PD-DExK;note=other
+YA4_21747	FGS-hmm	CDS	14397	15386	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I

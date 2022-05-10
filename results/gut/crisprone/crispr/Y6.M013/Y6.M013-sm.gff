@@ -1,0 +1,20 @@
+##gff-version 3
+#!processor CRISPRone
+Y6.M013_21	Genbank	region	1	229003	.	+	.	ID=Y6.M013_21;array=1;gene=0;type=NA
+Y6.M013_21	metaCRT	direct_repeat	130176	130410	.	.	.	what=CRISPR;des=repeat:GTCGCACCTCGTAAGGGGTGCGTGGATTGAAAC;note=copy:4
+Y6.M013_19	Genbank	region	1	1040872	.	+	.	ID=Y6.M013_19;array=1;gene=10;type=(type I)
+Y6.M013_19	metaCRT	direct_repeat	61444	61608	.	.	.	what=CRISPR;des=repeat:TTCAATCCACGCACCTCCTGCGAGGTGCGAC;note=copy:3
+Y6.M013_19	FGS-hmm	CDS	61738	62028	.	-	.	what=cas;des=cd09725:cas2;note=universal
+Y6.M013_19	FGS-hmm	CDS	62037	63068	.	-	.	what=cas;des=cd09634:cas1;note=universal
+Y6.M013_19	FGS-hmm	CDS	63065	63742	.	-	.	what=cas;des=cd09637:cas4;note=other
+Y6.M013_19	FGS-hmm	CDS	63726	64604	.	-	.	what=cas;des=pfam05107:cas7b;note=Type-I
+Y6.M013_19	FGS-hmm	CDS	64652	66442	.	-	.	what=cas;des=cd09757:cas8c;note=Subtype-I-C
+Y6.M013_19	FGS-hmm	CDS	66439	67122	.	-	.	what=cas;des=cd09651:cas5;note=Subtype-I-C
+Y6.M013_19	FGS-hmm	CDS	67143	69470	.	-	.	what=cas;des=cd09641:cas3HD;note=Type-I
+Y6.M013_19	FGS-hmm	CDS	325175	325642	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y6.M013_19	FGS-hmm	CDS	325694	326857	.	-	.	what=cas;des=unk;note=unknown
+Y6.M013_19	FGS-hmm	CDS	327457	327834	.	-	.	what=cas;des=unk;note=unknown
+Y6.M013_19	FGS-hmm	CDS	328172	329872	.	+	.	what=cas;des=pfam00078:RT;note=other
+Y6.M013_19	FGS-hmm	CDS	329911	330525	.	-	.	what=cas;des=unk;note=unknown
+Y6.M013_19	FGS-hmm	CDS	330536	331528	.	-	.	what=cas;des=unk;note=unknown
+Y6.M013_19	FGS-hmm	CDS	332053	332811	.	-	.	what=cas;des=cls001593:casR;note=Type-I

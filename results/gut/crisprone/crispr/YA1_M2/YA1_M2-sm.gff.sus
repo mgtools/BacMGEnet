@@ -1,0 +1,12 @@
+##gff-version 3
+#!processor CRISPRone
+YA1_5249	Genbank	region	1	313899	.	+	.	ID=YA1_5249
+YA1_5249	metaCRT	direct_repeat	83697	85052	.	.	.	what=CRISPR;des=repeat:GTTTCAGATGCCTGTCAGATCAAAGACTTAGACCAC;note=copy:21
+YA1_5249	FGS-hmm	CDS	107981	108766	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YA1_5581	Genbank	region	1	1281191	.	+	.	ID=YA1_5581
+YA1_5581	FGS-hmm	CDS	364875	365285	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA1_5581	FGS-hmm	CDS	438832	439326	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA1_5581	FGS-hmm	CDS	1142601	1143371	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YA1_2103	Genbank	region	1	455764	.	+	.	ID=YA1_2103
+YA1_2103	FGS-hmm	CDS	85966	86268	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA1_2103	FGS-hmm	CDS	98449	99039	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I

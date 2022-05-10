@@ -1,0 +1,31 @@
+##gff-version 3
+#!processor CRISPRone
+YB3_11270	Genbank	region	1	113056	.	+	.	ID=YB3_11270
+YB3_11270	FGS-hmm	CDS	70918	71391	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YB3_17881	Genbank	region	1	390904	.	+	.	ID=YB3_17881
+YB3_17881	FGS-hmm	CDS	371113	371397	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YB3_9917	Genbank	region	1	157767	.	+	.	ID=YB3_9917
+YB3_9917	FGS-hmm	CDS	99360	101852	.	-	.	what=cas;des=COG1199:DinG;note=Subtype-IV-A
+YB3_9594	Genbank	region	1	174295	.	+	.	ID=YB3_9594
+YB3_9594	FGS-hmm	CDS	63592	64413	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YB3_6907	Genbank	region	1	202327	.	+	.	ID=YB3_6907
+YB3_6907	FGS-hmm	CDS	169820	170695	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YB3_6907	FGS-hmm	CDS	188487	189224	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YB3_12893	Genbank	region	1	82197	.	+	.	ID=YB3_12893
+YB3_12893	FGS-hmm	CDS	1243	1560	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YB3_3433	Genbank	region	1	244310	.	+	.	ID=YB3_3433
+YB3_3433	FGS-hmm	CDS	122423	123598	.	+	.	what=cas;des=pfam13280:WYL;note=other
+YB3_3433	FGS-hmm	CDS	223054	227643	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YB3_17875	Genbank	region	1	153854	.	+	.	ID=YB3_17875
+YB3_17875	FGS-hmm	CDS	125164	126114	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YB3_11607	Genbank	region	1	105122	.	+	.	ID=YB3_11607
+YB3_11607	FGS-hmm	CDS	9667	9984	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YB3_9918	Genbank	region	1	523368	.	+	.	ID=YB3_9918
+YB3_9918	FGS-hmm	CDS	52524	53192	.	-	.	what=cas;des=cls001593:casR;note=Type-I
+YB3_9918	FGS-hmm	CDS	53446	53820	.	+	.	what=cas;des=unk;note=unknown
+YB3_9918	FGS-hmm	CDS	54014	54388	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YB3_9918	FGS-hmm	CDS	166658	168001	.	-	.	what=cas;des=cd09732:csx1;note=Type-III
+YB3_9918	FGS-hmm	CDS	168300	168782	.	+	.	what=cas;des=unk;note=unknown
+YB3_9918	FGS-hmm	CDS	168871	169626	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YB3_12582	Genbank	region	1	86586	.	+	.	ID=YB3_12582
+YB3_12582	FGS-hmm	CDS	49467	49955	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A

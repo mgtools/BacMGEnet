@@ -1,0 +1,10 @@
+##gff-version 3
+#!processor CRISPRone
+YB4_11216	Genbank	region	1	27546	.	+	.	ID=YB4_11216;array=1;gene=6;type=(type I)
+YB4_11216	metaCRT	direct_repeat	18200	18712	.	.	.	what=CRISPR;des=repeat:GGATCATCCCCGCTTGCGCGGGGAATAC;note=copy:9
+YB4_11216	FGS-hmm	CDS	18863	19537	.	-	.	what=cas;des=pfam08798:cas6e;note=other
+YB4_11216	FGS-hmm	CDS	19668	20219	.	-	.	what=cas;des=pfam09704:cas5;note=Type-I
+YB4_11216	FGS-hmm	CDS	20333	21409	.	-	.	what=cas;des=pfam09344:cas7;note=Subtype-I-E
+YB4_11216	FGS-hmm	CDS	21530	22153	.	-	.	what=cas;des=mkCas0194:cse2gr11;note=Subtype-I-E
+YB4_11216	FGS-hmm	CDS	22171	23775	.	-	.	what=cas;des=cd09729:cas8e;note=Subtype-I-E
+YB4_11216	FGS-hmm	CDS	23765	26617	.	-	.	what=cas;des=cd09641:cas3HD;note=Type-I

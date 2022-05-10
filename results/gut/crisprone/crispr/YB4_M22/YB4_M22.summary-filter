@@ -1,0 +1,25 @@
+#/u/yye/CRISPRpk/pipelines/../CRISPRone/call-script/hmmscan2cas.py -collection unk -hmmscan crisprone/crispr/YB4_M22/YB4_M22-vs-cas.domtblout -gff crisprone/crispr/YB4_M22/YB4_M22.gff -isolate -outfile crisprone/crispr/YB4_M22/YB4_M22.summary -outfiltered crisprone/crispr/YB4_M22/YB4_M22.summary-filter -gafile /u/yye/CRISPRpk/pipelines/../CRISPRone/local/cas-db/cas-CRISPR.GA
+##YB4_13034 1 derived-fm crisprone/crispr/YB4_M22/YB4_M22-vs-cas.domtblout
+YB4_13034_7661_8113_+ YB4_M22 YB4_13034 7661 8113 + COG0640:csa3 2
+##YB4_13724 1 derived-fm crisprone/crispr/YB4_M22/YB4_M22-vs-cas.domtblout
+YB4_13724_71_391_- YB4_M22 YB4_13724 71 391 - COG0640:csa3 2
+##YB4_11923 1 derived-fm crisprone/crispr/YB4_M22/YB4_M22-vs-cas.domtblout
+YB4_11923_18370_19635_- YB4_M22 YB4_11923 18370 19635 - pfam00078:RT 2
+##YB4_397 2 derived-fm crisprone/crispr/YB4_M22/YB4_M22-vs-cas.domtblout
+YB4_397_1_1200_+ YB4_M22 YB4_397 1 1200 + mkCas0071:csa5gr11 1
+YB4_397_1390_1734_+ YB4_M22 YB4_397 1390 1734 + COG0640:csa3 2
+##YB4_11881 1 derived-fm crisprone/crispr/YB4_M22/YB4_M22-vs-cas.domtblout
+YB4_11881_10365_11624_- YB4_M22 YB4_11881 10365 11624 - pfam00078:RT 2
+##YB4_8479 1 derived-fm crisprone/crispr/YB4_M22/YB4_M22-vs-cas.domtblout
+YB4_8479_31488_32753_- YB4_M22 YB4_8479 31488 32753 - pfam00078:RT 2
+##YB4_14774 1 derived-fm crisprone/crispr/YB4_M22/YB4_M22-vs-cas.domtblout
+YB4_14774_89832_91097_+ YB4_M22 YB4_14774 89832 91097 + pfam00078:RT 2
+##YB4_11456 2 derived-fm crisprone/crispr/YB4_M22/YB4_M22-vs-cas.domtblout
+YB4_11456_15131_17284_- YB4_M22 YB4_11456 15131 17284 - COG1199:DinG 2
+YB4_11456_23033_24298_- YB4_M22 YB4_11456 23033 24298 - pfam00078:RT 2
+##YB4_8821 1 derived-fm crisprone/crispr/YB4_M22/YB4_M22-vs-cas.domtblout
+YB4_8821_3506_4531_- YB4_M22 YB4_8821 3506 4531 - pfam13280:WYL 2
+##YB4_5614 1 derived-fm crisprone/crispr/YB4_M22/YB4_M22-vs-cas.domtblout
+YB4_5614_521_1303_+ YB4_M22 YB4_5614 521 1303 + cd06127:DEDDh 2
+##YB4_11051 1 derived-fm crisprone/crispr/YB4_M22/YB4_M22-vs-cas.domtblout
+YB4_11051_5420_5914_+ YB4_M22 YB4_11051 5420 5914 + cd06127:DEDDh 2

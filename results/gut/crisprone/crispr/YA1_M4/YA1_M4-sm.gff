@@ -1,0 +1,30 @@
+##gff-version 3
+#!processor CRISPRone
+YA1_512	Genbank	region	1	777872	.	+	.	ID=YA1_512;array=2;gene=20;type=(type II, III)
+YA1_512	FGS-hmm	CDS	184844	185584	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YA1_512	FGS-hmm	CDS	188129	188539	.	+	.	what=cas;des=unk;note=unknown
+YA1_512	FGS-hmm	CDS	189183	189317	.	+	.	what=cas;des=unk;note=unknown
+YA1_512	FGS-hmm	CDS	189338	190504	.	-	.	what=cas;des=cash11:cash11;note=Type-
+YA1_512	FGS-hmm	CDS	198673	199914	.	+	.	what=cas;des=pfam00078:RT;note=other
+YA1_512	metaCRT	direct_repeat	371083	371884	.	.	.	what=CRISPR;des=repeat:GTCGCAATCCCTTTCTAATCAGGGCTGTCTTTCGAC;note=copy:12
+YA1_512	FGS-hmm	CDS	372063	372353	.	-	.	what=cas;des=pfam09827:cas2;note=universal
+YA1_512	FGS-hmm	CDS	372353	372667	.	-	.	what=cas;des=pfam09652:csx16;note=other
+YA1_512	FGS-hmm	CDS	372687	373634	.	-	.	what=cas;des=cd09634:cas1;note=universal
+YA1_512	FGS-hmm	CDS	373650	373931	.	-	.	what=cas;des=pfam09827:cas2;note=universal
+YA1_512	FGS-hmm	CDS	376327	377490	.	+	.	what=cas;des=pfam09002:csx1;note=Type-III
+YA1_512	FGS-hmm	CDS	377490	378584	.	+	.	what=cas;des=pfam09623:csx1;note=Type-III
+YA1_512	FGS-hmm	CDS	378717	381251	.	+	.	what=cas;des=cd09680:cas10;note=Type-III
+YA1_512	FGS-hmm	CDS	381260	381691	.	+	.	what=cas;des=cd09647:csm2gr11;note=Subtype-III-A
+YA1_512	FGS-hmm	CDS	381712	382428	.	+	.	what=cas;des=COG1337:csm3gr7;note=Subtype-III-D
+YA1_512	FGS-hmm	CDS	382438	383376	.	+	.	what=cas;des=mkCas0089:csm4gr5;note=Type-III
+YA1_512	FGS-hmm	CDS	383400	384950	.	+	.	what=cas;des=cd09726:csm3gr7;note=Subtype-III-D
+YA1_512	FGS-hmm	CDS	384989	385924	.	+	.	what=cas;des=mkCas0066:cas6;note=other
+YA1_512	FGS-hmm	CDS	390819	392060	.	+	.	what=cas;des=pfam00078:RT;note=other
+YA1_512	metaCRT	direct_repeat	399426	401352	.	.	.	what=CRISPR;des=repeat:GTTTCAGTGCTATAGCTCGTAGCGTTATGATCTCTGC;note=copy:27
+YA1_512	CRISPRone	partial_repeat	401474	401510	.	-	.	what=antiCRISPR;des=antiRepeat:eat;note=30-7
+YA1_512	FGS-hmm	CDS	401661	402248	.	-	.	what=cas;des=cd09637:cas4;note=Subtype-II-B
+YA1_512	FGS-hmm	CDS	402235	402531	.	-	.	what=cas;des=pfam09827:cas2;note=Subtype-II-B
+YA1_512	FGS-hmm	CDS	402544	403557	.	-	.	what=cas;des=cd09634:cas1;note=Subtype-II-B
+YA1_512	FGS-hmm	CDS	403554	407822	.	-	.	what=cas;des=cd09704:cas9;note=Subtype-II-B
+YA1_5415	Genbank	region	1	287156	.	+	.	ID=YA1_5415;array=1;gene=0;type=NA
+YA1_5415	metaCRT	direct_repeat	13321	14168	.	.	.	what=CRISPR;des=repeat:GCAGAGATCATAACGCTACGAGCTATAGCACTGAAAC;note=copy:12

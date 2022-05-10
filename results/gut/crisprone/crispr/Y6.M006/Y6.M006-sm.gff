@@ -1,0 +1,20 @@
+##gff-version 3
+#!processor CRISPRone
+Y6.M006_26	Genbank	region	1	122908	.	+	.	ID=Y6.M006_26;array=0;gene=3;type=(type I)
+Y6.M006_26	FGS-hmm	CDS	41939	46555	.	-	.	what=cas;des=cd09639:cas3;note=Type-I
+Y6.M006_26	FGS-hmm	CDS	46648	47295	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+Y6.M006_26	FGS-hmm	CDS	54812	55252	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y6.M006_20	Genbank	region	1	99245	.	+	.	ID=Y6.M006_20;array=1;gene=5;type=(type I)
+Y6.M006_20	FGS-hmm	CDS	110	1135	.	+	.	what=cas;des=pfam09344:cas7;note=Subtype-I-E
+Y6.M006_20	FGS-hmm	CDS	1138	1812	.	+	.	what=cas;des=cd09645:cas5;note=Subtype-I-E
+Y6.M006_20	FGS-hmm	CDS	1799	2398	.	+	.	what=cas;des=cd09664:cas6e;note=Subtype-I-E
+Y6.M006_20	FGS-hmm	CDS	2414	3331	.	+	.	what=cas;des=cd09719:cas1;note=universal
+Y6.M006_20	FGS-hmm	CDS	3333	3617	.	+	.	what=cas;des=cd09648:cas2;note=universal
+Y6.M006_20	metaCRT	direct_repeat	3723	5032	.	.	.	what=CRISPR;des=repeat:GAGTTCCCCGCGCCAGCGGGGATAAACCG;note=copy:22
+Y6.M006_25	Genbank	region	1	163785	.	+	.	ID=Y6.M006_25;array=0;gene=2;type=(type I)
+Y6.M006_25	FGS-hmm	CDS	115330	116829	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+Y6.M006_25	FGS-hmm	CDS	116960	118132	.	+	.	what=cas;des=unk;note=unknown
+Y6.M006_25	FGS-hmm	CDS	118251	118724	.	+	.	what=cas;des=cd09669:cas8e;note=Subtype-I-E
+Y6.M006_8	Genbank	region	1	103512	.	+	.	ID=Y6.M006_8;array=2;gene=0;type=NA
+Y6.M006_8	metaCRT	direct_repeat	17183	17639	.	.	.	what=CRISPR;des=repeat:CGGTTTATCCCCGCTGGCGCGGGGAACAC;note=copy:8
+Y6.M006_8	metaCRT	direct_repeat	17653	18108	.	.	.	what=CRISPR;des=repeat:CGGTTTATCCCCGCTGGCGCGGGGAACAC;note=copy:8

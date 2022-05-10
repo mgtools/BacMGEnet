@@ -1,0 +1,32 @@
+##gff-version 3
+#!processor CRISPRone
+YB3_17716	Genbank	region	1	181619	.	+	.	ID=YB3_17716
+YB3_17716	FGS-hmm	CDS	67675	68145	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YB3_17992	Genbank	region	1	118866	.	+	.	ID=YB3_17992
+YB3_17992	FGS-hmm	CDS	40197	40976	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YB3_17763	Genbank	region	1	124648	.	+	.	ID=YB3_17763
+YB3_17763	FGS-hmm	CDS	75922	76995	.	+	.	what=cas;des=mkCas0120:csm2gr11;note=Subtype-III-D
+YB3_17763	FGS-hmm	CDS	77242	77853	.	+	.	what=cas;des=COG4804:PD-DExK;note=other
+YB3_17409	Genbank	region	1	221717	.	+	.	ID=YB3_17409
+YB3_17409	FGS-hmm	CDS	38870	39172	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YB3_17375	Genbank	region	1	335989	.	+	.	ID=YB3_17375
+YB3_17375	FGS-hmm	CDS	65476	65805	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YB3_17895	Genbank	region	1	89921	.	+	.	ID=YB3_17895
+YB3_17895	FGS-hmm	CDS	55439	55630	.	-	.	what=cas;des=pfam00078:RT;note=other
+YB3_17895	FGS-hmm	CDS	55772	56179	.	-	.	what=cas;des=pfam00078:RT;note=other
+YB3_17895	FGS-hmm	CDS	79964	80887	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YB3_17895	FGS-hmm	CDS	80941	82515	.	-	.	what=cas;des=unk;note=unknown
+YB3_17895	FGS-hmm	CDS	82560	83516	.	-	.	what=cas;des=unk;note=unknown
+YB3_17895	FGS-hmm	CDS	83703	84626	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YB3_17846	Genbank	region	1	98053	.	+	.	ID=YB3_17846
+YB3_17846	FGS-hmm	CDS	939	1598	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YB3_17846	FGS-hmm	CDS	1657	2772	.	-	.	what=cas;des=unk;note=unknown
+YB3_17846	FGS-hmm	CDS	2762	3316	.	-	.	what=cas;des=unk;note=unknown
+YB3_17846	FGS-hmm	CDS	3461	3742	.	-	.	what=cas;des=mkCas0120:csm2gr11;note=Subtype-III-D
+YB3_17664	Genbank	region	1	242506	.	+	.	ID=YB3_17664
+YB3_17664	FGS-hmm	CDS	105811	106590	.	-	.	what=cas;des=COG4804:PD-DExK;note=other
+YB3_17707	Genbank	region	1	163990	.	+	.	ID=YB3_17707
+YB3_17707	FGS-hmm	CDS	127760	128236	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YB3_5355	Genbank	region	1	216447	.	+	.	ID=YB3_5355
+YB3_5355	FGS-hmm	CDS	246	1922	.	-	.	what=cas;des=pfam00078:RT;note=other
+YB3_5355	FGS-hmm	CDS	33528	33857	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A

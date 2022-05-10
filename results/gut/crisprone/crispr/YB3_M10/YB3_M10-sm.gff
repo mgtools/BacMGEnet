@@ -1,0 +1,27 @@
+##gff-version 3
+#!processor CRISPRone
+YB3_5870	Genbank	region	1	215404	.	+	.	ID=YB3_5870;array=1;gene=0;type=NA
+YB3_5870	metaCRT	direct_repeat	121121	121348	.	.	.	what=CRISPR;des=repeat:TCCGATTTATCTTTCCGATTCACTATCA;note=copy:4
+YB3_5042	Genbank	region	1	217148	.	+	.	ID=YB3_5042;array=1;gene=0;type=NA
+YB3_5042	metaCRT	direct_repeat	202193	202482	.	.	.	what=CRISPR;des=repeat:AATCGGAAAGATAAATCCGA;note=copy:5
+YB3_6692	Genbank	region	1	202729	.	+	.	ID=YB3_6692;array=1;gene=2;type=(type V)
+YB3_6692	metaCRT	direct_repeat	151125	151354	.	.	.	what=CRISPR;des=repeat:TATTGAATCTACGATAGTAGAAATTATGTATTCTTATTAAACT;note=copy:4
+YB3_6692	FGS-hmm	CDS	151762	152733	.	-	.	what=cas;des=pfam01867:cas1;note=universal
+YB3_6692	FGS-hmm	CDS	153298	156864	.	-	.	what=cas;des=mkCas0192:cas12a;note=Subtype-V-A
+YB3_9820	Genbank	region	1	19843	.	+	.	ID=YB3_9820;array=1;gene=0;type=NA
+YB3_9820	metaCRT	direct_repeat	18584	18920	.	.	.	what=CRISPR;des=repeat:AACCATTTTTATCATAACCTTCTCTATCATAACC;note=copy:6
+YB3_3022	Genbank	region	1	650810	.	+	.	ID=YB3_3022;array=2;gene=8;type=(type I)
+YB3_3022	FGS-hmm	CDS	30243	30935	.	+	.	what=cas;des=cd09652:cas6;note=other
+YB3_3022	FGS-hmm	CDS	30954	32729	.	+	.	what=cas;des=mkCas0106:cas8b1;note=Subtype-I-B
+YB3_3022	FGS-hmm	CDS	32733	33647	.	+	.	what=cas;des=pfam05107:cas7b;note=Type-I
+YB3_3022	FGS-hmm	CDS	33667	34383	.	+	.	what=cas;des=cd09693:cas5;note=Type-I
+YB3_3022	FGS-hmm	CDS	34446	36893	.	+	.	what=cas;des=cd09641:cas3HD;note=Type-I
+YB3_3022	FGS-hmm	CDS	36890	37378	.	+	.	what=cas;des=pfam01930:cas4;note=Type-I
+YB3_3022	FGS-hmm	CDS	37391	38389	.	+	.	what=cas;des=cd09722:cas1;note=universal
+YB3_3022	FGS-hmm	CDS	38386	38670	.	+	.	what=cas;des=cd09725:cas2;note=universal
+YB3_3022	metaCRT	direct_repeat	38868	42769	.	.	.	what=CRISPR;des=repeat:GTTGAAGAGAAACAAAAGTTGTATTTAAAT;note=copy:60
+YB3_3022	metaCRT	direct_repeat	445737	445981	.	.	.	what=CRISPR;des=repeat:ATGAATCGGAAAGATAAATCCGATAGCTTGTTTACAAGCTACATTT;note=copy:4
+YB3_13219	Genbank	region	1	77643	.	+	.	ID=YB3_13219;array=1;gene=0;type=NA
+YB3_13219	metaCRT	direct_repeat	57861	58019	.	.	.	what=CRISPR;des=repeat:TCGGATTTATCTTTCCGATTCAT;note=copy:3
+YB3_7330	Genbank	region	1	199889	.	+	.	ID=YB3_7330;array=1;gene=0;type=NA
+YB3_7330	metaCRT	direct_repeat	100006	100219	.	.	.	what=CRISPR;des=repeat:TCGGATTTATCTTTCCGATTC;note=copy:4

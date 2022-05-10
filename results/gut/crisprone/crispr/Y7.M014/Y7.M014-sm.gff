@@ -1,0 +1,5 @@
+##gff-version 3
+#!processor CRISPRone
+Y7.M014_14	Genbank	region	1	303673	.	+	.	ID=Y7.M014_14;array=2;gene=0;type=NA
+Y7.M014_14	metaCRT	direct_repeat	295726	295877	.	.	.	what=CRISPR;des=repeat:GATTTTACATAGGTCTCAAA;note=copy:3
+Y7.M014_14	metaCRT	direct_repeat	296183	296398	.	.	.	what=CRISPR;des=repeat:TAGTTTTACATAGGTCTCAAACC;note=copy:4

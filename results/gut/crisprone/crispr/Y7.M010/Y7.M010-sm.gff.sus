@@ -1,0 +1,30 @@
+##gff-version 3
+#!processor CRISPRone
+Y7.M010_9	Genbank	region	1	394840	.	+	.	ID=Y7.M010_9
+Y7.M010_9	FGS-hmm	CDS	54116	54433	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y7.M010_9	FGS-hmm	CDS	101432	103339	.	+	.	what=cas;des=pfam00078:RT;note=other
+Y7.M010_9	FGS-hmm	CDS	328071	328892	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y7.M010_18	Genbank	region	1	89409	.	+	.	ID=Y7.M010_18
+Y7.M010_18	FGS-hmm	CDS	38831	39277	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y7.M010_21	Genbank	region	1	81815	.	+	.	ID=Y7.M010_21
+Y7.M010_21	FGS-hmm	CDS	44697	45647	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+Y7.M010_7	Genbank	region	1	104602	.	+	.	ID=Y7.M010_7
+Y7.M010_7	FGS-hmm	CDS	58771	61263	.	+	.	what=cas;des=COG1199:DinG;note=Subtype-IV-A
+Y7.M010_15	Genbank	region	1	224986	.	+	.	ID=Y7.M010_15
+Y7.M010_15	FGS-hmm	CDS	39314	40051	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+Y7.M010_1	Genbank	region	1	561375	.	+	.	ID=Y7.M010_1
+Y7.M010_1	FGS-hmm	CDS	110151	110819	.	-	.	what=cas;des=cls001593:casR;note=Type-I
+Y7.M010_1	FGS-hmm	CDS	111073	111447	.	+	.	what=cas;des=unk;note=unknown
+Y7.M010_1	FGS-hmm	CDS	111641	112015	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y7.M010_1	FGS-hmm	CDS	225194	226537	.	-	.	what=cas;des=cd09732:csx1;note=Type-III
+Y7.M010_1	FGS-hmm	CDS	226836	227318	.	+	.	what=cas;des=unk;note=unknown
+Y7.M010_1	FGS-hmm	CDS	227407	228162	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y7.M010_6	Genbank	region	1	105944	.	+	.	ID=Y7.M010_6
+Y7.M010_6	FGS-hmm	CDS	88566	89357	.	+	.	what=cas;des=pfam00078:RT;note=other
+Y7.M010_6	FGS-hmm	CDS	89173	90231	.	+	.	what=cas;des=pfam00078:RT;note=other
+Y7.M010_12	Genbank	region	1	162643	.	+	.	ID=Y7.M010_12
+Y7.M010_12	FGS-hmm	CDS	141826	146415	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I
+Y7.M010_5	Genbank	region	1	139928	.	+	.	ID=Y7.M010_5
+Y7.M010_5	FGS-hmm	CDS	19033	19317	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y7.M010_11	Genbank	region	1	186140	.	+	.	ID=Y7.M010_11
+Y7.M010_11	FGS-hmm	CDS	147643	147960	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A

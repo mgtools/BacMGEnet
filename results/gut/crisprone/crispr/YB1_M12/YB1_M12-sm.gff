@@ -1,0 +1,32 @@
+##gff-version 3
+#!processor CRISPRone
+YB1_1208	Genbank	region	1	272677	.	+	.	ID=YB1_1208;array=1;gene=9;type=(type I)
+YB1_1208	metaCRT	direct_repeat	260349	260931	.	.	.	what=CRISPR;des=repeat:GAATTAATAGAAACATAATGGAATTTAAAG;note=copy:9
+YB1_1208	FGS-hmm	CDS	261211	261963	.	+	.	what=cas;des=pfam01881:cas6;note=other
+YB1_1208	FGS-hmm	CDS	261960	263351	.	+	.	what=cas;des=cd09697:cas8b2;note=Subtype-I-B
+YB1_1208	FGS-hmm	CDS	263344	264228	.	+	.	what=cas;des=cd09650:cas7;note=Type-I
+YB1_1208	FGS-hmm	CDS	264252	265358	.	+	.	what=cas;des=cd09693:cas5;note=Type-I
+YB1_1208	FGS-hmm	CDS	265415	267673	.	+	.	what=cas;des=COG1203:cas3;note=Type-I
+YB1_1208	FGS-hmm	CDS	267685	268185	.	+	.	what=cas;des=pfam01930:cas4;note=Type-I
+YB1_1208	FGS-hmm	CDS	268199	269191	.	+	.	what=cas;des=cd09722:cas1;note=universal
+YB1_1208	FGS-hmm	CDS	269194	269472	.	+	.	what=cas;des=COG1343:cas2;note=universal
+YB1_1208	FGS-hmm	CDS	269595	272567	.	+	.	what=cas;des=COG4951:PrimPol;note=other
+YB1_6983	Genbank	region	1	125716	.	+	.	ID=YB1_6983;array=0;gene=3;type=NA
+YB1_6983	FGS-hmm	CDS	20619	21326	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YB1_6983	FGS-hmm	CDS	21418	22941	.	+	.	what=cas;des=unk;note=unknown
+YB1_6983	FGS-hmm	CDS	22944	23942	.	+	.	what=cas;des=unk;note=unknown
+YB1_6983	FGS-hmm	CDS	23972	24466	.	+	.	what=cas;des=cls001593:casR;note=Type-I
+YB1_6983	FGS-hmm	CDS	24466	25635	.	+	.	what=cas;des=unk;note=unknown
+YB1_6983	FGS-hmm	CDS	25666	26163	.	+	.	what=cas;des=unk;note=unknown
+YB1_6983	FGS-hmm	CDS	26493	27596	.	+	.	what=cas;des=cas14:cas14;note=Type-V
+YB1_11454	Genbank	region	1	60261	.	+	.	ID=YB1_11454;array=1;gene=9;type=(type III)
+YB1_11454	FGS-hmm	CDS	31459	31776	.	-	.	what=cas;des=cd09725:cas2;note=universal
+YB1_11454	FGS-hmm	CDS	31779	32783	.	-	.	what=cas;des=cd09634:cas1;note=universal
+YB1_11454	metaCRT	direct_repeat	33017	34155	.	.	.	what=CRISPR;des=repeat:GTTTTCGTCCCCTATCGGGGCTTTTATTTTCTTAAT;note=copy:16
+YB1_11454	FGS-hmm	CDS	34291	35403	.	-	.	what=cas;des=cd09726:csm3gr7;note=Subtype-III-D
+YB1_11454	FGS-hmm	CDS	35403	36332	.	-	.	what=cas;des=cd09726:csm3gr7;note=Subtype-III-D
+YB1_11454	FGS-hmm	CDS	36332	37009	.	-	.	what=cas;des=COG1337:csm3gr7;note=Subtype-III-D
+YB1_11454	FGS-hmm	CDS	37027	37404	.	-	.	what=cas;des=cd09647:csm2gr11;note=Subtype-III-A
+YB1_11454	FGS-hmm	CDS	37405	39738	.	-	.	what=cas;des=cd09680:cas10;note=Type-III
+YB1_11454	FGS-hmm	CDS	39743	40483	.	-	.	what=cas;des=pfam10040:cas6;note=other
+YB1_11454	FGS-hmm	CDS	40480	41811	.	-	.	what=cas;des=cd09746:csm6;note=Subtype-III-A

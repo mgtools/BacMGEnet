@@ -1,0 +1,21 @@
+SEQ: YA2_5315
+Bases: 10004
+Total CRISPR: 1
+
+
+CRISPR 1   Range: 1 - 156
+POSITION	REPEAT				SPACER
+--------	------------------------	------------------------------------------
+1		ACTGCGAAATGAAAAAGGGAGCTA	CAACTCCAATTACAAGCCAGTTGATCCCGACTTAATTATAGC	[ 24, 42 ]
+67		ACTGCGAAATGAAAAAGGGAGCTA	CAACACAATATGCGCATTTATCAGCCTTAGATAGATTATAGC	[ 24, 42 ]
+133		ACTGCGAAATGAAAAAGGGAGTTA	
+--------	------------------------	------------------------------------------
+Repeat-con	ACTGCGAAATGAAAAAGGGAGCTA
+Repeats: 3	Average Length: 24		Average Length: 42
+
+
+Total sequences checked: 287
+Total bases checked: 1620592
+Total sequences with predicted CRISPR: 1
+Time used: 266 ms
+

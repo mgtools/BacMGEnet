@@ -1,0 +1,8 @@
+##gff-version 3
+#!processor CRISPRone
+Y6.M020_35	Genbank	region	1	84411	.	+	.	ID=Y6.M020_35;array=1;gene=3;type=(type II)
+Y6.M020_35	CRISPRone	partial_repeat	37618	37653	.	+	.	what=antiCRISPR;des=antiRepeat:eat;note=27-9
+Y6.M020_35	FGS-hmm	CDS	37852	41106	.	+	.	what=cas;des=COG3513:cas9;note=Subtype-II-C
+Y6.M020_35	FGS-hmm	CDS	41129	42025	.	+	.	what=cas;des=cd09634:cas1;note=Subtype-II-C
+Y6.M020_35	FGS-hmm	CDS	42030	42338	.	+	.	what=cas;des=pfam09827:cas2;note=Subtype-II-C
+Y6.M020_35	metaCRT	direct_repeat	42400	44611	.	.	.	what=CRISPR;des=repeat:ATTATACCATACCAAGAACTGTTAGGGAACTACAAC;note=copy:34

@@ -1,0 +1,26 @@
+##gff-version 3
+#!processor CRISPRone
+Y5.M001_3	Genbank	region	1	508850	.	+	.	ID=Y5.M001_3;array=1;gene=0;type=NA
+Y5.M001_3	metaCRT	direct_repeat	257710	258345	.	.	.	what=CRISPR;des=repeat:GTCGTTCCCTGTATAGGGAACGTGGATTGAAAT;note=copy:10
+Y5.M001_11	Genbank	region	1	51228	.	+	.	ID=Y5.M001_11;array=0;gene=3;type=(type I)
+Y5.M001_11	FGS-hmm	CDS	13934	14272	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y5.M001_11	FGS-hmm	CDS	23054	23557	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y5.M001_11	FGS-hmm	CDS	23761	24207	.	-	.	what=cas;des=unk;note=unknown
+Y5.M001_11	FGS-hmm	CDS	24208	24666	.	-	.	what=cas;des=unk;note=unknown
+Y5.M001_11	FGS-hmm	CDS	24691	25176	.	-	.	what=cas;des=cd09641:cas3HD;note=Type-I
+Y5.M001_4	Genbank	region	1	492172	.	+	.	ID=Y5.M001_4;array=2;gene=11;type=(type I)
+Y5.M001_4	FGS-hmm	CDS	104011	104913	.	-	.	what=cas;des=COG2378:WYL;note=other
+Y5.M001_4	metaCRT	direct_repeat	110657	111575	.	.	.	what=CRISPR;des=repeat:ATTTCAATCCACTCTCCCTCTGCAGGGAGAGAC;note=copy:14
+Y5.M001_4	FGS-hmm	CDS	111757	112047	.	-	.	what=cas;des=cd09725:cas2;note=universal
+Y5.M001_4	FGS-hmm	CDS	112056	113087	.	-	.	what=cas;des=cd09721:cas1;note=universal
+Y5.M001_4	FGS-hmm	CDS	113090	113752	.	-	.	what=cas;des=pfam01930:cas4;note=Type-I
+Y5.M001_4	FGS-hmm	CDS	113739	114596	.	-	.	what=cas;des=pfam05107:cas7b;note=Type-I
+Y5.M001_4	FGS-hmm	CDS	114593	116581	.	-	.	what=cas;des=cd09757:cas8c;note=Subtype-I-C
+Y5.M001_4	FGS-hmm	CDS	116568	117308	.	-	.	what=cas;des=cd09752:cas5;note=Subtype-I-C
+Y5.M001_4	FGS-hmm	CDS	117324	119747	.	-	.	what=cas;des=COG1203:cas3;note=Type-I
+Y5.M001_4	metaCRT	direct_repeat	120156	121873	.	.	.	what=CRISPR;des=repeat:ATTTCAATCCACTCCCTCCTCGCAGAGGGAGAC;note=copy:26
+Y5.M001_4	FGS-hmm	CDS	354485	354796	.	-	.	what=cas;des=COG4804:PD-DExK;note=other
+Y5.M001_4	FGS-hmm	CDS	354784	355506	.	-	.	what=cas;des=COG4804:PD-DExK;note=other
+Y5.M001_4	FGS-hmm	CDS	355616	356599	.	-	.	what=cas;des=unk;note=unknown
+Y5.M001_4	FGS-hmm	CDS	356828	358225	.	-	.	what=cas;des=unk;note=unknown
+Y5.M001_4	FGS-hmm	CDS	358324	359265	.	-	.	what=cas;des=cd09641:cas3HD;note=Type-I

@@ -1,0 +1,31 @@
+#/u/yye/CRISPRpk/pipelines/../CRISPRone/call-script/hmmscan2cas.py -collection unk -hmmscan crisprone/crispr/YA4_M41/YA4_M41-vs-cas.domtblout -gff crisprone/crispr/YA4_M41/YA4_M41.gff -isolate -outfile crisprone/crispr/YA4_M41/YA4_M41.summary -outfiltered crisprone/crispr/YA4_M41/YA4_M41.summary-filter -gafile /u/yye/CRISPRpk/pipelines/../CRISPRone/local/cas-db/cas-CRISPR.GA
+##YA4_14706 1 derived-fm crisprone/crispr/YA4_M41/YA4_M41-vs-cas.domtblout
+YA4_14706_6933_11342_- YA4_M41 YA4_14706 6933 11342 - cd06127:DEDDh 2
+##YA4_16326 1 derived-fm crisprone/crispr/YA4_M41/YA4_M41-vs-cas.domtblout
+YA4_16326_6713_7480_+ YA4_M41 YA4_16326 6713 7480 + COG0640:csa3 2
+##YA4_15146 1 derived-fm crisprone/crispr/YA4_M41/YA4_M41-vs-cas.domtblout
+YA4_15146_5258_6010_- YA4_M41 YA4_15146 5258 6010 - COG0640:csa3 2
+##YA4_3852 1 derived-fm crisprone/crispr/YA4_M41/YA4_M41-vs-cas.domtblout
+YA4_3852_23656_24402_- YA4_M41 YA4_3852 23656 24402 - COG0640:csa3 2
+##YA4_6084 1 derived-fm crisprone/crispr/YA4_M41/YA4_M41-vs-cas.domtblout
+YA4_6084_30029_31441_+ YA4_M41 YA4_6084 30029 31441 + pfam00078:RT 2
+##YA4_12645 7 derived-fm crisprone/crispr/YA4_M41/YA4_M41-vs-cas.domtblout
+YA4_12645_6279_6986_+ YA4_M41 YA4_12645 6279 6986 + cd06127:DEDDh 2
+YA4_12645_7078_8604_+ YA4_M41 YA4_12645 7078 8604 + unk 1
+YA4_12645_8607_9605_+ YA4_M41 YA4_12645 8607 9605 + unk 1
+YA4_12645_9635_10129_+ YA4_M41 YA4_12645 9635 10129 + cls001593:casR 1
+YA4_12645_10129_11298_+ YA4_M41 YA4_12645 10129 11298 + unk 1
+YA4_12645_11329_11826_+ YA4_M41 YA4_12645 11329 11826 + unk 1
+YA4_12645_11910_14543_+ YA4_M41 YA4_12645 11910 14543 + cd09655:casR 1
+##YA4_14615 1 derived-fm crisprone/crispr/YA4_M41/YA4_M41-vs-cas.domtblout
+YA4_14615_22357_22650_- YA4_M41 YA4_14615 22357 22650 - COG0640:csa3 2
+##YA4_4060 1 derived-fm crisprone/crispr/YA4_M41/YA4_M41-vs-cas.domtblout
+YA4_4060_37842_38531_- YA4_M41 YA4_4060 37842 38531 - COG0640:csa3 2
+##YA4_16328 5 derived-fm crisprone/crispr/YA4_M41/YA4_M41-vs-cas.domtblout
+YA4_16328_8956_11154_- YA4_M41 YA4_16328 8956 11154 - COG4951:PrimPol 1
+YA4_16328_11226_11459_- YA4_M41 YA4_16328 11226 11459 - unk 1
+YA4_16328_11571_11861_- YA4_M41 YA4_16328 11571 11861 - cd09725:cas2 2
+YA4_16328_11865_12863_- YA4_M41 YA4_16328 11865 12863 - cd09722:cas1 2
+YA4_16328_12877_13113_- YA4_M41 YA4_16328 12877 13113 - pfam01930:cas4 1
+##YA4_14442 1 derived-fm crisprone/crispr/YA4_M41/YA4_M41-vs-cas.domtblout
+YA4_14442_21529_21921_+ YA4_M41 YA4_14442 21529 21921 + COG0640:csa3 2

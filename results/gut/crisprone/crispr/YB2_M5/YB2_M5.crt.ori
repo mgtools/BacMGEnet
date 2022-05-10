@@ -1,0 +1,37 @@
+SEQ: YB2_4350
+Bases: 506201
+Total CRISPR: 1
+
+
+CRISPR 1   Range: 158874 - 159000
+POSITION	REPEAT				SPACER
+--------	--------------------------	------------------------
+158874		TCCAGACTTCGGTTTTTCAGAAGTCT	AGACTTCGGTATGGTACTGCTGCAATCAAG	[ 26, 30 ]
+158930		TTCAGACTTCGGTTTTTTAGAAGTCT	TGACTTCGGCACGCTTTTC	[ 26, 19 ]
+158975		TTCAGACTTCGGTTTTTCAGAAGTCT	
+--------	--------------------------	------------------------
+Repeat-con	TTCAGACTTCGGTTTTTCAGAAGTCT
+Repeats: 3	Average Length: 26		Average Length: 24
+
+
+SEQ: YB2_17066
+Bases: 580265
+Total CRISPR: 1
+
+
+CRISPR 1   Range: 451550 - 451671
+POSITION	REPEAT				SPACER
+--------	--------------------------	----------------------
+451550		TAGCAGGCTCTGTTGTTGTAGGCTCT	GTTGAAGGAGCATCTGTAGGCTCTG	[ 26, 25 ]
+451601		TAGCAGGCTCTGTTGTTGTAGGCTCT	ACTGTTGTAGGCTCTGTTG	[ 26, 19 ]
+451646		TAGCAGGCTCTGTTGTTGTAGGCTCT	
+--------	--------------------------	----------------------
+Repeat-con	TAGCAGGCTCTGTTGTTGTAGGCTCT
+Repeats: 3	Average Length: 26		Average Length: 22
+
+
+Total sequences checked: 9
+Total bases checked: 2368886
+Total sequences with predicted CRISPR: 2
+Time used: 348 ms
+

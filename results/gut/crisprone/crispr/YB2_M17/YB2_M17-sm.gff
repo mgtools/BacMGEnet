@@ -1,0 +1,22 @@
+##gff-version 3
+#!processor CRISPRone
+YB2_3265	Genbank	region	1	532934	.	+	.	ID=YB2_3265;array=1;gene=12;type=(type I)
+YB2_3265	FGS-hmm	CDS	286276	286965	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YB2_3265	FGS-hmm	CDS	287028	288821	.	-	.	what=cas;des=unk;note=unknown
+YB2_3265	FGS-hmm	CDS	289417	289716	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YB2_3265	FGS-hmm	CDS	292799	293068	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YB2_3265	metaCRT	direct_repeat	493164	496633	.	.	.	what=CRISPR;des=repeat:ATTTCAATACATCTAATGTTACTATTTACC;note=copy:54
+YB2_3265	FGS-hmm	CDS	496819	497109	.	-	.	what=cas;des=cd09725:cas2;note=universal
+YB2_3265	FGS-hmm	CDS	497109	498107	.	-	.	what=cas;des=cd09722:cas1;note=universal
+YB2_3265	FGS-hmm	CDS	498128	498622	.	-	.	what=cas;des=pfam01930:cas4;note=Type-I
+YB2_3265	FGS-hmm	CDS	498737	501436	.	-	.	what=cas;des=cd09641:cas3HD;note=Type-I
+YB2_3265	FGS-hmm	CDS	501531	502292	.	-	.	what=cas;des=cd09693:cas5;note=Type-I
+YB2_3265	FGS-hmm	CDS	502296	503231	.	-	.	what=cas;des=pfam05107:cas7b;note=Type-I
+YB2_3265	FGS-hmm	CDS	503326	505095	.	-	.	what=cas;des=mkCas0106:cas8b1;note=Subtype-I-B
+YB2_3265	FGS-hmm	CDS	505306	506004	.	-	.	what=cas;des=cd09652:cas6;note=other
+YB2_3265	FGS-hmm	CDS	506370	507131	.	-	.	what=cas;des=pfam13280:WYL;note=other
+YB2_13554	Genbank	region	1	334095	.	+	.	ID=YB2_13554;array=0;gene=3;type=(type I)
+YB2_13554	FGS-hmm	CDS	264061	264543	.	-	.	what=cas;des=cls001593:casR;note=Type-I
+YB2_13554	FGS-hmm	CDS	264604	265599	.	-	.	what=cas;des=unk;note=unknown
+YB2_13554	FGS-hmm	CDS	266011	266631	.	+	.	what=cas;des=mkCas0092:csc1gr5;note=Subtype-I-D
+YB2_13554	FGS-hmm	CDS	266751	267452	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I

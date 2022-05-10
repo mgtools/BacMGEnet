@@ -1,0 +1,9 @@
+##gff-version 3
+#!processor CRISPRone
+YB1_8052	Genbank	region	1	102018	.	+	.	ID=YB1_8052;array=0;gene=2;type=NA
+YB1_8052	FGS-hmm	CDS	385	1329	.	-	.	what=cas;des=COG2378:WYL;note=other
+YB1_8052	FGS-hmm	CDS	1304	2575	.	-	.	what=cas;des=COG3513:cas9;note=Type-II
+YB1_5380	Genbank	region	1	19606	.	+	.	ID=YB1_5380;array=0;gene=3;type=(type IV)
+YB1_5380	FGS-hmm	CDS	13053	13370	.	-	.	what=cas;des=cd09680:cas10;note=Type-III
+YB1_5380	FGS-hmm	CDS	13744	14331	.	+	.	what=cas;des=cls000955:csx1;note=Type-III
+YB1_5380	FGS-hmm	CDS	14575	16875	.	+	.	what=cas;des=COG1199:DinG;note=Subtype-IV-A

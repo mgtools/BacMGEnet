@@ -1,0 +1,27 @@
+##gff-version 3
+#!processor CRISPRone
+Y7.M043_52	Genbank	region	1	98043	.	+	.	ID=Y7.M043_52;array=1;gene=0;type=NA
+Y7.M043_52	metaCRT	direct_repeat	5580	5858	.	.	.	what=CRISPR;des=repeat:CAGAGTGTTCCTAATTAGAGTGT;note=copy:5
+Y7.M043_32	Genbank	region	1	290255	.	+	.	ID=Y7.M043_32;array=3;gene=13;type=(type I, III)
+Y7.M043_32	FGS-hmm	CDS	47919	48800	.	+	.	what=cas;des=mkCas0090:PD-DExK;note=other
+Y7.M043_32	FGS-hmm	CDS	48812	50860	.	+	.	what=cas;des=mkCas0133:cas10;note=Type-III
+Y7.M043_32	FGS-hmm	CDS	50808	51506	.	+	.	what=cas;des=pfam03787:csm3gr7;note=Type-III
+Y7.M043_32	FGS-hmm	CDS	51521	52510	.	+	.	what=cas;des=mkCas0089:csm4gr5;note=Type-III
+Y7.M043_32	FGS-hmm	CDS	52482	53300	.	+	.	what=cas;des=cd09726:csm3gr7;note=Subtype-III-D
+Y7.M043_32	FGS-hmm	CDS	53293	54183	.	+	.	what=cas;des=mkCas0091:cas6;note=other
+Y7.M043_32	metaCRT	direct_repeat	54378	56926	.	.	.	what=CRISPR;des=repeat:GTCACCACTGATGCAGTGGTGTGGATTGAAAT;note=copy:39
+Y7.M043_32	FGS-hmm	CDS	56997	59138	.	+	.	what=cas;des=cd09641:cas3HD;note=Type-I
+Y7.M043_32	FGS-hmm	CDS	59176	59835	.	+	.	what=cas;des=cd09752:cas5;note=Subtype-I-C
+Y7.M043_32	FGS-hmm	CDS	59832	61589	.	+	.	what=cas;des=cd09757:cas8c;note=Subtype-I-C
+Y7.M043_32	FGS-hmm	CDS	61591	62481	.	+	.	what=cas;des=pfam05107:cas7b;note=Type-I
+Y7.M043_32	FGS-hmm	CDS	62481	63149	.	+	.	what=cas;des=pfam01930:cas4;note=Type-I
+Y7.M043_32	FGS-hmm	CDS	63146	64177	.	+	.	what=cas;des=cd09721:cas1;note=universal
+Y7.M043_32	FGS-hmm	CDS	64191	64481	.	+	.	what=cas;des=cd09725:cas2;note=universal
+Y7.M043_32	metaCRT	direct_repeat	64656	69514	.	.	.	what=CRISPR;des=repeat:GTCTCCGCTAGCGATGGCGGAGTGGATTGAAAT;note=copy:73
+Y7.M043_32	metaCRT	direct_repeat	289866	290011	.	.	.	what=CRISPR;des=repeat:TCCGGAGCGATGAAGACCGGATGGGT;note=copy:3
+Y7.M043_36	Genbank	region	1	68180	.	+	.	ID=Y7.M043_36;array=1;gene=0;type=NA
+Y7.M043_36	metaCRT	direct_repeat	51	163	.	.	.	what=CRISPR;des=repeat:GGCCCGACTGGGGCAACGGGAGC;note=copy:3
+Y7.M043_45	Genbank	region	1	317742	.	+	.	ID=Y7.M043_45;array=1;gene=0;type=NA
+Y7.M043_45	metaCRT	direct_repeat	192700	193003	.	.	.	what=CRISPR;des=repeat:GGAATTTCAATCCACACCTTCCTCACAGAAGGTGAC;note=copy:5
+Y7.M043_31	Genbank	region	1	330264	.	+	.	ID=Y7.M043_31;array=1;gene=0;type=NA
+Y7.M043_31	metaCRT	direct_repeat	9147	9314	.	.	.	what=CRISPR;des=repeat:ATCGGTCCGCCCTCGCCTGGGTTCGGCAGCGGA;note=copy:3

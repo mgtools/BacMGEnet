@@ -1,0 +1,30 @@
+##gff-version 3
+#!processor CRISPRone
+CP072234.1	Genbank	region	1	5298614	.	+	.	ID=CP072234.1
+CP072234.1	FGS-hmm	CDS	205594	206421	.	-	.	what=cas;des=COG4804:PD-DExK;note=other
+CP072234.1	FGS-hmm	CDS	615099	615389	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+CP072234.1	FGS-hmm	CDS	634204	636384	.	+	.	what=cas;des=cd09710:cas3;note=Subtype-I-D
+CP072234.1	FGS-hmm	CDS	636521	636742	.	+	.	what=cas;des=unk;note=unknown
+CP072234.1	FGS-hmm	CDS	637062	639158	.	+	.	what=cas;des=pfam08800:PrimPol;note=other
+CP072234.1	FGS-hmm	CDS	1301575	1301901	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+CP072234.1	FGS-hmm	CDS	1317879	1318430	.	+	.	what=cas;des=COG4804:PD-DExK;note=other
+CP072234.1	FGS-hmm	CDS	1318405	1319010	.	+	.	what=cas;des=COG4804:PD-DExK;note=other
+CP072234.1	FGS-hmm	CDS	1907931	1908965	.	-	.	what=cas;des=pfam13280:WYL;note=other
+CP072234.1	FGS-hmm	CDS	1908984	1909178	.	-	.	what=cas;des=cls001593:casR;note=Type-I
+CP072234.1	FGS-hmm	CDS	1927719	1929365	.	-	.	what=cas;des=pfam00078:RT;note=other
+CP072234.1	FGS-hmm	CDS	2261786	2263432	.	+	.	what=cas;des=pfam00078:RT;note=other
+CP072234.1	FGS-hmm	CDS	2306017	2307663	.	-	.	what=cas;des=pfam00078:RT;note=other
+CP072234.1	FGS-hmm	CDS	2643379	2644563	.	+	.	what=cas;des=COG4804:PD-DExK;note=other
+CP072234.1	FGS-hmm	CDS	2705823	2706311	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+CP072234.1	FGS-hmm	CDS	2872488	2873621	.	-	.	what=cas;des=COG4804:PD-DExK;note=other
+CP072234.1	FGS-hmm	CDS	2886610	2887386	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I
+CP072234.1	FGS-hmm	CDS	3272215	3273861	.	+	.	what=cas;des=pfam00078:RT;note=other
+CP072234.1	FGS-hmm	CDS	3273870	3274460	.	+	.	what=cas;des=unk;note=unknown
+CP072234.1	FGS-hmm	CDS	3274467	3274733	.	-	.	what=cas;des=unk;note=unknown
+CP072234.1	FGS-hmm	CDS	3274742	3276388	.	-	.	what=cas;des=pfam00078:RT;note=other
+CP072234.1	FGS-hmm	CDS	3447560	3449206	.	-	.	what=cas;des=pfam00078:RT;note=other
+CP072234.1	FGS-hmm	CDS	3752349	3752972	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+CP072234.1	FGS-hmm	CDS	3753377	3755467	.	+	.	what=cas;des=pfam08800:PrimPol;note=other
+CP072234.1	FGS-hmm	CDS	4446148	4447149	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+CP072234.1	FGS-hmm	CDS	4532572	4535298	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+CP072234.1	metaCRT	direct_repeat	4575243	4575469	.	.	.	what=CRISPR;des=repeat:GGACGCTGCTCACCACCTTC;note=copy:5

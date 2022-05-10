@@ -1,0 +1,5 @@
+##gff-version 3
+#!processor CRISPRone
+YB4_18795	Genbank	region	1	61798	.	+	.	ID=YB4_18795;array=0;gene=2;type=NA
+YB4_18795	FGS-hmm	CDS	59411	60115	.	+	.	what=cas;des=COG1203:cas3;note=Type-I
+YB4_18795	FGS-hmm	CDS	60181	60615	.	+	.	what=cas;des=cd09693:cas5;note=Type-I

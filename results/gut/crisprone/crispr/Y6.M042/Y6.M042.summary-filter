@@ -1,0 +1,25 @@
+#/u/yye/CRISPRpk/pipelines/../CRISPRone/call-script/hmmscan2cas.py -collection unk -hmmscan crisprone/crispr/Y6.M042/Y6.M042-vs-cas.domtblout -gff crisprone/crispr/Y6.M042/Y6.M042.gff -isolate -outfile crisprone/crispr/Y6.M042/Y6.M042.summary -outfiltered crisprone/crispr/Y6.M042/Y6.M042.summary-filter -gafile /u/yye/CRISPRpk/pipelines/../CRISPRone/local/cas-db/cas-CRISPR.GA
+##Y6.M042_93 1 derived-fm crisprone/crispr/Y6.M042/Y6.M042-vs-cas.domtblout
+Y6.M042_93_5904_6794_- Y6.M042 Y6.M042_93 5904 6794 - COG0640:csa3 2
+##Y6.M042_213 1 derived-fm crisprone/crispr/Y6.M042/Y6.M042-vs-cas.domtblout
+Y6.M042_213_1789_2373_+ Y6.M042 Y6.M042_213 1789 2373 + cd06127:DEDDh 2
+##Y6.M042_52 1 derived-fm crisprone/crispr/Y6.M042/Y6.M042-vs-cas.domtblout
+Y6.M042_52_27154_27693_+ Y6.M042 Y6.M042_52 27154 27693 + COG0640:csa3 2
+##Y6.M042_64 1 derived-fm crisprone/crispr/Y6.M042/Y6.M042-vs-cas.domtblout
+Y6.M042_64_9700_10017_+ Y6.M042 Y6.M042_64 9700 10017 + COG0640:csa3 2
+##Y6.M042_189 1 derived-fm crisprone/crispr/Y6.M042/Y6.M042-vs-cas.domtblout
+Y6.M042_189_3_1133_+ Y6.M042 Y6.M042_189 3 1133 + COG1199:DinG 2
+##Y6.M042_169 3 derived-fm crisprone/crispr/Y6.M042/Y6.M042-vs-cas.domtblout
+Y6.M042_169_2_382_+ Y6.M042 Y6.M042_169 2 382 + cd09742:csm6 1
+Y6.M042_169_514_1395_- Y6.M042 Y6.M042_169 514 1395 - unk 1
+Y6.M042_169_1471_2262_- Y6.M042 Y6.M042_169 1471 2262 - COG0640:csa3 2
+##Y6.M042_307 1 derived-fm crisprone/crispr/Y6.M042/Y6.M042-vs-cas.domtblout
+Y6.M042_307_476_2122_+ Y6.M042 Y6.M042_307 476 2122 + cd06127:DEDDh 2
+##Y6.M042_329 1 derived-fm crisprone/crispr/Y6.M042/Y6.M042-vs-cas.domtblout
+Y6.M042_329_1980_2891_- Y6.M042 Y6.M042_329 1980 2891 - COG2378:WYL 2
+##Y6.M042_176 1 derived-fm crisprone/crispr/Y6.M042/Y6.M042-vs-cas.domtblout
+Y6.M042_176_3943_4422_- Y6.M042 Y6.M042_176 3943 4422 - COG0640:csa3 2
+##Y6.M042_142 1 derived-fm crisprone/crispr/Y6.M042/Y6.M042-vs-cas.domtblout
+Y6.M042_142_6123_6473_- Y6.M042 Y6.M042_142 6123 6473 - COG0640:csa3 2
+##Y6.M042_109 1 derived-fm crisprone/crispr/Y6.M042/Y6.M042-vs-cas.domtblout
+Y6.M042_109_2809_7161_- Y6.M042 Y6.M042_109 2809 7161 - cd06127:DEDDh 2

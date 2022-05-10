@@ -1,0 +1,33 @@
+##gff-version 3
+#!processor CRISPRone
+Y5.M002_19	Genbank	region	1	224235	.	+	.	ID=Y5.M002_19
+Y5.M002_19	FGS-hmm	CDS	107517	107831	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y5.M002_19	FGS-hmm	CDS	204858	205139	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y5.M002_18	Genbank	region	1	353404	.	+	.	ID=Y5.M002_18
+Y5.M002_18	FGS-hmm	CDS	12413	13684	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I
+Y5.M002_18	FGS-hmm	CDS	230561	231553	.	-	.	what=cas;des=pfam13280:WYL;note=other
+Y5.M002_18	FGS-hmm	CDS	231699	233042	.	+	.	what=cas;des=unk;note=unknown
+Y5.M002_18	FGS-hmm	CDS	233173	233772	.	-	.	what=cas;des=cd09641:cas3HD;note=Type-I
+Y5.M002_18	FGS-hmm	CDS	346531	347442	.	-	.	what=cas;des=pfam13280:WYL;note=other
+Y5.M002_18	FGS-hmm	CDS	347439	348698	.	-	.	what=cas;des=pfam13280:WYL;note=other
+Y5.M002_25	Genbank	region	1	98427	.	+	.	ID=Y5.M002_25
+Y5.M002_25	FGS-hmm	CDS	40245	40781	.	+	.	what=cas;des=cls001593:casR;note=Type-I
+Y5.M002_25	FGS-hmm	CDS	40916	41194	.	+	.	what=cas;des=unk;note=unknown
+Y5.M002_25	FGS-hmm	CDS	41321	41743	.	-	.	what=cas;des=unk;note=unknown
+Y5.M002_25	FGS-hmm	CDS	42178	42489	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y5.M002_20	Genbank	region	1	183278	.	+	.	ID=Y5.M002_20
+Y5.M002_20	FGS-hmm	CDS	18017	18370	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y5.M002_10	Genbank	region	1	150575	.	+	.	ID=Y5.M002_10
+Y5.M002_10	FGS-hmm	CDS	6309	6947	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y5.M002_2	Genbank	region	1	72029	.	+	.	ID=Y5.M002_2
+Y5.M002_2	FGS-hmm	CDS	32414	36742	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I
+Y5.M002_48	Genbank	region	1	51041	.	+	.	ID=Y5.M002_48
+Y5.M002_48	FGS-hmm	CDS	26509	27501	.	+	.	what=cas;des=pfam13280:WYL;note=other
+Y5.M002_21	Genbank	region	1	179688	.	+	.	ID=Y5.M002_21
+Y5.M002_21	FGS-hmm	CDS	96759	97667	.	-	.	what=cas;des=COG2378:WYL;note=other
+Y5.M002_24	Genbank	region	1	108755	.	+	.	ID=Y5.M002_24
+Y5.M002_24	FGS-hmm	CDS	6813	7712	.	+	.	what=cas;des=COG2378:WYL;note=other
+Y5.M002_1	Genbank	region	1	166438	.	+	.	ID=Y5.M002_1
+Y5.M002_1	FGS-hmm	CDS	11334	11720	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y5.M002_1	FGS-hmm	CDS	68084	70480	.	-	.	what=cas;des=COG1199:DinG;note=Subtype-IV-A
+Y5.M002_1	FGS-hmm	CDS	84745	85071	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A

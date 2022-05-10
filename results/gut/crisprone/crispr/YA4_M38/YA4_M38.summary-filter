@@ -1,0 +1,24 @@
+#/u/yye/CRISPRpk/pipelines/../CRISPRone/call-script/hmmscan2cas.py -collection unk -hmmscan crisprone/crispr/YA4_M38/YA4_M38-vs-cas.domtblout -gff crisprone/crispr/YA4_M38/YA4_M38.gff -isolate -outfile crisprone/crispr/YA4_M38/YA4_M38.summary -outfiltered crisprone/crispr/YA4_M38/YA4_M38.summary-filter -gafile /u/yye/CRISPRpk/pipelines/../CRISPRone/local/cas-db/cas-CRISPR.GA
+##YA4_514 1 derived-fm crisprone/crispr/YA4_M38/YA4_M38-vs-cas.domtblout
+YA4_514_28572_28961_- YA4_M38 YA4_514 28572 28961 - COG0640:csa3 2
+##YA4_17027 1 derived-fm crisprone/crispr/YA4_M38/YA4_M38-vs-cas.domtblout
+YA4_17027_170240_170710_- YA4_M38 YA4_17027 170240 170710 - COG0640:csa3 2
+##YA4_18664 5 derived-fm crisprone/crispr/YA4_M38/YA4_M38-vs-cas.domtblout
+YA4_18664_33609_33983_- YA4_M38 YA4_18664 33609 33983 - COG0640:csa3 2
+YA4_18664_193105_193506_- YA4_M38 YA4_18664 193105 193506 - cd09638:cas2 2
+YA4_18664_193418_194299_- YA4_M38 YA4_18664 193418 194299 - cd09634:cas1 2
+YA4_18664_194303_197527_- YA4_M38 YA4_18664 194303 197527 - COG3513:cas9 1
+YA4_18664_236186_237181_+ YA4_M38 YA4_18664 236186 237181 + pfam13280:WYL 2
+##YA4_15191 5 derived-fm crisprone/crispr/YA4_M38/YA4_M38-vs-cas.domtblout
+YA4_15191_2572_2856_- YA4_M38 YA4_15191 2572 2856 - COG0640:csa3 2
+YA4_15191_3221_5833_+ YA4_M38 YA4_15191 3221 5833 + unk 1
+YA4_15191_6089_6646_- YA4_M38 YA4_15191 6089 6646 - unk 1
+YA4_15191_7155_7973_+ YA4_M38 YA4_15191 7155 7973 + unk 1
+YA4_15191_7977_8936_+ YA4_M38 YA4_15191 7977 8936 + cd06127:DEDDh 2
+##YA4_12079 1 derived-fm crisprone/crispr/YA4_M38/YA4_M38-vs-cas.domtblout
+YA4_12079_22346_26653_- YA4_M38 YA4_12079 22346 26653 - cd06127:DEDDh 2
+##YA4_17026 1 derived-fm crisprone/crispr/YA4_M38/YA4_M38-vs-cas.domtblout
+YA4_17026_99004_99333_- YA4_M38 YA4_17026 99004 99333 - COG0640:csa3 2
+##YA4_14964 2 derived-fm crisprone/crispr/YA4_M38/YA4_M38-vs-cas.domtblout
+YA4_14964_76096_76995_+ YA4_M38 YA4_14964 76096 76995 + COG2378:WYL 2
+YA4_14964_272878_275295_- YA4_M38 YA4_14964 272878 275295 - COG1199:DinG 2

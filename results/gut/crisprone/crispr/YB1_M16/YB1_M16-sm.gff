@@ -1,0 +1,11 @@
+##gff-version 3
+#!processor CRISPRone
+YB1_4982	Genbank	region	1	217233	.	+	.	ID=YB1_4982;array=1;gene=7;type=(type I)
+YB1_4982	FGS-hmm	CDS	24767	26920	.	+	.	what=cas;des=cd09641:cas3HD;note=Type-I
+YB1_4982	FGS-hmm	CDS	26931	27653	.	+	.	what=cas;des=cd09752:cas5;note=Subtype-I-C
+YB1_4982	FGS-hmm	CDS	27647	29437	.	+	.	what=cas;des=cd09757:cas8c;note=Subtype-I-C
+YB1_4982	FGS-hmm	CDS	29454	30332	.	+	.	what=cas;des=pfam05107:cas7b;note=Type-I
+YB1_4982	FGS-hmm	CDS	30329	30973	.	+	.	what=cas;des=cd09637:cas4;note=other
+YB1_4982	FGS-hmm	CDS	30970	31992	.	+	.	what=cas;des=cd09634:cas1;note=universal
+YB1_4982	FGS-hmm	CDS	32002	32292	.	+	.	what=cas;des=cd09725:cas2;note=universal
+YB1_4982	metaCRT	direct_repeat	32438	33750	.	.	.	what=CRISPR;des=repeat:GTCACGCTCCCCACGGAGCGTGTGAGTTGAAAT;note=copy:20

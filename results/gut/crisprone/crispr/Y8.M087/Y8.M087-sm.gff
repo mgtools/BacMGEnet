@@ -1,0 +1,17 @@
+##gff-version 3
+#!processor CRISPRone
+Y8.M087_83	Genbank	region	1	57248	.	+	.	ID=Y8.M087_83;array=1;gene=4;type=(type II)
+Y8.M087_83	FGS-hmm	CDS	50863	54840	.	+	.	what=cas;des=mkCas0193:cas9;note=Subtype-II-A
+Y8.M087_83	FGS-hmm	CDS	54741	55703	.	+	.	what=cas;des=cd09720:cas1;note=Subtype-II-A
+Y8.M087_83	FGS-hmm	CDS	55715	56020	.	+	.	what=cas;des=pfam09827:cas2;note=Subtype-II-A
+Y8.M087_83	FGS-hmm	CDS	56017	56691	.	+	.	what=cas;des=cd09644:csn2;note=Subtype-II-A
+Y8.M087_83	metaCRT	direct_repeat	56755	57251	.	.	.	what=CRISPR;des=repeat:GTTTGAGAATGATGTAAAAATGTATGGTACTCAAAC;note=copy:8
+Y8.M087_6	Genbank	region	1	63384	.	+	.	ID=Y8.M087_6;array=1;gene=7;type=(type I)
+Y8.M087_6	FGS-hmm	CDS	806	3286	.	+	.	what=cas;des=cd09641:cas3HD;note=Type-I
+Y8.M087_6	FGS-hmm	CDS	3306	4040	.	+	.	what=cas;des=cd09752:cas5;note=Subtype-I-C
+Y8.M087_6	FGS-hmm	CDS	4037	5971	.	+	.	what=cas;des=pfam09709:cas8c;note=Subtype-I-C
+Y8.M087_6	FGS-hmm	CDS	5976	6833	.	+	.	what=cas;des=pfam05107:cas7b;note=Type-I
+Y8.M087_6	FGS-hmm	CDS	6868	7533	.	+	.	what=cas;des=pfam01930:cas4;note=Type-I
+Y8.M087_6	FGS-hmm	CDS	7530	8561	.	+	.	what=cas;des=cd09721:cas1;note=universal
+Y8.M087_6	FGS-hmm	CDS	8572	8862	.	+	.	what=cas;des=cd09725:cas2;note=universal
+Y8.M087_6	metaCRT	direct_repeat	9034	10715	.	.	.	what=CRISPR;des=repeat:GTCGCCCTCCGTGAGGGCGTGAGTTGAAAT;note=copy:27

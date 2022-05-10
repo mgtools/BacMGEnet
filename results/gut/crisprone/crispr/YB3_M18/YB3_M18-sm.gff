@@ -1,0 +1,4 @@
+##gff-version 3
+#!processor CRISPRone
+YB3_10625	Genbank	region	1	89130	.	+	.	ID=YB3_10625;array=1;gene=0;type=NA
+YB3_10625	metaCRT	direct_repeat	54328	54803	.	.	.	what=CRISPR;des=repeat:CTCGACCTCTCCGAAAATACGGCATTG;note=copy:8

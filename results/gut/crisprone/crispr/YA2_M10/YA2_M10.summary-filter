@@ -1,0 +1,64 @@
+#/u/yye/CRISPRpk/pipelines/../CRISPRone/call-script/hmmscan2cas.py -collection unk -hmmscan crisprone/crispr/YA2_M10/YA2_M10-vs-cas.domtblout -gff crisprone/crispr/YA2_M10/YA2_M10.gff -isolate -outfile crisprone/crispr/YA2_M10/YA2_M10.summary -outfiltered crisprone/crispr/YA2_M10/YA2_M10.summary-filter -gafile /u/yye/CRISPRpk/pipelines/../CRISPRone/local/cas-db/cas-CRISPR.GA
+##YA2_2516 2 derived-fm crisprone/crispr/YA2_M10/YA2_M10-vs-cas.domtblout
+YA2_2516_3153_4076_+ YA2_M10 YA2_2516 3153 4076 + cls001593:casR 1
+YA2_2516_4279_4752_+ YA2_M10 YA2_2516 4279 4752 + COG0640:csa3 2
+##YA2_4718 1 derived-fm crisprone/crispr/YA2_M10/YA2_M10-vs-cas.domtblout
+YA2_4718_75_437_- YA2_M10 YA2_4718 75 437 - COG0640:csa3 2
+##YA2_1733 2 derived-fm crisprone/crispr/YA2_M10/YA2_M10-vs-cas.domtblout
+YA2_1733_656_3475_+ YA2_M10 YA2_1733 656 3475 + cd09641:cas3HD 2
+YA2_1733_3478_4086_+ YA2_M10 YA2_1733 3478 4086 + cd09729:cas8e 1
+##YA2_616 4 derived-fm crisprone/crispr/YA2_M10/YA2_M10-vs-cas.domtblout
+YA2_616_429_4508_+ YA2_M10 YA2_616 429 4508 + mkCas0193:cas9 1
+YA2_616_4583_5389_+ YA2_M10 YA2_616 4583 5389 + COG1518:cas1 2
+YA2_616_5379_5699_+ YA2_M10 YA2_616 5379 5699 + pfam09827:cas2 2
+YA2_616_5759_6346_+ YA2_M10 YA2_616 5759 6346 + cd09644:csn2 1
+##YA2_3821 1 derived-fm crisprone/crispr/YA2_M10/YA2_M10-vs-cas.domtblout
+YA2_3821_7497_8549_+ YA2_M10 YA2_3821 7497 8549 + pfam00078:RT 2
+##YA2_192 1 derived-fm crisprone/crispr/YA2_M10/YA2_M10-vs-cas.domtblout
+YA2_192_6767_8044_+ YA2_M10 YA2_192 6767 8044 + pfam00078:RT 2
+##YA2_4094 1 derived-fm crisprone/crispr/YA2_M10/YA2_M10-vs-cas.domtblout
+YA2_4094_14061_14717_+ YA2_M10 YA2_4094 14061 14717 + pfam13280:WYL 2
+##YA2_1424 1 derived-fm crisprone/crispr/YA2_M10/YA2_M10-vs-cas.domtblout
+YA2_1424_2609_2926_- YA2_M10 YA2_1424 2609 2926 - COG0640:csa3 2
+##YA2_809 1 derived-fm crisprone/crispr/YA2_M10/YA2_M10-vs-cas.domtblout
+YA2_809_43662_45494_- YA2_M10 YA2_809 43662 45494 - pfam00078:RT 2
+##YA2_2149 4 derived-fm crisprone/crispr/YA2_M10/YA2_M10-vs-cas.domtblout
+YA2_2149_20747_22003_- YA2_M10 YA2_2149 20747 22003 - pfam00078:RT 2
+YA2_2149_22034_22222_- YA2_M10 YA2_2149 22034 22222 - unk 1
+YA2_2149_22274_22417_- YA2_M10 YA2_2149 22274 22417 - unk 1
+YA2_2149_22524_23120_- YA2_M10 YA2_2149 22524 23120 - pfam00078:RT 2
+##YA2_2438 3 derived-fm crisprone/crispr/YA2_M10/YA2_M10-vs-cas.domtblout
+YA2_2438_1140_1463_+ YA2_M10 YA2_2438 1140 1463 + cls001593:casR 1
+YA2_2438_1529_1945_- YA2_M10 YA2_2438 1529 1945 - unk 1
+YA2_2438_2031_3080_- YA2_M10 YA2_2438 2031 3080 - COG4804:PD-DExK 2
+##YA2_1996 1 derived-fm crisprone/crispr/YA2_M10/YA2_M10-vs-cas.domtblout
+YA2_1996_23243_24070_- YA2_M10 YA2_1996 23243 24070 - COG0640:csa3 2
+##YA2_5172 1 derived-fm crisprone/crispr/YA2_M10/YA2_M10-vs-cas.domtblout
+YA2_5172_2401_3294_+ YA2_M10 YA2_5172 2401 3294 + COG2378:WYL 2
+##YA2_2320 1 derived-fm crisprone/crispr/YA2_M10/YA2_M10-vs-cas.domtblout
+YA2_2320_54_794_+ YA2_M10 YA2_2320 54 794 + COG0640:csa3 2
+##YA2_398 5 derived-fm crisprone/crispr/YA2_M10/YA2_M10-vs-cas.domtblout
+YA2_398_16658_17020_+ YA2_M10 YA2_398 16658 17020 + COG0640:csa3 2
+YA2_398_27676_28599_- YA2_M10 YA2_398 27676 28599 - COG0640:csa3 2
+YA2_398_28775_29758_+ YA2_M10 YA2_398 28775 29758 + unk 1
+YA2_398_29866_31476_+ YA2_M10 YA2_398 29866 31476 + unk 1
+YA2_398_31528_32451_- YA2_M10 YA2_398 31528 32451 - COG0640:csa3 2
+##YA2_2233 1 derived-fm crisprone/crispr/YA2_M10/YA2_M10-vs-cas.domtblout
+YA2_2233_441_743_+ YA2_M10 YA2_2233 441 743 + COG0640:csa3 2
+##YA2_1011 1 derived-fm crisprone/crispr/YA2_M10/YA2_M10-vs-cas.domtblout
+YA2_1011_294_926_+ YA2_M10 YA2_1011 294 926 + COG4804:PD-DExK 2
+##YA2_5012 1 derived-fm crisprone/crispr/YA2_M10/YA2_M10-vs-cas.domtblout
+YA2_5012_3012_7502_- YA2_M10 YA2_5012 3012 7502 - cd06127:DEDDh 2
+##YA2_5167 1 derived-fm crisprone/crispr/YA2_M10/YA2_M10-vs-cas.domtblout
+YA2_5167_7803_10160_- YA2_M10 YA2_5167 7803 10160 - COG1199:DinG 2
+##YA2_332 4 derived-fm crisprone/crispr/YA2_M10/YA2_M10-vs-cas.domtblout
+YA2_332_1236_5381_+ YA2_M10 YA2_332 1236 5381 + mkCas0193:cas9 1
+YA2_332_5395_6270_+ YA2_M10 YA2_332 5395 6270 + cd09720:cas1 2
+YA2_332_6275_6580_+ YA2_M10 YA2_332 6275 6580 + pfam09827:cas2 2
+YA2_332_6577_7254_+ YA2_M10 YA2_332 6577 7254 + cd09644:csn2 1
+##YA2_615 1 derived-fm crisprone/crispr/YA2_M10/YA2_M10-vs-cas.domtblout
+YA2_615_1162_2067_+ YA2_M10 YA2_615 1162 2067 + COG0640:csa3 2
+##YA2_3480 1 derived-fm crisprone/crispr/YA2_M10/YA2_M10-vs-cas.domtblout
+YA2_3480_12941_13321_+ YA2_M10 YA2_3480 12941 13321 + COG0640:csa3 2
+##YA2_3088 1 derived-fm crisprone/crispr/YA2_M10/YA2_M10-vs-cas.domtblout
+YA2_3088_2416_2823_- YA2_M10 YA2_3088 2416 2823 - pfam13280:WYL 2

@@ -1,0 +1,11 @@
+##gff-version 3
+#!processor CRISPRone
+YB3_92	Genbank	region	1	48807	.	+	.	ID=YB3_92;array=0;gene=8;type=(type I)
+YB3_92	FGS-hmm	CDS	2179	3078	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YB3_92	FGS-hmm	CDS	3075	4034	.	-	.	what=cas;des=cd09719:cas1;note=universal
+YB3_92	FGS-hmm	CDS	4098	4736	.	-	.	what=cas;des=pfam08798:cas6e;note=other
+YB3_92	FGS-hmm	CDS	4749	5252	.	-	.	what=cas;des=cd09693:cas5;note=Type-I
+YB3_92	FGS-hmm	CDS	5354	6523	.	-	.	what=cas;des=pfam09344:cas7;note=Subtype-I-E
+YB3_92	FGS-hmm	CDS	6516	7127	.	-	.	what=cas;des=mkCas0194:cse2gr11;note=Subtype-I-E
+YB3_92	FGS-hmm	CDS	7143	8702	.	-	.	what=cas;des=cd09729:cas8e;note=Subtype-I-E
+YB3_92	FGS-hmm	CDS	8699	11392	.	-	.	what=cas;des=COG1203:cas3;note=Type-I

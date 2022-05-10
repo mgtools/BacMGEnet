@@ -1,0 +1,34 @@
+##gff-version 3
+#!processor CRISPRone
+YA2_158	Genbank	region	1	86518	.	+	.	ID=YA2_158
+YA2_158	FGS-hmm	CDS	65422	70047	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YA2_5339	Genbank	region	1	107212	.	+	.	ID=YA2_5339
+YA2_5339	FGS-hmm	CDS	35223	36230	.	-	.	what=cas;des=pfam13280:WYL;note=other
+YA2_5339	FGS-hmm	CDS	36217	37530	.	-	.	what=cas;des=pfam13280:WYL;note=other
+YA2_4225	Genbank	region	1	194353	.	+	.	ID=YA2_4225
+YA2_4225	FGS-hmm	CDS	128531	130978	.	-	.	what=cas;des=COG1199:DinG;note=Subtype-IV-A
+YA2_4994	Genbank	region	1	166299	.	+	.	ID=YA2_4994
+YA2_4994	FGS-hmm	CDS	62968	63918	.	+	.	what=cas;des=cd09641:cas3HD;note=Type-I
+YA2_4994	FGS-hmm	CDS	63924	65294	.	+	.	what=cas;des=unk;note=unknown
+YA2_4994	FGS-hmm	CDS	65316	66392	.	+	.	what=cas;des=COG4804:PD-DExK;note=other
+YA2_3569	Genbank	region	1	250180	.	+	.	ID=YA2_3569
+YA2_3569	FGS-hmm	CDS	79256	80083	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA2_3569	FGS-hmm	CDS	187323	187682	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA2_244	Genbank	region	1	83200	.	+	.	ID=YA2_244
+YA2_244	FGS-hmm	CDS	380	1357	.	-	.	what=cas;des=pfam00078:RT;note=other
+YA2_5024	Genbank	region	1	163162	.	+	.	ID=YA2_5024
+YA2_5024	FGS-hmm	CDS	113723	114211	.	-	.	what=cas;des=cls001593:casR;note=Type-I
+YA2_5024	FGS-hmm	CDS	114249	114842	.	-	.	what=cas;des=unk;note=unknown
+YA2_5024	FGS-hmm	CDS	114839	116542	.	-	.	what=cas;des=unk;note=unknown
+YA2_5024	FGS-hmm	CDS	116731	117510	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YA2_104	Genbank	region	1	93819	.	+	.	ID=YA2_104
+YA2_104	FGS-hmm	CDS	72706	73908	.	-	.	what=cas;des=mkCas0115:csx3;note=other
+YA2_104	FGS-hmm	CDS	73901	74902	.	-	.	what=cas;des=unk;note=unknown
+YA2_104	FGS-hmm	CDS	75015	75518	.	-	.	what=cas;des=unk;note=unknown
+YA2_104	FGS-hmm	CDS	75957	76310	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA2_798	Genbank	region	1	51385	.	+	.	ID=YA2_798
+YA2_798	FGS-hmm	CDS	3569	3910	.	+	.	what=cas;des=pfam00078:RT;note=other
+YA2_798	FGS-hmm	CDS	3938	4135	.	+	.	what=cas;des=pfam00078:RT;note=other
+YA2_777	Genbank	region	1	51512	.	+	.	ID=YA2_777
+YA2_777	FGS-hmm	CDS	501	1037	.	+	.	what=cas;des=COG1604:cmr6gr7;note=Subtype-III-B
+YA2_777	FGS-hmm	CDS	1151	2110	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I

@@ -1,0 +1,33 @@
+##gff-version 3
+#!processor CRISPRone
+Y7.M011_2	Genbank	region	1	776830	.	+	.	ID=Y7.M011_2
+Y7.M011_2	FGS-hmm	CDS	159888	160502	.	+	.	what=cas;des=mkCas0090:PD-DExK;note=other
+Y7.M011_2	FGS-hmm	CDS	185112	186062	.	+	.	what=cas;des=pfam13280:WYL;note=other
+Y7.M011_2	FGS-hmm	CDS	330540	331541	.	+	.	what=cas;des=pfam13280:WYL;note=other
+Y7.M011_10	Genbank	region	1	167840	.	+	.	ID=Y7.M011_10
+Y7.M011_10	FGS-hmm	CDS	96380	97153	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y7.M011_6	Genbank	region	1	272343	.	+	.	ID=Y7.M011_6
+Y7.M011_6	FGS-hmm	CDS	92110	96552	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I
+Y7.M011_6	FGS-hmm	CDS	101657	102565	.	+	.	what=cas;des=COG2378:WYL;note=other
+Y7.M011_6	FGS-hmm	CDS	269709	270059	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y7.M011_11	Genbank	region	1	142329	.	+	.	ID=Y7.M011_11
+Y7.M011_11	FGS-hmm	CDS	116477	117385	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y7.M011_4	Genbank	region	1	393257	.	+	.	ID=Y7.M011_4
+Y7.M011_4	FGS-hmm	CDS	140215	142596	.	-	.	what=cas;des=COG1199:DinG;note=Subtype-IV-A
+Y7.M011_4	FGS-hmm	CDS	290712	291602	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y7.M011_9	Genbank	region	1	191446	.	+	.	ID=Y7.M011_9
+Y7.M011_9	FGS-hmm	CDS	41304	41663	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y7.M011_3	Genbank	region	1	610641	.	+	.	ID=Y7.M011_3
+Y7.M011_3	FGS-hmm	CDS	234512	235840	.	+	.	what=cas;des=mkCas0115:csx3;note=other
+Y7.M011_3	FGS-hmm	CDS	235843	236484	.	+	.	what=cas;des=unk;note=unknown
+Y7.M011_3	FGS-hmm	CDS	236513	237526	.	+	.	what=cas;des=unk;note=unknown
+Y7.M011_3	FGS-hmm	CDS	237610	238497	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y7.M011_3	FGS-hmm	CDS	542981	543439	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y7.M011_5	Genbank	region	1	294705	.	+	.	ID=Y7.M011_5
+Y7.M011_5	FGS-hmm	CDS	151747	152706	.	-	.	what=cas;des=COG2378:WYL;note=other
+Y7.M011_5	FGS-hmm	CDS	228217	228513	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y7.M011_8	Genbank	region	1	211143	.	+	.	ID=Y7.M011_8
+Y7.M011_8	FGS-hmm	CDS	141948	142274	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y7.M011_8	FGS-hmm	CDS	142506	144293	.	+	.	what=cas;des=unk;note=unknown
+Y7.M011_8	FGS-hmm	CDS	144472	145770	.	+	.	what=cas;des=unk;note=unknown
+Y7.M011_8	FGS-hmm	CDS	145816	147756	.	-	.	what=cas;des=COG2378:WYL;note=other

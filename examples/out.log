@@ -1,0 +1,3 @@
+crisprone ../pipelines/../CRISPRone
+results crisprone/crispr/GCA_020885775.1_ASM2088577v1/GCA_020885775.1_ASM2088577v1-sm.gff crisprone/crispr/GCA_020885775.1_ASM2088577v1/GCA_020885775.1_ASM2088577v1.crt found in folder crisprone/crispr/GCA_020885775.1_ASM2088577v1 --if you need to redo the annotation, delete the result file then rerun this script
+

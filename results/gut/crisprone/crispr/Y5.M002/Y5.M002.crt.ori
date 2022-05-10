@@ -1,0 +1,22 @@
+SEQ: Y5.M002_7
+Bases: 128216
+Total CRISPR: 1
+
+
+CRISPR 1   Range: 32803 - 33036
+POSITION	REPEAT				SPACER
+--------	------------------------------------	------------------------------
+32803		ATTATACCATACCAAGAACTGTTAGGGAACTACAAC	TCATTTTTCAGTTATAAGAATCAAAAATAT	[ 36, 30 ]
+32869		ATTATACCATACCAAGAACTGTTAGGGAACTACAAC	TTCTCCGGCGCAGCCGAAGTGAAAGAGGAA	[ 36, 30 ]
+32935		ATTATACCATACCAAGAACTGTTAGGGAACTACAAC	AGCAAAAGGAGCCGCTTCACCCGTCGCGGC	[ 36, 30 ]
+33001		ATTATACCATACCAAGAACTGTTCCGGCGCGGTGCG	
+--------	------------------------------------	------------------------------
+Repeat-con	ATTATACCATACCAAGAACTGTTAGGGAACTACAAC
+Repeats: 4	Average Length: 36		Average Length: 30
+
+
+Total sequences checked: 50
+Total bases checked: 3511533
+Total sequences with predicted CRISPR: 1
+Time used: 510 ms
+

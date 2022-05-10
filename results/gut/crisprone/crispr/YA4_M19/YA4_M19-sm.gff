@@ -1,0 +1,11 @@
+##gff-version 3
+#!processor CRISPRone
+YA4_20725	Genbank	region	1	77675	.	+	.	ID=YA4_20725;array=1;gene=7;type=(type I)
+YA4_20725	metaCRT	direct_repeat	48646	49141	.	.	.	what=CRISPR;des=repeat:ATTTCAATCCACGCCTCCGCGAGGGAGGCGAC;note=copy:8
+YA4_20725	FGS-hmm	CDS	49321	49611	.	-	.	what=cas;des=cd09725:cas2;note=universal
+YA4_20725	FGS-hmm	CDS	49622	50653	.	-	.	what=cas;des=cd09721:cas1;note=universal
+YA4_20725	FGS-hmm	CDS	50650	51315	.	-	.	what=cas;des=pfam01930:cas4;note=Type-I
+YA4_20725	FGS-hmm	CDS	51312	52226	.	-	.	what=cas;des=pfam05107:cas7b;note=Type-I
+YA4_20725	FGS-hmm	CDS	52223	53971	.	-	.	what=cas;des=cd09757:cas8c;note=Subtype-I-C
+YA4_20725	FGS-hmm	CDS	53968	54624	.	-	.	what=cas;des=cd09752:cas5;note=Subtype-I-C
+YA4_20725	FGS-hmm	CDS	54957	57116	.	-	.	what=cas;des=COG1203:cas3;note=Type-I

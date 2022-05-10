@@ -1,0 +1,11 @@
+##gff-version 3
+#!processor CRISPRone
+Y7.M005_9	Genbank	region	1	468993	.	+	.	ID=Y7.M005_9;array=0;gene=2;type=NA
+Y7.M005_9	FGS-hmm	CDS	300197	301405	.	-	.	what=cas;des=cd09720:cas1;note=universal
+Y7.M005_9	FGS-hmm	CDS	301407	303338	.	-	.	what=cas;des=unk;note=unknown
+Y7.M005_9	FGS-hmm	CDS	303617	305464	.	+	.	what=cas;des=unk;note=unknown
+Y7.M005_9	FGS-hmm	CDS	305473	306366	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I
+Y7.M005_13	Genbank	region	1	201584	.	+	.	ID=Y7.M005_13;array=2;gene=1;type=(type V)
+Y7.M005_13	FGS-hmm	CDS	58855	62592	.	+	.	what=cas;des=mkCas0192:cas12a;note=Subtype-V-A
+Y7.M005_13	metaCRT	direct_repeat	62893	63628	.	.	.	what=CRISPR;des=repeat:GTTTAATAACCCTATATAATTTCTACTATTGTAGAT;note=copy:12
+Y7.M005_13	metaCRT	direct_repeat	194182	194613	.	.	.	what=CRISPR;des=repeat:GTTTTACTACCTTATAGATTTACACTATTCTCAAAC;note=copy:7

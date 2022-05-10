@@ -1,0 +1,13 @@
+##gff-version 3
+#!processor CRISPRone
+YB3_17537	Genbank	region	1	471063	.	+	.	ID=YB3_17537;array=3;gene=7;type=(type I)
+YB3_17537	FGS-hmm	CDS	310656	313304	.	+	.	what=cas;des=cd09639:cas3;note=Type-I
+YB3_17537	FGS-hmm	CDS	313310	315328	.	+	.	what=cas;des=cd09731:cse2gr11;note=Subtype-I-E
+YB3_17537	FGS-hmm	CDS	315332	315961	.	+	.	what=cas;des=pfam08798:cas6e;note=other
+YB3_17537	FGS-hmm	CDS	315972	317081	.	+	.	what=cas;des=pfam09344:cas7;note=Subtype-I-E
+YB3_17537	FGS-hmm	CDS	317092	317802	.	+	.	what=cas;des=cd09756:cas5;note=Subtype-I-E
+YB3_17537	FGS-hmm	CDS	317807	318664	.	+	.	what=cas;des=cd09719:cas1;note=universal
+YB3_17537	FGS-hmm	CDS	318661	318945	.	+	.	what=cas;des=cd09648:cas2;note=universal
+YB3_17537	metaCRT	direct_repeat	319035	322978	.	.	.	what=CRISPR;des=repeat:CTTTTCTCTGCCTACGCAGAGGTGTTTC;note=copy:65
+YB3_17537	metaCRT	direct_repeat	324767	326812	.	.	.	what=CRISPR;des=repeat:CTTTTCTCTGCCTACGCAGAGGTGTTTC;note=copy:34
+YB3_17537	metaCRT	direct_repeat	328197	328898	.	.	.	what=CRISPR;des=repeat:CTTTTCTCTGCCTACGCAGAGGTGTTTCC;note=copy:12

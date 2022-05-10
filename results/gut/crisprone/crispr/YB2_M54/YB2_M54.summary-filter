@@ -1,0 +1,26 @@
+#/u/yye/CRISPRpk/pipelines/../CRISPRone/call-script/hmmscan2cas.py -collection unk -hmmscan crisprone/crispr/YB2_M54/YB2_M54-vs-cas.domtblout -gff crisprone/crispr/YB2_M54/YB2_M54.gff -isolate -outfile crisprone/crispr/YB2_M54/YB2_M54.summary -outfiltered crisprone/crispr/YB2_M54/YB2_M54.summary-filter -gafile /u/yye/CRISPRpk/pipelines/../CRISPRone/local/cas-db/cas-CRISPR.GA
+##YB2_20311 3 derived-fm crisprone/crispr/YB2_M54/YB2_M54-vs-cas.domtblout
+YB2_20311_62943_63851_+ YB2_M54 YB2_20311 62943 63851 + pfam00078:RT 2
+YB2_20311_202237_202662_- YB2_M54 YB2_20311 202237 202662 - COG0640:csa3 2
+YB2_20311_283835_285013_+ YB2_M54 YB2_20311 283835 285013 + pfam00078:RT 2
+##YB2_20457 1 derived-fm crisprone/crispr/YB2_M54/YB2_M54-vs-cas.domtblout
+YB2_20457_97391_98488_- YB2_M54 YB2_20457 97391 98488 - pfam00078:RT 2
+##YB2_20330 1 derived-fm crisprone/crispr/YB2_M54/YB2_M54-vs-cas.domtblout
+YB2_20330_145636_145977_+ YB2_M54 YB2_20330 145636 145977 + COG0640:csa3 2
+##YB2_20402 1 derived-fm crisprone/crispr/YB2_M54/YB2_M54-vs-cas.domtblout
+YB2_20402_112458_113414_- YB2_M54 YB2_20402 112458 113414 - pfam13280:WYL 2
+##YB2_20405 1 derived-fm crisprone/crispr/YB2_M54/YB2_M54-vs-cas.domtblout
+YB2_20405_46355_47362_+ YB2_M54 YB2_20405 46355 47362 + pfam13280:WYL 2
+##YB2_15669 2 derived-fm crisprone/crispr/YB2_M54/YB2_M54-vs-cas.domtblout
+YB2_15669_6434_7426_- YB2_M54 YB2_15669 6434 7426 - cd06127:DEDDh 2
+YB2_15669_41923_42312_- YB2_M54 YB2_15669 41923 42312 - COG0640:csa3 2
+##YB2_20365 1 derived-fm crisprone/crispr/YB2_M54/YB2_M54-vs-cas.domtblout
+YB2_20365_5848_10137_- YB2_M54 YB2_20365 5848 10137 - cd06127:DEDDh 2
+##YB2_20388 2 derived-fm crisprone/crispr/YB2_M54/YB2_M54-vs-cas.domtblout
+YB2_20388_48039_49871_- YB2_M54 YB2_20388 48039 49871 - pfam00078:RT 2
+YB2_20388_92712_93674_+ YB2_M54 YB2_20388 92712 93674 + pfam13280:WYL 2
+##YB2_856 4 derived-fm crisprone/crispr/YB2_M54/YB2_M54-vs-cas.domtblout
+YB2_856_154720_155334_+ YB2_M54 YB2_856 154720 155334 + pfam13280:WYL 2
+YB2_856_155437_155655_+ YB2_M54 YB2_856 155437 155655 + pfam13280:WYL 1
+YB2_856_162832_165588_+ YB2_M54 YB2_856 162832 165588 + cd09641:cas3HD 2
+YB2_856_165575_166471_+ YB2_M54 YB2_856 165575 166471 + cd09729:cas8e 1

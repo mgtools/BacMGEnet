@@ -1,0 +1,12 @@
+##gff-version 3
+#!processor CRISPRone
+Y8.M023_1	Genbank	region	1	241817	.	+	.	ID=Y8.M023_1;array=1;gene=8;type=(type I)
+Y8.M023_1	metaCRT	direct_repeat	123002	124556	.	.	.	what=CRISPR;des=repeat:GGGATCACCCCCGCATACGCGGGGAACAC;note=copy:26
+Y8.M023_1	FGS-hmm	CDS	124601	125443	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+Y8.M023_1	FGS-hmm	CDS	125488	126525	.	-	.	what=cas;des=cd09719:cas1;note=universal
+Y8.M023_1	FGS-hmm	CDS	126438	127088	.	-	.	what=cas;des=pfam08798:cas6e;note=other
+Y8.M023_1	FGS-hmm	CDS	127103	127777	.	-	.	what=cas;des=cd09756:cas5;note=Subtype-I-E
+Y8.M023_1	FGS-hmm	CDS	127774	128847	.	-	.	what=cas;des=pfam09344:cas7;note=Subtype-I-E
+Y8.M023_1	FGS-hmm	CDS	128840	129451	.	-	.	what=cas;des=mkCas0194:cse2gr11;note=Subtype-I-E
+Y8.M023_1	FGS-hmm	CDS	129448	131016	.	-	.	what=cas;des=cd09729:cas8e;note=Subtype-I-E
+Y8.M023_1	FGS-hmm	CDS	131018	133549	.	-	.	what=cas;des=COG1203:cas3;note=Type-I

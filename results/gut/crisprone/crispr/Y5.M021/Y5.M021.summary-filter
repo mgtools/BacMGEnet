@@ -1,0 +1,53 @@
+#/u/yye/CRISPRpk/pipelines/../CRISPRone/call-script/hmmscan2cas.py -collection unk -hmmscan crisprone/crispr/Y5.M021/Y5.M021-vs-cas.domtblout -gff crisprone/crispr/Y5.M021/Y5.M021.gff -isolate -outfile crisprone/crispr/Y5.M021/Y5.M021.summary -outfiltered crisprone/crispr/Y5.M021/Y5.M021.summary-filter -gafile /u/yye/CRISPRpk/pipelines/../CRISPRone/local/cas-db/cas-CRISPR.GA
+##Y5.M021_124 1 derived-fm crisprone/crispr/Y5.M021/Y5.M021-vs-cas.domtblout
+Y5.M021_124_8671_9654_- Y5.M021 Y5.M021_124 8671 9654 - pfam13280:WYL 2
+##Y5.M021_160 1 derived-fm crisprone/crispr/Y5.M021/Y5.M021-vs-cas.domtblout
+Y5.M021_160_1_174_- Y5.M021 Y5.M021_160 1 174 - COG0640:csa3 2
+##Y5.M021_120 1 derived-fm crisprone/crispr/Y5.M021/Y5.M021-vs-cas.domtblout
+Y5.M021_120_823_1971_+ Y5.M021 Y5.M021_120 823 1971 + COG0640:csa3 2
+##Y5.M021_102 1 derived-fm crisprone/crispr/Y5.M021/Y5.M021-vs-cas.domtblout
+Y5.M021_102_9597_10472_- Y5.M021 Y5.M021_102 9597 10472 - COG2378:WYL 2
+##Y5.M021_12 1 derived-fm crisprone/crispr/Y5.M021/Y5.M021-vs-cas.domtblout
+Y5.M021_12_1594_1944_+ Y5.M021 Y5.M021_12 1594 1944 + COG0640:csa3 2
+##Y5.M021_95 6 derived-fm crisprone/crispr/Y5.M021/Y5.M021-vs-cas.domtblout
+Y5.M021_95_9911_10867_- Y5.M021 Y5.M021_95 9911 10867 - COG0640:csa3 2
+Y5.M021_95_11151_12311_- Y5.M021 Y5.M021_95 11151 12311 - unk 1
+Y5.M021_95_11867_13312_- Y5.M021 Y5.M021_95 11867 13312 - cd09655:casR 1
+Y5.M021_95_13526_15199_+ Y5.M021 Y5.M021_95 13526 15199 + unk 1
+Y5.M021_95_15247_15780_- Y5.M021 Y5.M021_95 15247 15780 - unk 1
+Y5.M021_95_15777_17120_- Y5.M021 Y5.M021_95 15777 17120 - cd09641:cas3HD 1
+##Y5.M021_85 1 derived-fm crisprone/crispr/Y5.M021/Y5.M021-vs-cas.domtblout
+Y5.M021_85_2441_2932_+ Y5.M021 Y5.M021_85 2441 2932 + COG0640:csa3 2
+##Y5.M021_40 1 derived-fm crisprone/crispr/Y5.M021/Y5.M021-vs-cas.domtblout
+Y5.M021_40_44236_47271_- Y5.M021 Y5.M021_40 44236 47271 - COG1199:DinG 2
+##Y5.M021_35 1 derived-fm crisprone/crispr/Y5.M021/Y5.M021-vs-cas.domtblout
+Y5.M021_35_13651_14862_+ Y5.M021 Y5.M021_35 13651 14862 + COG0640:csa3 2
+##Y5.M021_59 1 derived-fm crisprone/crispr/Y5.M021/Y5.M021-vs-cas.domtblout
+Y5.M021_59_24829_25770_+ Y5.M021 Y5.M021_59 24829 25770 + COG2378:WYL 2
+##Y5.M021_137 2 derived-fm crisprone/crispr/Y5.M021/Y5.M021-vs-cas.domtblout
+Y5.M021_137_883_1341_- Y5.M021 Y5.M021_137 883 1341 - COG0640:csa3 2
+Y5.M021_137_1417_1758_+ Y5.M021 Y5.M021_137 1417 1758 + COG0640:csa3 2
+##Y5.M021_146 1 derived-fm crisprone/crispr/Y5.M021/Y5.M021-vs-cas.domtblout
+Y5.M021_146_90_374_- Y5.M021 Y5.M021_146 90 374 - COG0640:csa3 2
+##Y5.M021_36 1 derived-fm crisprone/crispr/Y5.M021/Y5.M021-vs-cas.domtblout
+Y5.M021_36_39453_39767_+ Y5.M021 Y5.M021_36 39453 39767 + COG0640:csa3 2
+##Y5.M021_52 7 derived-fm crisprone/crispr/Y5.M021/Y5.M021-vs-cas.domtblout
+Y5.M021_52_22335_24533_+ Y5.M021 Y5.M021_52 22335 24533 + cd09641:cas3HD 2
+Y5.M021_52_24764_25426_+ Y5.M021 Y5.M021_52 24764 25426 + cd09752:cas5 2
+Y5.M021_52_25423_27171_+ Y5.M021 Y5.M021_52 25423 27171 + cd09757:cas8c 2
+Y5.M021_52_27175_28074_+ Y5.M021 Y5.M021_52 27175 28074 + pfam05107:cas7b 2
+Y5.M021_52_28077_28739_+ Y5.M021 Y5.M021_52 28077 28739 + pfam01930:cas4 2
+Y5.M021_52_28904_29767_+ Y5.M021 Y5.M021_52 28904 29767 + cd09634:cas1 2
+Y5.M021_52_29769_30068_+ Y5.M021 Y5.M021_52 29769 30068 + cd09725:cas2 2
+##Y5.M021_38 1 derived-fm crisprone/crispr/Y5.M021/Y5.M021-vs-cas.domtblout
+Y5.M021_38_41457_42491_+ Y5.M021 Y5.M021_38 41457 42491 + COG4804:PD-DExK 2
+##Y5.M021_47 1 derived-fm crisprone/crispr/Y5.M021/Y5.M021-vs-cas.domtblout
+Y5.M021_47_45041_45397_- Y5.M021 Y5.M021_47 45041 45397 - COG0640:csa3 2
+##Y5.M021_71 1 derived-fm crisprone/crispr/Y5.M021/Y5.M021-vs-cas.domtblout
+Y5.M021_71_1091_2110_+ Y5.M021 Y5.M021_71 1091 2110 + COG4804:PD-DExK 2
+##Y5.M021_92 5 derived-fm crisprone/crispr/Y5.M021/Y5.M021-vs-cas.domtblout
+Y5.M021_92_4702_8187_+ Y5.M021 Y5.M021_92 4702 8187 + cd09639:cas3 1
+Y5.M021_92_8184_9179_+ Y5.M021 Y5.M021_92 8184 9179 + unk 1
+Y5.M021_92_9814_10083_- Y5.M021 Y5.M021_92 9814 10083 - COG0640:csa3 2
+Y5.M021_92_10580_11659_+ Y5.M021 Y5.M021_92 10580 11659 + unk 1
+Y5.M021_92_11949_12404_+ Y5.M021 Y5.M021_92 11949 12404 + cls001593:casR 1

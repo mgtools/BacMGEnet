@@ -1,0 +1,13 @@
+##gff-version 3
+#!processor CRISPRone
+YB3_10636	Genbank	region	1	128620	.	+	.	ID=YB3_10636;array=1;gene=8;type=(type I)
+YB3_10636	metaCRT	direct_repeat	62492	63312	.	.	.	what=CRISPR;des=repeat:GGTTCACCCCCGCTCACGCGGGGAATAC;note=copy:14
+YB3_10636	FGS-hmm	CDS	63358	64257	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YB3_10636	FGS-hmm	CDS	64254	65198	.	-	.	what=cas;des=cd09719:cas1;note=universal
+YB3_10636	FGS-hmm	CDS	65262	65900	.	-	.	what=cas;des=pfam08798:cas6e;note=other
+YB3_10636	FGS-hmm	CDS	65915	66622	.	-	.	what=cas;des=cd09645:cas5;note=Subtype-I-E
+YB3_10636	FGS-hmm	CDS	66619	67686	.	-	.	what=cas;des=pfam09344:cas7;note=Subtype-I-E
+YB3_10636	FGS-hmm	CDS	67679	68290	.	-	.	what=cas;des=mkCas0194:cse2gr11;note=Subtype-I-E
+YB3_10636	FGS-hmm	CDS	68306	69865	.	-	.	what=cas;des=cd09729:cas8e;note=Subtype-I-E
+YB3_10636	FGS-hmm	CDS	69862	70374	.	-	.	what=cas;des=unk;note=unknown
+YB3_10636	FGS-hmm	CDS	70381	72558	.	-	.	what=cas;des=COG1203:cas3;note=Type-I

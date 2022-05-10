@@ -1,0 +1,11 @@
+##gff-version 3
+#!processor CRISPRone
+Y7.M033_148	Genbank	region	1	14186	.	+	.	ID=Y7.M033_148;array=1;gene=7;type=(type I)
+Y7.M033_148	FGS-hmm	CDS	3026	5485	.	+	.	what=cas;des=COG1203:cas3;note=Type-I
+Y7.M033_148	FGS-hmm	CDS	5500	6237	.	+	.	what=cas;des=cd09752:cas5;note=Subtype-I-C
+Y7.M033_148	FGS-hmm	CDS	6234	8171	.	+	.	what=cas;des=pfam09709:cas8c;note=Subtype-I-C
+Y7.M033_148	FGS-hmm	CDS	8175	9032	.	+	.	what=cas;des=pfam05107:cas7b;note=Type-I
+Y7.M033_148	FGS-hmm	CDS	9025	9690	.	+	.	what=cas;des=pfam01930:cas4;note=Type-I
+Y7.M033_148	FGS-hmm	CDS	9687	10718	.	+	.	what=cas;des=cd09721:cas1;note=universal
+Y7.M033_148	FGS-hmm	CDS	10727	11017	.	+	.	what=cas;des=cd09725:cas2;note=universal
+Y7.M033_148	metaCRT	direct_repeat	11260	12550	.	.	.	what=CRISPR;des=repeat:GTCGGCCCCCTTGCGGGGCTGTGAGTTGAAAT;note=copy:20

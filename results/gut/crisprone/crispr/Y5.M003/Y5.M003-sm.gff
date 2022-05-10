@@ -1,0 +1,12 @@
+##gff-version 3
+#!processor CRISPRone
+Y5.M003_3	Genbank	region	1	1034254	.	+	.	ID=Y5.M003_3;array=1;gene=8;type=(type I)
+Y5.M003_3	FGS-hmm	CDS	526487	529261	.	+	.	what=cas;des=cd09641:cas3HD;note=Type-I
+Y5.M003_3	FGS-hmm	CDS	529296	530852	.	+	.	what=cas;des=cd09729:cas8e;note=Subtype-I-E
+Y5.M003_3	FGS-hmm	CDS	530864	531460	.	+	.	what=cas;des=mkCas0194:cse2gr11;note=Subtype-I-E
+Y5.M003_3	FGS-hmm	CDS	531453	532538	.	+	.	what=cas;des=pfam09344:cas7;note=Subtype-I-E
+Y5.M003_3	FGS-hmm	CDS	532535	533242	.	+	.	what=cas;des=cd09756:cas5;note=Subtype-I-E
+Y5.M003_3	FGS-hmm	CDS	533247	533897	.	+	.	what=cas;des=pfam08798:cas6e;note=other
+Y5.M003_3	FGS-hmm	CDS	533887	534846	.	+	.	what=cas;des=cd09719:cas1;note=universal
+Y5.M003_3	FGS-hmm	CDS	534843	535727	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I
+Y5.M003_3	metaCRT	direct_repeat	535771	538299	.	.	.	what=CRISPR;des=repeat:GTTTTCCCCGCAGGTGCGGGGGTGATCC;note=copy:42

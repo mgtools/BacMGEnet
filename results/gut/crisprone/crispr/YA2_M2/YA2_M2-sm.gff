@@ -1,0 +1,14 @@
+##gff-version 3
+#!processor CRISPRone
+YA2_5401	Genbank	region	1	2324583	.	+	.	ID=YA2_5401;array=3;gene=5;type=(type I)
+YA2_5401	metaCRT	direct_repeat	657430	657708	.	.	.	what=CRISPR;des=repeat:AAAATATCTCAATCTGTAACATCTAGCGGCCAAAAACC;note=copy:4
+YA2_5401	FGS-hmm	CDS	720653	721990	.	+	.	what=cas;des=cas14:cas14;note=Type-V
+YA2_5401	FGS-hmm	CDS	722048	723097	.	-	.	what=cas;des=COG4804:PD-DExK;note=other
+YA2_5401	FGS-hmm	CDS	767187	767576	.	+	.	what=cas;des=cd09655:casR;note=Type-I
+YA2_5401	FGS-hmm	CDS	767856	769808	.	-	.	what=cas;des=unk;note=unknown
+YA2_5401	FGS-hmm	CDS	769908	770126	.	-	.	what=cas;des=unk;note=unknown
+YA2_5401	FGS-hmm	CDS	770190	770555	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YA2_5401	FGS-hmm	CDS	770975	772165	.	-	.	what=cas;des=unk;note=unknown
+YA2_5401	FGS-hmm	CDS	772515	773483	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YA2_5401	metaCRT	direct_repeat	1617099	1617283	.	.	.	what=CRISPR;des=repeat:CCGCGACCGCCGCGGTCGCCGCCACGGCC;note=copy:4
+YA2_5401	metaCRT	direct_repeat	2197590	2197855	.	.	.	what=CRISPR;des=repeat:CCCCACCTGTTACAGATTTAGACAAAC;note=copy:4

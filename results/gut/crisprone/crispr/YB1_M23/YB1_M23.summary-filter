@@ -1,0 +1,28 @@
+#/u/yye/CRISPRpk/pipelines/../CRISPRone/call-script/hmmscan2cas.py -collection unk -hmmscan crisprone/crispr/YB1_M23/YB1_M23-vs-cas.domtblout -gff crisprone/crispr/YB1_M23/YB1_M23.gff -isolate -outfile crisprone/crispr/YB1_M23/YB1_M23.summary -outfiltered crisprone/crispr/YB1_M23/YB1_M23.summary-filter -gafile /u/yye/CRISPRpk/pipelines/../CRISPRone/local/cas-db/cas-CRISPR.GA
+##YB1_10842 2 derived-fm crisprone/crispr/YB1_M23/YB1_M23-vs-cas.domtblout
+YB1_10842_22317_22802_- YB1_M23 YB1_10842 22317 22802 - COG4804:PD-DExK 2
+YB1_10842_22814_22954_- YB1_M23 YB1_10842 22814 22954 - COG4804:PD-DExK 1
+##YB1_5748 1 derived-fm crisprone/crispr/YB1_M23/YB1_M23-vs-cas.domtblout
+YB1_5748_53741_54853_- YB1_M23 YB1_5748 53741 54853 - pfam00078:RT 2
+##YB1_987 8 derived-fm crisprone/crispr/YB1_M23/YB1_M23-vs-cas.domtblout
+YB1_987_57995_58273_- YB1_M23 YB1_987 57995 58273 - mkCas0093:csf3gr5 1
+YB1_987_58270_58572_- YB1_M23 YB1_987 58270 58572 - unk 1
+YB1_987_58724_58885_- YB1_M23 YB1_987 58724 58885 - unk 1
+YB1_987_58933_61092_- YB1_M23 YB1_987 58933 61092 - pfam08800:PrimPol 2
+YB1_987_162075_162974_+ YB1_M23 YB1_987 162075 162974 + pfam13280:WYL 2
+YB1_987_162971_164236_+ YB1_M23 YB1_987 162971 164236 + unk 1
+YB1_987_164244_165017_+ YB1_M23 YB1_987 164244 165017 + unk 1
+YB1_987_165020_165688_- YB1_M23 YB1_987 165020 165688 - cd09692:cas5 1
+##YB1_10274 1 derived-fm crisprone/crispr/YB1_M23/YB1_M23-vs-cas.domtblout
+YB1_10274_68114_68881_+ YB1_M23 YB1_10274 68114 68881 + cd06127:DEDDh 2
+##YB1_5254 1 derived-fm crisprone/crispr/YB1_M23/YB1_M23-vs-cas.domtblout
+YB1_5254_31_1323_- YB1_M23 YB1_5254 31 1323 - COG4804:PD-DExK 2
+##YB1_10481 1 derived-fm crisprone/crispr/YB1_M23/YB1_M23-vs-cas.domtblout
+YB1_10481_45209_45769_- YB1_M23 YB1_10481 45209 45769 - COG0640:csa3 2
+##YB1_14031 1 derived-fm crisprone/crispr/YB1_M23/YB1_M23-vs-cas.domtblout
+YB1_14031_193_2028_- YB1_M23 YB1_14031 193 2028 - pfam00078:RT 2
+##YB1_5472 1 derived-fm crisprone/crispr/YB1_M23/YB1_M23-vs-cas.domtblout
+YB1_5472_90180_90530_+ YB1_M23 YB1_5472 90180 90530 + COG0640:csa3 2
+##YB1_11093 2 derived-fm crisprone/crispr/YB1_M23/YB1_M23-vs-cas.domtblout
+YB1_11093_223595_224368_+ YB1_M23 YB1_11093 223595 224368 + cd06127:DEDDh 2
+YB1_11093_296508_298883_+ YB1_M23 YB1_11093 296508 298883 + pfam08800:PrimPol 2

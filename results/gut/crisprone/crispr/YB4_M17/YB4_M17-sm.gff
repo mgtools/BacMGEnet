@@ -1,0 +1,21 @@
+##gff-version 3
+#!processor CRISPRone
+YB4_11694	Genbank	region	1	22108	.	+	.	ID=YB4_11694;array=0;gene=1;type=NA
+YB4_11694	FGS-hmm	CDS	9615	9893	.	+	.	what=cas;des=pfam09827:cas2;note=universal
+YB4_1997	Genbank	region	1	49364	.	+	.	ID=YB4_1997;array=0;gene=4;type=(type I)
+YB4_1997	FGS-hmm	CDS	22738	23088	.	+	.	what=cas;des=cls001593:casR;note=Type-I
+YB4_1997	FGS-hmm	CDS	23139	24509	.	+	.	what=cas;des=unk;note=unknown
+YB4_1997	FGS-hmm	CDS	24652	25089	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YB4_1997	FGS-hmm	CDS	25170	27080	.	+	.	what=cas;des=cd09757:cas8c;note=Subtype-I-C
+YB4_1997	FGS-hmm	CDS	27182	28519	.	+	.	what=cas;des=mkCas0115:csx3;note=other
+YB4_11693	Genbank	region	1	140547	.	+	.	ID=YB4_11693;array=1;gene=3;type=(type II)
+YB4_11693	FGS-hmm	CDS	129668	133942	.	+	.	what=cas;des=cd09643:cas9;note=Subtype-II-C
+YB4_11693	FGS-hmm	CDS	134057	134986	.	+	.	what=cas;des=cd09634:cas1;note=Subtype-II-C
+YB4_11693	FGS-hmm	CDS	134988	135320	.	+	.	what=cas;des=pfam09827:cas2;note=Subtype-II-C
+YB4_11693	metaCRT	direct_repeat	135426	135782	.	.	.	what=CRISPR;des=repeat:AAGCTGTTTCCAATGGCTCAAAGTTACTAAAATGAAAGCAAATCACAAC;note=copy:5
+YB4_12010	Genbank	region	1	133763	.	+	.	ID=YB4_12010;array=1;gene=3;type=(type II)
+YB4_12010	metaCRT	direct_repeat	113431	114629	.	.	.	what=CRISPR;des=repeat:GTTGTGATTTGCTTTCAAATTAGTATCTTTGATCCATTGGAAACATC;note=copy:16
+YB4_12010	FGS-hmm	CDS	114739	115071	.	-	.	what=cas;des=pfam09827:cas2;note=Subtype-II-C
+YB4_12010	FGS-hmm	CDS	115077	116012	.	-	.	what=cas;des=cd09720:cas1;note=Subtype-II-C
+YB4_12010	FGS-hmm	CDS	116023	120633	.	-	.	what=cas;des=cd09643:cas9;note=Subtype-II-C
+YB4_12010	CRISPRone	partial_repeat	120653	120698	.	-	.	what=antiCRISPR;des=antiRepeat:eat;note=33-14

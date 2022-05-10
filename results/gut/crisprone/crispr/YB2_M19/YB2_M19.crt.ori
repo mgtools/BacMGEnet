@@ -1,0 +1,21 @@
+SEQ: YB2_13704
+Bases: 11459
+Total CRISPR: 1
+
+
+CRISPR 1   Range: 8904 - 9054
+POSITION	REPEAT				SPACER
+--------	-----------------------------	--------------------------------
+8904		GTGTTCCCCGCGCCAGCGGGGATAAACCG	TTGCCCGCGCAATTCCGGGAGCATCCGCAATT	[ 29, 32 ]
+8965		GTGTTCCCCGCGCCAGCGGGGATAAACCG	TTCAGGGTGTGATTCCGCATACCAAGCAGTAA	[ 29, 32 ]
+9026		GAGTTCCCCGCGCCAGCGGGGATAAACCG	
+--------	-----------------------------	--------------------------------
+Repeat-con	GTGTTCCCCGCGCCAGCGGGGATAAACCG
+Repeats: 3	Average Length: 29		Average Length: 32
+
+
+Total sequences checked: 329
+Total bases checked: 5167406
+Total sequences with predicted CRISPR: 1
+Time used: 687 ms
+

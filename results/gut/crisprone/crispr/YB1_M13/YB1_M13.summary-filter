@@ -1,0 +1,31 @@
+#/u/yye/CRISPRpk/pipelines/../CRISPRone/call-script/hmmscan2cas.py -collection unk -hmmscan crisprone/crispr/YB1_M13/YB1_M13-vs-cas.domtblout -gff crisprone/crispr/YB1_M13/YB1_M13.gff -isolate -outfile crisprone/crispr/YB1_M13/YB1_M13.summary -outfiltered crisprone/crispr/YB1_M13/YB1_M13.summary-filter -gafile /u/yye/CRISPRpk/pipelines/../CRISPRone/local/cas-db/cas-CRISPR.GA
+##YB1_8695 1 derived-fm crisprone/crispr/YB1_M13/YB1_M13-vs-cas.domtblout
+YB1_8695_38387_39157_- YB1_M13 YB1_8695 38387 39157 - COG0640:csa3 2
+##YB1_11900 1 derived-fm crisprone/crispr/YB1_M13/YB1_M13-vs-cas.domtblout
+YB1_11900_53823_54953_+ YB1_M13 YB1_11900 53823 54953 + COG0640:csa3 2
+##YB1_875 1 derived-fm crisprone/crispr/YB1_M13/YB1_M13-vs-cas.domtblout
+YB1_875_18299_18610_- YB1_M13 YB1_875 18299 18610 - COG0640:csa3 2
+##YB1_5662 1 derived-fm crisprone/crispr/YB1_M13/YB1_M13-vs-cas.domtblout
+YB1_5662_56826_57260_+ YB1_M13 YB1_5662 56826 57260 + COG0640:csa3 2
+##YB1_5364 4 derived-fm crisprone/crispr/YB1_M13/YB1_M13-vs-cas.domtblout
+YB1_5364_1210_1551_+ YB1_M13 YB1_5364 1210 1551 + COG0640:csa3 2
+YB1_5364_1478_2128_+ YB1_M13 YB1_5364 1478 2128 + unk 1
+YB1_5364_2287_3930_+ YB1_M13 YB1_5364 2287 3930 + unk 1
+YB1_5364_3943_4710_+ YB1_M13 YB1_5364 3943 4710 + mkCas0079:csm2gr11 1
+##YB1_9683 1 derived-fm crisprone/crispr/YB1_M13/YB1_M13-vs-cas.domtblout
+YB1_9683_57340_61671_+ YB1_M13 YB1_9683 57340 61671 + cd06127:DEDDh 2
+##YB1_4816 2 derived-fm crisprone/crispr/YB1_M13/YB1_M13-vs-cas.domtblout
+YB1_4816_139561_140001_- YB1_M13 YB1_4816 139561 140001 - COG0640:csa3 2
+YB1_4816_162080_162421_+ YB1_M13 YB1_4816 162080 162421 + COG0640:csa3 2
+##YB1_6545 1 derived-fm crisprone/crispr/YB1_M13/YB1_M13-vs-cas.domtblout
+YB1_6545_8394_9296_+ YB1_M13 YB1_6545 8394 9296 + COG2378:WYL 2
+##YB1_8812 2 derived-fm crisprone/crispr/YB1_M13/YB1_M13-vs-cas.domtblout
+YB1_8812_67709_68617_- YB1_M13 YB1_8812 67709 68617 - pfam13280:WYL 2
+YB1_8812_68604_69905_- YB1_M13 YB1_8812 68604 69905 - pfam13280:WYL 2
+##YB1_7837 4 derived-fm crisprone/crispr/YB1_M13/YB1_M13-vs-cas.domtblout
+YB1_7837_5110_6543_- YB1_M13 YB1_7837 5110 6543 - cd09655:casR 1
+YB1_7837_6669_7772_- YB1_M13 YB1_7837 6669 7772 - unk 1
+YB1_7837_7791_8123_- YB1_M13 YB1_7837 7791 8123 - unk 1
+YB1_7837_8167_8961_+ YB1_M13 YB1_7837 8167 8961 + cd06127:DEDDh 2
+##YB1_645 1 derived-fm crisprone/crispr/YB1_M13/YB1_M13-vs-cas.domtblout
+YB1_645_4056_4616_+ YB1_M13 YB1_645 4056 4616 + cd06127:DEDDh 2

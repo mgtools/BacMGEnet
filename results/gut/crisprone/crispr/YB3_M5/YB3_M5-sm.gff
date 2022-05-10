@@ -1,0 +1,32 @@
+##gff-version 3
+#!processor CRISPRone
+YB3_17959	Genbank	region	1	1985291	.	+	.	ID=YB3_17959;array=2;gene=13;type=(type I, II)
+YB3_17959	FGS-hmm	CDS	831152	833266	.	+	.	what=cas;des=cd09641:cas3HD;note=Type-I
+YB3_17959	FGS-hmm	CDS	833500	833961	.	+	.	what=cas;des=unk;note=unknown
+YB3_17959	FGS-hmm	CDS	833951	834391	.	+	.	what=cas;des=unk;note=unknown
+YB3_17959	FGS-hmm	CDS	834392	835060	.	+	.	what=cas;des=cd09752:cas5;note=Subtype-I-C
+YB3_17959	FGS-hmm	CDS	835057	836793	.	+	.	what=cas;des=cd09757:cas8c;note=Subtype-I-C
+YB3_17959	FGS-hmm	CDS	836794	837705	.	+	.	what=cas;des=cd09689:cas7;note=Subtype-I-C
+YB3_17959	FGS-hmm	CDS	837705	838367	.	+	.	what=cas;des=pfam01930:cas4;note=Type-I
+YB3_17959	FGS-hmm	CDS	838364	839395	.	+	.	what=cas;des=cd09721:cas1;note=universal
+YB3_17959	FGS-hmm	CDS	839405	839695	.	+	.	what=cas;des=cd09725:cas2;note=universal
+YB3_17959	metaCRT	direct_repeat	839873	843539	.	.	.	what=CRISPR;des=repeat:GTCGCTCCTCTCGTGGGAGCGTGGATTGAAAT;note=copy:56
+YB3_17959	FGS-hmm	CDS	1602507	1603556	.	-	.	what=cas;des=pfam13280:WYL;note=other
+YB3_17959	FGS-hmm	CDS	1603637	1604002	.	-	.	what=cas;des=unk;note=unknown
+YB3_17959	FGS-hmm	CDS	1604015	1604533	.	-	.	what=cas;des=unk;note=unknown
+YB3_17959	FGS-hmm	CDS	1604811	1605017	.	-	.	what=cas;des=unk;note=unknown
+YB3_17959	CRISPRone	partial_repeat	1605304	1605339	.	-	.	what=antiCRISPR;des=antiRepeat:eat;note=30-6
+YB3_17959	FGS-hmm	CDS	1605336	1605551	.	-	.	what=cas;des=cd09650:cas7;note=Type-I
+YB3_17959	FGS-hmm	CDS	1605724	1605921	.	-	.	what=cas;des=unk;note=unknown
+YB3_17959	metaCRT	direct_repeat	1605909	1606866	.	.	.	what=CRISPR;des=repeat:GTTTTACAGTCACGTAAATTATTCAGTTACTAAAAT;note=copy:15
+YB3_17959	FGS-hmm	CDS	1606421	1606690	.	+	.	what=cas;des=unk;note=unknown
+YB3_17959	FGS-hmm	CDS	1606948	1607931	.	-	.	what=cas;des=cd12217:csn2;note=Subtype-II-A
+YB3_17959	FGS-hmm	CDS	1607928	1608221	.	-	.	what=cas;des=pfam09827:cas2;note=Subtype-II-A
+YB3_17959	FGS-hmm	CDS	1608247	1609212	.	-	.	what=cas;des=cd09720:cas1;note=Subtype-II-A
+YB3_17959	CRISPRone	partial_repeat	1609221	1609258	.	-	.	what=antiCRISPR;des=antiRepeat:eat;note=34-2
+YB3_17959	FGS-hmm	CDS	1609309	1612677	.	-	.	what=cas;des=cd09643:cas9;note=Subtype-II-A
+YB3_17278	Genbank	region	1	575700	.	+	.	ID=YB3_17278;array=0;gene=2;type=(type I)
+YB3_17278	FGS-hmm	CDS	519335	519604	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YB3_17278	FGS-hmm	CDS	519862	520101	.	-	.	what=cas;des=unk;note=unknown
+YB3_17278	FGS-hmm	CDS	520394	520594	.	-	.	what=cas;des=unk;note=unknown
+YB3_17278	FGS-hmm	CDS	520707	520901	.	-	.	what=cas;des=cas14:cas14;note=Type-V

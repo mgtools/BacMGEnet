@@ -1,0 +1,25 @@
+#/u/yye/CRISPRpk/pipelines/../CRISPRone/call-script/hmmscan2cas.py -collection unk -hmmscan crisprone/crispr/Y6.M045/Y6.M045-vs-cas.domtblout -gff crisprone/crispr/Y6.M045/Y6.M045.gff -isolate -outfile crisprone/crispr/Y6.M045/Y6.M045.summary -outfiltered crisprone/crispr/Y6.M045/Y6.M045.summary-filter -gafile /u/yye/CRISPRpk/pipelines/../CRISPRone/local/cas-db/cas-CRISPR.GA
+##Y6.M045_17 1 derived-fm crisprone/crispr/Y6.M045/Y6.M045-vs-cas.domtblout
+Y6.M045_17_2979_5345_+ Y6.M045 Y6.M045_17 2979 5345 + COG1199:DinG 2
+##Y6.M045_18 1 derived-fm crisprone/crispr/Y6.M045/Y6.M045-vs-cas.domtblout
+Y6.M045_18_48907_49578_- Y6.M045 Y6.M045_18 48907 49578 - COG0640:csa3 2
+##Y6.M045_16 5 derived-fm crisprone/crispr/Y6.M045/Y6.M045-vs-cas.domtblout
+Y6.M045_16_199299_200627_+ Y6.M045 Y6.M045_16 199299 200627 + mkCas0115:csx3 1
+Y6.M045_16_200630_201283_+ Y6.M045 Y6.M045_16 200630 201283 + unk 1
+Y6.M045_16_201315_202325_+ Y6.M045 Y6.M045_16 201315 202325 + unk 1
+Y6.M045_16_202402_203289_- Y6.M045 Y6.M045_16 202402 203289 - COG0640:csa3 2
+Y6.M045_16_380845_381159_- Y6.M045 Y6.M045_16 380845 381159 - COG0640:csa3 2
+##Y6.M045_21 1 derived-fm crisprone/crispr/Y6.M045/Y6.M045-vs-cas.domtblout
+Y6.M045_21_15768_16139_+ Y6.M045 Y6.M045_21 15768 16139 + COG0640:csa3 2
+##Y6.M045_6 3 derived-fm crisprone/crispr/Y6.M045/Y6.M045-vs-cas.domtblout
+Y6.M045_6_17751_18743_+ Y6.M045 Y6.M045_6 17751 18743 + pfam13280:WYL 2
+Y6.M045_6_22251_22967_+ Y6.M045 Y6.M045_6 22251 22967 + pfam13280:WYL 2
+Y6.M045_6_23015_23143_+ Y6.M045 Y6.M045_6 23015 23143 + pfam13280:WYL 2
+##Y6.M045_10 1 derived-fm crisprone/crispr/Y6.M045/Y6.M045-vs-cas.domtblout
+Y6.M045_10_53948_58432_- Y6.M045 Y6.M045_10 53948 58432 - cd06127:DEDDh 2
+##Y6.M045_12 2 derived-fm crisprone/crispr/Y6.M045/Y6.M045-vs-cas.domtblout
+Y6.M045_12_42248_45913_+ Y6.M045 Y6.M045_12 42248 45913 + cd09637:cas4 1
+Y6.M045_12_46106_46477_+ Y6.M045 Y6.M045_12 46106 46477 + COG0640:csa3 2
+##Y6.M045_2 2 derived-fm crisprone/crispr/Y6.M045/Y6.M045-vs-cas.domtblout
+Y6.M045_2_4235_5764_- Y6.M045 Y6.M045_2 4235 5764 - cd09637:cas4 1
+Y6.M045_2_5781_6911_- Y6.M045 Y6.M045_2 5781 6911 - pfam13280:WYL 2

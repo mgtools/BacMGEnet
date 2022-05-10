@@ -1,0 +1,12 @@
+##gff-version 3
+#!processor CRISPRone
+YB1_14247	Genbank	region	1	121221	.	+	.	ID=YB1_14247;array=1;gene=7;type=(type I)
+YB1_14247	FGS-hmm	CDS	7443	9602	.	+	.	what=cas;des=cd09641:cas3HD;note=Type-I
+YB1_14247	FGS-hmm	CDS	9917	10621	.	+	.	what=cas;des=cd09651:cas5;note=Subtype-I-C
+YB1_14247	FGS-hmm	CDS	10618	12381	.	+	.	what=cas;des=cd09757:cas8c;note=Subtype-I-C
+YB1_14247	FGS-hmm	CDS	12385	13269	.	+	.	what=cas;des=cd09689:cas7;note=Subtype-I-C
+YB1_14247	FGS-hmm	CDS	13412	13645	.	-	.	what=cas;des=unk;note=unknown
+YB1_14247	FGS-hmm	CDS	13706	13984	.	+	.	what=cas;des=pfam01930:cas4;note=Type-I
+YB1_14247	FGS-hmm	CDS	13981	15012	.	+	.	what=cas;des=cd09721:cas1;note=universal
+YB1_14247	FGS-hmm	CDS	15022	15312	.	+	.	what=cas;des=cd09725:cas2;note=universal
+YB1_14247	metaCRT	direct_repeat	15496	20256	.	.	.	what=CRISPR;des=repeat:GTCGCCCTCCTCGCGGAGGGCGTGGATAGAAAT;note=copy:71

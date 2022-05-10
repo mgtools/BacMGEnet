@@ -1,0 +1,20 @@
+##gff-version 3
+#!processor CRISPRone
+SFDN01000109.1	Genbank	region	1	10421	.	+	.	ID=SFDN01000109.1;array=0;gene=4;type=(type I)
+SFDN01000109.1	FGS-hmm	CDS	97	1059	.	-	.	what=cas;des=pfam05107:cas7b;note=Type-I
+SFDN01000109.1	FGS-hmm	CDS	1074	2735	.	-	.	what=cas;des=pfam09709:cas8c;note=Subtype-I-C
+SFDN01000109.1	FGS-hmm	CDS	2807	3517	.	-	.	what=cas;des=cd09752:cas5;note=Subtype-I-C
+SFDN01000109.1	FGS-hmm	CDS	3533	5812	.	-	.	what=cas;des=cd09641:cas3HD;note=Type-I
+SFDN01000091.1	Genbank	region	1	13154	.	+	.	ID=SFDN01000091.1;array=0;gene=3;type=(type III, IV)
+SFDN01000091.1	FGS-hmm	CDS	3892	5883	.	-	.	what=cas;des=mkCas0117:cmr5gr11;note=Subtype-III-C
+SFDN01000091.1	FGS-hmm	CDS	5885	6073	.	-	.	what=cas;des=unk;note=unknown
+SFDN01000091.1	FGS-hmm	CDS	6075	8213	.	-	.	what=cas;des=COG1199:DinG;note=Subtype-IV-A
+SFDN01000091.1	FGS-hmm	CDS	8216	8752	.	-	.	what=cas;des=unk;note=unknown
+SFDN01000091.1	FGS-hmm	CDS	8755	9642	.	-	.	what=cas;des=unk;note=unknown
+SFDN01000091.1	FGS-hmm	CDS	9670	10641	.	-	.	what=cas;des=pfam13280:WYL;note=other
+SFDN01000034.1	Genbank	region	1	40055	.	+	.	ID=SFDN01000034.1;array=1;gene=4;type=(type V)
+SFDN01000034.1	metaCRT	direct_repeat	26731	27084	.	.	.	what=CRISPR;des=repeat:ATCTACAATAGTAGAAATTAATAAGGATTATTAAAT;note=copy:6
+SFDN01000034.1	FGS-hmm	CDS	27222	27497	.	-	.	what=cas;des=pfam09827:cas2;note=universal
+SFDN01000034.1	FGS-hmm	CDS	27499	28464	.	-	.	what=cas;des=pfam01867:cas1;note=universal
+SFDN01000034.1	FGS-hmm	CDS	28461	29021	.	-	.	what=cas;des=cd09637:cas4;note=other
+SFDN01000034.1	FGS-hmm	CDS	29021	32692	.	-	.	what=cas;des=mkCas0192:cas12a;note=Subtype-V-A

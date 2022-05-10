@@ -1,0 +1,15 @@
+##gff-version 3
+#!processor CRISPRone
+YB2_11690	Genbank	region	1	25646	.	+	.	ID=YB2_11690;array=0;gene=3;type=NA
+YB2_11690	FGS-hmm	CDS	21119	21628	.	+	.	what=cas;des=COG2378:WYL;note=other
+YB2_11690	FGS-hmm	CDS	21717	22253	.	+	.	what=cas;des=unk;note=unknown
+YB2_11690	FGS-hmm	CDS	22339	24399	.	-	.	what=cas;des=cd09639:cas3;note=Type-I
+YB2_11690	FGS-hmm	CDS	24465	25634	.	-	.	what=cas;des=COG4804:PD-DExK;note=other
+YB2_14774	Genbank	region	1	97621	.	+	.	ID=YB2_14774;array=1;gene=6;type=(type I)
+YB2_14774	FGS-hmm	CDS	41397	44162	.	+	.	what=cas;des=cd09641:cas3HD;note=Type-I
+YB2_14774	FGS-hmm	CDS	44149	45774	.	+	.	what=cas;des=cd09729:cas8e;note=Subtype-I-E
+YB2_14774	FGS-hmm	CDS	45771	46394	.	+	.	what=cas;des=mkCas0194:cse2gr11;note=Subtype-I-E
+YB2_14774	FGS-hmm	CDS	46396	47469	.	+	.	what=cas;des=pfam09344:cas7;note=Subtype-I-E
+YB2_14774	FGS-hmm	CDS	47472	48158	.	+	.	what=cas;des=cd09645:cas5;note=Subtype-I-E
+YB2_14774	FGS-hmm	CDS	48165	48806	.	+	.	what=cas;des=pfam08798:cas6e;note=other
+YB2_14774	metaCRT	direct_repeat	48816	49941	.	.	.	what=CRISPR;des=repeat:CTTTTCCCCGCCCACGCGGGGGTGATCC;note=copy:19

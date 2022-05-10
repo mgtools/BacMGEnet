@@ -1,0 +1,39 @@
+##gff-version 3
+#!processor CRISPRone
+Y7.M032_22	Genbank	region	1	41651	.	+	.	ID=Y7.M032_22;array=0;gene=3;type=(type I)
+Y7.M032_22	FGS-hmm	CDS	10004	10564	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y7.M032_22	FGS-hmm	CDS	10643	11560	.	-	.	what=cas;des=unk;note=unknown
+Y7.M032_22	FGS-hmm	CDS	11687	13354	.	-	.	what=cas;des=mkCas0115:csx3;note=other
+Y7.M032_22	FGS-hmm	CDS	13396	14157	.	-	.	what=cas;des=unk;note=unknown
+Y7.M032_22	FGS-hmm	CDS	14166	14699	.	-	.	what=cas;des=unk;note=unknown
+Y7.M032_22	FGS-hmm	CDS	14720	15520	.	-	.	what=cas;des=mkCas0109:csx1;note=Type-III
+Y7.M032_13	Genbank	region	1	84528	.	+	.	ID=Y7.M032_13;array=1;gene=9;type=(type I)
+Y7.M032_13	metaCRT	direct_repeat	61163	62246	.	.	.	what=CRISPR;des=repeat:ATTTACATACCACATAGTTAATATAAAAC;note=copy:17
+Y7.M032_13	FGS-hmm	CDS	62428	62694	.	-	.	what=cas;des=cd09725:cas2;note=universal
+Y7.M032_13	FGS-hmm	CDS	62696	63673	.	-	.	what=cas;des=cd09722:cas1;note=universal
+Y7.M032_13	FGS-hmm	CDS	63673	64194	.	-	.	what=cas;des=pfam01930:cas4;note=Type-I
+Y7.M032_13	FGS-hmm	CDS	64264	66576	.	-	.	what=cas;des=COG1203:cas3;note=Type-I
+Y7.M032_13	FGS-hmm	CDS	66598	67302	.	-	.	what=cas;des=cd09693:cas5;note=Type-I
+Y7.M032_13	FGS-hmm	CDS	67304	68215	.	-	.	what=cas;des=cd09687:cas7;note=Subtype-I-B
+Y7.M032_13	FGS-hmm	CDS	68229	70019	.	-	.	what=cas;des=cd09665:cas8b2;note=Subtype-I-B
+Y7.M032_13	FGS-hmm	CDS	70071	70802	.	-	.	what=cas;des=pfam01881:cas6;note=other
+Y7.M032_13	FGS-hmm	CDS	70872	71756	.	-	.	what=cas;des=pfam13280:WYL;note=other
+Y7.M032_65	Genbank	region	1	14293	.	+	.	ID=Y7.M032_65;array=1;gene=7;type=(type I)
+Y7.M032_65	metaCRT	direct_repeat	152	1567	.	.	.	what=CRISPR;des=repeat:ATTTACATTCCAATATGGTTCTACTTTAAT;note=copy:22
+Y7.M032_65	FGS-hmm	CDS	1747	2025	.	-	.	what=cas;des=cd09725:cas2;note=universal
+Y7.M032_65	FGS-hmm	CDS	2041	2481	.	-	.	what=cas;des=cd09634:cas1;note=universal
+Y7.M032_65	FGS-hmm	CDS	2497	4845	.	-	.	what=cas;des=cd09641:cas3HD;note=Type-I
+Y7.M032_65	FGS-hmm	CDS	4891	5967	.	-	.	what=cas;des=cd09693:cas5;note=Type-I
+Y7.M032_65	FGS-hmm	CDS	5983	6894	.	-	.	what=cas;des=cd09650:cas7;note=Type-I
+Y7.M032_65	FGS-hmm	CDS	6918	8324	.	-	.	what=cas;des=cd09697:cas8b2;note=Subtype-I-B
+Y7.M032_65	FGS-hmm	CDS	8339	9067	.	-	.	what=cas;des=pfam01881:cas6;note=other
+Y7.M032_23	Genbank	region	1	41356	.	+	.	ID=Y7.M032_23;array=1;gene=8;type=(type I)
+Y7.M032_23	FGS-hmm	CDS	3	959	.	-	.	what=cas;des=pfam13280:WYL;note=other
+Y7.M032_23	metaCRT	direct_repeat	10772	12130	.	.	.	what=CRISPR;des=repeat:GTTTCAATCCTTATTTTAATGGATCTAGTACTTCTAC;note=copy:19
+Y7.M032_23	FGS-hmm	CDS	12359	12874	.	-	.	what=cas;des=cd09637:cas4;note=other
+Y7.M032_23	FGS-hmm	CDS	12945	13235	.	-	.	what=cas;des=cd09725:cas2;note=universal
+Y7.M032_23	FGS-hmm	CDS	13237	14223	.	-	.	what=cas;des=pfam01867:cas1;note=universal
+Y7.M032_23	FGS-hmm	CDS	14226	14879	.	-	.	what=cas;des=cls000004:cas6;note=other
+Y7.M032_23	FGS-hmm	CDS	14904	17183	.	-	.	what=cas;des=cd09641:cas3HD;note=Type-I
+Y7.M032_23	FGS-hmm	CDS	17170	17868	.	-	.	what=cas;des=cd09693:cas5;note=Type-I
+Y7.M032_23	FGS-hmm	CDS	18784	20631	.	-	.	what=cas;des=cd09730:cas8b1;note=Subtype-I-B

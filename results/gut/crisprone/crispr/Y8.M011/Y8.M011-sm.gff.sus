@@ -1,0 +1,28 @@
+##gff-version 3
+#!processor CRISPRone
+Y8.M011_5	Genbank	region	1	269905	.	+	.	ID=Y8.M011_5
+Y8.M011_5	FGS-hmm	CDS	203056	203424	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y8.M011_4	Genbank	region	1	482482	.	+	.	ID=Y8.M011_4
+Y8.M011_4	FGS-hmm	CDS	154182	154829	.	-	.	what=cas;des=cd09655:casR;note=Type-I
+Y8.M011_4	FGS-hmm	CDS	154941	156536	.	+	.	what=cas;des=unk;note=unknown
+Y8.M011_4	FGS-hmm	CDS	157364	157720	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y8.M011_4	FGS-hmm	CDS	190459	191445	.	-	.	what=cas;des=pfam13280:WYL;note=other
+Y8.M011_4	FGS-hmm	CDS	206314	207108	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y8.M011_6	Genbank	region	1	495119	.	+	.	ID=Y8.M011_6
+Y8.M011_6	FGS-hmm	CDS	36178	36936	.	-	.	what=cas;des=cls001593:casR;note=Type-I
+Y8.M011_6	FGS-hmm	CDS	37098	37880	.	+	.	what=cas;des=unk;note=unknown
+Y8.M011_6	FGS-hmm	CDS	37979	38758	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y8.M011_6	FGS-hmm	CDS	55471	56286	.	-	.	what=cas;des=COG2378:WYL;note=other
+Y8.M011_6	FGS-hmm	CDS	56355	57287	.	+	.	what=cas;des=unk;note=unknown
+Y8.M011_6	FGS-hmm	CDS	57369	58220	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y8.M011_6	FGS-hmm	CDS	116988	117383	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y8.M011_6	FGS-hmm	CDS	344511	347543	.	-	.	what=cas;des=COG1199:DinG;note=Subtype-IV-A
+Y8.M011_6	metaCRT	direct_repeat	462707	463017	.	.	.	what=CRISPR;des=repeat:ACTTGCTGGGCGGCGCTGACGACGGCGCCATGAAGACCGGTTGGCAG;note=copy:5
+Y8.M011_6	FGS-hmm	CDS	488395	489219	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y8.M011_2	Genbank	region	1	241197	.	+	.	ID=Y8.M011_2
+Y8.M011_2	FGS-hmm	CDS	162593	163285	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y8.M011_1	Genbank	region	1	361953	.	+	.	ID=Y8.M011_1
+Y8.M011_1	FGS-hmm	CDS	286634	288004	.	-	.	what=cas;des=pfam13280:WYL;note=other
+Y8.M011_7	Genbank	region	1	110925	.	+	.	ID=Y8.M011_7
+Y8.M011_7	FGS-hmm	CDS	60089	60895	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y8.M011_7	FGS-hmm	CDS	106681	107109	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A

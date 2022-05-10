@@ -1,0 +1,15 @@
+##gff-version 3
+#!processor CRISPRone
+Y7.M025_2	Genbank	region	1	313405	.	+	.	ID=Y7.M025_2;array=0;gene=3;type=(type III)
+Y7.M025_2	FGS-hmm	CDS	142687	147150	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+Y7.M025_2	FGS-hmm	CDS	147169	148221	.	-	.	what=cas;des=mkCas0182:csm5gr7;note=Subtype-III-A
+Y7.M025_2	FGS-hmm	CDS	148236	149378	.	-	.	what=cas;des=unk;note=unknown
+Y7.M025_2	FGS-hmm	CDS	149382	150575	.	-	.	what=cas;des=cls001593:casR;note=Type-I
+Y7.M025_9	Genbank	region	1	318137	.	+	.	ID=Y7.M025_9;array=0;gene=3;type=(type I, IV)
+Y7.M025_9	FGS-hmm	CDS	176173	179226	.	+	.	what=cas;des=COG1199:DinG;note=Subtype-IV-A
+Y7.M025_9	FGS-hmm	CDS	179604	181850	.	+	.	what=cas;des=unk;note=unknown
+Y7.M025_9	FGS-hmm	CDS	181929	182477	.	-	.	what=cas;des=unk;note=unknown
+Y7.M025_9	FGS-hmm	CDS	182750	183151	.	+	.	what=cas;des=cd09655:casR;note=Type-I
+Y7.M025_9	FGS-hmm	CDS	183148	184050	.	+	.	what=cas;des=unk;note=unknown
+Y7.M025_9	FGS-hmm	CDS	184085	186100	.	+	.	what=cas;des=unk;note=unknown
+Y7.M025_9	FGS-hmm	CDS	186244	187155	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A

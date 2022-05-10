@@ -1,0 +1,32 @@
+##gff-version 3
+#!processor CRISPRone
+YB1_12226	Genbank	region	1	53806	.	+	.	ID=YB1_12226
+YB1_12226	FGS-hmm	CDS	50447	51346	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YB1_5715	Genbank	region	1	16412	.	+	.	ID=YB1_5715
+YB1_5715	FGS-hmm	CDS	1522	1959	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YB1_656	Genbank	region	1	40365	.	+	.	ID=YB1_656
+YB1_656	FGS-hmm	CDS	21752	22471	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YB1_5750	Genbank	region	1	16202	.	+	.	ID=YB1_5750
+YB1_5750	FGS-hmm	CDS	11302	13662	.	-	.	what=cas;des=COG1199:DinG;note=Subtype-IV-A
+YB1_526	Genbank	region	1	41006	.	+	.	ID=YB1_526
+YB1_526	FGS-hmm	CDS	20309	21304	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YB1_4944	Genbank	region	1	24946	.	+	.	ID=YB1_4944
+YB1_4944	metaCRT	direct_repeat	12481	12881	.	.	.	what=CRISPR;des=repeat:CGTCAGGGCGGCTTTAACGGAAACCGTGATAACAACCGTCAGGGCGG;note=copy:6
+YB1_12062	Genbank	region	1	54809	.	+	.	ID=YB1_12062
+YB1_12062	FGS-hmm	CDS	3844	4845	.	+	.	what=cas;des=pfam13280:WYL;note=other
+YB1_12062	FGS-hmm	CDS	4930	6966	.	+	.	what=cas;des=cd09710:cas3;note=Subtype-I-D
+YB1_6292	Genbank	region	1	12933	.	+	.	ID=YB1_6292
+YB1_6292	metaCRT	direct_repeat	10686	10918	.	.	.	what=CRISPR;des=repeat:CTGCGAGGACCATGACCACGATCATGACCACCATCATCACG;note=copy:4
+YB1_8908	Genbank	region	1	6378	.	+	.	ID=YB1_8908
+YB1_8908	FGS-hmm	CDS	2	2260	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YB1_13882	Genbank	region	1	44098	.	+	.	ID=YB1_13882
+YB1_13882	FGS-hmm	CDS	40390	41400	.	+	.	what=cas;des=COG4804:PD-DExK;note=other
+YB1_13661	Genbank	region	1	45748	.	+	.	ID=YB1_13661
+YB1_13661	FGS-hmm	CDS	39716	40087	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YB1_6221	Genbank	region	1	13313	.	+	.	ID=YB1_6221
+YB1_6221	FGS-hmm	CDS	6373	6759	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YB1_12835	Genbank	region	1	50593	.	+	.	ID=YB1_12835
+YB1_12835	FGS-hmm	CDS	11458	12255	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YB1_12835	FGS-hmm	CDS	12453	14021	.	+	.	what=cas;des=unk;note=unknown
+YB1_12835	FGS-hmm	CDS	14175	14828	.	+	.	what=cas;des=unk;note=unknown
+YB1_12835	FGS-hmm	CDS	14882	15364	.	+	.	what=cas;des=cls001593:casR;note=Type-I

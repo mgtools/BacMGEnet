@@ -1,0 +1,12 @@
+##gff-version 3
+#!processor CRISPRone
+YB2_1294	Genbank	region	1	224178	.	+	.	ID=YB2_1294;array=0;gene=3;type=(type I)
+YB2_1294	FGS-hmm	CDS	92665	93654	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YB2_1294	FGS-hmm	CDS	98163	98507	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YB2_1294	FGS-hmm	CDS	98716	99255	.	-	.	what=cas;des=COG2378:WYL;note=other
+YB2_11904	Genbank	region	1	24974	.	+	.	ID=YB2_11904;array=0;gene=3;type=NA
+YB2_11904	FGS-hmm	CDS	7292	7774	.	-	.	what=cas;des=cls001593:casR;note=Type-I
+YB2_11904	FGS-hmm	CDS	7887	8477	.	-	.	what=cas;des=unk;note=unknown
+YB2_11904	FGS-hmm	CDS	8500	10023	.	-	.	what=cas;des=unk;note=unknown
+YB2_11904	FGS-hmm	CDS	10166	10915	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YB2_11904	FGS-hmm	CDS	10915	11571	.	-	.	what=cas;des=mkCas0066:cas6;note=other

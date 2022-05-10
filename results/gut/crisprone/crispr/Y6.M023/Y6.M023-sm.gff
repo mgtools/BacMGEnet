@@ -1,0 +1,23 @@
+##gff-version 3
+#!processor CRISPRone
+Y6.M023_45	Genbank	region	1	89559	.	+	.	ID=Y6.M023_45;array=1;gene=0;type=NA
+Y6.M023_45	metaCRT	direct_repeat	28237	28578	.	.	.	what=CRISPR;des=repeat:TAGATGTAAGTGGCTTTAATACTAGCAATG;note=copy:5
+Y6.M023_58	Genbank	region	1	94704	.	+	.	ID=Y6.M023_58;array=0;gene=2;type=(type V)
+Y6.M023_58	FGS-hmm	CDS	8756	9421	.	-	.	what=cas;des=cas12d:cas12d;note=Subtype-V-D
+Y6.M023_58	FGS-hmm	CDS	9475	9612	.	+	.	what=cas;des=unk;note=unknown
+Y6.M023_58	FGS-hmm	CDS	9984	11111	.	-	.	what=cas;des=pfam00078:RT;note=other
+Y6.M023_56	Genbank	region	1	105240	.	+	.	ID=Y6.M023_56;array=1;gene=4;type=(type II)
+Y6.M023_56	FGS-hmm	CDS	91969	95946	.	+	.	what=cas;des=mkCas0193:cas9;note=Subtype-II-A
+Y6.M023_56	FGS-hmm	CDS	95847	96809	.	+	.	what=cas;des=cd09720:cas1;note=Subtype-II-A
+Y6.M023_56	FGS-hmm	CDS	96821	97126	.	+	.	what=cas;des=pfam09827:cas2;note=Subtype-II-A
+Y6.M023_56	FGS-hmm	CDS	97123	97797	.	+	.	what=cas;des=cd09644:csn2;note=Subtype-II-A
+Y6.M023_56	metaCRT	direct_repeat	97861	98621	.	.	.	what=CRISPR;des=repeat:GTTTGAGAATGATGTAAAAATGTATGGTACTCAAAC;note=copy:12
+Y6.M023_52	Genbank	region	1	296613	.	+	.	ID=Y6.M023_52;array=1;gene=7;type=(type I)
+Y6.M023_52	metaCRT	direct_repeat	151194	152867	.	.	.	what=CRISPR;des=repeat:ATTTCAACTCACGCCCTCACGGAGGGCGAC;note=copy:27
+Y6.M023_52	FGS-hmm	CDS	153039	153329	.	-	.	what=cas;des=cd09725:cas2;note=universal
+Y6.M023_52	FGS-hmm	CDS	153462	154370	.	-	.	what=cas;des=cd09634:cas1;note=universal
+Y6.M023_52	FGS-hmm	CDS	154367	155032	.	-	.	what=cas;des=pfam01930:cas4;note=Type-I
+Y6.M023_52	FGS-hmm	CDS	155067	155924	.	-	.	what=cas;des=pfam05107:cas7b;note=Type-I
+Y6.M023_52	FGS-hmm	CDS	155929	157863	.	-	.	what=cas;des=pfam09709:cas8c;note=Subtype-I-C
+Y6.M023_52	FGS-hmm	CDS	157860	158594	.	-	.	what=cas;des=cd09752:cas5;note=Subtype-I-C
+Y6.M023_52	FGS-hmm	CDS	158614	161094	.	-	.	what=cas;des=cd09641:cas3HD;note=Type-I

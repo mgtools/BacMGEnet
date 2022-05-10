@@ -1,0 +1,30 @@
+##gff-version 3
+#!processor CRISPRone
+YA1_2080	Genbank	region	1	94543	.	+	.	ID=YA1_2080;array=1;gene=9;type=(type I)
+YA1_2080	metaCRT	direct_repeat	80705	81133	.	.	.	what=CRISPR;des=repeat:GAATTAATAGAAACATAATGGAATTTAAAG;note=copy:7
+YA1_2080	FGS-hmm	CDS	81567	82319	.	+	.	what=cas;des=pfam01881:cas6;note=other
+YA1_2080	FGS-hmm	CDS	82316	83707	.	+	.	what=cas;des=cd09697:cas8b2;note=Subtype-I-B
+YA1_2080	FGS-hmm	CDS	83700	84584	.	+	.	what=cas;des=cd09650:cas7;note=Type-I
+YA1_2080	FGS-hmm	CDS	84608	85714	.	+	.	what=cas;des=cd09693:cas5;note=Type-I
+YA1_2080	FGS-hmm	CDS	85771	88029	.	+	.	what=cas;des=COG1203:cas3;note=Type-I
+YA1_2080	FGS-hmm	CDS	88041	88541	.	+	.	what=cas;des=pfam01930:cas4;note=Type-I
+YA1_2080	FGS-hmm	CDS	88555	89547	.	+	.	what=cas;des=cd09722:cas1;note=universal
+YA1_2080	FGS-hmm	CDS	89550	89828	.	+	.	what=cas;des=COG1343:cas2;note=universal
+YA1_2080	FGS-hmm	CDS	89951	92923	.	+	.	what=cas;des=COG4951:PrimPol;note=other
+YA1_223	Genbank	region	1	215854	.	+	.	ID=YA1_223;array=0;gene=3;type=NA
+YA1_223	FGS-hmm	CDS	111757	112674	.	-	.	what=cas;des=pfam13280:WYL;note=other
+YA1_223	FGS-hmm	CDS	112671	113921	.	-	.	what=cas;des=pfam13280:WYL;note=other
+YA1_223	FGS-hmm	CDS	113935	114471	.	-	.	what=cas;des=unk;note=unknown
+YA1_223	FGS-hmm	CDS	114471	115856	.	-	.	what=cas;des=unk;note=unknown
+YA1_223	FGS-hmm	CDS	116044	117456	.	-	.	what=cas;des=pfam00078:RT;note=other
+YA1_3727	Genbank	region	1	56842	.	+	.	ID=YA1_3727;array=1;gene=9;type=(type III)
+YA1_3727	FGS-hmm	CDS	18008	19339	.	+	.	what=cas;des=cd09746:csm6;note=Subtype-III-A
+YA1_3727	FGS-hmm	CDS	19336	20076	.	+	.	what=cas;des=pfam10040:cas6;note=other
+YA1_3727	FGS-hmm	CDS	20081	22414	.	+	.	what=cas;des=cd09680:cas10;note=Type-III
+YA1_3727	FGS-hmm	CDS	22415	22792	.	+	.	what=cas;des=cd09647:csm2gr11;note=Subtype-III-A
+YA1_3727	FGS-hmm	CDS	22810	23487	.	+	.	what=cas;des=COG1337:csm3gr7;note=Subtype-III-D
+YA1_3727	FGS-hmm	CDS	23487	24416	.	+	.	what=cas;des=cd09726:csm3gr7;note=Subtype-III-D
+YA1_3727	FGS-hmm	CDS	24416	25528	.	+	.	what=cas;des=cd09726:csm3gr7;note=Subtype-III-D
+YA1_3727	metaCRT	direct_repeat	25664	26802	.	.	.	what=CRISPR;des=repeat:ATTAAGAAAATAAAAGCCCCGATAGGGGACGAAAAC;note=copy:16
+YA1_3727	FGS-hmm	CDS	27036	28040	.	+	.	what=cas;des=cd09634:cas1;note=universal
+YA1_3727	FGS-hmm	CDS	28043	28360	.	+	.	what=cas;des=cd09725:cas2;note=universal

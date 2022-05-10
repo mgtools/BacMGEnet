@@ -1,0 +1,16 @@
+##gff-version 3
+#!processor CRISPRone
+YB1_5460	Genbank	region	1	178840	.	+	.	ID=YB1_5460;array=0;gene=2;type=(type I)
+YB1_5460	FGS-hmm	CDS	19771	20595	.	+	.	what=cas;des=cd09643:cas9;note=Type-II
+YB1_5460	FGS-hmm	CDS	20617	22515	.	+	.	what=cas;des=unk;note=unknown
+YB1_5460	FGS-hmm	CDS	22685	24136	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YB1_11313	Genbank	region	1	337078	.	+	.	ID=YB1_11313;array=1;gene=8;type=(type I)
+YB1_11313	metaCRT	direct_repeat	273999	276222	.	.	.	what=CRISPR;des=repeat:GGATCACCCCCGCTTGCGCGGGGAATAC;note=copy:37
+YB1_11313	FGS-hmm	CDS	276267	277133	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YB1_11313	FGS-hmm	CDS	277133	278080	.	-	.	what=cas;des=cd09719:cas1;note=universal
+YB1_11313	FGS-hmm	CDS	278077	278727	.	-	.	what=cas;des=pfam08798:cas6e;note=other
+YB1_11313	FGS-hmm	CDS	278733	279389	.	-	.	what=cas;des=cd09645:cas5;note=Subtype-I-E
+YB1_11313	FGS-hmm	CDS	279389	280474	.	-	.	what=cas;des=pfam09344:cas7;note=Subtype-I-E
+YB1_11313	FGS-hmm	CDS	280467	281066	.	-	.	what=cas;des=mkCas0194:cse2gr11;note=Subtype-I-E
+YB1_11313	FGS-hmm	CDS	281081	282694	.	-	.	what=cas;des=cd09729:cas8e;note=Subtype-I-E
+YB1_11313	FGS-hmm	CDS	282687	285356	.	-	.	what=cas;des=cd09641:cas3HD;note=Type-I

@@ -1,0 +1,31 @@
+##gff-version 3
+#!processor CRISPRone
+Y6.M034_11	Genbank	region	1	294184	.	+	.	ID=Y6.M034_11
+Y6.M034_11	FGS-hmm	CDS	20962	21879	.	+	.	what=cas;des=COG2378:WYL;note=other
+Y6.M034_11	FGS-hmm	CDS	37853	38857	.	+	.	what=cas;des=COG4804:PD-DExK;note=other
+Y6.M034_11	FGS-hmm	CDS	288567	289421	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y6.M034_23	Genbank	region	1	192739	.	+	.	ID=Y6.M034_23
+Y6.M034_23	FGS-hmm	CDS	3534	4244	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+Y6.M034_23	FGS-hmm	CDS	34789	36120	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y6.M034_27	Genbank	region	1	31067	.	+	.	ID=Y6.M034_27
+Y6.M034_27	FGS-hmm	CDS	1259	2059	.	+	.	what=cas;des=pfam00078:RT;note=other
+Y6.M034_14	Genbank	region	1	287007	.	+	.	ID=Y6.M034_14
+Y6.M034_14	FGS-hmm	CDS	53242	53652	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y6.M034_14	FGS-hmm	CDS	236052	236504	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y6.M034_20	Genbank	region	1	508615	.	+	.	ID=Y6.M034_20
+Y6.M034_20	FGS-hmm	CDS	411121	412032	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y6.M034_20	FGS-hmm	CDS	412175	414250	.	-	.	what=cas;des=unk;note=unknown
+Y6.M034_20	FGS-hmm	CDS	414225	415127	.	-	.	what=cas;des=unk;note=unknown
+Y6.M034_20	FGS-hmm	CDS	415124	415525	.	-	.	what=cas;des=cd09655:casR;note=Type-I
+Y6.M034_12	Genbank	region	1	201778	.	+	.	ID=Y6.M034_12
+Y6.M034_12	FGS-hmm	CDS	39214	39519	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y6.M034_15	Genbank	region	1	214956	.	+	.	ID=Y6.M034_15
+Y6.M034_15	FGS-hmm	CDS	188857	191211	.	-	.	what=cas;des=COG1199:DinG;note=Subtype-IV-A
+Y6.M034_22	Genbank	region	1	206885	.	+	.	ID=Y6.M034_22
+Y6.M034_22	FGS-hmm	CDS	42971	43255	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y6.M034_22	FGS-hmm	CDS	101844	102812	.	+	.	what=cas;des=pfam00078:RT;note=other
+Y6.M034_22	FGS-hmm	CDS	123557	123922	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y6.M034_22	FGS-hmm	CDS	197957	200419	.	-	.	what=cas;des=COG1583:cas6;note=other
+Y6.M034_22	FGS-hmm	CDS	200441	203584	.	-	.	what=cas;des=unk;note=unknown
+Y6.M034_22	FGS-hmm	CDS	204033	205469	.	+	.	what=cas;des=unk;note=unknown
+Y6.M034_22	FGS-hmm	CDS	205534	206496	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I

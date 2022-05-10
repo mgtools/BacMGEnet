@@ -1,0 +1,31 @@
+##gff-version 3
+#!processor CRISPRone
+Y6.M007_14	Genbank	region	1	326795	.	+	.	ID=Y6.M007_14
+Y6.M007_14	FGS-hmm	CDS	19549	19926	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y6.M007_14	FGS-hmm	CDS	188018	189835	.	+	.	what=cas;des=pfam00078:RT;note=other
+Y6.M007_14	FGS-hmm	CDS	194792	196765	.	+	.	what=cas;des=pfam00078:RT;note=other
+Y6.M007_14	FGS-hmm	CDS	309095	309748	.	+	.	what=cas;des=COG4804:PD-DExK;note=other
+Y6.M007_14	FGS-hmm	CDS	310004	310153	.	+	.	what=cas;des=unk;note=unknown
+Y6.M007_14	FGS-hmm	CDS	310233	312827	.	+	.	what=cas;des=unk;note=unknown
+Y6.M007_14	FGS-hmm	CDS	313299	313790	.	+	.	what=cas;des=cd09655:casR;note=Type-I
+Y6.M007_25	Genbank	region	1	198204	.	+	.	ID=Y6.M007_25
+Y6.M007_25	FGS-hmm	CDS	110125	110487	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y6.M007_25	FGS-hmm	CDS	189083	190474	.	-	.	what=cas;des=pfam00078:RT;note=other
+Y6.M007_25	FGS-hmm	CDS	190637	192103	.	-	.	what=cas;des=pfam00078:RT;note=other
+Y6.M007_22	Genbank	region	1	93027	.	+	.	ID=Y6.M007_22
+Y6.M007_22	FGS-hmm	CDS	23079	25442	.	+	.	what=cas;des=COG1199:DinG;note=Subtype-IV-A
+Y6.M007_10	Genbank	region	1	147006	.	+	.	ID=Y6.M007_10
+Y6.M007_10	FGS-hmm	CDS	52513	53256	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y6.M007_17	Genbank	region	1	99066	.	+	.	ID=Y6.M007_17
+Y6.M007_17	FGS-hmm	CDS	7843	8505	.	+	.	what=cas;des=COG4804:PD-DExK;note=other
+Y6.M007_17	FGS-hmm	CDS	13496	14542	.	+	.	what=cas;des=pfam13280:WYL;note=other
+Y6.M007_5	Genbank	region	1	284472	.	+	.	ID=Y6.M007_5
+Y6.M007_5	FGS-hmm	CDS	6842	7753	.	+	.	what=cas;des=COG2378:WYL;note=other
+Y6.M007_5	FGS-hmm	CDS	7756	8400	.	+	.	what=cas;des=unk;note=unknown
+Y6.M007_5	FGS-hmm	CDS	8611	9072	.	+	.	what=cas;des=COG2378:WYL;note=other
+Y6.M007_8	Genbank	region	1	348008	.	+	.	ID=Y6.M007_8
+Y6.M007_8	FGS-hmm	CDS	29083	29592	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y6.M007_8	FGS-hmm	CDS	163377	167843	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+Y6.M007_8	FGS-hmm	CDS	197965	198417	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+Y6.M007_9	Genbank	region	1	159683	.	+	.	ID=Y6.M007_9
+Y6.M007_9	FGS-hmm	CDS	2661	2951	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A

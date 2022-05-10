@@ -1,0 +1,25 @@
+#/u/yye/CRISPRpk/pipelines/../CRISPRone/call-script/hmmscan2cas.py -collection unk -hmmscan crisprone/crispr/YB2_M50/YB2_M50-vs-cas.domtblout -gff crisprone/crispr/YB2_M50/YB2_M50.gff -isolate -outfile crisprone/crispr/YB2_M50/YB2_M50.summary -outfiltered crisprone/crispr/YB2_M50/YB2_M50.summary-filter -gafile /u/yye/CRISPRpk/pipelines/../CRISPRone/local/cas-db/cas-CRISPR.GA
+##YB2_13444 1 derived-fm crisprone/crispr/YB2_M50/YB2_M50-vs-cas.domtblout
+YB2_13444_1067_1849_- YB2_M50 YB2_13444 1067 1849 - COG0640:csa3 2
+##YB2_13360 3 derived-fm crisprone/crispr/YB2_M50/YB2_M50-vs-cas.domtblout
+YB2_13360_9366_9653_+ YB2_M50 YB2_13360 9366 9653 + COG0640:csa3 2
+YB2_13360_9637_10305_+ YB2_M50 YB2_13360 9637 10305 + unk 1
+YB2_13360_10476_11447_- YB2_M50 YB2_13360 10476 11447 - cd06127:DEDDh 2
+##YB2_11448 1 derived-fm crisprone/crispr/YB2_M50/YB2_M50-vs-cas.domtblout
+YB2_11448_14475_15470_- YB2_M50 YB2_11448 14475 15470 - pfam13280:WYL 2
+##YB2_19314 1 derived-fm crisprone/crispr/YB2_M50/YB2_M50-vs-cas.domtblout
+YB2_19314_47784_48278_- YB2_M50 YB2_19314 47784 48278 - COG0640:csa3 2
+##YB2_14072 1 derived-fm crisprone/crispr/YB2_M50/YB2_M50-vs-cas.domtblout
+YB2_14072_4330_4746_- YB2_M50 YB2_14072 4330 4746 - COG0640:csa3 2
+##YB2_10874 7 derived-fm crisprone/crispr/YB2_M50/YB2_M50-vs-cas.domtblout
+YB2_10874_17785_19938_+ YB2_M50 YB2_10874 17785 19938 + cd09641:cas3HD 2
+YB2_10874_20169_20822_+ YB2_M50 YB2_10874 20169 20822 + cd09752:cas5 2
+YB2_10874_20819_22555_+ YB2_M50 YB2_10874 20819 22555 + cd09757:cas8c 2
+YB2_10874_22558_23454_+ YB2_M50 YB2_10874 22558 23454 + cd09689:cas7 2
+YB2_10874_23454_24116_+ YB2_M50 YB2_10874 23454 24116 + pfam01930:cas4 2
+YB2_10874_24113_25144_+ YB2_M50 YB2_10874 24113 25144 + cd09721:cas1 2
+YB2_10874_25154_25444_+ YB2_M50 YB2_10874 25154 25444 + cd09725:cas2 2
+##YB2_12684 1 derived-fm crisprone/crispr/YB2_M50/YB2_M50-vs-cas.domtblout
+YB2_12684_13439_13906_+ YB2_M50 YB2_12684 13439 13906 + COG0640:csa3 2
+##YB2_14119 1 derived-fm crisprone/crispr/YB2_M50/YB2_M50-vs-cas.domtblout
+YB2_14119_5509_9816_+ YB2_M50 YB2_14119 5509 9816 + cd06127:DEDDh 2

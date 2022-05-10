@@ -1,0 +1,8 @@
+##gff-version 3
+#!processor CRISPRone
+YB3_15341	Genbank	region	1	60110	.	+	.	ID=YB3_15341;array=0;gene=3;type=NA
+YB3_15341	FGS-hmm	CDS	7293	7775	.	-	.	what=cas;des=cls001593:casR;note=Type-I
+YB3_15341	FGS-hmm	CDS	7888	8478	.	-	.	what=cas;des=unk;note=unknown
+YB3_15341	FGS-hmm	CDS	8501	10024	.	-	.	what=cas;des=unk;note=unknown
+YB3_15341	FGS-hmm	CDS	10167	10916	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YB3_15341	FGS-hmm	CDS	10916	11572	.	-	.	what=cas;des=mkCas0066:cas6;note=other

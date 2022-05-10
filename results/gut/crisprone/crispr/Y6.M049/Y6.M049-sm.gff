@@ -1,0 +1,8 @@
+##gff-version 3
+#!processor CRISPRone
+Y6.M049_16	Genbank	region	1	179455	.	+	.	ID=Y6.M049_16;array=0;gene=3;type=(type IV)
+Y6.M049_16	FGS-hmm	CDS	55827	60338	.	+	.	what=cas;des=cd06127:DEDDh;note=Type-I
+Y6.M049_16	FGS-hmm	CDS	60413	61663	.	+	.	what=cas;des=unk;note=unknown
+Y6.M049_16	FGS-hmm	CDS	61789	61986	.	-	.	what=cas;des=unk;note=unknown
+Y6.M049_16	FGS-hmm	CDS	62262	62690	.	+	.	what=cas;des=cls000118:csx20;note=other
+Y6.M049_16	FGS-hmm	CDS	70030	72381	.	+	.	what=cas;des=COG1199:DinG;note=Subtype-IV-A

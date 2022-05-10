@@ -1,0 +1,27 @@
+#/u/yye/CRISPRpk/pipelines/../CRISPRone/call-script/hmmscan2cas.py -collection unk -hmmscan crisprone/crispr/YB2_M14/YB2_M14-vs-cas.domtblout -gff crisprone/crispr/YB2_M14/YB2_M14.gff -isolate -outfile crisprone/crispr/YB2_M14/YB2_M14.summary -outfiltered crisprone/crispr/YB2_M14/YB2_M14.summary-filter -gafile /u/yye/CRISPRpk/pipelines/../CRISPRone/local/cas-db/cas-CRISPR.GA
+##YB2_12257 5 derived-fm crisprone/crispr/YB2_M14/YB2_M14-vs-cas.domtblout
+YB2_12257_65577_66914_- YB2_M14 YB2_12257 65577 66914 - mkCas0115:csx3 1
+YB2_12257_67016_68926_- YB2_M14 YB2_12257 67016 68926 - unk 1
+YB2_12257_69007_69444_- YB2_M14 YB2_12257 69007 69444 - COG0640:csa3 2
+YB2_12257_69587_70909_- YB2_M14 YB2_12257 69587 70909 - unk 1
+YB2_12257_71008_71358_- YB2_M14 YB2_12257 71008 71358 - cls001593:casR 1
+##YB2_1053 1 derived-fm crisprone/crispr/YB2_M14/YB2_M14-vs-cas.domtblout
+YB2_1053_47871_49457_+ YB2_M14 YB2_1053 47871 49457 + pfam08800:PrimPol 2
+##YB2_2750 1 derived-fm crisprone/crispr/YB2_M14/YB2_M14-vs-cas.domtblout
+YB2_2750_38707_39261_- YB2_M14 YB2_2750 38707 39261 - COG0640:csa3 2
+##YB2_16602 1 derived-fm crisprone/crispr/YB2_M14/YB2_M14-vs-cas.domtblout
+YB2_16602_21100_21645_+ YB2_M14 YB2_16602 21100 21645 + cd06127:DEDDh 2
+##YB2_1075 1 derived-fm crisprone/crispr/YB2_M14/YB2_M14-vs-cas.domtblout
+YB2_1075_64066_64527_+ YB2_M14 YB2_1075 64066 64527 + COG0640:csa3 2
+##YB2_18363 1 derived-fm crisprone/crispr/YB2_M14/YB2_M14-vs-cas.domtblout
+YB2_18363_52242_52526_- YB2_M14 YB2_18363 52242 52526 - COG0640:csa3 2
+##YB2_13755 3 derived-fm crisprone/crispr/YB2_M14/YB2_M14-vs-cas.domtblout
+YB2_13755_5228_5560_- YB2_M14 YB2_13755 5228 5560 - pfam09827:cas2 2
+YB2_13755_5562_6491_- YB2_M14 YB2_13755 5562 6491 - cd09634:cas1 2
+YB2_13755_6606_10880_- YB2_M14 YB2_13755 6606 10880 - cd09643:cas9 1
+##YB2_14246 1 derived-fm crisprone/crispr/YB2_M14/YB2_M14-vs-cas.domtblout
+YB2_14246_78049_78627_- YB2_M14 YB2_14246 78049 78627 - cd06127:DEDDh 2
+##YB2_266 1 derived-fm crisprone/crispr/YB2_M14/YB2_M14-vs-cas.domtblout
+YB2_266_33716_35050_- YB2_M14 YB2_266 33716 35050 - COG4804:PD-DExK 2
+##YB2_14217 1 derived-fm crisprone/crispr/YB2_M14/YB2_M14-vs-cas.domtblout
+YB2_14217_61481_62251_+ YB2_M14 YB2_14217 61481 62251 + cd06127:DEDDh 2

@@ -1,0 +1,27 @@
+#/u/yye/CRISPRpk/pipelines/../CRISPRone/call-script/hmmscan2cas.py -collection unk -hmmscan crisprone/crispr/YB3_M23/YB3_M23-vs-cas.domtblout -gff crisprone/crispr/YB3_M23/YB3_M23.gff -isolate -outfile crisprone/crispr/YB3_M23/YB3_M23.summary -outfiltered crisprone/crispr/YB3_M23/YB3_M23.summary-filter -gafile /u/yye/CRISPRpk/pipelines/../CRISPRone/local/cas-db/cas-CRISPR.GA
+##YB3_1212 1 derived-fm crisprone/crispr/YB3_M23/YB3_M23-vs-cas.domtblout
+YB3_1212_28822_31230_- YB3_M23 YB3_1212 28822 31230 - COG1199:DinG 2
+##YB3_11315 1 derived-fm crisprone/crispr/YB3_M23/YB3_M23-vs-cas.domtblout
+YB3_11315_654_1376_- YB3_M23 YB3_11315 654 1376 - pfam13280:WYL 2
+##YB3_9620 4 derived-fm crisprone/crispr/YB3_M23/YB3_M23-vs-cas.domtblout
+YB3_9620_15467_15841_- YB3_M23 YB3_9620 15467 15841 - COG0640:csa3 2
+YB3_9620_16001_16219_+ YB3_M23 YB3_9620 16001 16219 + unk 1
+YB3_9620_16310_18310_+ YB3_M23 YB3_9620 16310 18310 + unk 1
+YB3_9620_18332_18688_+ YB3_M23 YB3_9620 18332 18688 + COG0640:csa3 2
+##YB3_10038 1 derived-fm crisprone/crispr/YB3_M23/YB3_M23-vs-cas.domtblout
+YB3_10038_1_4059_+ YB3_M23 YB3_10038 1 4059 + cd06127:DEDDh 2
+##YB3_13430 1 derived-fm crisprone/crispr/YB3_M23/YB3_M23-vs-cas.domtblout
+YB3_13430_44456_45445_- YB3_M23 YB3_13430 44456 45445 - pfam13280:WYL 2
+##YB3_17647 1 derived-fm crisprone/crispr/YB3_M23/YB3_M23-vs-cas.domtblout
+YB3_17647_79533_80330_- YB3_M23 YB3_17647 79533 80330 - COG0640:csa3 2
+##YB3_13020 1 derived-fm crisprone/crispr/YB3_M23/YB3_M23-vs-cas.domtblout
+YB3_13020_44213_44986_- YB3_M23 YB3_13020 44213 44986 - COG0640:csa3 2
+##YB3_14825 2 derived-fm crisprone/crispr/YB3_M23/YB3_M23-vs-cas.domtblout
+YB3_14825_14492_15244_+ YB3_M23 YB3_14825 14492 15244 + COG0640:csa3 2
+YB3_14825_23684_24055_+ YB3_M23 YB3_14825 23684 24055 + COG0640:csa3 2
+##YB3_17485 1 derived-fm crisprone/crispr/YB3_M23/YB3_M23-vs-cas.domtblout
+YB3_17485_7280_7597_+ YB3_M23 YB3_17485 7280 7597 + COG0640:csa3 2
+##YB3_15573 1 derived-fm crisprone/crispr/YB3_M23/YB3_M23-vs-cas.domtblout
+YB3_15573_3_206_+ YB3_M23 YB3_15573 3 206 + pfam13280:WYL 2
+##YB3_9641 1 derived-fm crisprone/crispr/YB3_M23/YB3_M23-vs-cas.domtblout
+YB3_9641_20867_21826_- YB3_M23 YB3_9641 20867 21826 - cd06127:DEDDh 2

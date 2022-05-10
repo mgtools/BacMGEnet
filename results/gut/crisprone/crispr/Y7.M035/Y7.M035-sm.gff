@@ -1,0 +1,25 @@
+##gff-version 3
+#!processor CRISPRone
+Y7.M035_19	Genbank	region	1	166317	.	+	.	ID=Y7.M035_19;array=1;gene=11;type=(type III)
+Y7.M035_19	FGS-hmm	CDS	69374	70318	.	-	.	what=cas;des=mkCas0066:cas6;note=other
+Y7.M035_19	FGS-hmm	CDS	70344	71072	.	-	.	what=cas;des=unk;note=unknown
+Y7.M035_19	FGS-hmm	CDS	71207	71791	.	+	.	what=cas;des=unk;note=unknown
+Y7.M035_19	FGS-hmm	CDS	71881	73446	.	+	.	what=cas;des=cd09747:csx1;note=Type-III
+Y7.M035_19	FGS-hmm	CDS	73449	74447	.	+	.	what=cas;des=cd09634:cas1;note=universal
+Y7.M035_19	FGS-hmm	CDS	74570	74713	.	+	.	what=cas;des=COG1343:cas2;note=universal
+Y7.M035_19	FGS-hmm	CDS	74723	77521	.	+	.	what=cas;des=pfam00078:RT;note=other
+Y7.M035_19	metaCRT	direct_repeat	77752	78819	.	.	.	what=CRISPR;des=repeat:GTAGAAATGAACTTCACCCGTTACAGGGTATTGACAC;note=copy:15
+Y7.M035_19	FGS-hmm	CDS	94425	96506	.	-	.	what=cas;des=pfam03787:csm3gr7;note=Type-III
+Y7.M035_19	FGS-hmm	CDS	96510	97085	.	-	.	what=cas;des=cls001376:csx19;note=Subtype-III-D
+Y7.M035_19	FGS-hmm	CDS	97096	98430	.	-	.	what=cas;des=cd09726:csm3gr7;note=Subtype-III-D
+Y7.M035_19	FGS-hmm	CDS	98430	100655	.	-	.	what=cas;des=cd09726:csm3gr7;note=Subtype-III-D
+Y7.M035_19	FGS-hmm	CDS	100419	100601	.	+	.	what=cas;des=unk;note=unknown
+Y7.M035_19	FGS-hmm	CDS	100627	102198	.	-	.	what=cas;des=mkCas0133:cas10;note=Type-III
+Y7.M035_19	FGS-hmm	CDS	102216	103508	.	-	.	what=cas;des=mkCas0112:csx1;note=Type-III
+Y7.M035_20	Genbank	region	1	73749	.	+	.	ID=Y7.M035_20;array=0;gene=3;type=(type I)
+Y7.M035_20	FGS-hmm	CDS	11690	12172	.	-	.	what=cas;des=cls001593:casR;note=Type-I
+Y7.M035_20	FGS-hmm	CDS	12169	12786	.	-	.	what=cas;des=unk;note=unknown
+Y7.M035_20	FGS-hmm	CDS	12821	14464	.	-	.	what=cas;des=unk;note=unknown
+Y7.M035_20	FGS-hmm	CDS	14599	15312	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+Y7.M035_20	FGS-hmm	CDS	15331	17040	.	-	.	what=cas;des=unk;note=unknown
+Y7.M035_20	FGS-hmm	CDS	17398	17859	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A

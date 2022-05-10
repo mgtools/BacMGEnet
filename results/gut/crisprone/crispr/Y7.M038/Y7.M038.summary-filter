@@ -1,0 +1,25 @@
+#/u/yye/CRISPRpk/pipelines/../CRISPRone/call-script/hmmscan2cas.py -collection unk -hmmscan crisprone/crispr/Y7.M038/Y7.M038-vs-cas.domtblout -gff crisprone/crispr/Y7.M038/Y7.M038.gff -isolate -outfile crisprone/crispr/Y7.M038/Y7.M038.summary -outfiltered crisprone/crispr/Y7.M038/Y7.M038.summary-filter -gafile /u/yye/CRISPRpk/pipelines/../CRISPRone/local/cas-db/cas-CRISPR.GA
+##Y7.M038_8 2 derived-fm crisprone/crispr/Y7.M038/Y7.M038-vs-cas.domtblout
+Y7.M038_8_123455_123904_+ Y7.M038 Y7.M038_8 123455 123904 + COG0640:csa3 2
+Y7.M038_8_233864_237907_- Y7.M038 Y7.M038_8 233864 237907 - cd06127:DEDDh 2
+##Y7.M038_7 3 derived-fm crisprone/crispr/Y7.M038/Y7.M038-vs-cas.domtblout
+Y7.M038_7_49610_49981_+ Y7.M038 Y7.M038_7 49610 49981 + COG0640:csa3 2
+Y7.M038_7_50118_51593_- Y7.M038 Y7.M038_7 50118 51593 - unk 1
+Y7.M038_7_51600_55118_- Y7.M038 Y7.M038_7 51600 55118 - cd09639:cas3 1
+##Y7.M038_11 4 derived-fm crisprone/crispr/Y7.M038/Y7.M038-vs-cas.domtblout
+Y7.M038_11_11473_11844_- Y7.M038 Y7.M038_11 11473 11844 - cls001593:casR 1
+Y7.M038_11_12076_12546_+ Y7.M038 Y7.M038_11 12076 12546 + unk 1
+Y7.M038_11_12543_13460_+ Y7.M038 Y7.M038_11 12543 13460 + unk 1
+Y7.M038_11_13516_14181_- Y7.M038 Y7.M038_11 13516 14181 - cd06127:DEDDh 2
+##Y7.M038_1 1 derived-fm crisprone/crispr/Y7.M038/Y7.M038-vs-cas.domtblout
+Y7.M038_1_88198_90018_+ Y7.M038 Y7.M038_1 88198 90018 + pfam00078:RT 2
+##Y7.M038_10 1 derived-fm crisprone/crispr/Y7.M038/Y7.M038-vs-cas.domtblout
+Y7.M038_10_87097_88089_+ Y7.M038 Y7.M038_10 87097 88089 + pfam13280:WYL 2
+##Y7.M038_15 1 derived-fm crisprone/crispr/Y7.M038/Y7.M038-vs-cas.domtblout
+Y7.M038_15_38236_39207_+ Y7.M038 Y7.M038_15 38236 39207 + cd06127:DEDDh 2
+##Y7.M038_5 1 derived-fm crisprone/crispr/Y7.M038/Y7.M038-vs-cas.domtblout
+Y7.M038_5_36957_37670_+ Y7.M038 Y7.M038_5 36957 37670 + COG0640:csa3 2
+##Y7.M038_6 1 derived-fm crisprone/crispr/Y7.M038/Y7.M038-vs-cas.domtblout
+Y7.M038_6_121880_122779_- Y7.M038 Y7.M038_6 121880 122779 - COG0640:csa3 2
+##Y7.M038_13 1 derived-fm crisprone/crispr/Y7.M038/Y7.M038-vs-cas.domtblout
+Y7.M038_13_56992_57408_- Y7.M038 Y7.M038_13 56992 57408 - COG0640:csa3 2

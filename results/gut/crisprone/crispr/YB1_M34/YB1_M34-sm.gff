@@ -1,0 +1,11 @@
+##gff-version 3
+#!processor CRISPRone
+YB1_6298	Genbank	region	1	142595	.	+	.	ID=YB1_6298;array=1;gene=7;type=(type I)
+YB1_6298	metaCRT	direct_repeat	0	349	.	.	.	what=CRISPR;des=repeat:ATTTCAATCCACCCACCCCGTATGGGGTGGGAC;note=copy:6
+YB1_6298	FGS-hmm	CDS	523	813	.	-	.	what=cas;des=cd09725:cas2;note=universal
+YB1_6298	FGS-hmm	CDS	824	1855	.	-	.	what=cas;des=cd09721:cas1;note=universal
+YB1_6298	FGS-hmm	CDS	1852	2514	.	-	.	what=cas;des=pfam01930:cas4;note=Type-I
+YB1_6298	FGS-hmm	CDS	2504	3355	.	-	.	what=cas;des=pfam05107:cas7b;note=Type-I
+YB1_6298	FGS-hmm	CDS	3339	5222	.	-	.	what=cas;des=pfam09709:cas8c;note=Subtype-I-C
+YB1_6298	FGS-hmm	CDS	5213	5959	.	-	.	what=cas;des=cd09752:cas5;note=Subtype-I-C
+YB1_6298	FGS-hmm	CDS	5961	8195	.	-	.	what=cas;des=cd09641:cas3HD;note=Type-I

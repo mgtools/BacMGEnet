@@ -1,0 +1,37 @@
+##gff-version 3
+#!processor CRISPRone
+YB1_8673	Genbank	region	1	90743	.	+	.	ID=YB1_8673
+YB1_8673	FGS-hmm	CDS	85783	87207	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YB1_6395	Genbank	region	1	140584	.	+	.	ID=YB1_6395
+YB1_6395	FGS-hmm	CDS	107116	107412	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YB1_6395	FGS-hmm	CDS	107535	107960	.	-	.	what=cas;des=unk;note=unknown
+YB1_6395	FGS-hmm	CDS	107973	109262	.	-	.	what=cas;des=unk;note=unknown
+YB1_6395	FGS-hmm	CDS	109317	109670	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YB1_9933	Genbank	region	1	75167	.	+	.	ID=YB1_9933
+YB1_9933	FGS-hmm	CDS	62659	63366	.	+	.	what=cas;des=pfam13280:WYL;note=other
+YB1_9933	FGS-hmm	CDS	70879	71619	.	-	.	what=cas;des=cd06127:DEDDh;note=Type-I
+YB1_6831	Genbank	region	1	128287	.	+	.	ID=YB1_6831
+YB1_6831	FGS-hmm	CDS	69483	70595	.	+	.	what=cas;des=COG4804:PD-DExK;note=other
+YB1_4842	Genbank	region	1	26610	.	+	.	ID=YB1_4842
+YB1_4842	FGS-hmm	CDS	19394	20290	.	+	.	what=cas;des=pfam13280:WYL;note=other
+YB1_6384	Genbank	region	1	141001	.	+	.	ID=YB1_6384
+YB1_6384	FGS-hmm	CDS	87849	89999	.	-	.	what=cas;des=COG1199:DinG;note=Subtype-IV-A
+YB1_6384	FGS-hmm	CDS	90170	90451	.	-	.	what=cas;des=unk;note=unknown
+YB1_6384	FGS-hmm	CDS	90451	90891	.	-	.	what=cas;des=unk;note=unknown
+YB1_6384	FGS-hmm	CDS	91048	92412	.	-	.	what=cas;des=COG1199:DinG;note=Subtype-IV-A
+YB1_12727	Genbank	region	1	319394	.	+	.	ID=YB1_12727
+YB1_12727	FGS-hmm	CDS	233634	234431	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YB1_12727	FGS-hmm	CDS	299927	300226	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YB1_5005	Genbank	region	1	215128	.	+	.	ID=YB1_5005
+YB1_5005	FGS-hmm	CDS	75599	76288	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YB1_5101	Genbank	region	1	205986	.	+	.	ID=YB1_5101
+YB1_5101	FGS-hmm	CDS	144362	145042	.	-	.	what=cas;des=pfam13280:WYL;note=other
+YB1_5101	FGS-hmm	CDS	167412	167933	.	-	.	what=cas;des=pfam00078:RT;note=other
+YB1_5101	FGS-hmm	CDS	167961	168500	.	-	.	what=cas;des=pfam00078:RT;note=other
+YB1_5101	FGS-hmm	CDS	195091	196614	.	+	.	what=cas;des=pfam00078:RT;note=other
+YB1_6007	Genbank	region	1	155362	.	+	.	ID=YB1_6007
+YB1_6007	FGS-hmm	CDS	60952	62862	.	+	.	what=cas;des=COG1199:DinG;note=Subtype-IV-A
+YB1_6093	Genbank	region	1	151643	.	+	.	ID=YB1_6093
+YB1_6093	FGS-hmm	CDS	34556	35341	.	+	.	what=cas;des=COG0640:csa3;note=Subtype-I-A
+YB1_10787	Genbank	region	1	66407	.	+	.	ID=YB1_10787
+YB1_10787	FGS-hmm	CDS	1319	2152	.	-	.	what=cas;des=COG0640:csa3;note=Subtype-I-A

@@ -1,0 +1,11 @@
+##gff-version 3
+#!processor CRISPRone
+YB2_12196	Genbank	region	1	381088	.	+	.	ID=YB2_12196;array=0;gene=8;type=(type I)
+YB2_12196	FGS-hmm	CDS	127575	129482	.	+	.	what=cas;des=pfam00078:RT;note=other
+YB2_12196	FGS-hmm	CDS	129613	129792	.	-	.	what=cas;des=cd09725:cas2;note=universal
+YB2_12196	FGS-hmm	CDS	129800	130831	.	-	.	what=cas;des=cd09721:cas1;note=universal
+YB2_12196	FGS-hmm	CDS	130828	131358	.	-	.	what=cas;des=COG1468:cas4;note=other
+YB2_12196	FGS-hmm	CDS	131487	132377	.	-	.	what=cas;des=cd09689:cas7;note=Subtype-I-C
+YB2_12196	FGS-hmm	CDS	132370	134097	.	-	.	what=cas;des=cd09757:cas8c;note=Subtype-I-C
+YB2_12196	FGS-hmm	CDS	134094	134756	.	-	.	what=cas;des=cd09651:cas5;note=Subtype-I-C
+YB2_12196	FGS-hmm	CDS	134842	137010	.	-	.	what=cas;des=cd09641:cas3HD;note=Type-I

@@ -1,0 +1,13 @@
+##gff-version 3
+#!processor CRISPRone
+YB4_19715	Genbank	region	1	183955	.	+	.	ID=YB4_19715;array=0;gene=2;type=NA
+YB4_19715	FGS-hmm	CDS	118578	119543	.	+	.	what=cas;des=pfam13280:WYL;note=other
+YB4_19715	FGS-hmm	CDS	119536	120345	.	+	.	what=cas;des=unk;note=unknown
+YB4_19715	FGS-hmm	CDS	120342	121577	.	+	.	what=cas;des=cd09680:cas10;note=Type-III
+YB4_220	Genbank	region	1	229363	.	+	.	ID=YB4_220;array=1;gene=0;type=NA
+YB4_220	metaCRT	direct_repeat	200009	200238	.	.	.	what=CRISPR;des=repeat:AAAAAAAGAAGAAAAACAAAA;note=copy:5
+YB4_18539	Genbank	region	1	63132	.	+	.	ID=YB4_18539;array=1;gene=3;type=(type II)
+YB4_18539	FGS-hmm	CDS	1184	4390	.	+	.	what=cas;des=cd09643:cas9;note=Subtype-II-C
+YB4_18539	FGS-hmm	CDS	4395	5297	.	+	.	what=cas;des=cd09720:cas1;note=Subtype-II-C
+YB4_18539	FGS-hmm	CDS	5334	5639	.	+	.	what=cas;des=cd09638:cas2;note=Subtype-II-C
+YB4_18539	metaCRT	direct_repeat	5697	7382	.	.	.	what=CRISPR;des=repeat:ATTATAGCATATCTGATTTGGAAAGGAAGCTATAAC;note=copy:26

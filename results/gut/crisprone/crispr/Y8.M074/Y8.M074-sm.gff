@@ -1,0 +1,6 @@
+##gff-version 3
+#!processor CRISPRone
+Y8.M074_44	Genbank	region	1	14857	.	+	.	ID=Y8.M074_44;array=0;gene=3;type=(type I)
+Y8.M074_44	FGS-hmm	CDS	112	1839	.	-	.	what=cas;des=cd09757:cas8c;note=Subtype-I-C
+Y8.M074_44	FGS-hmm	CDS	1836	2498	.	-	.	what=cas;des=cd09752:cas5;note=Subtype-I-C
+Y8.M074_44	FGS-hmm	CDS	2747	4957	.	-	.	what=cas;des=COG1203:cas3;note=Type-I

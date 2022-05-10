@@ -1,0 +1,33 @@
+#/u/yye/CRISPRpk/pipelines/../CRISPRone/call-script/hmmscan2cas.py -collection unk -hmmscan crisprone/crispr/YA3_M10/YA3_M10-vs-cas.domtblout -gff crisprone/crispr/YA3_M10/YA3_M10.gff -isolate -outfile crisprone/crispr/YA3_M10/YA3_M10.summary -outfiltered crisprone/crispr/YA3_M10/YA3_M10.summary-filter -gafile /u/yye/CRISPRpk/pipelines/../CRISPRone/local/cas-db/cas-CRISPR.GA
+##YA3_2634 1 derived-fm crisprone/crispr/YA3_M10/YA3_M10-vs-cas.domtblout
+YA3_2634_68115_68474_+ YA3_M10 YA3_2634 68115 68474 + COG0640:csa3 2
+##YA3_6085 5 derived-fm crisprone/crispr/YA3_M10/YA3_M10-vs-cas.domtblout
+YA3_6085_13493_14149_+ YA3_M10 YA3_6085 13493 14149 + mkCas0066:cas6 1
+YA3_6085_14149_14898_+ YA3_M10 YA3_6085 14149 14898 + cd06127:DEDDh 2
+YA3_6085_15041_16564_+ YA3_M10 YA3_6085 15041 16564 + unk 1
+YA3_6085_16587_17177_+ YA3_M10 YA3_6085 16587 17177 + unk 1
+YA3_6085_17290_17772_+ YA3_M10 YA3_6085 17290 17772 + cls001593:casR 1
+##YA3_6076 1 derived-fm crisprone/crispr/YA3_M10/YA3_M10-vs-cas.domtblout
+YA3_6076_81109_81573_- YA3_M10 YA3_6076 81109 81573 - COG0640:csa3 2
+##YA3_1354 1 derived-fm crisprone/crispr/YA3_M10/YA3_M10-vs-cas.domtblout
+YA3_1354_43918_45120_- YA3_M10 YA3_1354 43918 45120 - pfam00078:RT 2
+##YA3_7627 1 derived-fm crisprone/crispr/YA3_M10/YA3_M10-vs-cas.domtblout
+YA3_7627_3625_5067_- YA3_M10 YA3_7627 3625 5067 - pfam13280:WYL 2
+##YA3_6925 1 derived-fm crisprone/crispr/YA3_M10/YA3_M10-vs-cas.domtblout
+YA3_6925_17868_18248_- YA3_M10 YA3_6925 17868 18248 - COG0640:csa3 2
+##YA3_10585 1 derived-fm crisprone/crispr/YA3_M10/YA3_M10-vs-cas.domtblout
+YA3_10585_56280_57263_- YA3_M10 YA3_10585 56280 57263 - cd06127:DEDDh 2
+##YA3_9748 2 derived-fm crisprone/crispr/YA3_M10/YA3_M10-vs-cas.domtblout
+YA3_9748_8069_10465_- YA3_M10 YA3_9748 8069 10465 - COG1199:DinG 2
+YA3_9748_17743_18129_- YA3_M10 YA3_9748 17743 18129 - COG0640:csa3 2
+##YA3_11734 4 derived-fm crisprone/crispr/YA3_M10/YA3_M10-vs-cas.domtblout
+YA3_11734_90675_91217_+ YA3_M10 YA3_11734 90675 91217 + COG2378:WYL 1
+YA3_11734_91282_92250_- YA3_M10 YA3_11734 91282 92250 - unk 1
+YA3_11734_92283_93293_- YA3_M10 YA3_11734 92283 93293 - unk 1
+YA3_11734_93385_94374_+ YA3_M10 YA3_11734 93385 94374 + COG0640:csa3 2
+##YA3_5899 1 derived-fm crisprone/crispr/YA3_M10/YA3_M10-vs-cas.domtblout
+YA3_5899_55048_55839_- YA3_M10 YA3_5899 55048 55839 - COG0640:csa3 2
+##YA3_6254 3 derived-fm crisprone/crispr/YA3_M10/YA3_M10-vs-cas.domtblout
+YA3_6254_46332_47291_+ YA3_M10 YA3_6254 46332 47291 + COG0640:csa3 2
+YA3_6254_47275_48033_+ YA3_M10 YA3_6254 47275 48033 + unk 1
+YA3_6254_48086_49180_+ YA3_M10 YA3_6254 48086 49180 + cd09638:cas2 1

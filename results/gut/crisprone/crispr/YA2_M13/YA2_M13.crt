@@ -1,0 +1,14 @@
+SEQ: YA2_5315 length 10004
+Bases: 10004
+
+CRISPR 1 Range: 1 - 156
+POSITION	REPEAT				SPACER
+--------	------------------------	------------------------------------------
+1		ACTGCGAAATGAAAAAGGGAGCTA	CAACTCCAATTACAAGCCAGTTGATCCCGACTTAATTATAGC	[ 24, 42 ]
+67		ACTGCGAAATGAAAAAGGGAGCTA	CAACACAATATGCGCATTTATCAGCCTTAGATAGATTATAGC	[ 24, 42 ]
+133		ACTGCGAAATGAAAAAGGGAGTTA
+--------	------------------------	------------------------------------------
+Repeat-con	ACTGCGAAATGAAAAAGGGAGCTA
+Repeats: 3	Average Length: 24		Average Length: 42
+Time used: 266 ms
+
