@@ -43,7 +43,7 @@ mgenet/protospacer_w_multihits-greedy.gff -- identified phages with protospacer 
 
 mgenet/spacer2mge.gml -- spacer and MGE network (below shows a visulation of the network in Cytoscape when this style ([the style file](https://github.com/mgtools/BacMGEnet/misc/style.xml) is applied)
 
-![This is an image]((https://github.com/mgtools/BacMGEnet/misc/toynetwork.png)
+![This is an image](https://github.com/mgtools/BacMGEnet/misc/toynetwork.png)
 
 ## Sample results
 ### Phocaeicola vulgatus
