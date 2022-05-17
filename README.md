@@ -26,8 +26,26 @@ tar zxvf mgedb.tar.gz
 ## Sample usage using a toy example
 Please go to examples/ to see how it works using a toy example, and what the pipelines output. 
 
+## Outputs
+The main outputs are the predicted CRISPR-Cas systems (and CRISPR arrays), putative MGEs (phages and pladmids) that have traces caught in the CRISPR-Cas systems, and putative interaction network of the genomes/metagenomes and the MGEs.
 
-## Existing results
+For the toy example, the results are under examples/ folder.  
+
+crisprone/
+
+crisprone/crispr -- CRISPR-Cas prediction results (annotations in gff file, and predicted cas genes)
+
+crisprone/spacer_graph/module.all.ori -- CRISPR arrays
+
+mgenet/
+
+mgenet/protospacer_w_multihits-greedy.gff -- identified phages with protospacer information (in gff format)
+
+mgenet/spacer2mge.gml -- spacer and MGE network (below shows a visulation of the network in Cytoscape when this style ([the style file](https://github.com/mgtools/BacMGEnet/misc/style.xml) is applied)
+
+![This is an image]((https://github.com/mgtools/BacMGEnet/misc/toynetwork.png)
+
+## Sample results
 ### Phocaeicola vulgatus
 See results/pvulgatus
 
