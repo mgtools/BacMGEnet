@@ -1,2 +1,2 @@
 run command.sh to call both pipelines
-make sure that --db is set correctly to run the second pipeline
+make sure that --db (MGE database) is set correctly to run the second pipeline
