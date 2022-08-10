@@ -23,6 +23,11 @@ wget https://omics.informatics.indiana.edu/mg/packages/mgedb.tar.gz
 
 tar zxvf mgedb.tar.gz
 
+## Dependencies
+Python: python 3
+NetworkX: a python package for network based analysis 
+CRISPRone: a pipeline for CRISPR-Cas system annotation, included in this repository under the CRISPRone 
+
 ## Sample usage using a toy example
 Please go to examples/ to see how it works using a toy example, and what the pipelines output. 
 
