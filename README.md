@@ -11,7 +11,7 @@ The tools have been extensively tested on Ubuntu linux systems.
    This pipeline generates bacteria-phage network using the CRISPR arrays created by crispr_ann.py
 
 ## MGE database
-To run the second pipeline (mgenet.py), one needs to donwload the MGE (including phage and plasmid sequences) database and place it under the BacMGEnet/ folder or somewhere else. 
+To run the second pipeline (mgenet.py), a MGE database is needed. We provide a curated MGE database (including phage and plasmid sequences), which you can download and place it under the BacMGEnet/ folder (as follows) or somewhere else. 
 
 For example, after git clone the BacMGEnet to your local machine, go under the BacMGEnet folder,
 
@@ -22,6 +22,10 @@ cd mgedb
 wget https://omics.informatics.indiana.edu/mg/packages/mgedb.tar.gz 
 
 tar zxvf mgedb.tar.gz
+
+then you have the MGE database for running the pipeline. 
+
+We note the MGE database we provide was curated for discovery of phage-bacteria interactions that are involved with gut microbiomes. If a user is interested in using our pipeline for microbial species associated with other environments, they may want to curate their own databases (blastn database).
 
 ## Dependencies
 Python: python 3
